@@ -19,9 +19,11 @@ state_codes = [
 ]
 
 urls = [
-    f"https://api.undi.info/listing?negeri={state_code}&ge=ge12&seat=parliament"
+    f"https://api.undi.info/listing?negeri={state_code}&ge=ge14&seat=state"
     for state_code in state_codes
 ]
+
+urls = ["https://api.undi.info/listing?negeri=SW&ge=sarawak2016&seat=state"]
 
 # List to store the seat names
 seat_names = []
@@ -41,9 +43,9 @@ for url in urls:
         print(f"\033[91mFailed to retrieve data from {url}: {e}\033[0m")
 
 # Write the seat names to a CSV file
-with open("seat_name.csv", mode="w", newline="", encoding="utf-8") as file:
+with open("sarawak_state_seat_name.csv", mode="w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerow(["Seat Name"])
     writer.writerows(seat_names)
 
-print("Seat names have been written to seat_name.csv")
+print("Seat names have been written to sarawak_state_seat_name.csv")
