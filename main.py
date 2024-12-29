@@ -15,10 +15,10 @@ ge = [
 ]
 seat = ["state", "parliament"]
 
+state_codes = ["kd" "pn" "ke" "tr" "sl" "ns" "sw" "mk" "sb" "pl" "pr" "ph" "wp" "jh"]
+
 urls = [
-    f"https://api.undi.info/party_summary?ge={g}&seat={s}"
-    for g in ge
-    for s in seat
+    f"https://api.undi.info/party_summary?ge={g}&seat={s}" for g in ge for s in seat
 ]
 
 # List to store the data
@@ -35,7 +35,7 @@ for url in urls:
         print(f"Failed to fetch data from {url}: {e}")
 
 # Write data to CSV
-with open('api_data.csv', mode='w', newline='') as file:
+with open("api_data.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
     # Write headers
     writer.writerow(["ge", "seat", "data"])
