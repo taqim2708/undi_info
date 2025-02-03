@@ -18,7 +18,9 @@
             "Postal": "0",
             "Spoilt": "0",
             "Turnout": "0",
-            "Unreturned": "0"
+            "Unreturned": "0",
+            "ValidVoteCount": "37683",
+            "ValidVotePercent": "71.37"
         },
         "candidates": [
             {
@@ -61,7 +63,9 @@
             "Postal": "3",
             "Spoilt": "0",
             "Turnout": "0",
-            "Unreturned": "0"
+            "Unreturned": "0",
+            "ValidVoteCount": "39727",
+            "ValidVotePercent": "80.12"
         },
         "candidates": [
             {
@@ -98,7 +102,9 @@
             "Postal": "0",
             "Spoilt": "495",
             "Turnout": "42870",
-            "Unreturned": "0"
+            "Unreturned": "0",
+            "ValidVoteCount": "42375",
+            "ValidVotePercent": "82.30"
         },
         "candidates": [
             {
@@ -133,7 +139,9 @@
             "Postal": "0",
             "Spoilt": "631",
             "Turnout": "38734",
-            "Unreturned": "96"
+            "Unreturned": "96",
+            "ValidVoteCount": "38007",
+            "ValidVotePercent": "71.46"
         },
         "candidates": [
             {
@@ -168,7 +176,9 @@
             "Postal": "0",
             "Spoilt": "717",
             "Turnout": "39793",
-            "Unreturned": "0"
+            "Unreturned": "0",
+            "ValidVoteCount": "39076",
+            "ValidVotePercent": "67.49"
         },
         "candidates": [
             {

@@ -18,7 +18,9 @@
             "Postal": "0",
             "Spoilt": "0",
             "Turnout": "0",
-            "Unreturned": "0"
+            "Unreturned": "0",
+            "ValidVoteCount": "19040",
+            "ValidVotePercent": "57.79"
         },
         "candidates": [
             {
@@ -55,7 +57,9 @@
             "Postal": "0",
             "Spoilt": "0",
             "Turnout": "0",
-            "Unreturned": "0"
+            "Unreturned": "0",
+            "ValidVoteCount": "14130",
+            "ValidVotePercent": "64.52"
         },
         "candidates": [
             {
