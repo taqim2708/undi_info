@@ -1,5 +1,5 @@
 import requests
-import csv
+import json
 
 ge = [
     "prn2023",
@@ -30,15 +30,14 @@ for url in urls:
         response = requests.get(url, timeout=5)
         response.raise_for_status()
         print(f"Fetching data from {url}")
-        data.append(response.json())
+        data.append({
+            "ge": url.split("ge=")[1].split("&")[0],
+            "seat": url.split("seat=")[1],
+            "data": response.json()
+        })
     except requests.RequestException as e:
         print(f"Failed to fetch data from {url}: {e}")
 
-# Write data to CSV
-with open("api_data.csv", mode="w", newline="") as file:
-    writer = csv.writer(file)
-    # Write headers
-    writer.writerow(["ge", "seat", "data"])
-    # Write data
-    for g, s, d in zip(ge * len(seat), seat * len(ge), data):
-        writer.writerow([g, s, d])
+# Write data to JSON file
+with open("json/api_data.json", mode="w") as file:
+    json.dump(data, file, indent=4)

@@ -1,0 +1,1017 @@
+[
+    {
+        "ge": "prn2023",
+        "seat": "state",
+        "data": {
+            "pl-prn2023-state": {},
+            "kd-prn2023-state": {
+                "PN": 33,
+                "PH": 3
+            },
+            "pn-prn2023-state": {
+                "PH": 27,
+                "PN": 11,
+                "BN": 2
+            },
+            "pr-prn2023-state": {},
+            "ke-prn2023-state": {
+                "PN": 43,
+                "BN": 1,
+                "PH": 1
+            },
+            "tr-prn2023-state": {
+                "PN": 32
+            },
+            "ph-prn2023-state": {},
+            "sl-prn2023-state": {
+                "PH": 32,
+                "PN": 22,
+                "BN": 2
+            },
+            "wp-prn2023-state": {},
+            "ns-prn2023-state": {
+                "PH": 17,
+                "BN": 14,
+                "PN": 5
+            },
+            "mk-prn2023-state": {},
+            "jh-prn2023-state": {},
+            "sw-prn2023-state": {},
+            "la-prn2023-state": {},
+            "sb-prn2023-state": {}
+        }
+    },
+    {
+        "ge": "prn2023",
+        "seat": "parliament",
+        "data": {
+            "pl-prn2023-parliament": {},
+            "kd-prn2023-parliament": {},
+            "pn-prn2023-parliament": {},
+            "pr-prn2023-parliament": {},
+            "ke-prn2023-parliament": {},
+            "tr-prn2023-parliament": {},
+            "ph-prn2023-parliament": {},
+            "sl-prn2023-parliament": {},
+            "wp-prn2023-parliament": {},
+            "ns-prn2023-parliament": {},
+            "mk-prn2023-parliament": {},
+            "jh-prn2023-parliament": {},
+            "sw-prn2023-parliament": {},
+            "la-prn2023-parliament": {},
+            "sb-prn2023-parliament": {}
+        }
+    },
+    {
+        "ge": "sarawak2021",
+        "seat": "state",
+        "data": {
+            "pl-sarawak2021-state": {},
+            "kd-sarawak2021-state": {},
+            "pn-sarawak2021-state": {},
+            "pr-sarawak2021-state": {},
+            "ke-sarawak2021-state": {},
+            "tr-sarawak2021-state": {},
+            "ph-sarawak2021-state": {},
+            "sl-sarawak2021-state": {},
+            "wp-sarawak2021-state": {},
+            "ns-sarawak2021-state": {},
+            "mk-sarawak2021-state": {},
+            "jh-sarawak2021-state": {},
+            "sw-sarawak2021-state": {
+                "GPS": 76,
+                "PSB": 4,
+                "DAP": 2
+            },
+            "la-sarawak2021-state": {},
+            "sb-sarawak2021-state": {}
+        }
+    },
+    {
+        "ge": "sarawak2021",
+        "seat": "parliament",
+        "data": {
+            "pl-sarawak2021-parliament": {},
+            "kd-sarawak2021-parliament": {},
+            "pn-sarawak2021-parliament": {},
+            "pr-sarawak2021-parliament": {},
+            "ke-sarawak2021-parliament": {},
+            "tr-sarawak2021-parliament": {},
+            "ph-sarawak2021-parliament": {},
+            "sl-sarawak2021-parliament": {},
+            "wp-sarawak2021-parliament": {},
+            "ns-sarawak2021-parliament": {},
+            "mk-sarawak2021-parliament": {},
+            "jh-sarawak2021-parliament": {},
+            "sw-sarawak2021-parliament": {},
+            "la-sarawak2021-parliament": {},
+            "sb-sarawak2021-parliament": {}
+        }
+    },
+    {
+        "ge": "melaka2021",
+        "seat": "state",
+        "data": {
+            "pl-melaka2021-state": {},
+            "kd-melaka2021-state": {},
+            "pn-melaka2021-state": {},
+            "pr-melaka2021-state": {},
+            "ke-melaka2021-state": {},
+            "tr-melaka2021-state": {},
+            "ph-melaka2021-state": {},
+            "sl-melaka2021-state": {},
+            "wp-melaka2021-state": {},
+            "ns-melaka2021-state": {},
+            "mk-melaka2021-state": {
+                "UMNO": 18,
+                "DAP": 4,
+                "BERSATU": 2,
+                "MCA": 2,
+                "AMANAH": 1,
+                "MIC": 1
+            },
+            "jh-melaka2021-state": {},
+            "sw-melaka2021-state": {},
+            "la-melaka2021-state": {},
+            "sb-melaka2021-state": {}
+        }
+    },
+    {
+        "ge": "melaka2021",
+        "seat": "parliament",
+        "data": {
+            "pl-melaka2021-parliament": {},
+            "kd-melaka2021-parliament": {},
+            "pn-melaka2021-parliament": {},
+            "pr-melaka2021-parliament": {},
+            "ke-melaka2021-parliament": {},
+            "tr-melaka2021-parliament": {},
+            "ph-melaka2021-parliament": {},
+            "sl-melaka2021-parliament": {},
+            "wp-melaka2021-parliament": {},
+            "ns-melaka2021-parliament": {},
+            "mk-melaka2021-parliament": {},
+            "jh-melaka2021-parliament": {},
+            "sw-melaka2021-parliament": {},
+            "la-melaka2021-parliament": {},
+            "sb-melaka2021-parliament": {}
+        }
+    },
+    {
+        "ge": "sabah2020",
+        "seat": "state",
+        "data": {
+            "pl-sabah2020-state": {},
+            "kd-sabah2020-state": {},
+            "pn-sabah2020-state": {},
+            "pr-sabah2020-state": {},
+            "ke-sabah2020-state": {},
+            "tr-sabah2020-state": {},
+            "ph-sabah2020-state": {},
+            "sl-sabah2020-state": {},
+            "wp-sabah2020-state": {},
+            "ns-sabah2020-state": {},
+            "mk-sabah2020-state": {},
+            "jh-sabah2020-state": {},
+            "sw-sabah2020-state": {},
+            "la-sabah2020-state": {},
+            "sb-sabah2020-state": {
+                "WARISAN": 29,
+                "PN": 17,
+                "BN": 14,
+                "PBS": 7,
+                "BEBAS": 3,
+                "PKR": 2,
+                "UPKO": 1
+            }
+        }
+    },
+    {
+        "ge": "sabah2020",
+        "seat": "parliament",
+        "data": {
+            "pl-sabah2020-parliament": {},
+            "kd-sabah2020-parliament": {},
+            "pn-sabah2020-parliament": {},
+            "pr-sabah2020-parliament": {},
+            "ke-sabah2020-parliament": {},
+            "tr-sabah2020-parliament": {},
+            "ph-sabah2020-parliament": {},
+            "sl-sabah2020-parliament": {},
+            "wp-sabah2020-parliament": {},
+            "ns-sabah2020-parliament": {},
+            "mk-sabah2020-parliament": {},
+            "jh-sabah2020-parliament": {},
+            "sw-sabah2020-parliament": {},
+            "la-sabah2020-parliament": {},
+            "sb-sabah2020-parliament": {}
+        }
+    },
+    {
+        "ge": "sarawak2016",
+        "seat": "state",
+        "data": {
+            "pl-sarawak2016-state": {},
+            "kd-sarawak2016-state": {},
+            "pn-sarawak2016-state": {},
+            "pr-sarawak2016-state": {},
+            "ke-sarawak2016-state": {},
+            "tr-sarawak2016-state": {},
+            "ph-sarawak2016-state": {},
+            "sl-sarawak2016-state": {},
+            "wp-sarawak2016-state": {},
+            "ns-sarawak2016-state": {},
+            "mk-sarawak2016-state": {},
+            "jh-sarawak2016-state": {},
+            "sw-sarawak2016-state": {
+                "BN": 72,
+                "DAP": 7,
+                "PKR": 3
+            },
+            "la-sarawak2016-state": {},
+            "sb-sarawak2016-state": {}
+        }
+    },
+    {
+        "ge": "sarawak2016",
+        "seat": "parliament",
+        "data": {
+            "pl-sarawak2016-parliament": {},
+            "kd-sarawak2016-parliament": {},
+            "pn-sarawak2016-parliament": {},
+            "pr-sarawak2016-parliament": {},
+            "ke-sarawak2016-parliament": {},
+            "tr-sarawak2016-parliament": {},
+            "ph-sarawak2016-parliament": {},
+            "sl-sarawak2016-parliament": {},
+            "wp-sarawak2016-parliament": {},
+            "ns-sarawak2016-parliament": {},
+            "mk-sarawak2016-parliament": {},
+            "jh-sarawak2016-parliament": {},
+            "sw-sarawak2016-parliament": {},
+            "la-sarawak2016-parliament": {},
+            "sb-sarawak2016-parliament": {}
+        }
+    },
+    {
+        "ge": "ge15",
+        "seat": "state",
+        "data": {
+            "pl-ge15-state": {
+                "PN": 14,
+                "PH": 1
+            },
+            "kd-ge15-state": {},
+            "pn-ge15-state": {},
+            "pr-ge15-state": {
+                "PN": 26,
+                "PH": 24,
+                "BN": 9
+            },
+            "ke-ge15-state": {},
+            "tr-ge15-state": {},
+            "ph-ge15-state": {
+                "PN": 17,
+                "BN": 17,
+                "PH": 8
+            },
+            "sl-ge15-state": {},
+            "wp-ge15-state": {},
+            "ns-ge15-state": {},
+            "mk-ge15-state": {},
+            "jh-ge15-state": {},
+            "sw-ge15-state": {},
+            "la-ge15-state": {},
+            "sb-ge15-state": {
+                "WARISAN": 1
+            }
+        }
+    },
+    {
+        "ge": "ge15",
+        "seat": "parliament",
+        "data": {
+            "pl-ge15-parliament": {
+                "PN": 3
+            },
+            "kd-ge15-parliament": {
+                "PN": 14,
+                "PH": 1
+            },
+            "pn-ge15-parliament": {
+                "PH": 10,
+                "PN": 3
+            },
+            "pr-ge15-parliament": {
+                "PH": 11,
+                "PN": 10,
+                "BN": 3
+            },
+            "ke-ge15-parliament": {
+                "PAS": 14
+            },
+            "tr-ge15-parliament": {
+                "PAS": 8
+            },
+            "ph-ge15-parliament": {
+                "PN": 7,
+                "BN": 5,
+                "PH": 2
+            },
+            "sl-ge15-parliament": {
+                "PH": 16,
+                "PN": 6
+            },
+            "wp-ge15-parliament": {
+                "PH": 10,
+                "PN": 1,
+                "BN": 1
+            },
+            "ns-ge15-parliament": {
+                "BN": 5,
+                "PH": 3
+            },
+            "mk-ge15-parliament": {
+                "PH": 3,
+                "PN": 3
+            },
+            "jh-ge15-parliament": {
+                "PH": 13,
+                "BN": 9,
+                "PN": 2,
+                "MUDA": 1
+            },
+            "sw-ge15-parliament": {
+                "GPS": 23,
+                "DAP": 5,
+                "PH": 1,
+                "PBM": 1,
+                "PN": 1
+            },
+            "la-ge15-parliament": {},
+            "sb-ge15-parliament": {
+                "BN": 7,
+                "GRS": 6,
+                "PH": 5,
+                "WARISAN": 3,
+                "BEBAS": 2,
+                "PN": 2,
+                "KDM": 1
+            }
+        }
+    },
+    {
+        "ge": "ge14",
+        "seat": "state",
+        "data": {
+            "pl-ge14-state": {
+                "UMNO": 9,
+                "PKR": 3,
+                "PAS": 2,
+                "MCA": 1
+            },
+            "kd-ge14-state": {
+                "PAS": 15,
+                "PKR": 8,
+                "BERSATU": 5,
+                "UMNO": 3,
+                "AMANAH": 3,
+                "DAP": 2
+            },
+            "pn-ge14-state": {
+                "DAP": 19,
+                "PKR": 14,
+                "AMANAH": 2,
+                "UMNO": 2,
+                "BERSATU": 2,
+                "PAS": 1
+            },
+            "pr-ge14-state": {
+                "UMNO": 27,
+                "DAP": 18,
+                "AMANAH": 6,
+                "PKR": 4,
+                "PAS": 3,
+                "BERSATU": 1
+            },
+            "ke-ge14-state": {
+                "PAS": 37,
+                "UMNO": 8
+            },
+            "tr-ge14-state": {
+                "PAS": 22,
+                "UMNO": 10
+            },
+            "ph-ge14-state": {
+                "UMNO": 24,
+                "PAS": 8,
+                "DAP": 7,
+                "PKR": 2,
+                "MCA": 1
+            },
+            "sl-ge14-state": {
+                "PKR": 21,
+                "DAP": 16,
+                "AMANAH": 8,
+                "BERSATU": 6,
+                "UMNO": 4,
+                "PAS": 1
+            },
+            "wp-ge14-state": {},
+            "ns-ge14-state": {
+                "UMNO": 15,
+                "DAP": 11,
+                "PKR": 6,
+                "AMANAH": 3,
+                "BN": 1
+            },
+            "mk-ge14-state": {
+                "UMNO": 13,
+                "DAP": 8,
+                "PKR": 3,
+                "BERSATU": 2,
+                "AMANAH": 2
+            },
+            "jh-ge14-state": {
+                "UMNO": 17,
+                "DAP": 14,
+                "AMANAH": 9,
+                "BERSATU": 8,
+                "PKR": 5,
+                "MIC": 2,
+                "PAS": 1
+            },
+            "sw-ge14-state": {},
+            "la-ge14-state": {},
+            "sb-ge14-state": {
+                "WARISAN": 21,
+                "UMNO": 17,
+                "DAP": 6,
+                "PBS": 6,
+                "UPKO": 5,
+                "SOLIDARITI": 2,
+                "PKR": 2,
+                "PBRS": 1
+            }
+        }
+    },
+    {
+        "ge": "ge14",
+        "seat": "parliament",
+        "data": {
+            "pl-ge14-parliament": {
+                "UMNO": 2,
+                "PKR": 1
+            },
+            "kd-ge14-parliament": {
+                "PKR": 6,
+                "BERSATU": 3,
+                "PAS": 3,
+                "UMNO": 2,
+                "AMANAH": 1
+            },
+            "pn-ge14-parliament": {
+                "DAP": 7,
+                "PKR": 4,
+                "UMNO": 2
+            },
+            "pr-ge14-parliament": {
+                "UMNO": 10,
+                "DAP": 7,
+                "PKR": 3,
+                "AMANAH": 2,
+                "MIC": 1,
+                "BERSATU": 1
+            },
+            "ke-ge14-parliament": {
+                "PAS": 9,
+                "UMNO": 5
+            },
+            "tr-ge14-parliament": {
+                "PAS": 6,
+                "UMNO": 2
+            },
+            "ph-ge14-parliament": {
+                "UMNO": 8,
+                "DAP": 2,
+                "PKR": 2,
+                "AMANAH": 1,
+                "MIC": 1
+            },
+            "sl-ge14-parliament": {
+                "PKR": 10,
+                "AMANAH": 5,
+                "DAP": 4,
+                "UMNO": 2,
+                "BERSATU": 1
+            },
+            "wp-ge14-parliament": {
+                "PKR": 5,
+                "DAP": 4,
+                "UMNO": 1,
+                "BERSATU": 1,
+                "BEBAS": 1
+            },
+            "ns-ge14-parliament": {
+                "UMNO": 3,
+                "DAP": 2,
+                "AMANAH": 1,
+                "PKR": 1,
+                "BERSATU": 1
+            },
+            "mk-ge14-parliament": {
+                "UMNO": 2,
+                "PKR": 2,
+                "DAP": 1,
+                "BERSATU": 1
+            },
+            "jh-ge14-parliament": {
+                "UMNO": 7,
+                "PKR": 7,
+                "DAP": 5,
+                "BERSATU": 5,
+                "AMANAH": 1,
+                "MCA": 1
+            },
+            "sw-ge14-parliament": {
+                "PBB": 13,
+                "DAP": 6,
+                "PKR": 4,
+                "PRS": 3,
+                "BEBAS": 2,
+                "SPDP": 2,
+                "SUPP": 1
+            },
+            "la-ge14-parliament": {},
+            "sb-ge14-parliament": {
+                "UMNO": 8,
+                "WARISAN": 8,
+                "PKR": 3,
+                "DAP": 3,
+                "PBRS": 1,
+                "STAR": 1,
+                "UPKO": 1,
+                "PBS": 1
+            }
+        }
+    },
+    {
+        "ge": "ge13",
+        "seat": "parliament",
+        "data": {
+            "pl-ge13-parliament": {
+                "UMNO": 3
+            },
+            "kd-ge13-parliament": {
+                "UMNO": 10,
+                "PKR": 4,
+                "PAS": 1
+            },
+            "pn-ge13-parliament": {
+                "DAP": 7,
+                "UMNO": 3,
+                "PKR": 3
+            },
+            "pr-ge13-parliament": {
+                "UMNO": 9,
+                "DAP": 7,
+                "PKR": 3,
+                "PAS": 2,
+                "MCA": 1,
+                "MIC": 1,
+                "BN": 1
+            },
+            "ke-ge13-parliament": {
+                "PAS": 9,
+                "UMNO": 5
+            },
+            "tr-ge13-parliament": {
+                "PAS": 4,
+                "UMNO": 4
+            },
+            "ph-ge13-parliament": {
+                "UMNO": 8,
+                "PKR": 2,
+                "PAS": 1,
+                "MCA": 1,
+                "DAP": 1,
+                "MIC": 1
+            },
+            "sl-ge13-parliament": {
+                "PKR": 9,
+                "DAP": 4,
+                "PAS": 4,
+                "UMNO": 4,
+                "MIC": 1
+            },
+            "wp-ge13-parliament": {
+                "DAP": 5,
+                "PKR": 4,
+                "UMNO": 3
+            },
+            "ns-ge13-parliament": {
+                "UMNO": 5,
+                "DAP": 2,
+                "PKR": 1
+            },
+            "mk-ge13-parliament": {
+                "UMNO": 3,
+                "DAP": 1,
+                "PKR": 1,
+                "MCA": 1
+            },
+            "jh-ge13-parliament": {
+                "UMNO": 15,
+                "DAP": 4,
+                "MCA": 4,
+                "GERAKAN": 1,
+                "PKR": 1,
+                "MIC": 1
+            },
+            "sw-ge13-parliament": {
+                "PBB": 14,
+                "PRS": 6,
+                "DAP": 5,
+                "SPDP": 4,
+                "PKR": 1,
+                "SUPP": 1
+            },
+            "la-ge13-parliament": {},
+            "sb-ge13-parliament": {
+                "UMNO": 15,
+                "PBS": 4,
+                "UPKO": 3,
+                "DAP": 2,
+                "PBRS": 1,
+                "PKR": 1
+            }
+        }
+    },
+    {
+        "ge": "ge12",
+        "seat": "state",
+        "data": {
+            "pl-ge12-state": {
+                "UMNO": 12,
+                "MCA": 2,
+                "PAS": 1
+            },
+            "kd-ge12-state": {
+                "PAS": 16,
+                "UMNO": 12,
+                "PKR": 4,
+                "IND": 1,
+                "MCA": 1,
+                "GERAKAN": 1,
+                "DAP": 1
+            },
+            "pn-ge12-state": {
+                "DAP": 19,
+                "UMNO": 11,
+                "PKR": 9,
+                "PAS": 1
+            },
+            "pr-ge12-state": {
+                "UMNO": 27,
+                "DAP": 18,
+                "PKR": 7,
+                "PAS": 6,
+                "MCA": 1
+            },
+            "ke-ge12-state": {
+                "PAS": 38,
+                "UMNO": 6,
+                "PKR": 1
+            },
+            "tr-ge12-state": {
+                "UMNO": 23,
+                "PAS": 8,
+                "MCA": 1
+            },
+            "ph-ge12-state": {
+                "UMNO": 29,
+                "MCA": 6,
+                "DAP": 2,
+                "PAS": 2,
+                "GERAKAN": 1,
+                "MIC": 1,
+                "IND": 1
+            },
+            "sl-ge12-state": {
+                "UMNO": 18,
+                "PKR": 15,
+                "DAP": 13,
+                "PAS": 8,
+                "MCA": 2
+            },
+            "wp-ge12-state": {},
+            "ns-ge12-state": {
+                "UMNO": 19,
+                "DAP": 10,
+                "PKR": 4,
+                "PAS": 1,
+                "MIC": 1,
+                "MCA": 1
+            },
+            "mk-ge12-state": {
+                "UMNO": 18,
+                "DAP": 5,
+                "MCA": 4,
+                "MIC": 1
+            },
+            "jh-ge12-state": {
+                "UMNO": 32,
+                "MCA": 12,
+                "DAP": 4,
+                "MIC": 4,
+                "PAS": 2,
+                "GERAKAN": 2
+            },
+            "sw-ge12-state": {
+                "PBB": 35,
+                "DAP": 12,
+                "PRS": 8,
+                "SPDP": 6,
+                "SUPP": 6,
+                "PKR": 3,
+                "IND": 1
+            },
+            "la-ge12-state": {},
+            "sb-ge12-state": {
+                "UMNO": 34,
+                "PBS": 11,
+                "SAPP": 5,
+                "UPKO": 5,
+                "LDP": 2,
+                "DAP": 1,
+                "PBRS": 1,
+                "MCA": 1
+            }
+        }
+    },
+    {
+        "ge": "ge12",
+        "seat": "parliament",
+        "data": {
+            "pl-ge12-parliament": {
+                "UMNO": 3
+            },
+            "kd-ge12-parliament": {
+                "PAS": 6,
+                "PKR": 5,
+                "UMNO": 3,
+                "MCA": 1
+            },
+            "pn-ge12-parliament": {
+                "DAP": 7,
+                "PKR": 4,
+                "UMNO": 2
+            },
+            "pr-ge12-parliament": {
+                "UMNO": 8,
+                "DAP": 6,
+                "MCA": 3,
+                "PKR": 3,
+                "PAS": 2,
+                "MIC": 1,
+                "GERAKAN": 1
+            },
+            "ke-ge12-parliament": {
+                "PAS": 9,
+                "PKR": 3,
+                "UMNO": 2
+            },
+            "tr-ge12-parliament": {
+                "UMNO": 7,
+                "PAS": 1
+            },
+            "ph-ge12-parliament": {
+                "UMNO": 9,
+                "MCA": 2,
+                "PKR": 2,
+                "MIC": 1
+            },
+            "sl-ge12-parliament": {
+                "PKR": 9,
+                "DAP": 4,
+                "PAS": 4,
+                "UMNO": 4,
+                "MCA": 1
+            },
+            "wp-ge12-parliament": {
+                "DAP": 5,
+                "PKR": 4,
+                "UMNO": 2,
+                "PAS": 1
+            },
+            "ns-ge12-parliament": {
+                "UMNO": 5,
+                "DAP": 2,
+                "PKR": 1
+            },
+            "mk-ge12-parliament": {
+                "UMNO": 4,
+                "DAP": 1,
+                "MCA": 1
+            },
+            "jh-ge12-parliament": {
+                "UMNO": 16,
+                "MCA": 7,
+                "GERAKAN": 1,
+                "DAP": 1,
+                "MIC": 1
+            },
+            "sw-ge12-parliament": {
+                "PBB": 14,
+                "PRS": 6,
+                "SUPP": 6,
+                "SPDP": 4,
+                "DAP": 1
+            },
+            "la-ge12-parliament": {},
+            "sb-ge12-parliament": {
+                "UMNO": 14,
+                "UPKO": 4,
+                "PBS": 3,
+                "SAPP": 2,
+                "LDP": 1,
+                "PBRS": 1,
+                "DAP": 1
+            }
+        }
+    },
+    {
+        "ge": "ge11",
+        "seat": "state",
+        "data": {
+            "pl-ge11-state": {
+                "UMNO": 12,
+                "MCA": 2,
+                "PAS": 1
+            },
+            "kd-ge11-state": {
+                "UMNO": 23,
+                "PAS": 5,
+                "MCA": 4,
+                "MIC": 2,
+                "GERAKAN": 2
+            },
+            "pn-ge11-state": {
+                "UMNO": 14,
+                "GERAKAN": 13,
+                "MCA": 9,
+                "MIC": 2,
+                "PAS": 1,
+                "DAP": 1
+            },
+            "pr-ge11-state": {
+                "UMNO": 34,
+                "MCA": 10,
+                "DAP": 7,
+                "MIC": 4,
+                "GERAKAN": 4
+            },
+            "ke-ge11-state": {
+                "PAS": 24,
+                "UMNO": 21
+            },
+            "tr-ge11-state": {
+                "UMNO": 27,
+                "PAS": 4,
+                "MCA": 1
+            },
+            "ph-ge11-state": {
+                "UMNO": 31,
+                "MCA": 8,
+                "DAP": 1,
+                "MIC": 1,
+                "GERAKAN": 1
+            },
+            "sl-ge11-state": {
+                "UMNO": 35,
+                "MCA": 12,
+                "GERAKAN": 4,
+                "MIC": 3,
+                "DAP": 2
+            },
+            "wp-ge11-state": {},
+            "ns-ge11-state": {
+                "UMNO": 22,
+                "MCA": 8,
+                "GERAKAN": 2,
+                "DAP": 2,
+                "MIC": 2
+            },
+            "mk-ge11-state": {
+                "UMNO": 18,
+                "MCA": 6,
+                "DAP": 2,
+                "GERAKAN": 1,
+                "MIC": 1
+            },
+            "jh-ge11-state": {
+                "UMNO": 33,
+                "MCA": 15,
+                "MIC": 4,
+                "GERAKAN": 3,
+                "PAS": 1
+            },
+            "sw-ge11-state": {},
+            "la-ge11-state": {},
+            "sb-ge11-state": {
+                "UMNO": 31,
+                "PBS": 13,
+                "UPKO": 5,
+                "SAPP": 4,
+                "LDP": 3,
+                "IND": 2,
+                "PBRS": 1,
+                "MCA": 1
+            }
+        }
+    },
+    {
+        "ge": "ge11",
+        "seat": "parliament",
+        "data": {
+            "pl-ge11-parliament": {
+                "UMNO": 3
+            },
+            "kd-ge11-parliament": {
+                "UMNO": 12,
+                "MCA": 2,
+                "PAS": 1
+            },
+            "pn-ge11-parliament": {
+                "DAP": 4,
+                "UMNO": 4,
+                "GERAKAN": 3,
+                "PKR": 1,
+                "MCA": 1
+            },
+            "pr-ge11-parliament": {
+                "UMNO": 11,
+                "MCA": 4,
+                "DAP": 3,
+                "GERAKAN": 3,
+                "MIC": 2,
+                "PPP": 1
+            },
+            "ke-ge11-parliament": {
+                "UMNO": 8,
+                "PAS": 6
+            },
+            "tr-ge11-parliament": {
+                "UMNO": 8
+            },
+            "ph-ge11-parliament": {
+                "UMNO": 10,
+                "MCA": 3,
+                "MIC": 1
+            },
+            "sl-ge11-parliament": {
+                "UMNO": 10,
+                "MCA": 7,
+                "MIC": 4,
+                "GERAKAN": 1
+            },
+            "wp-ge11-parliament": {
+                "DAP": 4,
+                "UMNO": 4,
+                "MCA": 2,
+                "GERAKAN": 2
+            },
+            "ns-ge11-parliament": {
+                "UMNO": 5,
+                "MCA": 2,
+                "MIC": 1
+            },
+            "mk-ge11-parliament": {
+                "UMNO": 4,
+                "MCA": 2
+            },
+            "jh-ge11-parliament": {
+                "UMNO": 16,
+                "MCA": 8,
+                "GERAKAN": 1,
+                "MIC": 1
+            },
+            "sw-ge11-parliament": {
+                "PBB": 12,
+                "PBDS": 6,
+                "SUPP": 5,
+                "SPDP": 4,
+                "DAP": 1
+            },
+            "la-ge11-parliament": {},
+            "sb-ge11-parliament": {
+                "UMNO": 14,
+                "UPKO": 4,
+                "PBS": 4,
+                "SAPP": 2,
+                "PBRS": 1,
+                "IND": 1
+            }
+        }
+    }
+]
