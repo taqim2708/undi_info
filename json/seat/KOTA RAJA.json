@@ -1,0 +1,238 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P111",
+        "SeatName": "KOTA RAJA",
+        "info": {
+            "EligibleVoters": "244712",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "MOHD SABU",
+                "Votes": 123306,
+                "NameBallot": "MOHD SABU",
+                "majority": 73998
+            },
+            {
+                "Party": "PN",
+                "Name": "HAJI MOHAMED DIAH BAHARUN",
+                "Votes": 49308,
+                "NameBallot": "HAJI MOHAMED DIAH BAHARUN"
+            },
+            {
+                "Party": "BN",
+                "Name": "KAJENDRAN",
+                "Votes": 22225,
+                "NameBallot": "KAJENDRAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "FAHMI BAZLAN MUDA",
+                "Votes": 2063,
+                "NameBallot": "FAHMI BAZLAN MUDA"
+            },
+            {
+                "Party": "PRM",
+                "Name": "SARAH AFIQAH",
+                "Votes": 360,
+                "NameBallot": "SARAH AFIQAH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "P.RAVEENTHARAN  A/L A.PERIASAMY",
+                "Votes": 209,
+                "NameBallot": "P.RAVEENTHARAN  A/L A.PERIASAMY"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "KUMAR KARANANEDI",
+                "Votes": 163,
+                "NameBallot": "KUMAR KARANANEDI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SURENDHAR SELVARAJU",
+                "Votes": 106,
+                "NameBallot": "SURENDHAR SELVARAJU"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P111",
+        "SeatName": "KOTA RAJA",
+        "info": {
+            "EligibleVoters": "149021",
+            "MalayVoters": "44",
+            "ChineseVoters": "28",
+            "IndianVoters": "28",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "29",
+            "Postal": "60",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "MOHAMAD BIN SABU",
+                "Votes": 90697,
+                "NameBallot": "MOHAMAD SABU",
+                "majority": 71142
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED DIAH BIN BAHARUN",
+                "Votes": 19555,
+                "NameBallot": "HJ MOHAMED DIAH BAHARUN"
+            },
+            {
+                "Party": "MIC",
+                "Name": "V GUNALAN A/L VELU",
+                "Votes": 17874,
+                "NameBallot": "V GUNALAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P111",
+        "SeatName": "KOTA RAJA",
+        "info": {
+            "EligibleVoters": "105909",
+            "MalayVoters": "44",
+            "ChineseVoters": "25",
+            "IndianVoters": "29",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1102",
+            "Turnout": "92563",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SITI MARIAH BINTI MAHMUD",
+                "Votes": 59106,
+                "majority": 29395
+            },
+            {
+                "Party": "MIC",
+                "Name": "MURUGESAN A/L SINNANDAVAR",
+                "Votes": 29711
+            },
+            {
+                "Party": "IND",
+                "Name": "UTHAYAKUMAR A/L PONNUSAMY",
+                "Votes": 2364
+            },
+            {
+                "Party": "IND",
+                "Name": "AZMAN BIN IDRUS",
+                "Votes": 280
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P111",
+        "SeatName": "KOTA RAJA",
+        "info": {
+            "EligibleVoters": "71887",
+            "MalayVoters": "48",
+            "ChineseVoters": "23",
+            "IndianVoters": "28",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "814",
+            "Turnout": "57323",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DR SITI MARIAH MAHMUD",
+                "Votes": 38630,
+                "majority": 20751
+            },
+            {
+                "Party": "MIC",
+                "Name": "SVIGNESWARAN",
+                "Votes": 17879
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P111",
+        "SeatName": "KOTA RAJA",
+        "info": {
+            "EligibleVoters": "58374",
+            "MalayVoters": "50",
+            "ChineseVoters": "21",
+            "IndianVoters": "28",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "627",
+            "Turnout": "44748",
+            "Unreturned": "10"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "S VIGNESWARAN",
+                "Votes": 24376,
+                "majority": 8239
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR MARIAH MAHMUD",
+                "Votes": 16137
+            },
+            {
+                "Party": "IND",
+                "Name": "T KRISNASAMI",
+                "Votes": 3608
+            }
+        ]
+    }
+}

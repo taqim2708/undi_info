@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P133",
+        "SeatName": "TAMPIN",
+        "info": {
+            "EligibleVoters": "81099",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "MOHD ISAM BIN MOHD ISA",
+                "Votes": 23283,
+                "NameBallot": "MOHD ISAM BIN MOHD ISA",
+                "majority": 1276
+            },
+            {
+                "Party": "PH",
+                "Name": "FAIZ FADZIL",
+                "Votes": 22007,
+                "NameBallot": "FAIZ FADZIL"
+            },
+            {
+                "Party": "PN",
+                "Name": "MEJAR (B) ABDUL HALIM",
+                "Votes": 14962,
+                "NameBallot": "MEJAR (B) ABDUL HALIM"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "USTAZ ZAMANI IBRAHIM",
+                "Votes": 781,
+                "NameBallot": "USTAZ ZAMANI IBRAHIM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P133",
+        "SeatName": "TAMPIN",
+        "info": {
+            "EligibleVoters": "60765",
+            "MalayVoters": "63",
+            "ChineseVoters": "24",
+            "IndianVoters": "12",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "5340",
+            "Postal": "7",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "HASAN BAHROM",
+                "Votes": 22435,
+                "NameBallot": "DR HASAN BAHROM",
+                "majority": 1002
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SHAZIMAN ABU MANSOR",
+                "Votes": 21433,
+                "NameBallot": "SHAZIMAN BIN ABU MANSOR"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL HALIM BIN ABU BAKAR",
+                "Votes": 4598,
+                "NameBallot": "MEJAR ABDUL HALIM BIN ABU BAKAR (BERSARA)"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P133",
+        "SeatName": "TAMPIN",
+        "info": {
+            "EligibleVoters": "57268",
+            "MalayVoters": "61",
+            "ChineseVoters": "24",
+            "IndianVoters": "13",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1042",
+            "Turnout": "48660",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHAZIMAN BIN ABU MANSOR",
+                "Votes": 29390,
+                "majority": 11162
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL RAZAKEK BIN ABDUL RAHIM",
+                "Votes": 18228
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P133",
+        "SeatName": "TAMPIN",
+        "info": {
+            "EligibleVoters": "47655",
+            "MalayVoters": "61",
+            "ChineseVoters": "25",
+            "IndianVoters": "13",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1115",
+            "Turnout": "36331",
+            "Unreturned": "251"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SHAZIMAN ABU MANSOR",
+                "Votes": 24022,
+                "majority": 13079
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL RAZAKEK ABDUL RAHIM",
+                "Votes": 10943
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P133",
+        "SeatName": "TAMPIN",
+        "info": {
+            "EligibleVoters": "41571",
+            "MalayVoters": "50",
+            "ChineseVoters": "34",
+            "IndianVoters": "14",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "951",
+            "Turnout": "30739",
+            "Unreturned": "39"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SHAZIMAN ABU MANSOR",
+                "Votes": 23936,
+                "majority": 18084
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL RAZAKEK ABDUL RAHIM",
+                "Votes": 5852
+            }
+        ]
+    }
+}

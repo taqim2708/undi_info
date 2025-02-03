@@ -1,0 +1,254 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P165",
+        "SeatName": "TANJUNG PIAI",
+        "info": {
+            "EligibleVoters": "70679",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "WEE JECK SENG",
+                "Votes": 23593,
+                "NameBallot": "WEE JECK SENG",
+                "majority": 6360
+            },
+            {
+                "Party": "MUDA",
+                "Name": "LIM WEI JIET",
+                "Votes": 17233,
+                "NameBallot": "LIM WEI JIET"
+            },
+            {
+                "Party": "PN",
+                "Name": "NAJWAH HALIMAH",
+                "Votes": 13762,
+                "NameBallot": "NAJWAH HALIMAH"
+            }
+        ]
+    },
+    "2019-BYELECTION": {
+        "year": "2019",
+        "type": "BYELECTION",
+        "State": "JH",
+        "ParliamentCode": "P165",
+        "SeatName": "TANJUNG PIAI",
+        "info": {
+            "EligibleVoters": "53528",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "595",
+            "Turnout": "38815",
+            "Unreturned": "30"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "WEE JECK SENG",
+                "Votes": 25466,
+                "NameBallot": "WEE JECK SENG",
+                "majority": 15086
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "KARMAINE SARDINI",
+                "Votes": 10380,
+                "NameBallot": "KARMAINE SARDINI"
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "WENDY SUBRAMANIAM",
+                "Votes": 1707,
+                "NameBallot": "KARMAINE SARDINI"
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "BADHRULHISHAM ABDUL AZIZ",
+                "Votes": 850,
+                "NameBallot": "BADHRULHISHAM ABDUL AZIZ"
+            },
+            {
+                "Party": "IND",
+                "Name": "ANG CHUAN LOCK",
+                "Votes": 380,
+                "NameBallot": "ANG CHUAN LOCK"
+            },
+            {
+                "Party": "IND",
+                "Name": "FARIDAH ARYANI ABD GHAFFAR",
+                "Votes": 32,
+                "NameBallot": "FARIDAH ARYANI ABD GHAFFAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P165",
+        "SeatName": "TANJUNG PIAI",
+        "info": {
+            "EligibleVoters": "53528",
+            "MalayVoters": "57",
+            "ChineseVoters": "42",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "334",
+            "Postal": "8",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "MD FARID BIN MD RAFIK",
+                "Votes": 21255,
+                "NameBallot": "MD FARID",
+                "majority": 524
+            },
+            {
+                "Party": "MCA",
+                "Name": "WEE JECK SENG",
+                "Votes": 20731,
+                "NameBallot": "WEE JECK SENG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NORDIN BIN OTHMAN",
+                "Votes": 2962,
+                "NameBallot": "NORDIN BIN OTHMAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P165",
+        "SeatName": "TANJUNG PIAI",
+        "info": {
+            "EligibleVoters": "51875",
+            "MalayVoters": "51",
+            "ChineseVoters": "47",
+            "IndianVoters": "1",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "918",
+            "Turnout": "45537",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "WEE JECK SENG",
+                "Votes": 25038,
+                "majority": 5457
+            },
+            {
+                "Party": "DAP",
+                "Name": "MAHDZIR BIN IBRAHIM",
+                "Votes": 19581
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P165",
+        "SeatName": "TANJUNG PIAI",
+        "info": {
+            "EligibleVoters": "45701",
+            "MalayVoters": "50",
+            "ChineseVoters": "49",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1117",
+            "Turnout": "35564",
+            "Unreturned": "214"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "WEE JECK SENG",
+                "Votes": 23302,
+                "majority": 12371
+            },
+            {
+                "Party": "DAP",
+                "Name": "AHMAD TON",
+                "Votes": 10931
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P165",
+        "SeatName": "TANJUNG PIAI",
+        "info": {
+            "EligibleVoters": "44575",
+            "MalayVoters": "51",
+            "ChineseVoters": "48",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1461",
+            "Turnout": "33938",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK SERI ONG KA TING",
+                "Votes": 28046,
+                "majority": 23615
+            },
+            {
+                "Party": "DAP",
+                "Name": "TAN HANG MENG",
+                "Votes": 4431
+            }
+        ]
+    }
+}

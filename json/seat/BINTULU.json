@@ -1,0 +1,198 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P217",
+        "SeatName": "BINTULU",
+        "info": {
+            "EligibleVoters": "113599",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "DATO SRI TIONG KING SING",
+                "Votes": 43455,
+                "NameBallot": "DATO SRI TIONG KING SING",
+                "majority": 22168
+            },
+            {
+                "Party": "DAP",
+                "Name": "CHIEW CHAN YEW",
+                "Votes": 21287,
+                "NameBallot": "CHIEW CHAN YEW"
+            },
+            {
+                "Party": "PN",
+                "Name": "DUKE ANAK JANTENG",
+                "Votes": 5650,
+                "NameBallot": "DUKE ANAK JANTENG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P217",
+        "SeatName": "BINTULU",
+        "info": {
+            "EligibleVoters": "65049",
+            "MalayVoters": "0",
+            "ChineseVoters": "29",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "11",
+            "BumiNonmuslimVoters": "60",
+            "SabahBumiVoters": "0",
+            "Early": "548",
+            "Postal": "3",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SPDP",
+                "Name": "TIONG KING SING",
+                "Votes": 27076,
+                "NameBallot": "DATO' SERI TIONG KING SING",
+                "majority": 7022
+            },
+            {
+                "Party": "DAP",
+                "Name": "CHIEW CHAN YEW",
+                "Votes": 20054,
+                "NameBallot": "CHIEW CHAN YEW"
+            },
+            {
+                "Party": "STAR",
+                "Name": "CHIENG LEA PHING",
+                "Votes": 328,
+                "NameBallot": "CHIENG LEA PHING"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P217",
+        "SeatName": "BINTULU",
+        "info": {
+            "EligibleVoters": "59893",
+            "MalayVoters": "0",
+            "ChineseVoters": "28",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "29",
+            "BumiNonmuslimVoters": "44",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "458",
+            "Turnout": "45941",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SPDP",
+                "Name": "TIONG KING SING",
+                "Votes": 26458,
+                "majority": 7433
+            },
+            {
+                "Party": "DAP",
+                "Name": "JOHN BRIAN ANTHONY ANAK JEREMY GUANG",
+                "Votes": 19025
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P217",
+        "SeatName": "BINTULU",
+        "info": {
+            "EligibleVoters": "50404",
+            "MalayVoters": "0",
+            "ChineseVoters": "26",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "288",
+            "Turnout": "32629",
+            "Unreturned": "50"
+        },
+        "candidates": [
+            {
+                "Party": "SPDP",
+                "Name": "DATUK SERI TIONG KING SING",
+                "Votes": 23628,
+                "majority": 14965
+            },
+            {
+                "Party": "DAP",
+                "Name": "LIM SU KIEN",
+                "Votes": 8663
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P216",
+        "SeatName": "BINTULU",
+        "info": {
+            "EligibleVoters": "49374",
+            "MalayVoters": "0",
+            "ChineseVoters": "28",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "29",
+            "BumiNonmuslimVoters": "44",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "288",
+            "Turnout": "32067",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SPDP",
+                "Name": "Tiong King Sing",
+                "Votes": 20225,
+                "majority": 11267
+            },
+            {
+                "Party": "DAP",
+                "Name": "Chiew Chiu Sing",
+                "Votes": 8958
+            },
+            {
+                "Party": "SNAP",
+                "Name": "Lau Hing Kii",
+                "Votes": 2583
+            }
+        ]
+    }
+}

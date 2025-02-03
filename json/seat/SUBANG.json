@@ -1,0 +1,214 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P104",
+        "SeatName": "SUBANG",
+        "info": {
+            "EligibleVoters": "230940",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "WONG CHEN",
+                "Votes": 138259,
+                "NameBallot": "WONG CHEN",
+                "majority": 115074
+            },
+            {
+                "Party": "PN",
+                "Name": "ALEX ANG H N",
+                "Votes": 23185,
+                "NameBallot": "ALEX ANG H N"
+            },
+            {
+                "Party": "BN",
+                "Name": "DR KOW",
+                "Votes": 16539,
+                "NameBallot": "DR KOW"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P104",
+        "SeatName": "SUBANG",
+        "info": {
+            "EligibleVoters": "146422",
+            "MalayVoters": "27",
+            "ChineseVoters": "57",
+            "IndianVoters": "15",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1593",
+            "Postal": "118",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "WONG CHEN",
+                "Votes": 104430,
+                "NameBallot": "WONG CHEN",
+                "majority": 92353
+            },
+            {
+                "Party": "MCA",
+                "Name": "TAN SEONG LIM",
+                "Votes": 12077,
+                "NameBallot": "IR TAN SEONG LIM"
+            },
+            {
+                "Party": "IKATAN",
+                "Name": "MOHD SHAHIR BIN MOHD ADNAN",
+                "Votes": 9025,
+                "NameBallot": "SHAHIR ADNAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TOH SIN WAH",
+                "Votes": 173,
+                "NameBallot": "TOH SIN WAH"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P107",
+        "SeatName": "SUBANG",
+        "info": {
+            "EligibleVoters": "128543",
+            "MalayVoters": "48",
+            "ChineseVoters": "38",
+            "IndianVoters": "13",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1669",
+            "Turnout": "112618",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SIVARASA A/L K RASIAH",
+                "Votes": 66268,
+                "majority": 26719
+            },
+            {
+                "Party": "MIC",
+                "Name": "PAKAS RAO A/L APPLANAIDOO",
+                "Votes": 39549
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "MOHAMAD BIN ISMAIL",
+                "Votes": 4454
+            },
+            {
+                "Party": "IND",
+                "Name": "NAZARUDDIN BIN MOHAMED FERDOOS",
+                "Votes": 460
+            },
+            {
+                "Party": "IND",
+                "Name": "EDROS BIN ABDULLAH",
+                "Votes": 218
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P107",
+        "SeatName": "SUBANG",
+        "info": {
+            "EligibleVoters": "84414",
+            "MalayVoters": "50",
+            "ChineseVoters": "36",
+            "IndianVoters": "14",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "2079",
+            "Turnout": "65861",
+            "Unreturned": "443"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "R SIVARASA",
+                "Votes": 35024,
+                "majority": 6709
+            },
+            {
+                "Party": "MIC",
+                "Name": "S MURUGESAN",
+                "Votes": 28315
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P107",
+        "SeatName": "SUBANG",
+        "info": {
+            "EligibleVoters": "68739",
+            "MalayVoters": "49",
+            "ChineseVoters": "34",
+            "IndianVoters": "16",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1063",
+            "Turnout": "51485",
+            "Unreturned": "532"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "TAN SRI KS NIJHAR",
+                "Votes": 32941,
+                "majority": 15460
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD NASIR HASHIM",
+                "Votes": 17481
+            }
+        ]
+    }
+}

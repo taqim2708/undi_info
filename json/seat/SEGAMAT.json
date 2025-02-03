@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P140",
+        "SeatName": "SEGAMAT",
+        "info": {
+            "EligibleVoters": "69360",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "R. YUNESWARAN",
+                "Votes": 23437,
+                "NameBallot": "R. YUNESWARAN",
+                "majority": 5669
+            },
+            {
+                "Party": "BN",
+                "Name": "TAN SRI M RAMASAMY",
+                "Votes": 17768,
+                "NameBallot": "TAN SRI M RAMASAMY"
+            },
+            {
+                "Party": "PN",
+                "Name": "POOBALAN PONNUSAMY",
+                "Votes": 8385,
+                "NameBallot": "POOBALAN PONNUSAMY"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "SYED HAIROUL",
+                "Votes": 1062,
+                "NameBallot": "SYED HAIROUL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P140",
+        "SeatName": "SEGAMAT",
+        "info": {
+            "EligibleVoters": "55350",
+            "MalayVoters": "47",
+            "ChineseVoters": "43",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2297",
+            "Postal": "10",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SANTHARA KUMAR A/L RAMANAIDU",
+                "Votes": 24060,
+                "NameBallot": "DATO' SERI DR SANTHARA",
+                "majority": 5476
+            },
+            {
+                "Party": "MIC",
+                "Name": "SUBRAMANIAM A/L KV SATHASIVAM",
+                "Votes": 18584,
+                "NameBallot": "DR S SUBRAMANIAM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "KHAIRUL FAIZI BIN AHMAD ",
+                "Votes": 2676,
+                "NameBallot": "KHAIRUL FAIZI BIN AHMAD KAMIL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P140",
+        "SeatName": "SEGAMAT",
+        "info": {
+            "EligibleVoters": "47009",
+            "MalayVoters": "44",
+            "ChineseVoters": "46",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "950",
+            "Turnout": "39807",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "SUBRAMANIAM A/L KV SATHASIVAM",
+                "Votes": 20037,
+                "majority": 1217
+            },
+            {
+                "Party": "PKR",
+                "Name": "DATO CHUA JUI MENG",
+                "Votes": 18820
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P140",
+        "SeatName": "SEGAMAT",
+        "info": {
+            "EligibleVoters": "40708",
+            "MalayVoters": "41",
+            "ChineseVoters": "48",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "847",
+            "Turnout": "29699",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "DR S SUBRAMANIAM",
+                "Votes": 15921,
+                "majority": 2991
+            },
+            {
+                "Party": "DAP",
+                "Name": "PANG HOK LIONG",
+                "Votes": 12930
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P140",
+        "SeatName": "SEGAMAT",
+        "info": {
+            "EligibleVoters": "40983",
+            "MalayVoters": "41",
+            "ChineseVoters": "48",
+            "IndianVoters": "12",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "876",
+            "Turnout": "28974",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "DR S SUBRAMANIAM",
+                "Votes": 17953,
+                "majority": 7809
+            },
+            {
+                "Party": "DAP",
+                "Name": "PANG HOK LIONG",
+                "Votes": 10144
+            }
+        ]
+    }
+}

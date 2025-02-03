@@ -1,0 +1,215 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P97",
+        "SeatName": "SELAYANG",
+        "info": {
+            "EligibleVoters": "181539",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "WILLIAM LEONG JEE KEEN",
+                "Votes": 72773,
+                "NameBallot": "WILLIAM LEONG JEE KEEN",
+                "majority": 23619
+            },
+            {
+                "Party": "PN",
+                "Name": "DATUK ABDUL RASHID ASARI",
+                "Votes": 49154,
+                "NameBallot": "DATUK ABDUL RASHID ASARI"
+            },
+            {
+                "Party": "BN",
+                "Name": "CHAN WUN HOONG",
+                "Votes": 19425,
+                "NameBallot": "CHAN WUN HOONG"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "SALLEH AMIRUDDIN",
+                "Votes": 2584,
+                "NameBallot": "SALLEH AMIRUDDIN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MUHAMMAD ZAKI BIN OMAR",
+                "Votes": 945,
+                "NameBallot": "MUHAMMAD ZAKI BIN OMAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P97",
+        "SeatName": "SELAYANG",
+        "info": {
+            "EligibleVoters": "116176",
+            "MalayVoters": "53",
+            "ChineseVoters": "29",
+            "IndianVoters": "18",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "832",
+            "Postal": "26",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "WILLIAM LEONG JEE KEEN",
+                "Votes": 60158,
+                "NameBallot": "WILLIAM LEONG JEE KEEN",
+                "majority": 40657
+            },
+            {
+                "Party": "MCA",
+                "Name": "KANG MENG FUAT",
+                "Votes": 19501,
+                "NameBallot": "KANG MENG FUAT"
+            },
+            {
+                "Party": "PAS",
+                "Name": "HASHIM BIN ABDUL KARIM",
+                "Votes": 18343,
+                "NameBallot": "BRIG GEN HASHIM KARIM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P97",
+        "SeatName": "SELAYANG",
+        "info": {
+            "EligibleVoters": "105895",
+            "MalayVoters": "45",
+            "ChineseVoters": "36",
+            "IndianVoters": "17",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1435",
+            "Turnout": "92315",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "WILLIAM LEONG JEE KEEN",
+                "Votes": 52287,
+                "majority": 17846
+            },
+            {
+                "Party": "MCA",
+                "Name": "LIM SIANG CHAI",
+                "Votes": 34441
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "HAJI MOHD HAZIZI BIN AB RAHMAN",
+                "Votes": 4152
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P97",
+        "SeatName": "SELAYANG",
+        "info": {
+            "EligibleVoters": "79557",
+            "MalayVoters": "45",
+            "ChineseVoters": "38",
+            "IndianVoters": "16",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1506",
+            "Turnout": "60920",
+            "Unreturned": "247"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "WILLIAM LEONG JEE KEEN",
+                "Votes": 30701,
+                "majority": 3567
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEE LI YEW",
+                "Votes": 27134
+            },
+            {
+                "Party": "PRM",
+                "Name": "KOH SWE YONG",
+                "Votes": 1332
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P97",
+        "SeatName": "SELAYANG",
+        "info": {
+            "EligibleVoters": "71152",
+            "MalayVoters": "44",
+            "ChineseVoters": "39",
+            "IndianVoters": "17",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1444",
+            "Turnout": "50904",
+            "Unreturned": "129"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK CHAN KONG CHOY",
+                "Votes": 36343,
+                "majority": 23226
+            },
+            {
+                "Party": "PKR",
+                "Name": "KOH SWE YONG",
+                "Votes": 13117
+            }
+        ]
+    }
+}

@@ -1,0 +1,230 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P181",
+        "SeatName": "TENOM",
+        "info": {
+            "EligibleVoters": "42045",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BEBAS",
+                "Name": "RIDUAN BIN RUBIN",
+                "Votes": 10027,
+                "NameBallot": "RIDUAN BIN RUBIN",
+                "majority": 1108
+            },
+            {
+                "Party": "PH",
+                "Name": "NOORITA SUAL",
+                "Votes": 8919,
+                "NameBallot": "NOORITA SUAL"
+            },
+            {
+                "Party": "BN",
+                "Name": "JAMAWI BIN JA'AFAR",
+                "Votes": 8625,
+                "NameBallot": "JAMAWI BIN JA'AFAR"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "UKIM BUANDI",
+                "Votes": 992,
+                "NameBallot": "UKIM BUANDI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "PEGGY CHAW ZHI TING",
+                "Votes": 86,
+                "NameBallot": "PEGGY CHAW ZHI TING"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P181",
+        "SeatName": "TENOM",
+        "info": {
+            "EligibleVoters": "29182",
+            "MalayVoters": "10",
+            "ChineseVoters": "11",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "77",
+            "Early": "29019",
+            "Postal": "160",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "NOORITA SUAL",
+                "Votes": 11363,
+                "NameBallot": "NOORITA SUAL",
+                "majority": 1133
+            },
+            {
+                "Party": "UMNO",
+                "Name": "RUBIN BALANG",
+                "Votes": 10230,
+                "NameBallot": "RUBIN BIN BALANG"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "LAIMOI @ YUSLINAH BINTI LAIKIM",
+                "Votes": 645,
+                "NameBallot": "LAIMOI @ YUSLINAH BINTI LAIKIM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P181",
+        "SeatName": "TENOM",
+        "info": {
+            "EligibleVoters": "25304",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "21",
+            "BumiNonmuslimVoters": "66",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "632",
+            "Turnout": "20926",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK RAIME BIN UNGGI",
+                "Votes": 9771,
+                "majority": 3886
+            },
+            {
+                "Party": "PKR",
+                "Name": "MASDIN BIN TUMAS",
+                "Votes": 5885
+            },
+            {
+                "Party": "STAR",
+                "Name": "HASMIN @ AZROY BIN ABDULLAH",
+                "Votes": 2449
+            },
+            {
+                "Party": "SAPP",
+                "Name": "JAINEH BIN JUAYA @ JIMMY JAWATAH",
+                "Votes": 1766
+            },
+            {
+                "Party": "KITA",
+                "Name": "MUTANG @ SYLVESTER BIN DAWAT",
+                "Votes": 423
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P181",
+        "SeatName": "TENOM",
+        "info": {
+            "EligibleVoters": "20874",
+            "MalayVoters": "0",
+            "ChineseVoters": "17",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "523",
+            "Turnout": "15705",
+            "Unreturned": "11"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "RAIMIE UNGGI",
+                "Votes": 9535,
+                "majority": 6883
+            },
+            {
+                "Party": "PKR",
+                "Name": "ADRIS TARIPIN",
+                "Votes": 2652
+            },
+            {
+                "Party": "IND",
+                "Name": "JOH JIMMY @ RICHARD JOE JIMMY",
+                "Votes": 2499
+            },
+            {
+                "Party": "BERSEKUTU",
+                "Name": "MUTANG @ SYLVESTER DAWAT",
+                "Votes": 485
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P181",
+        "SeatName": "TENOM",
+        "info": {
+            "EligibleVoters": "20417",
+            "MalayVoters": "0",
+            "ChineseVoters": "17",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "25",
+            "BumiNonmuslimVoters": "57",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "396",
+            "Turnout": "14063",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Raime Unggi",
+                "Votes": 8032,
+                "majority": 2404
+            },
+            {
+                "Party": "IND",
+                "Name": "Laimun Laikin",
+                "Votes": 5628
+            }
+        ]
+    }
+}

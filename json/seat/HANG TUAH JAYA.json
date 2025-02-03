@@ -1,0 +1,94 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P137",
+        "SeatName": "HANG TUAH JAYA",
+        "info": {
+            "EligibleVoters": "118493",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "ADAM ADLI",
+                "Votes": 39418,
+                "NameBallot": "ADAM ADLI",
+                "majority": 8638
+            },
+            {
+                "Party": "BN",
+                "Name": "MOHD RIDHWAN BIN MOHD ALI",
+                "Votes": 30780,
+                "NameBallot": "MOHD RIDHWAN BIN MOHD ALI"
+            },
+            {
+                "Party": "PN",
+                "Name": "MOHD AZRUDIN BIN MD IDRIS",
+                "Votes": 23549,
+                "NameBallot": "MOHD AZRUDIN BIN MD IDRIS"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "SHEIKH IKHZAN",
+                "Votes": 739,
+                "NameBallot": "SHEIKH IKHZAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P137",
+        "SeatName": "HANG TUAH JAYA",
+        "info": {
+            "EligibleVoters": "89364",
+            "MalayVoters": "63",
+            "ChineseVoters": "31",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1260",
+            "Postal": "22",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SHAMSUL ISKANDAR @ YUSRE BIN MOHD AKIN",
+                "Votes": 39067,
+                "NameBallot": "SHAMSUL ISKANDAR HAJI MOHD AKIN",
+                "majority": 8640
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD ALI BIN MOHD RUSTAM",
+                "Votes": 30427,
+                "NameBallot": "TAN SRI HJ MOHD ALI BIN MOHD RUSTAM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MD KHALID BIN KASSIM",
+                "Votes": 7089,
+                "NameBallot": "DR KHALID KASSIM"
+            }
+        ]
+    }
+}

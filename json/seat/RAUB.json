@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P80",
+        "SeatName": "RAUB",
+        "info": {
+            "EligibleVoters": "75064",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "CHOW YU HUI",
+                "Votes": 21613,
+                "NameBallot": "CHOW YU HUI",
+                "majority": 4357
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO FAKRUNIZAM IBRAHIM",
+                "Votes": 17256,
+                "NameBallot": "DATO FAKRUNIZAM IBRAHIM"
+            },
+            {
+                "Party": "BN",
+                "Name": "CHONG SIN WOON",
+                "Votes": 16939,
+                "NameBallot": "CHONG SIN WOON"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NORKHAIRUL ANUAR BIN MOHAMED NOR",
+                "Votes": 427,
+                "NameBallot": "NORKHAIRUL ANUAR BIN MOHAMED NOR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P80",
+        "SeatName": "RAUB",
+        "info": {
+            "EligibleVoters": "57723",
+            "MalayVoters": "52",
+            "ChineseVoters": "38",
+            "IndianVoters": "6",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "493",
+            "Postal": "8",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TENGKU ZULPURI SHAH BIN RAJA PUJI\t",
+                "Votes": 20659,
+                "NameBallot": "TENGKU ZULPURI SHAH",
+                "majority": 3159
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHEW MEI FUN",
+                "Votes": 17500,
+                "NameBallot": "CHEW MEI FUN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED NILAM BIN ABDUL MANAP",
+                "Votes": 7866,
+                "NameBallot": "DR MOHAMED NILAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P80",
+        "SeatName": "RAUB",
+        "info": {
+            "EligibleVoters": "54214",
+            "MalayVoters": "50",
+            "ChineseVoters": "40",
+            "IndianVoters": "6",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "927",
+            "Turnout": "44943",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "MOHD ARIFF SABRI BIN ABDUL AZIZ",
+                "Votes": 23415,
+                "majority": 2814
+            },
+            {
+                "Party": "MCA",
+                "Name": "HOH KHAI MUN",
+                "Votes": 20601
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P80",
+        "SeatName": "RAUB",
+        "info": {
+            "EligibleVoters": "46454",
+            "MalayVoters": "49",
+            "ChineseVoters": "44",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "915",
+            "Turnout": "34459",
+            "Unreturned": "140"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK NG YEN YEN",
+                "Votes": 18078,
+                "majority": 2752
+            },
+            {
+                "Party": "DAP",
+                "Name": "ABU BAKAR LEBAI SUDIN",
+                "Votes": 15326
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P80",
+        "SeatName": "RAUB",
+        "info": {
+            "EligibleVoters": "44523",
+            "MalayVoters": "48",
+            "ChineseVoters": "44",
+            "IndianVoters": "7",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1280",
+            "Turnout": "32540",
+            "Unreturned": "75"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK DR NG YEN YEN",
+                "Votes": 20472,
+                "majority": 9822
+            },
+            {
+                "Party": "DAP",
+                "Name": "CHOONG SIEW OON",
+                "Votes": 10650
+            }
+        ]
+    }
+}

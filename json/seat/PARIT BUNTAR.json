@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P57",
+        "SeatName": "PARIT BUNTAR",
+        "info": {
+            "EligibleVoters": "68502",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "USTAZ MISBAH",
+                "Votes": 23223,
+                "NameBallot": "USTAZ MISBAH",
+                "majority": 5395
+            },
+            {
+                "Party": "PH",
+                "Name": "DATUK SERI DR MUJAHID YUSOF RAWA",
+                "Votes": 17828,
+                "NameBallot": "DATUK SERI DR MUJAHID YUSOF RAWA"
+            },
+            {
+                "Party": "BN",
+                "Name": "CIKGU IMRAN",
+                "Votes": 11593,
+                "NameBallot": "CIKGU IMRAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HJ ROHIJAS",
+                "Votes": 259,
+                "NameBallot": "HJ ROHIJAS"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P57",
+        "SeatName": "PARIT BUNTAR",
+        "info": {
+            "EligibleVoters": "51860",
+            "MalayVoters": "69",
+            "ChineseVoters": "26",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "99",
+            "Postal": "10",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "MUJAHID BIN YUSOF",
+                "Votes": 16753,
+                "NameBallot": "DATO' DR MUJAHID YUSOF RAWA",
+                "majority": 3098
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ABDUL PUHAT BIN MAT NAYAN",
+                "Votes": 13655,
+                "NameBallot": "ABDUL PUHAT BIN MAT NAYAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHMAD AZHAR BIN SHARIN",
+                "Votes": 12312,
+                "NameBallot": "AHMAD AZHAR HAJI SHARIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P57",
+        "SeatName": "PARIT BUNTAR",
+        "info": {
+            "EligibleVoters": "51422",
+            "MalayVoters": "68",
+            "ChineseVoters": "27",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "618",
+            "Turnout": "44172",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MUJAHID BIN YUSOF",
+                "Votes": 26015,
+                "majority": 8476
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MUA'AMAR GHADAFI JAMAL BIN JAMALUDIN",
+                "Votes": 17539
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P57",
+        "SeatName": "PARIT BUNTAR",
+        "info": {
+            "EligibleVoters": "45219",
+            "MalayVoters": "67",
+            "ChineseVoters": "28",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "618",
+            "Turnout": "35592",
+            "Unreturned": "83"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DR MUJAHID YUSOF RAWA",
+                "Votes": 21221,
+                "majority": 7551
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SENATOR DATUK ABDUL RAMAN SULIMAN",
+                "Votes": 13670
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P57",
+        "SeatName": "PARIT BUNTAR",
+        "info": {
+            "EligibleVoters": "44797",
+            "MalayVoters": "67",
+            "ChineseVoters": "28",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "591",
+            "Turnout": "34567",
+            "Unreturned": "41"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "BRIG (G) DATUK ABD HAMID NGAH @ ZAINAL ABIDIN",
+                "Votes": 19317,
+                "majority": 4698
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK DR HASAN MOHD ALI",
+                "Votes": 14619
+            }
+        ]
+    }
+}

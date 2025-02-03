@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P96",
+        "SeatName": "KUALA SELANGOR",
+        "info": {
+            "EligibleVoters": "102951",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "DS DR DZULKEFLY BIN AHMAD",
+                "Votes": 31033,
+                "NameBallot": "DS DR DZULKEFLY BIN AHMAD",
+                "majority": 1002
+            },
+            {
+                "Party": "BN",
+                "Name": "TENGKU ZAFRUL AZIZ",
+                "Votes": 30031,
+                "NameBallot": "TENGKU ZAFRUL AZIZ"
+            },
+            {
+                "Party": "PN",
+                "Name": "USTAZ MOHD NOOR SHAHAR",
+                "Votes": 23639,
+                "NameBallot": "USTAZ MOHD NOOR SHAHAR"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "YB SHAID ROSLI ",
+                "Votes": 1778,
+                "NameBallot": "YB SHAID ROSLI "
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P96",
+        "SeatName": "KUALA SELANGOR",
+        "info": {
+            "EligibleVoters": "69397",
+            "MalayVoters": "66",
+            "ChineseVoters": "13",
+            "IndianVoters": "21",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "402",
+            "Postal": "11",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "DZULKEFLY BIN AHMAD",
+                "Votes": 29842,
+                "NameBallot": "DR HJ DZULKEFLY AHMAD",
+                "majority": 8498
+            },
+            {
+                "Party": "UMNO",
+                "Name": "IRMOHIZAM BIN IBRAHIM",
+                "Votes": 21344,
+                "NameBallot": "IRMOHIZAM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD FAKARUDDIN BIN ISMAIL",
+                "Votes": 8535,
+                "NameBallot": "HAJI FAKARUDDIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P96",
+        "SeatName": "KUALA SELANGOR",
+        "info": {
+            "EligibleVoters": "62298",
+            "MalayVoters": "64",
+            "ChineseVoters": "13",
+            "IndianVoters": "22",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "934",
+            "Turnout": "55474",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "IRMOHIZAM BIN IBRAHIM",
+                "Votes": 27500,
+                "majority": 460
+            },
+            {
+                "Party": "PAS",
+                "Name": "DZULKEFLY BIN AHMAD",
+                "Votes": 27040
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P96",
+        "SeatName": "KUALA SELANGOR",
+        "info": {
+            "EligibleVoters": "47203",
+            "MalayVoters": "61",
+            "ChineseVoters": "16",
+            "IndianVoters": "23",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "894",
+            "Turnout": "37671",
+            "Unreturned": "47"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DR DZULKEFLY AHMAD",
+                "Votes": 18796,
+                "majority": 862
+            },
+            {
+                "Party": "UMNO",
+                "Name": "JAHAYA IBRAHIM",
+                "Votes": 17934
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P96",
+        "SeatName": "KUALA SELANGOR",
+        "info": {
+            "EligibleVoters": "41712",
+            "MalayVoters": "60",
+            "ChineseVoters": "17",
+            "IndianVoters": "23",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "866",
+            "Turnout": "31206",
+            "Unreturned": "25"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD DAUD TARIPEH",
+                "Votes": 22001,
+                "majority": 13662
+            },
+            {
+                "Party": "PKR",
+                "Name": "RAJA KAMARUDDIN RAJA ABDUL WAHID",
+                "Votes": 8339
+            }
+        ]
+    }
+}

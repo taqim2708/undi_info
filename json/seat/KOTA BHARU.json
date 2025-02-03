@@ -1,0 +1,63 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P21",
+        "SeatName": "KOTA BHARU",
+        "info": {
+            "EligibleVoters": "115450",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK SERI TAKIYUDDIN",
+                "Votes": 41869,
+                "NameBallot": "DATUK SERI TAKIYUDDIN",
+                "majority": 22613
+            },
+            {
+                "Party": "PH",
+                "Name": "DR HAFIDZAH",
+                "Votes": 19256,
+                "NameBallot": "DR HAFIDZAH"
+            },
+            {
+                "Party": "BN",
+                "Name": "HJ. ROSMADI ISMAIL",
+                "Votes": 16168,
+                "NameBallot": "HJ. ROSMADI ISMAIL"
+            },
+            {
+                "Party": "PUTRA",
+                "Name": "PROF. DATO DR CHE MUSA CHE OMAR",
+                "Votes": 528,
+                "NameBallot": "PROF. DATO DR CHE MUSA CHE OMAR"
+            },
+            {
+                "Party": "PRM",
+                "Name": "ANDY TAN @ AWANG",
+                "Votes": 107,
+                "NameBallot": "ANDY TAN @ AWANG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "IZAT BUKHARY",
+                "Votes": 91,
+                "NameBallot": "IZAT BUKHARY"
+            }
+        ]
+    }
+}

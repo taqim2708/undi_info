@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P26",
+        "SeatName": "KETEREH",
+        "info": {
+            "EligibleVoters": "85281",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MEJ JEN DATO HJ KHLIR (B)",
+                "Votes": 40542,
+                "NameBallot": "MEJ JEN DATO HJ KHLIR (B)",
+                "majority": 23107
+            },
+            {
+                "Party": "BN",
+                "Name": "MARZUANI ARDILA ARIFFIN (GEE)",
+                "Votes": 17435,
+                "NameBallot": "MARZUANI ARDILA ARIFFIN (GEE)"
+            },
+            {
+                "Party": "PH",
+                "Name": "HAJI RAHIMI",
+                "Votes": 4662,
+                "NameBallot": "HAJI RAHIMI"
+            },
+            {
+                "Party": "PUTRA",
+                "Name": "HANEEF IBRAHIM (ABE HANEEF)",
+                "Votes": 223,
+                "NameBallot": "HANEEF IBRAHIM (ABE HANEEF)"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P26",
+        "SeatName": "KETEREH",
+        "info": {
+            "EligibleVoters": "65238",
+            "MalayVoters": "97",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "4044",
+            "Postal": "7",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ANNUAR BIN MUSA",
+                "Votes": 25467,
+                "NameBallot": "TAN SRI ANNUAR MUSA",
+                "majority": 4626
+            },
+            {
+                "Party": "PAS",
+                "Name": "WAN ISMAIL BIN WAN JUSOH",
+                "Votes": 20841,
+                "NameBallot": "USTAZ WAN"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MOHD RADZI BIN MD JIDIN",
+                "Votes": 6799,
+                "NameBallot": "DR RADZI JIDIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P26",
+        "SeatName": "KETEREH",
+        "info": {
+            "EligibleVoters": "62217",
+            "MalayVoters": "97",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "876",
+            "Turnout": "53726",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ANNUAR BIN MUSA",
+                "Votes": 26912,
+                "majority": 974
+            },
+            {
+                "Party": "PKR",
+                "Name": "AB AZIZ BIN AB KADIR",
+                "Votes": 25938
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P26",
+        "SeatName": "KETEREH",
+        "info": {
+            "EligibleVoters": "52240",
+            "MalayVoters": "97",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "993",
+            "Turnout": "44377",
+            "Unreturned": "308"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ABDUL AZIZ KADIR",
+                "Votes": 21738,
+                "majority": 400
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI ANNUAR MUSA",
+                "Votes": 21338
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P26",
+        "SeatName": "KETEREH",
+        "info": {
+            "EligibleVoters": "46493",
+            "MalayVoters": "97",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "751",
+            "Turnout": "37911",
+            "Unreturned": "276"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MD ALWI CHE AHMAD",
+                "Votes": 20024,
+                "majority": 2888
+            },
+            {
+                "Party": "PKR",
+                "Name": "MUAMAD MUSTAFA",
+                "Votes": 17136
+            }
+        ]
+    }
+}

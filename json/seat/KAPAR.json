@@ -1,0 +1,243 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P109",
+        "SeatName": "KAPAR",
+        "info": {
+            "EligibleVoters": "189369",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DR HALIMAH ALI",
+                "Votes": 65751,
+                "NameBallot": "DR HALIMAH ALI",
+                "majority": 11782
+            },
+            {
+                "Party": "PH",
+                "Name": "ABDULLAH SANI",
+                "Votes": 53969,
+                "NameBallot": "ABDULLAH SANI"
+            },
+            {
+                "Party": "BN",
+                "Name": "MUHAMMAD BIN NOOR AZMAN",
+                "Votes": 35079,
+                "NameBallot": "MUHAMMAD BIN NOOR AZMAN"
+            },
+            {
+                "Party": "PBM",
+                "Name": "DR DAROYAH BINTI ALWI",
+                "Votes": 1474,
+                "NameBallot": "DR DAROYAH BINTI ALWI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "UST. HJ. MOHD PATHAN BIN HUSSIN",
+                "Votes": 1015,
+                "NameBallot": "UST. HJ. MOHD PATHAN BIN HUSSIN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DATO' SRI SIVALINGAM",
+                "Votes": 477,
+                "NameBallot": "DATO' SRI SIVALINGAM"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "DATO' SERI RAHIM",
+                "Votes": 265,
+                "NameBallot": "DATO' SERI RAHIM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P109",
+        "SeatName": "KAPAR",
+        "info": {
+            "EligibleVoters": "124983",
+            "MalayVoters": "71",
+            "ChineseVoters": "15",
+            "IndianVoters": "14",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "397",
+            "Postal": "21",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ABDULLAH SANI BIN ABDUL HAMID",
+                "Votes": 47731,
+                "NameBallot": "ABDULLAH SANI",
+                "majority": 16306
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL RANI BIN OSMAN",
+                "Votes": 31425,
+                "NameBallot": "DR HJ ABD RANI BIN OSMAN"
+            },
+            {
+                "Party": "MIC",
+                "Name": "MOHANA A/P MUNIANDY RAMAN",
+                "Votes": 26412,
+                "NameBallot": "MOHANA MUNIANDY"
+            },
+            {
+                "Party": "PRM",
+                "Name": "S MANIKAVASAGAM A/L SUNDARAM",
+                "Votes": 525,
+                "NameBallot": "MANIKAVASAGAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P109",
+        "SeatName": "KAPAR",
+        "info": {
+            "EligibleVoters": "144159",
+            "MalayVoters": "51",
+            "ChineseVoters": "34",
+            "IndianVoters": "14",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "2379",
+            "Turnout": "126709",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "G MANIVANNAN A/L GOWINDASAMY",
+                "Votes": 69849,
+                "majority": 23790
+            },
+            {
+                "Party": "MIC",
+                "Name": "SAKTHIVEL A/L ALAGAPPAN",
+                "Votes": 46059
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "MOHD PATHAN BIN HUSSIN",
+                "Votes": 6289
+            },
+            {
+                "Party": "IND",
+                "Name": "NORHAMZAH BIN SURATMAN",
+                "Votes": 1067
+            },
+            {
+                "Party": "IND",
+                "Name": "MOHD NAZRI BIN ABDUL AZIZ",
+                "Votes": 835
+            },
+            {
+                "Party": "IND",
+                "Name": "PALAYA A/L RENGAIAH",
+                "Votes": 231
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P109",
+        "SeatName": "KAPAR",
+        "info": {
+            "EligibleVoters": "112224",
+            "MalayVoters": "51",
+            "ChineseVoters": "35",
+            "IndianVoters": "13",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "3064",
+            "Turnout": "87644",
+            "Unreturned": "485"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "S MANIKAVASAGAM",
+                "Votes": 48196,
+                "majority": 12297
+            },
+            {
+                "Party": "MIC",
+                "Name": "DATIN PADUKA P KOMALA DEVI",
+                "Votes": 35899
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P109",
+        "SeatName": "KAPAR",
+        "info": {
+            "EligibleVoters": "104185",
+            "MalayVoters": "49",
+            "ChineseVoters": "38",
+            "IndianVoters": "13",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "2356",
+            "Turnout": "75782",
+            "Unreturned": "7"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "P KOMALADEVI",
+                "Votes": 44007,
+                "majority": 14588
+            },
+            {
+                "Party": "PKR",
+                "Name": "ANG HIOK GAI",
+                "Votes": 29419
+            }
+        ]
+    }
+}

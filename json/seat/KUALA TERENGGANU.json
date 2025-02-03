@@ -1,0 +1,246 @@
+{
+    "2023-GE": {
+        "year": "2023",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P36",
+        "SeatName": "KUALA TERENGGANU",
+        "info": {
+            "EligibleVoters": "123397",
+            "MalayVoters": "90.4",
+            "ChineseVoters": "8.4",
+            "IndianVoters": "0.5",
+            "OtherVoters": "0.7",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1049",
+            "Turnout": "90632",
+            "Unreturned": "111"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "AHMAD AMZAD BIN MOHAMED @ HASHIM",
+                "Votes": 68369,
+                "NameBallot": "DATUK HJ AMZAD HASHIM",
+                "majority": 47266
+            },
+            {
+                "Party": "PH",
+                "Name": "AZAN BIN ISMAIL",
+                "Votes": 21103,
+                "NameBallot": "AZAN ISMAIL"
+            }
+        ]
+    },
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P36",
+        "SeatName": "KUALA TERENGGANU",
+        "info": {
+            "EligibleVoters": "123305",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK HAJI AMZAD HASHIM",
+                "Votes": 63016,
+                "NameBallot": "DATUK HAJI AMZAD HASHIM",
+                "majority": 40907
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' CIKGU ZUBIR",
+                "Votes": 22109,
+                "NameBallot": "DATO' CIKGU ZUBIR"
+            },
+            {
+                "Party": "PH",
+                "Name": "DATO' RAJA BAHRIN",
+                "Votes": 10946,
+                "NameBallot": "DATO' RAJA BAHRIN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MOHAMAD ABU BAKAR BIN MUDA",
+                "Votes": 481,
+                "NameBallot": "MOHAMAD ABU BAKAR BIN MUDA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P36",
+        "SeatName": "KUALA TERENGGANU",
+        "info": {
+            "EligibleVoters": "103611",
+            "MalayVoters": "90",
+            "ChineseVoters": "9",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1510",
+            "Postal": "29",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "AHMAD AMZAD BIN MOHAMED @ HASHIM",
+                "Votes": 42988,
+                "NameBallot": "HAJI AMZAD HASHIM",
+                "majority": 14773
+            },
+            {
+                "Party": "UMNO",
+                "Name": "WAN NAWAWI BIN HAJI WAN ISMAIL",
+                "Votes": 28215,
+                "NameBallot": "WAN NAWAWI BIN HAJI WAN ISMAIL"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "RAJA KAMARUL BAHRIN SHAH",
+                "Votes": 15380,
+                "NameBallot": "DATO RAJA BAHRIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P36",
+        "SeatName": "KUALA TERENGGANU",
+        "info": {
+            "EligibleVoters": "94406",
+            "MalayVoters": "89",
+            "ChineseVoters": "10",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "845",
+            "Turnout": "81898",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "RAJA KAMARUL BAHRIN SHAH",
+                "Votes": 45828,
+                "majority": 10785
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD ZUBIR BIN EMBONG",
+                "Votes": 35043
+            },
+            {
+                "Party": "IND",
+                "Name": "MAIMUN BINTI YUSUF",
+                "Votes": 182
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P36",
+        "SeatName": "KUALA TERENGGANU",
+        "info": {
+            "EligibleVoters": "80325",
+            "MalayVoters": "88",
+            "ChineseVoters": "11",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "931",
+            "Turnout": "66231",
+            "Unreturned": "119"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK RAZALI ISMAIL",
+                "Votes": 32562,
+                "majority": 628
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD SABU",
+                "Votes": 31934
+            },
+            {
+                "Party": "IND",
+                "Name": "MAIMUN YUSUF",
+                "Votes": 685
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P36",
+        "SeatName": "KUALA TERENGGANU",
+        "info": {
+            "EligibleVoters": "72259",
+            "MalayVoters": "88",
+            "ChineseVoters": "12",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "790",
+            "Turnout": "60845",
+            "Unreturned": "240"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "RAZALI ISMAIL",
+                "Votes": 30994,
+                "majority": 1933
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR SYED AZAM SYED AHMAD",
+                "Votes": 29061
+            }
+        ]
+    }
+}

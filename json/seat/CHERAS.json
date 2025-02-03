@@ -1,0 +1,187 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P123",
+        "SeatName": "CHERAS",
+        "info": {
+            "EligibleVoters": "101184",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "TAN KOK WAI",
+                "Votes": 60294,
+                "NameBallot": "TAN KOK WAI",
+                "majority": 54448
+            },
+            {
+                "Party": "PN",
+                "Name": "RUBY CHIN",
+                "Votes": 5846,
+                "NameBallot": "RUBY CHIN"
+            },
+            {
+                "Party": "BN",
+                "Name": "CHONG YEW CHUAN",
+                "Votes": 5606,
+                "NameBallot": "CHONG YEW CHUAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P123",
+        "SeatName": "CHERAS",
+        "info": {
+            "EligibleVoters": "78819",
+            "MalayVoters": "10",
+            "ChineseVoters": "83",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "457",
+            "Postal": "24",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TAN KOK WAI",
+                "Votes": 56671,
+                "NameBallot": "TAN KOK WAI",
+                "majority": 49665
+            },
+            {
+                "Party": "MCA",
+                "Name": "HENG SINN YEE",
+                "Votes": 7006,
+                "NameBallot": "HENG SINN YEE"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P123",
+        "SeatName": "CHERAS",
+        "info": {
+            "EligibleVoters": "72551",
+            "MalayVoters": "10",
+            "ChineseVoters": "82",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "315",
+            "Turnout": "59404",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TAN KOK WAI",
+                "Votes": 48249,
+                "majority": 37409
+            },
+            {
+                "Party": "MCA",
+                "Name": "TEOH CHEE HOOI",
+                "Votes": 10840
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P123",
+        "SeatName": "CHERAS",
+        "info": {
+            "EligibleVoters": "68725",
+            "MalayVoters": "10",
+            "ChineseVoters": "84",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "244",
+            "Turnout": "50571",
+            "Unreturned": "121"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TAN KOK WAI",
+                "Votes": 39253,
+                "majority": 28300
+            },
+            {
+                "Party": "MCA",
+                "Name": "JEFFREY GOH SIM IK",
+                "Votes": 10953
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P123",
+        "SeatName": "CHERAS",
+        "info": {
+            "EligibleVoters": "67794",
+            "MalayVoters": "9",
+            "ChineseVoters": "83",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "236",
+            "Turnout": "43146",
+            "Unreturned": "54"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TAN KOK WAI",
+                "Votes": 29056,
+                "majority": 11861
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEE BOON KOK",
+                "Votes": 17195
+            }
+        ]
+    }
+}

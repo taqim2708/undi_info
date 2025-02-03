@@ -1,0 +1,216 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P60",
+        "SeatName": "TAIPING",
+        "info": {
+            "EligibleVoters": "121566",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "WONG KAH WOH",
+                "Votes": 47098,
+                "NameBallot": "WONG KAH WOH",
+                "majority": 25529
+            },
+            {
+                "Party": "PN",
+                "Name": "CIKGU SEE TEAN SENG",
+                "Votes": 21569,
+                "NameBallot": "CIKGU SEE TEAN SENG"
+            },
+            {
+                "Party": "BN",
+                "Name": "NEOW CHOO SEONG",
+                "Votes": 14599,
+                "NameBallot": "NEOW CHOO SEONG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "LEOW THYE YIH",
+                "Votes": 1154,
+                "NameBallot": "LEOW THYE YIH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MOHGANAN A/L P MANIKAM",
+                "Votes": 236,
+                "NameBallot": "MOHGANAN A/L P MANIKAM"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TS.DR.RAMA",
+                "Votes": 113,
+                "NameBallot": "TS.DR.RAMA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P60",
+        "SeatName": "TAIPING",
+        "info": {
+            "EligibleVoters": "90729",
+            "MalayVoters": "39",
+            "ChineseVoters": "46",
+            "IndianVoters": "13",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "5079",
+            "Postal": "24",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TEH KOK LIM",
+                "Votes": 42997,
+                "NameBallot": "TEH KOK LIM",
+                "majority": 27384
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "TAN KENG LIANG",
+                "Votes": 15613,
+                "NameBallot": "TAN KENG LIANG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "IBRAHIM BIN ISMAIL",
+                "Votes": 11133,
+                "NameBallot": "IBRAHIM ISMAIL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P60",
+        "SeatName": "TAIPING",
+        "info": {
+            "EligibleVoters": "78148",
+            "MalayVoters": "37",
+            "ChineseVoters": "48",
+            "IndianVoters": "13",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "944",
+            "Turnout": "63749",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "NGA KOR MING",
+                "Votes": 37275,
+                "majority": 11745
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "TAN LIAN HOE",
+                "Votes": 25530
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P60",
+        "SeatName": "TAIPING",
+        "info": {
+            "EligibleVoters": "65889",
+            "MalayVoters": "35",
+            "ChineseVoters": "50",
+            "IndianVoters": "13",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1612",
+            "Turnout": "47123",
+            "Unreturned": "613"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "NGA KOR MING",
+                "Votes": 28098,
+                "majority": 11298
+            },
+            {
+                "Party": "PPP",
+                "Name": "DATUK M KAYVEAS",
+                "Votes": 16800
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P60",
+        "SeatName": "TAIPING",
+        "info": {
+            "EligibleVoters": "65046",
+            "MalayVoters": "32",
+            "ChineseVoters": "53",
+            "IndianVoters": "14",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1337",
+            "Turnout": "44821",
+            "Unreturned": "1027"
+        },
+        "candidates": [
+            {
+                "Party": "PPP",
+                "Name": "DATUK M KAYVEAS",
+                "Votes": 20129,
+                "majority": 2172
+            },
+            {
+                "Party": "DAP",
+                "Name": "ONG CHEE KENG",
+                "Votes": 17957
+            },
+            {
+                "Party": "PKR",
+                "Name": "P ANNAH DORAI",
+                "Votes": 4371
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P75",
+        "SeatName": "BAGAN DATUK",
+        "info": {
+            "EligibleVoters": "58183",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "ZAHID HAMIDI",
+                "Votes": 16578,
+                "NameBallot": "ZAHID HAMIDI",
+                "majority": 348
+            },
+            {
+                "Party": "PH",
+                "Name": "DATUK SERI HAJI SHAMSUL ISKANDAR",
+                "Votes": 16230,
+                "NameBallot": "DATUK SERI HAJI SHAMSUL ISKANDAR"
+            },
+            {
+                "Party": "PN",
+                "Name": "DR. FAIZ NA'AMAN",
+                "Votes": 8822,
+                "NameBallot": "DR. FAIZ NA'AMAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TAWFIK TUN DR ISMAIL",
+                "Votes": 226,
+                "NameBallot": "TAWFIK TUN DR ISMAIL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P75",
+        "SeatName": "BAGAN DATUK",
+        "info": {
+            "EligibleVoters": "47309",
+            "MalayVoters": "60",
+            "ChineseVoters": "18",
+            "IndianVoters": "22",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1681",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD ZAHID BIN HAMIDI",
+                "Votes": 18909,
+                "NameBallot": "AHMAD ZAHID BIN HAMIDI",
+                "majority": 5073
+            },
+            {
+                "Party": "PKR",
+                "Name": "PAKHRURRAZI BIN HJ ARSHAD",
+                "Votes": 13836,
+                "NameBallot": "PAKHRURRAZI HJ ARSHAD"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ATA ABDUL MUNEIM BIN HASAN ADLI",
+                "Votes": 4061,
+                "NameBallot": "ATA ABDUL MUNEIM DATO' HASAN ADLI"
+            }
+        ]
+    }
+}

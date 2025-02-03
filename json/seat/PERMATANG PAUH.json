@@ -1,0 +1,244 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P44",
+        "SeatName": "PERMATANG PAUH",
+        "info": {
+            "EligibleVoters": "107186",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "UST FAWWAZ MD JAN",
+                "Votes": 37638,
+                "NameBallot": "UST FAWWAZ MD JAN",
+                "majority": 5272
+            },
+            {
+                "Party": "PH",
+                "Name": "NURUL IZZAH ANWAR",
+                "Votes": 32366,
+                "NameBallot": "NURUL IZZAH ANWAR"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK ZAIDI",
+                "Votes": 16971,
+                "NameBallot": "DATUK ZAIDI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "CIKGU NASIR",
+                "Votes": 473,
+                "NameBallot": "CIKGU NASIR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P44",
+        "SeatName": "PERMATANG PAUH",
+        "info": {
+            "EligibleVoters": "81789",
+            "MalayVoters": "72",
+            "ChineseVoters": "21",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "752",
+            "Postal": "11",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "NURUL IZZAH BINTI ANWAR",
+                "Votes": 35534,
+                "NameBallot": "NURUL IZZAH ANWAR",
+                "majority": 15668
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD ZAIDI BIN MOHD SAID",
+                "Votes": 19866,
+                "NameBallot": "MOHD ZAIDI MOHD SAID"
+            },
+            {
+                "Party": "PAS",
+                "Name": "AFNAN HAMIMI BIN TAIB AZAMUDDEN",
+                "Votes": 14428,
+                "NameBallot": "USTAZ AFNAN HAMIMI B DATO' TAIB AZAMUDDEN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P44",
+        "SeatName": "PERMATANG PAUH",
+        "info": {
+            "EligibleVoters": "71699",
+            "MalayVoters": "70",
+            "ChineseVoters": "23",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "672",
+            "Turnout": "63332",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ANWAR BIN IBRAHIM",
+                "Votes": 37090,
+                "majority": 11721
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MAZLAN BIN ISMAIL",
+                "Votes": 25369
+            },
+            {
+                "Party": "IND",
+                "Name": "ABDULLAH ZAWAWI BIN SAMSUDIN",
+                "Votes": 201
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P44",
+        "SeatName": "PERMATANG PAUH",
+        "info": {
+            "EligibleVoters": "58449",
+            "MalayVoters": "69",
+            "ChineseVoters": "25",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "110",
+            "Turnout": "47442",
+            "Unreturned": "44"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "WAN AZIZAH WAN ISMAIL",
+                "Votes": 30348,
+                "majority": 13398
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK PIRDAUS ISMAIL",
+                "Votes": 16950
+            }
+        ]
+    },
+    "2008-BYELECTION": {
+        "year": "2008",
+        "type": "BYELECTION",
+        "State": "PN",
+        "ParliamentCode": "P44",
+        "SeatName": "PERMATANG PAUH",
+        "info": {
+            "EligibleVoters": "58449",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "636",
+            "Turnout": "47963",
+            "Unreturned": "29"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ANWAR IBRAHIM",
+                "Votes": 31195,
+                "majority": 15671
+            },
+            {
+                "Party": "BN",
+                "Name": "ARIF SHAH OMAR SHAH",
+                "Votes": 15524
+            },
+            {
+                "Party": "AKIM",
+                "Name": "HANAFI MAMAT",
+                "Votes": 92
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P44",
+        "SeatName": "PERMATANG PAUH",
+        "info": {
+            "EligibleVoters": "54041",
+            "MalayVoters": "68",
+            "ChineseVoters": "26",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "665",
+            "Turnout": "43734",
+            "Unreturned": "185"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "DATIN SERI DR WAN AZIZAH WAN ISMAIL",
+                "Votes": 21737,
+                "majority": 590
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK PIRDAUS ISMAIL",
+                "Votes": 21147
+            }
+        ]
+    }
+}

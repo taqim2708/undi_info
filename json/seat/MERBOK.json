@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P14",
+        "SeatName": "MERBOK",
+        "info": {
+            "EligibleVoters": "132444",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "MOHD NAZRI",
+                "Votes": 52573,
+                "NameBallot": "MOHD NAZRI",
+                "majority": 21019
+            },
+            {
+                "Party": "PH",
+                "Name": "NURIN AINA",
+                "Votes": 31554,
+                "NameBallot": "NURIN AINA"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' SHAIFUL HAZIZY",
+                "Votes": 16691,
+                "NameBallot": "DATO' SHAIFUL HAZIZY"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATUK MOSIN RAZAK",
+                "Votes": 1201,
+                "NameBallot": "DATUK MOSIN RAZAK"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "KHAIRUL ANUAR",
+                "Votes": 525,
+                "NameBallot": "KHAIRUL ANUAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P14",
+        "SeatName": "MERBOK",
+        "info": {
+            "EligibleVoters": "87782",
+            "MalayVoters": "69",
+            "ChineseVoters": "15",
+            "IndianVoters": "15",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "5670",
+            "Postal": "24",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "NOR AZRINA BINTI SURIP",
+                "Votes": 30902,
+                "NameBallot": "NURIN AINA",
+                "majority": 10072
+            },
+            {
+                "Party": "UMNO",
+                "Name": "TAJUL URUS BIN MAT ZAIN",
+                "Votes": 20830,
+                "NameBallot": "DATO' TAJUL URUS HJ MAT ZAIN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHMAD FAUZI BIN RAMLI",
+                "Votes": 19618,
+                "NameBallot": "USTAZ AHMAD FAUZI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P14",
+        "SeatName": "MERBOK",
+        "info": {
+            "EligibleVoters": "85908",
+            "MalayVoters": "65",
+            "ChineseVoters": "17",
+            "IndianVoters": "18",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1329",
+            "Turnout": "74283",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL BIN DAUT",
+                "Votes": 38538,
+                "majority": 4122
+            },
+            {
+                "Party": "PKR",
+                "Name": "NOR AZRINA BINTI SURIP",
+                "Votes": 34416
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P14",
+        "SeatName": "MERBOK",
+        "info": {
+            "EligibleVoters": "64443",
+            "MalayVoters": "66",
+            "ChineseVoters": "16",
+            "IndianVoters": "17",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1338",
+            "Turnout": "49718",
+            "Unreturned": "396"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "DATUK RASHID DIN",
+                "Votes": 25541,
+                "majority": 3098
+            },
+            {
+                "Party": "UMNO",
+                "Name": "TAJUL URUS MAT ZAIN",
+                "Votes": 22443
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P14",
+        "SeatName": "MERBOK",
+        "info": {
+            "EligibleVoters": "57922",
+            "MalayVoters": "63",
+            "ChineseVoters": "19",
+            "IndianVoters": "18",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1142",
+            "Turnout": "44911",
+            "Unreturned": "70"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ZAINUDDIN MAIDIN",
+                "Votes": 29607,
+                "majority": 15445
+            },
+            {
+                "Party": "PKR",
+                "Name": "SAIFUL IZHAM RAMLI",
+                "Votes": 14162
+            }
+        ]
+    }
+}

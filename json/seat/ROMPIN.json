@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P91",
+        "SeatName": "ROMPIN",
+        "info": {
+            "EligibleVoters": "89131",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO' KHALIB",
+                "Votes": 31589,
+                "NameBallot": "DATO' KHALIB",
+                "majority": 1438
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' SRI HAJI HASAN BIN ARIFIN",
+                "Votes": 30151,
+                "NameBallot": "DATO' SRI HAJI HASAN BIN ARIFIN"
+            },
+            {
+                "Party": "PH",
+                "Name": "ERMAN SHAH",
+                "Votes": 4779,
+                "NameBallot": "ERMAN SHAH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HAMIZI BIN HUSSAIN",
+                "Votes": 408,
+                "NameBallot": "HAMIZI BIN HUSSAIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P91",
+        "SeatName": "ROMPIN",
+        "info": {
+            "EligibleVoters": "61918",
+            "MalayVoters": "88",
+            "ChineseVoters": "2",
+            "IndianVoters": "1",
+            "OtherVoters": "9",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "685",
+            "Postal": "2",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HASAN BIN ARIFFIN",
+                "Votes": 26628,
+                "NameBallot": "DATO' SRI HASAN BIN ARIFIN",
+                "majority": 11395
+            },
+            {
+                "Party": "PAS",
+                "Name": "M SHAHRUL NIZAM BIN ABDUL HALIFF",
+                "Votes": 15233,
+                "NameBallot": "USTAZ SHAHRUL"
+            },
+            {
+                "Party": "PKR",
+                "Name": "SITARUNISHA BINTI AB KADIR",
+                "Votes": 7876,
+                "NameBallot": "SITARUNISAH BINTI AB KADIR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P91",
+        "SeatName": "ROMPIN",
+        "info": {
+            "EligibleVoters": "53596",
+            "MalayVoters": "87",
+            "ChineseVoters": "2",
+            "IndianVoters": "1",
+            "OtherVoters": "9",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "883",
+            "Turnout": "45849",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "JAMALUDIN BIN JARJIS",
+                "Votes": 30040,
+                "majority": 15114
+            },
+            {
+                "Party": "PAS",
+                "Name": "NURIDAH BINTI MOHD SALLEH",
+                "Votes": 14926
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P91",
+        "SeatName": "ROMPIN",
+        "info": {
+            "EligibleVoters": "41701",
+            "MalayVoters": "93",
+            "ChineseVoters": "3",
+            "IndianVoters": "1",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "824",
+            "Turnout": "32960",
+            "Unreturned": "199"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SRI DR JAMALUDDIN MOHD JARJIS",
+                "Votes": 21308,
+                "majority": 10679
+            },
+            {
+                "Party": "PAS",
+                "Name": "MAZLAN MOHD YASIN",
+                "Votes": 10629
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P91",
+        "SeatName": "ROMPIN",
+        "info": {
+            "EligibleVoters": "38319",
+            "MalayVoters": "89",
+            "ChineseVoters": "3",
+            "IndianVoters": "2",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "847",
+            "Turnout": "30215",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR JAMALUDDIN MOHD JARJIS",
+                "Votes": 19359,
+                "majority": 9350
+            },
+            {
+                "Party": "PAS",
+                "Name": "SUKRI AHMAD",
+                "Votes": 10009
+            }
+        ]
+    }
+}

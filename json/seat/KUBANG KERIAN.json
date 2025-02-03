@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P24",
+        "SeatName": "KUBANG KERIAN",
+        "info": {
+            "EligibleVoters": "113640",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "USTAZ DATO' TUAN IBRAHIM",
+                "Votes": 55654,
+                "NameBallot": "USTAZ DATO' TUAN IBRAHIM",
+                "majority": 40847
+            },
+            {
+                "Party": "BN",
+                "Name": "KAK LONG",
+                "Votes": 14807,
+                "NameBallot": "KAK LONG"
+            },
+            {
+                "Party": "PH",
+                "Name": "DR.WAN AHMAD KAMIL",
+                "Votes": 10236,
+                "NameBallot": "DR.WAN AHMAD KAMIL"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "RIZAL",
+                "Votes": 687,
+                "NameBallot": "RIZAL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P24",
+        "SeatName": "KUBANG KERIAN",
+        "info": {
+            "EligibleVoters": "82018",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "90",
+            "Postal": "20",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "TUAN IBRAHIM BIN TUAN MAN",
+                "Votes": 35620,
+                "NameBallot": "USTAZ TUAN IBRAHIM",
+                "majority": 19369
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MUHAMMAD BIN ABDUL GHANI",
+                "Votes": 16251,
+                "NameBallot": "DATO' SRI MUHAMMAD ABD GHANI"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "ABDUL HALIM BIN YUSOF",
+                "Votes": 11557,
+                "NameBallot": "DATO DR HALIM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P24",
+        "SeatName": "KUBANG KERIAN",
+        "info": {
+            "EligibleVoters": "65390",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "605",
+            "Turnout": "54884",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "AHMAD BAIHAKI BIN ATIQULLAH",
+                "Votes": 35510,
+                "majority": 16741
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ANUAR BIN SAFIAN",
+                "Votes": 18769
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P24",
+        "SeatName": "KUBANG KERIAN",
+        "info": {
+            "EligibleVoters": "53496",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "638",
+            "Turnout": "44474",
+            "Unreturned": "120"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SALAHUDDIN AYUB",
+                "Votes": 27179,
+                "majority": 10642
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AB GHANI MAMAT",
+                "Votes": 16537
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P24",
+        "SeatName": "KUBANG KERIAN",
+        "info": {
+            "EligibleVoters": "47148",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1225",
+            "Turnout": "38458",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SALAHUDDIN AYUB",
+                "Votes": 21430,
+                "majority": 5627
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK AHMAD RUSLI IBERAHIM",
+                "Votes": 15803
+            }
+        ]
+    }
+}

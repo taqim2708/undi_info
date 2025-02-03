@@ -1,0 +1,187 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P45",
+        "SeatName": "BUKIT MERTAJAM",
+        "info": {
+            "EligibleVoters": "120819",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "STEVEN SIM CHEE KEONG",
+                "Votes": 71722,
+                "NameBallot": "STEVEN SIM CHEE KEONG",
+                "majority": 57685
+            },
+            {
+                "Party": "PN",
+                "Name": "STEVEN KOH",
+                "Votes": 14037,
+                "NameBallot": "STEVEN KOH"
+            },
+            {
+                "Party": "BN",
+                "Name": "AH PANG",
+                "Votes": 6986,
+                "NameBallot": "AH PANG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P45",
+        "SeatName": "BUKIT MERTAJAM",
+        "info": {
+            "EligibleVoters": "88998",
+            "MalayVoters": "19",
+            "ChineseVoters": "70",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "75",
+            "Postal": "12",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SIM CHEE KEONG",
+                "Votes": 63784,
+                "NameBallot": "SIM CHEE KEONG",
+                "majority": 52877
+            },
+            {
+                "Party": "MCA",
+                "Name": "GUI GUAT LYE",
+                "Votes": 10907,
+                "NameBallot": "GUI GUAT LYE"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P45",
+        "SeatName": "BUKIT MERTAJAM",
+        "info": {
+            "EligibleVoters": "78996",
+            "MalayVoters": "19",
+            "ChineseVoters": "71",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "712",
+            "Turnout": "69403",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SIM CHEE KEONG",
+                "Votes": 55877,
+                "majority": 43063
+            },
+            {
+                "Party": "MCA",
+                "Name": "GUI GUAT LYE",
+                "Votes": 12814
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P45",
+        "SeatName": "BUKIT MERTAJAM",
+        "info": {
+            "EligibleVoters": "64080",
+            "MalayVoters": "18",
+            "ChineseVoters": "74",
+            "IndianVoters": "8",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "931",
+            "Turnout": "50823",
+            "Unreturned": "25"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHONG ENG",
+                "Votes": 37882,
+                "majority": 15832
+            },
+            {
+                "Party": "MCA",
+                "Name": "ONG TANG CHUAN",
+                "Votes": 22050
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P45",
+        "SeatName": "BUKIT MERTAJAM",
+        "info": {
+            "EligibleVoters": "58736",
+            "MalayVoters": "19",
+            "ChineseVoters": "73",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1148",
+            "Turnout": "45442",
+            "Unreturned": "428"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHONG ENG",
+                "Votes": 26215,
+                "majority": 8564
+            },
+            {
+                "Party": "MCA",
+                "Name": "MA KOK BEN",
+                "Votes": 17651
+            }
+        ]
+    }
+}

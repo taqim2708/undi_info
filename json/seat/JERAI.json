@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P12",
+        "SeatName": "JERAI",
+        "info": {
+            "EligibleVoters": "105001",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "USTAZ SABRI BIN AZIT",
+                "Votes": 49461,
+                "NameBallot": "USTAZ SABRI BIN AZIT",
+                "majority": 33192
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO SERI DR. JAMIL KHIR BAHAROM",
+                "Votes": 16269,
+                "NameBallot": "DATO SERI DR. JAMIL KHIR BAHAROM"
+            },
+            {
+                "Party": "PH",
+                "Name": "ZULHAZMI BIN SHARIFF",
+                "Votes": 15590,
+                "NameBallot": "ZULHAZMI BIN SHARIFF"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATUK NIZAM MAHSHAR",
+                "Votes": 973,
+                "NameBallot": "DATUK NIZAM MAHSHAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P12",
+        "SeatName": "JERAI",
+        "info": {
+            "EligibleVoters": "79976",
+            "MalayVoters": "80",
+            "ChineseVoters": "14",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "295",
+            "Postal": "11",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SABRI BIN AZIT",
+                "Votes": 22312,
+                "NameBallot": "USTAZ SABRI BIN AZIT",
+                "majority": 539
+            },
+            {
+                "Party": "UMNO",
+                "Name": "JAMIL KHIR BIN BAHAROM",
+                "Votes": 21773,
+                "NameBallot": "DATO' SERI JAMIL KHIR BIN BAHAROM"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "AKHRAMSYAH MUAMMAR UBAIDAH BIN SANUSI",
+                "Votes": 21651,
+                "NameBallot": "AKHRAMSYAH BIN SANUSI JUNID"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P12",
+        "SeatName": "JERAI",
+        "info": {
+            "EligibleVoters": "74410",
+            "MalayVoters": "79",
+            "ChineseVoters": "15",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "952",
+            "Turnout": "64614",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "JAMIL KHIR BIN BAHAROM",
+                "Votes": 32429,
+                "majority": 1196
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD FIRDAUS BIN JAAFAR",
+                "Votes": 31233
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P12",
+        "SeatName": "JERAI",
+        "info": {
+            "EligibleVoters": "65739",
+            "MalayVoters": "79",
+            "ChineseVoters": "14",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1070",
+            "Turnout": "51791",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MOHD FIRDAUS JA'AFAR",
+                "Votes": 26510,
+                "majority": 2299
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK PADUKA BADRUDDIN AMIRULDIN",
+                "Votes": 24211
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P12",
+        "SeatName": "JERAI",
+        "info": {
+            "EligibleVoters": "63886",
+            "MalayVoters": "77",
+            "ChineseVoters": "16",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1015",
+            "Turnout": "50918",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK BADRUDDIN AMIRUDIN",
+                "Votes": 30154,
+                "majority": 10405
+            },
+            {
+                "Party": "PAS",
+                "Name": "CHE BIN ARSHAD",
+                "Votes": 19749
+            }
+        ]
+    }
+}

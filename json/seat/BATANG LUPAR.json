@@ -1,0 +1,192 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P201",
+        "SeatName": "BATANG LUPAR",
+        "info": {
+            "EligibleVoters": "43072",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "MOHAMAD SHAFIZAN",
+                "Votes": 19627,
+                "NameBallot": "MOHAMAD SHAFIZAN",
+                "majority": 14463
+            },
+            {
+                "Party": "PN",
+                "Name": "HAMDAN SANI",
+                "Votes": 5164,
+                "NameBallot": "HAMDAN SANI"
+            },
+            {
+                "Party": "PH",
+                "Name": "WEL @ MAXWEL ROJIS",
+                "Votes": 2768,
+                "NameBallot": "WEL @ MAXWEL ROJIS"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P201",
+        "SeatName": "BATANG LUPAR",
+        "info": {
+            "EligibleVoters": "29811",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "67",
+            "BumiNonmuslimVoters": "30",
+            "SabahBumiVoters": "0",
+            "Early": "7",
+            "Postal": "2",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "ROHANI BINTI ABDUL KARIM",
+                "Votes": 14204,
+                "NameBallot": "ROHANI KARIM",
+                "majority": 10277
+            },
+            {
+                "Party": "PAS",
+                "Name": "WAN ABDILLAH BIN WAN AHMAD",
+                "Votes": 3927,
+                "NameBallot": "USTAZ WAN ABDILLAH"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "NARUDIN BIN MENTALI",
+                "Votes": 2020,
+                "NameBallot": "NARUDIN BIN MENTALI"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P201",
+        "SeatName": "BATANG LUPAR",
+        "info": {
+            "EligibleVoters": "27360",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "77",
+            "BumiNonmuslimVoters": "20",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "425",
+            "Turnout": "20711",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "ROHANI BINTI ABDUL KARIM",
+                "Votes": 15625,
+                "majority": 10964
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABANG ZULKIFLI BIN ABANG ENGKEH",
+                "Votes": 4661
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P201",
+        "SeatName": "BATANG LUPAR",
+        "info": {
+            "EligibleVoters": "22417",
+            "MalayVoters": "0",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "193",
+            "Turnout": "14393",
+            "Unreturned": "12"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "DATUK ROHANI ABDUL KARIM",
+                "Votes": 11015,
+                "majority": 8092
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABANG EDDY ALLYANNI",
+                "Votes": 2923
+            },
+            {
+                "Party": "IND",
+                "Name": "ALI SEMSU",
+                "Votes": 250
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P201",
+        "SeatName": "BATANG LUPAR",
+        "info": {
+            "EligibleVoters": "19027",
+            "MalayVoters": "28",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Rohani Abdul Karim",
+                "Votes": 0
+            }
+        ]
+    }
+}

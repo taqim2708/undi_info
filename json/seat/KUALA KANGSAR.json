@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P67",
+        "SeatName": "KUALA KANGSAR",
+        "info": {
+            "EligibleVoters": "46985",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "ISKANDAR DZULKARNAIN",
+                "Votes": 14380,
+                "NameBallot": "ISKANDAR DZULKARNAIN",
+                "majority": 3566
+            },
+            {
+                "Party": "BN",
+                "Name": "MASLIN SHAM BIN RAZMAN",
+                "Votes": 10814,
+                "NameBallot": "MASLIN SHAM BIN RAZMAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "DR. AHMAD TERMIZI RAMLI",
+                "Votes": 10356,
+                "NameBallot": "DR. AHMAD TERMIZI RAMLI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR YUSMALIA BT MOHAMAD YUSOF",
+                "Votes": 204,
+                "NameBallot": "DR YUSMALIA BT MOHAMAD YUSOF"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P67",
+        "SeatName": "KUALA KANGSAR",
+        "info": {
+            "EligibleVoters": "36954",
+            "MalayVoters": "71",
+            "ChineseVoters": "22",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "376",
+            "Postal": "6",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MASTURA BINTI MOHD YAZID",
+                "Votes": 12102,
+                "NameBallot": "DATIN MASTURA YAZID",
+                "majority": 731
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "AHMAD TERMIZI BIN RAMLI",
+                "Votes": 11371,
+                "NameBallot": "DR AHMAD TERMIZI RAMLI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "KHALIL IDHAM LIM BIN ABDULLAH",
+                "Votes": 6583,
+                "NameBallot": "DRS KHALIL IDHAM LIM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P67",
+        "SeatName": "KUALA KANGSAR",
+        "info": {
+            "EligibleVoters": "33540",
+            "MalayVoters": "68",
+            "ChineseVoters": "24",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "407",
+            "Turnout": "28208",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "WAN MOHAMMAD KHAIR-IL ANUAR BIN WAN AHMAD",
+                "Votes": 14218,
+                "majority": 1082
+            },
+            {
+                "Party": "PAS",
+                "Name": "KHALIL IDHAM LIM BIN ABDULLAH",
+                "Votes": 13136
+            },
+            {
+                "Party": "IND",
+                "Name": "KAMILIA BINTI IBRAHIM",
+                "Votes": 447
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P67",
+        "SeatName": "KUALA KANGSAR",
+        "info": {
+            "EligibleVoters": "28325",
+            "MalayVoters": "66",
+            "ChineseVoters": "26",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "373",
+            "Turnout": "20773",
+            "Unreturned": "388"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI RAFIDAH AZIZ",
+                "Votes": 10735,
+                "majority": 1458
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR KHAIRUDIN ABDUL MALIK",
+                "Votes": 9277
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P67",
+        "SeatName": "KUALA KANGSAR",
+        "info": {
+            "EligibleVoters": "28391",
+            "MalayVoters": "65",
+            "ChineseVoters": "27",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "305",
+            "Turnout": "17358",
+            "Unreturned": "126"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI RAFIDAH AZIZ",
+                "Votes": 11305,
+                "majority": 5557
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMMAD NIZAK JAMALUDDIN",
+                "Votes": 5748
+            }
+        ]
+    }
+}

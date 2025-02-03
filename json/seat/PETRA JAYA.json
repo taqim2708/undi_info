@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P194",
+        "SeatName": "PETRA JAYA",
+        "info": {
+            "EligibleVoters": "109809",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "FADILLAH BIN YUSOF",
+                "Votes": 54745,
+                "NameBallot": "FADILLAH BIN YUSOF",
+                "majority": 41363
+            },
+            {
+                "Party": "PH",
+                "Name": "SOPIAN JULAIHI",
+                "Votes": 13382,
+                "NameBallot": "SOPIAN JULAIHI"
+            },
+            {
+                "Party": "SEDAR",
+                "Name": "OTHMAN BIN ABDILLAH",
+                "Votes": 1036,
+                "NameBallot": "OTHMAN BIN ABDILLAH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P194",
+        "SeatName": "PETRA JAYA",
+        "info": {
+            "EligibleVoters": "57925",
+            "MalayVoters": "0",
+            "ChineseVoters": "13",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "74",
+            "BumiNonmuslimVoters": "12",
+            "SabahBumiVoters": "0",
+            "Early": "908",
+            "Postal": "22",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "FADILLAH BIN YUSOF",
+                "Votes": 28306,
+                "NameBallot": "FADILLAH HJ YUSOF",
+                "majority": 15017
+            },
+            {
+                "Party": "PKR",
+                "Name": "NOR IRWAN BIN AHMAT NOR",
+                "Votes": 13289,
+                "NameBallot": "DATUK IR DR NOR IRWAN BIN HJ AHMAT NOR"
+            },
+            {
+                "Party": "PAS",
+                "Name": "HAMDAN BIN SANI",
+                "Votes": 1350,
+                "NameBallot": "HAMDAN SANI"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P194",
+        "SeatName": "PETRA JAYA",
+        "info": {
+            "EligibleVoters": "49750",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "79",
+            "BumiNonmuslimVoters": "8",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "321",
+            "Turnout": "37996",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "FADILLAH BIN YUSOF",
+                "Votes": 29559,
+                "majority": 21443
+            },
+            {
+                "Party": "PKR",
+                "Name": "AHMAD NAZIB BIN JOHARI",
+                "Votes": 8116
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P194",
+        "SeatName": "PETRA JAYA",
+        "info": {
+            "EligibleVoters": "40533",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "263",
+            "Turnout": "25027",
+            "Unreturned": "131"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "FADILLAH YUSOF",
+                "Votes": 19515,
+                "majority": 14397
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHAMAD JOLHI",
+                "Votes": 5118
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P194",
+        "SeatName": "PETRA JAYA",
+        "info": {
+            "EligibleVoters": "39365",
+            "MalayVoters": "35",
+            "ChineseVoters": "14",
+            "IndianVoters": "1",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "292",
+            "Turnout": "23948",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Fadillah Yusof",
+                "Votes": 18236,
+                "majority": 12816
+            },
+            {
+                "Party": "PKR",
+                "Name": "Wan Zainal Abidin Wan Senusi",
+                "Votes": 5420
+            }
+        ]
+    }
+}

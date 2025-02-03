@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P142",
+        "SeatName": "LABIS",
+        "info": {
+            "EligibleVoters": "49846",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "PANG HOK LIONG",
+                "Votes": 16133,
+                "NameBallot": "PANG HOK LIONG",
+                "majority": 2833
+            },
+            {
+                "Party": "BN",
+                "Name": "CHUA TEE YONG",
+                "Votes": 13300,
+                "NameBallot": "CHUA TEE YONG"
+            },
+            {
+                "Party": "PN",
+                "Name": "ALVIN CHANG",
+                "Votes": 5312,
+                "NameBallot": "ALVIN CHANG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P142",
+        "SeatName": "LABIS",
+        "info": {
+            "EligibleVoters": "40356",
+            "MalayVoters": "38",
+            "ChineseVoters": "45",
+            "IndianVoters": "15",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "66",
+            "Postal": "8",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "PANG HOK LIONG",
+                "Votes": 16709,
+                "NameBallot": "PANG HOK LIONG",
+                "majority": 3408
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHUA TEE YONG",
+                "Votes": 13301,
+                "NameBallot": "CHUA TEE YONG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "SARCHU BIN SAWAL",
+                "Votes": 2020,
+                "NameBallot": "DATUK SARCHU SAWAL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P142",
+        "SeatName": "LABIS",
+        "info": {
+            "EligibleVoters": "37714",
+            "MalayVoters": "36",
+            "ChineseVoters": "47",
+            "IndianVoters": "15",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "689",
+            "Turnout": "31978",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "CHUA TEE YONG",
+                "Votes": 15821,
+                "majority": 353
+            },
+            {
+                "Party": "DAP",
+                "Name": "RAMAKRISHNAN A/L SUPPIAH",
+                "Votes": 15468
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P142",
+        "SeatName": "LABIS",
+        "info": {
+            "EligibleVoters": "33468",
+            "MalayVoters": "37",
+            "ChineseVoters": "48",
+            "IndianVoters": "15",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "816",
+            "Turnout": "24080",
+            "Unreturned": "42"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "CHUA TEE YONG",
+                "Votes": 13658,
+                "majority": 4094
+            },
+            {
+                "Party": "DAP",
+                "Name": "TEO ENG CHING",
+                "Votes": 9564
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P142",
+        "SeatName": "LABIS",
+        "info": {
+            "EligibleVoters": "32518",
+            "MalayVoters": "35",
+            "ChineseVoters": "49",
+            "IndianVoters": "15",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "839",
+            "Turnout": "23073",
+            "Unreturned": "25"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK DR CHUA SOI LEK @ CHUA KIN SENG",
+                "Votes": 16469,
+                "majority": 10729
+            },
+            {
+                "Party": "DAP",
+                "Name": "TEE GEY YAN",
+                "Votes": 5740
+            }
+        ]
+    }
+}

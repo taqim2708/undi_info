@@ -1,0 +1,238 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P62",
+        "SeatName": "SUNGAI SIPUT",
+        "info": {
+            "EligibleVoters": "72395",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "S. KESAVAN",
+                "Votes": 21637,
+                "NameBallot": "S. KESAVAN",
+                "majority": 1846
+            },
+            {
+                "Party": "BN",
+                "Name": "TAN SRI SA. VIGNESWARAN (TSV)",
+                "Votes": 19791,
+                "NameBallot": "TAN SRI SA. VIGNESWARAN (TSV)"
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO SRI IRUDIANATHAN",
+                "Votes": 8190,
+                "NameBallot": "DATO SRI IRUDIANATHAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AHMAD FAUZI BIN MOHD JAAFAR",
+                "Votes": 784,
+                "NameBallot": "AHMAD FAUZI BIN MOHD JAAFAR"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "INDRANI",
+                "Votes": 614,
+                "NameBallot": "INDRANI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HAJI BAHA",
+                "Votes": 598,
+                "NameBallot": "HAJI BAHA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "RAJAH A/L NARASAIM",
+                "Votes": 35,
+                "NameBallot": "RAJAH A/L NARASAIM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P62",
+        "SeatName": "SUNGAI SIPUT",
+        "info": {
+            "EligibleVoters": "55002",
+            "MalayVoters": "35",
+            "ChineseVoters": "36",
+            "IndianVoters": "21",
+            "OtherVoters": "8",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "264",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "KESAVAN A/L SUBRAMANIAM",
+                "Votes": 20817,
+                "NameBallot": "S KESAVAN",
+                "majority": 5607
+            },
+            {
+                "Party": "MIC",
+                "Name": "DEVAMANY A/L S KRISHNASAMY",
+                "Votes": 15210,
+                "NameBallot": "SK DEVAMANY"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ISHAK BIN IBRAHIM",
+                "Votes": 5194,
+                "NameBallot": "DR ISHAK IBRAHIM"
+            },
+            {
+                "Party": "PSM",
+                "Name": "MICHAEL JEYAKUMAR DEVARAJ",
+                "Votes": 1505,
+                "NameBallot": "DR KUMAR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P62",
+        "SeatName": "SUNGAI SIPUT",
+        "info": {
+            "EligibleVoters": "51596",
+            "MalayVoters": "33",
+            "ChineseVoters": "39",
+            "IndianVoters": "21",
+            "OtherVoters": "7",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "971",
+            "Turnout": "41561",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MICHAEL JEYAKUMAR DEVARAJ",
+                "Votes": 21593,
+                "majority": 2793
+            },
+            {
+                "Party": "MIC",
+                "Name": "DEVAMANY A/L S KRISHNASAMY",
+                "Votes": 18800
+            },
+            {
+                "Party": "IND",
+                "Name": "NAGALINGAM A/L SINGARAVELLOO",
+                "Votes": 197
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P62",
+        "SeatName": "SUNGAI SIPUT",
+        "info": {
+            "EligibleVoters": "47424",
+            "MalayVoters": "36",
+            "ChineseVoters": "40",
+            "IndianVoters": "23",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1001",
+            "Turnout": "33154",
+            "Unreturned": "194"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MICHAEL JEYAKUMAR DEVARAJ",
+                "Votes": 16458,
+                "majority": 1821
+            },
+            {
+                "Party": "MIC",
+                "Name": "DATUK SERI SSAMY VELLU",
+                "Votes": 14637
+            },
+            {
+                "Party": "IND",
+                "Name": "NOR RIZAN OON",
+                "Votes": 864
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P62",
+        "SeatName": "SUNGAI SIPUT",
+        "info": {
+            "EligibleVoters": "46783",
+            "MalayVoters": "31",
+            "ChineseVoters": "41",
+            "IndianVoters": "23",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "583",
+            "Turnout": "30806",
+            "Unreturned": "583"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "DATUK SERI SAMY VELLU",
+                "Votes": 18797,
+                "majority": 10235
+            },
+            {
+                "Party": "PKR",
+                "Name": "DR MICHAEL JEYAKUMAR DEVARAJ",
+                "Votes": 8562
+            },
+            {
+                "Party": "DAP",
+                "Name": "SAMUGAM PONMUGAM PONNAN",
+                "Votes": 2864
+            }
+        ]
+    }
+}

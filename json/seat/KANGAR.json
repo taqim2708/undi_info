@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P2",
+        "SeatName": "KANGAR",
+        "info": {
+            "EligibleVoters": "74859",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "CIKGU ZAKRI",
+                "Votes": 24562,
+                "NameBallot": "CIKGU ZAKRI",
+                "majority": 9192
+            },
+            {
+                "Party": "BN",
+                "Name": "DR FATHUL BARI",
+                "Votes": 15370,
+                "NameBallot": "DR FATHUL BARI"
+            },
+            {
+                "Party": "PH",
+                "Name": "AMIN AHMAD",
+                "Votes": 15143,
+                "NameBallot": "AMIN AHMAD"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "USTAZ NUR SULAIMAN",
+                "Votes": 708,
+                "NameBallot": "USTAZ NUR SULAIMAN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "PROF. DR. ROHIMI SHAPIEE",
+                "Votes": 417,
+                "NameBallot": "PROF. DR. ROHIMI SHAPIEE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P2",
+        "SeatName": "KANGAR",
+        "info": {
+            "EligibleVoters": "55938",
+            "MalayVoters": "82",
+            "ChineseVoters": "15",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1166",
+            "Postal": "11",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "NOOR AMIN BIN AHMAD",
+                "Votes": 20909,
+                "NameBallot": "AMIN AHMAD",
+                "majority": 5603
+            },
+            {
+                "Party": "UMNO",
+                "Name": "RAMLI BIN SHARIFF",
+                "Votes": 15306,
+                "NameBallot": "RAMLI SHARIFF"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD ZAHID BIN IBRAHIM",
+                "Votes": 8465,
+                "NameBallot": "USTAZ ZAHID IBRAHIM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P2",
+        "SeatName": "KANGAR",
+        "info": {
+            "EligibleVoters": "51207",
+            "MalayVoters": "81",
+            "ChineseVoters": "16",
+            "IndianVoters": "2",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "667",
+            "Turnout": "43309",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHAHARUDDIN BIN ISMAIL",
+                "Votes": 23343,
+                "majority": 4037
+            },
+            {
+                "Party": "PAS",
+                "Name": "BAHARUDDIN BIN AHMAD",
+                "Votes": 19306
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P2",
+        "SeatName": "KANGAR",
+        "info": {
+            "EligibleVoters": "43591",
+            "MalayVoters": "79",
+            "ChineseVoters": "18",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "808",
+            "Turnout": "34946",
+            "Unreturned": "167"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI RADZI SHEIKH AHMAD",
+                "Votes": 23821,
+                "majority": 13671
+            },
+            {
+                "Party": "PKR",
+                "Name": "TUNKU ABDUL RAHMAN TUNKU ISMAIL",
+                "Votes": 10150
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P2",
+        "SeatName": "KANGAR",
+        "info": {
+            "EligibleVoters": "40516",
+            "MalayVoters": "79",
+            "ChineseVoters": "18",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "548",
+            "Turnout": "32996",
+            "Unreturned": "99"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK RADZI SHEIKH AHMAD",
+                "Votes": 22498,
+                "majority": 12548
+            },
+            {
+                "Party": "PAS",
+                "Name": "ISHAR SAAD",
+                "Votes": 9950
+            }
+        ]
+    }
+}

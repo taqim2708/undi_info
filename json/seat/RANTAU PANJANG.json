@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P23",
+        "SeatName": "RANTAU PANJANG",
+        "info": {
+            "EligibleVoters": "93248",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "KAK LAH",
+                "Votes": 37759,
+                "NameBallot": "KAK LAH",
+                "majority": 20636
+            },
+            {
+                "Party": "BN",
+                "Name": "PROF UST ZUL",
+                "Votes": 17123,
+                "NameBallot": "PROF UST ZUL"
+            },
+            {
+                "Party": "PH",
+                "Name": "DR SHAH",
+                "Votes": 4256,
+                "NameBallot": "DR SHAH"
+            },
+            {
+                "Party": "PUTRA",
+                "Name": "DATO' DR. IBRAHIM ALI",
+                "Votes": 1216,
+                "NameBallot": "DATO' DR. IBRAHIM ALI"
+            },
+            {
+                "Party": "PRM",
+                "Name": "DATUK ZAIN",
+                "Votes": 173,
+                "NameBallot": "DATUK ZAIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P23",
+        "SeatName": "RANTAU PANJANG",
+        "info": {
+            "EligibleVoters": "66115",
+            "MalayVoters": "97",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "111",
+            "Postal": "12",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SITI ZAILAH BINTI MOHD YUSOFF",
+                "Votes": 24581,
+                "NameBallot": "KAK LAH",
+                "majority": 6150
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ABDULLAH BIN MAT YASIM",
+                "Votes": 18431,
+                "NameBallot": "ABDULLAH BIN MAT YASIM"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "WAN SHAH JIHAN BIN WAN DIN",
+                "Votes": 5361,
+                "NameBallot": "DR SHAH"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P23",
+        "SeatName": "RANTAU PANJANG",
+        "info": {
+            "EligibleVoters": "52903",
+            "MalayVoters": "98",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "632",
+            "Turnout": "41804",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SITI ZAILAH BINTI MOHD YUSOFF",
+                "Votes": 23724,
+                "majority": 6276
+            },
+            {
+                "Party": "UMNO",
+                "Name": "GHAZALI BIN ISMAIL",
+                "Votes": 17448
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P23",
+        "SeatName": "RANTAU PANJANG",
+        "info": {
+            "EligibleVoters": "45384",
+            "MalayVoters": "98",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "837",
+            "Turnout": "35451",
+            "Unreturned": "82"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SITI ZAILAH MOHD YUSOFF",
+                "Votes": 19344,
+                "majority": 4486
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD AFANDI YUSOFF",
+                "Votes": 14858
+            },
+            {
+                "Party": "IND",
+                "Name": "ISMA AIRFATH HASSANUDDIN",
+                "Votes": 330
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P23",
+        "SeatName": "RANTAU PANJANG",
+        "info": {
+            "EligibleVoters": "40956",
+            "MalayVoters": "98",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "701",
+            "Turnout": "30023",
+            "Unreturned": "65"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "ABDUL FATAH HARON",
+                "Votes": 15027,
+                "majority": 732
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD DAUD HAMAT",
+                "Votes": 14295
+            }
+        ]
+    }
+}

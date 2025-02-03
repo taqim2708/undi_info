@@ -1,0 +1,211 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P101",
+        "SeatName": "HULU LANGAT",
+        "info": {
+            "EligibleVoters": "166902",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "YB MOHD SANY HAMZAN",
+                "Votes": 58382,
+                "NameBallot": "YB MOHD SANY HAMZAN",
+                "majority": 14896
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO' DR. MOHD RADZI ABD LATIF",
+                "Votes": 43486,
+                "NameBallot": "DATO' DR. MOHD RADZI ABD LATIF"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK WIRA HAJI JOHAN BIN ABD AZIZ",
+                "Votes": 32570,
+                "NameBallot": "DATUK WIRA HAJI JOHAN BIN ABD AZIZ"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATO HAJI MARKIMAN KOBIRAN",
+                "Votes": 1655,
+                "NameBallot": "DATO HAJI MARKIMAN KOBIRAN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "DATO' ABDUL RAHMAN BIN JAAFAR",
+                "Votes": 370,
+                "NameBallot": "DATO' ABDUL RAHMAN BIN JAAFAR"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DR MOHAMED MUSTAFA",
+                "Votes": 326,
+                "NameBallot": "DR MOHAMED MUSTAFA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P101",
+        "SeatName": "HULU LANGAT",
+        "info": {
+            "EligibleVoters": "102363",
+            "MalayVoters": "66",
+            "ChineseVoters": "22",
+            "IndianVoters": "10",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "3946",
+            "Postal": "49",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "HASANUDDIN BIN MOHD YUNUS",
+                "Votes": 49004,
+                "NameBallot": "USTAZ HASANUDDIN MOHD YUNUS",
+                "majority": 25424
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AZMAN AHMAD",
+                "Votes": 23580,
+                "NameBallot": "AZMAN BIN AHMAD"
+            },
+            {
+                "Party": "PAS",
+                "Name": "CHE ROSLI BIN CHE MAT",
+                "Votes": 15663,
+                "NameBallot": "DR CHE ROSLI CHE MAT"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P101",
+        "SeatName": "HULU LANGAT",
+        "info": {
+            "EligibleVoters": "127347",
+            "MalayVoters": "53",
+            "ChineseVoters": "34",
+            "IndianVoters": "11",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1335",
+            "Turnout": "112322",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "CHE ROSLI BIN CHE MAT",
+                "Votes": 64127,
+                "majority": 17267
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ADZHALIZA BINTI MOHD NOR",
+                "Votes": 46860
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P101",
+        "SeatName": "HULU LANGAT",
+        "info": {
+            "EligibleVoters": "90319",
+            "MalayVoters": "53",
+            "ChineseVoters": "36",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1401",
+            "Turnout": "72322",
+            "Unreturned": "418"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DR CHE ROSLI CHE MAT",
+                "Votes": 36124,
+                "majority": 1745
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATO MARKIMAN KOBIRAN",
+                "Votes": 34379
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P101",
+        "SeatName": "HULU LANGAT",
+        "info": {
+            "EligibleVoters": "79999",
+            "MalayVoters": "52",
+            "ChineseVoters": "37",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1625",
+            "Turnout": "60722",
+            "Unreturned": "487"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MARKIMAN KOBIRAN",
+                "Votes": 40937,
+                "majority": 22777
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK YEOP ADLAN CHE ROSE",
+                "Votes": 18160
+            }
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P206",
+        "SeatName": "TANJONG MANIS",
+        "info": {
+            "EligibleVoters": "32948",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "IR. YUSUF ABD WAHAB",
+                "Votes": 16474,
+                "NameBallot": "IR. YUSUF ABD WAHAB",
+                "majority": 13908
+            },
+            {
+                "Party": "PH",
+                "Name": "USTAZAH ZAINAB",
+                "Votes": 2566,
+                "NameBallot": "USTAZAH ZAINAB"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P206",
+        "SeatName": "TANJONG MANIS",
+        "info": {
+            "EligibleVoters": "21899",
+            "MalayVoters": "0",
+            "ChineseVoters": "5",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "26",
+            "BumiNonmuslimVoters": "69",
+            "SabahBumiVoters": "0",
+            "Early": "4",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "YUSUF BIN ABD WAHAB",
+                "Votes": 11402,
+                "NameBallot": "YUSUF BIN ABD WAHAB",
+                "majority": 8674
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "MOHAMAD FADILLAH BIN SABALI",
+                "Votes": 2728,
+                "NameBallot": "FADILLAH SABALI"
+            }
+        ]
+    }
+}

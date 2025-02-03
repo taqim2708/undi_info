@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P143",
+        "SeatName": "PAGOH",
+        "info": {
+            "EligibleVoters": "69939",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "TAN SRI MUHYIDDIN BIN MD YASIN",
+                "Votes": 24986,
+                "NameBallot": "TAN SRI MUHYIDDIN BIN MD YASIN",
+                "majority": 10007
+            },
+            {
+                "Party": "PH",
+                "Name": "ISKANDAR SHAH",
+                "Votes": 14979,
+                "NameBallot": "ISKANDAR SHAH"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK SERI RAZALI IBRAHIM",
+                "Votes": 14426,
+                "NameBallot": "DATUK SERI RAZALI IBRAHIM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P143",
+        "SeatName": "PAGOH",
+        "info": {
+            "EligibleVoters": "51512",
+            "MalayVoters": "66",
+            "ChineseVoters": "30",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "105",
+            "Postal": "3",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "MUHYIDDIN BIN MOHD YASSIN",
+                "Votes": 23558,
+                "NameBallot": "TAN SRI MUHYIDDIN YASSIN",
+                "majority": 6927
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL BIN MOHAMED SAID",
+                "Votes": 16631,
+                "NameBallot": "ISMAIL BIN MOHAMED"
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHMAD NAWFAL BIN MAHFODZ",
+                "Votes": 2483,
+                "NameBallot": "AHMAD NAWFAL BIN MAHFODZ"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P143",
+        "SeatName": "PAGOH",
+        "info": {
+            "EligibleVoters": "46793",
+            "MalayVoters": "64",
+            "ChineseVoters": "31",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "809",
+            "Turnout": "40515",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MUHYIDDIN BIN MOHD YASSIN",
+                "Votes": 26274,
+                "majority": 12842
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD ROZALI BIN JAMIL",
+                "Votes": 13432
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P143",
+        "SeatName": "PAGOH",
+        "info": {
+            "EligibleVoters": "40042",
+            "MalayVoters": "63",
+            "ChineseVoters": "33",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "787",
+            "Turnout": "30313",
+            "Unreturned": "51"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MUHYIDDIN BIN MOHD YASSIN",
+                "Votes": 21028,
+                "majority": 12581
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD ROZALI JAMIL AL-HAFIZ",
+                "Votes": 8447
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P143",
+        "SeatName": "PAGOH",
+        "info": {
+            "EligibleVoters": "40172",
+            "MalayVoters": "62",
+            "ChineseVoters": "33",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "881",
+            "Turnout": "29534",
+            "Unreturned": "42"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MUHYIDDIN BIN MOHD YASSIN",
+                "Votes": 23679,
+                "majority": 18747
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED ANANG",
+                "Votes": 4932
+            }
+        ]
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P47",
+        "SeatName": "NIBONG TEBAL",
+        "info": {
+            "EligibleVoters": "100062",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "FADHLINA BINTI SIDEK",
+                "Votes": 42188,
+                "NameBallot": "FADHLINA BINTI SIDEK",
+                "majority": 16293
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO' MANSOR BIN OTHMAN",
+                "Votes": 25895,
+                "NameBallot": "DATO' MANSOR BIN OTHMAN"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK SERI THANENTHIRAN",
+                "Votes": 10660,
+                "NameBallot": "DATUK SERI THANENTHIRAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "GOH KHENG HUAT",
+                "Votes": 565,
+                "NameBallot": "GOH KHENG HUAT"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P47",
+        "SeatName": "NIBONG TEBAL",
+        "info": {
+            "EligibleVoters": "73383",
+            "MalayVoters": "48",
+            "ChineseVoters": "35",
+            "IndianVoters": "17",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "461",
+            "Postal": "8",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MANSOR BIN OTHMAN",
+                "Votes": 35395,
+                "NameBallot": "DATO MANSOR OTHMAN",
+                "majority": 15817
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SHAIK HUSSEIN BIN MYDIN",
+                "Votes": 19578,
+                "NameBallot": "DATO IR DR SHAIK HUSSEIN BIN MYDIN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD HELMI BIN HARUN",
+                "Votes": 6875,
+                "NameBallot": "MOHD HELMI BIN HARUN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TAN TEE BENG",
+                "Votes": 331,
+                "NameBallot": "TAN TEE BENG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P47",
+        "SeatName": "NIBONG TEBAL",
+        "info": {
+            "EligibleVoters": "59345",
+            "MalayVoters": "45",
+            "ChineseVoters": "37",
+            "IndianVoters": "18",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "833",
+            "Turnout": "52538",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MANSOR BIN OTHMAN",
+                "Votes": 30003,
+                "majority": 8598
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ZAINAL ABIDIN BIN OSMAN",
+                "Votes": 21405
+            },
+            {
+                "Party": "IND",
+                "Name": "TENG KOK PHENG",
+                "Votes": 297
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P47",
+        "SeatName": "NIBONG TEBAL",
+        "info": {
+            "EligibleVoters": "47540",
+            "MalayVoters": "46",
+            "ChineseVoters": "38",
+            "IndianVoters": "17",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "784",
+            "Turnout": "38129",
+            "Unreturned": "12"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "TAN TEE BENG",
+                "Votes": 20210,
+                "majority": 3087
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ZAINAL ABIDIN OSMAN",
+                "Votes": 17123
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P47",
+        "SeatName": "NIBONG TEBAL",
+        "info": {
+            "EligibleVoters": "41161",
+            "MalayVoters": "44",
+            "ChineseVoters": "41",
+            "IndianVoters": "16",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "751",
+            "Turnout": "32413",
+            "Unreturned": "21"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ZAINAL ABIDIN OSMAN",
+                "Votes": 18823,
+                "majority": 6005
+            },
+            {
+                "Party": "PKR",
+                "Name": "GOH KHENG HUAT",
+                "Votes": 12818
+            }
+        ]
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P216",
+        "SeatName": "HULU RAJANG",
+        "info": {
+            "EligibleVoters": "43438",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "UGAK ANAK KUMBONG",
+                "Votes": 15456,
+                "NameBallot": "UGAK ANAK KUMBONG",
+                "majority": 7505
+            },
+            {
+                "Party": "PH",
+                "Name": "ABUN SUI ANYIT",
+                "Votes": 7951,
+                "NameBallot": "ABUN SUI ANYIT"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P216",
+        "SeatName": "HULU RAJANG",
+        "info": {
+            "EligibleVoters": "27520",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "1",
+            "BumiNonmuslimVoters": "95",
+            "SabahBumiVoters": "0",
+            "Early": "66",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "UGAK ANAK KUMBNG @ WILSON UGAK",
+                "Votes": 11834,
+                "NameBallot": "WILSON UGAK ANAK KUMBONG",
+                "majority": 6315
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABUN SUI ANYIT",
+                "Votes": 5519,
+                "NameBallot": "ABUN SUI ANYIT"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P216",
+        "SeatName": "HULU RAJANG",
+        "info": {
+            "EligibleVoters": "21686",
+            "MalayVoters": "0",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "20",
+            "BumiNonmuslimVoters": "77",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "213",
+            "Turnout": "14742",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "UGAK ANAK KUMBONG",
+                "Votes": 9117,
+                "majority": 5834
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABUN SUI ANYIT",
+                "Votes": 3283
+            },
+            {
+                "Party": "SWP",
+                "Name": "GEORGE ANAK LAGONG",
+                "Votes": 2129
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P216",
+        "SeatName": "HULU RAJANG",
+        "info": {
+            "EligibleVoters": "17696",
+            "MalayVoters": "0",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "139",
+            "Turnout": "11164",
+            "Unreturned": "9"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "ABIT JOO @ BILLY ABIT JOO",
+                "Votes": 6590,
+                "majority": 2164
+            },
+            {
+                "Party": "IND",
+                "Name": "GEORGE LAGONG",
+                "Votes": 4426
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P215",
+        "SeatName": "HULU RAJANG",
+        "info": {
+            "EligibleVoters": "17185",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "20",
+            "BumiNonmuslimVoters": "77",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "171",
+            "Turnout": "10416",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBDS",
+                "Name": "Billy Abit Joo",
+                "Votes": 6949,
+                "majority": 3666
+            },
+            {
+                "Party": "SNAP",
+                "Name": "Bendindang Manjah",
+                "Votes": 3283
+            }
+        ]
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P197",
+        "SeatName": "KOTA SAMARAHAN",
+        "info": {
+            "EligibleVoters": "82229",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "DATUK HJH RUBIAH BINTI WANG",
+                "Votes": 42278,
+                "NameBallot": "DATUK HJH RUBIAH BINTI WANG",
+                "majority": 29445
+            },
+            {
+                "Party": "PH",
+                "Name": "ABANG HALIL",
+                "Votes": 12833,
+                "NameBallot": "ABANG HALIL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P197",
+        "SeatName": "KOTA SAMARAHAN",
+        "info": {
+            "EligibleVoters": "46300",
+            "MalayVoters": "0",
+            "ChineseVoters": "11",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "62",
+            "BumiNonmuslimVoters": "25",
+            "SabahBumiVoters": "0",
+            "Early": "6067",
+            "Postal": "5",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "RUBIAH BINTI WANG",
+                "Votes": 25070,
+                "NameBallot": "RUBIAH WANG",
+                "majority": 16992
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "SOPIAN BIN JULAIHI",
+                "Votes": 8078,
+                "NameBallot": "SOPIAN BIN JULAIHI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZULKIPLI BIN RAMZI",
+                "Votes": 2719,
+                "NameBallot": "ZULKIPLI RAMZI"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P197",
+        "SeatName": "KOTA SAMARAHAN",
+        "info": {
+            "EligibleVoters": "38158",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "65",
+            "BumiNonmuslimVoters": "22",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "528",
+            "Turnout": "31531",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "RUBIAH BINTI WANG",
+                "Votes": 24202,
+                "majority": 17401
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABANG AHMAD KERDEE BIN ABANG MASAGUS",
+                "Votes": 6801
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P197",
+        "SeatName": "KOTA SAMARAHAN",
+        "info": {
+            "EligibleVoters": "28517",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "449",
+            "Turnout": "21428",
+            "Unreturned": "374"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "SULAIMAN ABDUL RAHMAN ABDUL TAIB",
+                "Votes": 15559,
+                "majority": 11411
+            },
+            {
+                "Party": "PKR",
+                "Name": "HUSSAIN BIN APOK",
+                "Votes": 4148
+            },
+            {
+                "Party": "IND",
+                "Name": "ABU BAKAR AWANG DAWOS",
+                "Votes": 898
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P197",
+        "SeatName": "KOTA SAMARAHAN",
+        "info": {
+            "EligibleVoters": "27628",
+            "MalayVoters": "31",
+            "ChineseVoters": "16",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Abdul Taib Mahmud",
+                "Votes": 0
+            }
+        ]
+    }
+}

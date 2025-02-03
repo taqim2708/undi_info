@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P33",
+        "SeatName": "BESUT",
+        "info": {
+            "EligibleVoters": "111650",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK ABE ZUL",
+                "Votes": 49569,
+                "NameBallot": "DATUK ABE ZUL",
+                "majority": 18666
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK HAJI NAWI MOHAMAD",
+                "Votes": 30903,
+                "NameBallot": "DATUK HAJI NAWI MOHAMAD"
+            },
+            {
+                "Party": "PH",
+                "Name": "USTAZ AZIZ",
+                "Votes": 4339,
+                "NameBallot": "USTAZ AZIZ"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATO' Ir. WAN NAZARI",
+                "Votes": 553,
+                "NameBallot": "DATO' Ir. WAN NAZARI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P33",
+        "SeatName": "BESUT",
+        "info": {
+            "EligibleVoters": "86627",
+            "MalayVoters": "98",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1753",
+            "Postal": "9",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "IDRIS BIN JUSOH",
+                "Votes": 34335,
+                "NameBallot": "IDRIS JUSOH",
+                "majority": 4599
+            },
+            {
+                "Party": "PAS",
+                "Name": "RIDUAN BIN MOHAMAD NOR",
+                "Votes": 29736,
+                "NameBallot": "DR USTAZ RIDUAN MOHAMAD NOR"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "WAN NAZARI BIN WAN JUSOH",
+                "Votes": 6864,
+                "NameBallot": "DATO' IR HAJI WAN NAZARI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P33",
+        "SeatName": "BESUT",
+        "info": {
+            "EligibleVoters": "72566",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "641",
+            "Turnout": "62763",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "IDRIS BIN JUSOH",
+                "Votes": 35232,
+                "majority": 8342
+            },
+            {
+                "Party": "PAS",
+                "Name": "RIDUAN BIN MOHAMAD NOR",
+                "Votes": 26890
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P33",
+        "SeatName": "BESUT",
+        "info": {
+            "EligibleVoters": "58353",
+            "MalayVoters": "97",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "668",
+            "Turnout": "49303",
+            "Unreturned": "473"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR ABDULLAH MOHD ZIN",
+                "Votes": 29376,
+                "majority": 10590
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK HUSAIN AWANG",
+                "Votes": 18786
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P33",
+        "SeatName": "BESUT",
+        "info": {
+            "EligibleVoters": "51284",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "683",
+            "Turnout": "44357",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "PROF DATUK DR ABDULLAH MOHD ZIN",
+                "Votes": 26087,
+                "majority": 8500
+            },
+            {
+                "Party": "PAS",
+                "Name": "NASHARUDIN MAT ISA",
+                "Votes": 17587
+            }
+        ]
+    }
+}

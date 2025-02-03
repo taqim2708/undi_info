@@ -1,0 +1,226 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P171",
+        "SeatName": "SEPANGGAR",
+        "info": {
+            "EligibleVoters": "108370",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "MUSTAPHA SAKMUD",
+                "Votes": 27022,
+                "NameBallot": "MUSTAPHA SAKMUD",
+                "majority": 7042
+            },
+            {
+                "Party": "BN",
+                "Name": "YAKUB KHAN",
+                "Votes": 19980,
+                "NameBallot": "YAKUB KHAN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "MOHD AZIS JAMMAN",
+                "Votes": 18594,
+                "NameBallot": "MOHD AZIS JAMMAN"
+            },
+            {
+                "Party": "KDM",
+                "Name": "JUMARDIE LUKMAN",
+                "Votes": 3977,
+                "NameBallot": "JUMARDIE LUKMAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "YUSOF BIN KUNCHANG",
+                "Votes": 731,
+                "NameBallot": "YUSOF BIN KUNCHANG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P171",
+        "SeatName": "SEPANGGAR",
+        "info": {
+            "EligibleVoters": "62415",
+            "MalayVoters": "19",
+            "ChineseVoters": "20",
+            "IndianVoters": "0",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "55",
+            "Early": "59390",
+            "Postal": "3014",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "MOHD AZIS BIN JAMMAN",
+                "Votes": 28420,
+                "NameBallot": "MOHD AZIS BIN JAMMAN",
+                "majority": 12984
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ABD RAHMAN DAHLAN",
+                "Votes": 15436,
+                "NameBallot": "ABD RAHMAN BIN DAHLAN"
+            },
+            {
+                "Party": "SAPP",
+                "Name": "JEFFREY KUMIN",
+                "Votes": 2958,
+                "NameBallot": "JEFFREY KUMIN"
+            },
+            {
+                "Party": "PCS",
+                "Name": "ROBERT SOPINING",
+                "Votes": 971,
+                "NameBallot": "ROBERT SOPINING"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P171",
+        "SeatName": "SEPANGGAR",
+        "info": {
+            "EligibleVoters": "53374",
+            "MalayVoters": "0",
+            "ChineseVoters": "19",
+            "IndianVoters": "0",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "52",
+            "BumiNonmuslimVoters": "26",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1167",
+            "Turnout": "43416",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK JUMAT BIN IDRIS",
+                "Votes": 22845,
+                "majority": 9442
+            },
+            {
+                "Party": "DAP",
+                "Name": "JEFFREY KUMIN @ JOHN",
+                "Votes": 13403
+            },
+            {
+                "Party": "SAPP",
+                "Name": "CHIN HON KIONG",
+                "Votes": 4070
+            },
+            {
+                "Party": "STAR",
+                "Name": "DANIEL JOHN JAMBUN",
+                "Votes": 1931
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P171",
+        "SeatName": "SEPANGGAR",
+        "info": {
+            "EligibleVoters": "39251",
+            "MalayVoters": "0",
+            "ChineseVoters": "22",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "790",
+            "Turnout": "26990",
+            "Unreturned": "184"
+        },
+        "candidates": [
+            {
+                "Party": "SAPP",
+                "Name": "DATUK ERIC ENCHIN MAJIMBUN",
+                "Votes": 16884,
+                "majority": 11461
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHAMAD IBRAHIM @ PAUL KULELING",
+                "Votes": 5423
+            },
+            {
+                "Party": "DAP",
+                "Name": "EWOL MUNJI @ EDWARD EWOL MUNJI",
+                "Votes": 3709
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P171",
+        "SeatName": "SEPANGGAR",
+        "info": {
+            "EligibleVoters": "21988",
+            "MalayVoters": "0",
+            "ChineseVoters": "22",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "49",
+            "BumiNonmuslimVoters": "29",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "361",
+            "Turnout": "26990",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SAPP",
+                "Name": "Eric Majimbun",
+                "Votes": 16426,
+                "majority": 11225
+            },
+            {
+                "Party": "PKR",
+                "Name": "Saidatul Badru Said",
+                "Votes": 5201
+            }
+        ]
+    }
+}

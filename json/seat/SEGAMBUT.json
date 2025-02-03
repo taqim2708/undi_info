@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P117",
+        "SeatName": "SEGAMBUT",
+        "info": {
+            "EligibleVoters": "119652",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "HANNAH YEOH",
+                "Votes": 68438,
+                "NameBallot": "HANNAH YEOH",
+                "majority": 59684
+            },
+            {
+                "Party": "PN",
+                "Name": "PRABAGARAN",
+                "Votes": 8754,
+                "NameBallot": "PRABAGARAN"
+            },
+            {
+                "Party": "BN",
+                "Name": "DANIEL LING SIA CHIN",
+                "Votes": 8304,
+                "NameBallot": "DANIEL LING SIA CHIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P117",
+        "SeatName": "SEGAMBUT",
+        "info": {
+            "EligibleVoters": "77956",
+            "MalayVoters": "28",
+            "ChineseVoters": "59",
+            "IndianVoters": "12",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "21",
+            "Postal": "83",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "YEOH TSEOW SUAN",
+                "Votes": 53124,
+                "NameBallot": "HANNAH YEOH",
+                "majority": 45702
+            },
+            {
+                "Party": "MYPPP",
+                "Name": "LOGA BALA MOHAN A/L JAGANATHAN",
+                "Votes": 7422,
+                "NameBallot": "LOGA BALA MOHAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD SOLLEH BIN AB RAZAK",
+                "Votes": 4181,
+                "NameBallot": "SOLLEH RAZAK"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P117",
+        "SeatName": "SEGAMBUT",
+        "info": {
+            "EligibleVoters": "75631",
+            "MalayVoters": "33",
+            "ChineseVoters": "53",
+            "IndianVoters": "12",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "485",
+            "Turnout": "64052",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM LIP ENG",
+                "Votes": 41383,
+                "majority": 19199
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "JAYANTHI DEVI A/P BALAGURU",
+                "Votes": 22184
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P117",
+        "SeatName": "SEGAMBUT",
+        "info": {
+            "EligibleVoters": "59690",
+            "MalayVoters": "36",
+            "ChineseVoters": "52",
+            "IndianVoters": "12",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "541",
+            "Turnout": "43531",
+            "Unreturned": "630"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM LIP ENG",
+                "Votes": 25046,
+                "majority": 7732
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "MA WOEI CHYI",
+                "Votes": 17314
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P117",
+        "SeatName": "SEGAMBUT",
+        "info": {
+            "EligibleVoters": "57349",
+            "MalayVoters": "35",
+            "ChineseVoters": "49",
+            "IndianVoters": "15",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "640",
+            "Turnout": "39794",
+            "Unreturned": "467"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "DR TAN KEE KWONG",
+                "Votes": 28061,
+                "majority": 16968
+            },
+            {
+                "Party": "DAP",
+                "Name": "KUAN PERK SIONG",
+                "Votes": 11093
+            }
+        ]
+    }
+}

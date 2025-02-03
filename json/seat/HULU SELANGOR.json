@@ -1,0 +1,227 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P94",
+        "SeatName": "HULU SELANGOR",
+        "info": {
+            "EligibleVoters": "154317",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "HASNIZAN HARUN",
+                "Votes": 46823,
+                "NameBallot": "HASNIZAN HARUN",
+                "majority": 1562
+            },
+            {
+                "Party": "PH",
+                "Name": "DR. SATHIA PRAKASH NADARAJAN",
+                "Votes": 45261,
+                "NameBallot": "DR. SATHIA PRAKASH NADARAJAN"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK T.MOHAN",
+                "Votes": 27050,
+                "NameBallot": "DATUK T.MOHAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HARUMAINI BIN HAJI OMAR",
+                "Votes": 1849,
+                "NameBallot": "HARUMAINI BIN HAJI OMAR"
+            },
+            {
+                "Party": "PBM",
+                "Name": "HANIZA TALHA",
+                "Votes": 1013,
+                "NameBallot": "HANIZA TALHA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "AZLINDA BINTI BARONI",
+                "Votes": 446,
+                "NameBallot": "AZLINDA BINTI BARONI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P94",
+        "SeatName": "HULU SELANGOR",
+        "info": {
+            "EligibleVoters": "100990",
+            "MalayVoters": "61",
+            "ChineseVoters": "21",
+            "IndianVoters": "16",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1472",
+            "Postal": "14",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "LEOW HSIAD HUI",
+                "Votes": 40783,
+                "NameBallot": "JUNE LEOW",
+                "majority": 13391
+            },
+            {
+                "Party": "MIC",
+                "Name": "P KAMALANATHAN A/L P PANCHANATHAN",
+                "Votes": 27392,
+                "NameBallot": "PKAMALANATHAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "WAN MAT BIN SULAIMAN",
+                "Votes": 16620,
+                "NameBallot": "DR WAN MAT"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "KUMAR A/L SS PARAMASIVAM",
+                "Votes": 426,
+                "NameBallot": "KUMAR A/L S PARAMASIVAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P94",
+        "SeatName": "ULU SELANGOR",
+        "info": {
+            "EligibleVoters": "85697",
+            "MalayVoters": "56",
+            "ChineseVoters": "23",
+            "IndianVoters": "18",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1443",
+            "Turnout": "74939",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "PKAMALANATHAN A/L PPANCHANATHAN",
+                "Votes": 37403,
+                "majority": 3414
+            },
+            {
+                "Party": "PKR",
+                "Name": "KHALID BIN JAAFAR",
+                "Votes": 33989
+            },
+            {
+                "Party": "IND",
+                "Name": "RADZALI BIN MOKHTAR",
+                "Votes": 1105
+            },
+            {
+                "Party": "IND",
+                "Name": "SANTHARA KUMAR A/L RAMANAIDU",
+                "Votes": 999
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P94",
+        "SeatName": "ULU SELANGOR",
+        "info": {
+            "EligibleVoters": "63593",
+            "MalayVoters": "54",
+            "ChineseVoters": "27",
+            "IndianVoters": "19",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1466",
+            "Turnout": "47845",
+            "Unreturned": "223"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ZAINAL ABIDIN AHMAD",
+                "Votes": 23177,
+                "majority": 198
+            },
+            {
+                "Party": "MIC",
+                "Name": "DATUK G PALANIVEL",
+                "Votes": 22979
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P94",
+        "SeatName": "ULU SELANGOR",
+        "info": {
+            "EligibleVoters": "58533",
+            "MalayVoters": "50",
+            "ChineseVoters": "29",
+            "IndianVoters": "19",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1406",
+            "Turnout": "42537",
+            "Unreturned": "55"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "DATUK G PALANIVEL",
+                "Votes": 27807,
+                "majority": 14483
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK ISMAIL KAMUS",
+                "Votes": 13324
+            }
+        ]
+    }
+}

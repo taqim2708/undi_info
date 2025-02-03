@@ -1,0 +1,196 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P187",
+        "SeatName": "KINABATANGAN",
+        "info": {
+            "EligibleVoters": "44773",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "BUNG MOKTAR BIN RADIN",
+                "Votes": 16842,
+                "NameBallot": "BUNG MOKTAR BIN RADIN",
+                "majority": 4330
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "MAZLIWATI BINTI ABDUL MALEK",
+                "Votes": 12512,
+                "NameBallot": "MAZLIWATI BINTI ABDUL MALEK"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P187",
+        "SeatName": "KINABATANGAN",
+        "info": {
+            "EligibleVoters": "28730",
+            "MalayVoters": "17",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "76",
+            "Early": "28549",
+            "Postal": "181",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATO ' SRI MOKTAR BIN RADIN",
+                "Votes": 14465,
+                "NameBallot": "BUNG MOKTAR RADIN",
+                "majority": 9478
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "M A GHAZALI BIN ABDUL GHANI",
+                "Votes": 4987,
+                "NameBallot": "GHAZALI ABDUL GHANI"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "MUSTAPA BIN DATU TAMBUYONG",
+                "Votes": 2066,
+                "NameBallot": "MUSTAPA BIN DATU TAMBUYONG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P187",
+        "SeatName": "KINABATANGAN",
+        "info": {
+            "EligibleVoters": "24748",
+            "MalayVoters": "0",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "42",
+            "BumiNonmuslimVoters": "52",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "654",
+            "Turnout": "19960",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MOKTAR BIN RADIN",
+                "Votes": 13377,
+                "majority": 9731
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABDULLAH BIN ABDUL SANI",
+                "Votes": 3646
+            },
+            {
+                "Party": "STAR",
+                "Name": "YAMBUYA BIN PARANTIS @ CYRIL PONGOD",
+                "Votes": 1153
+            },
+            {
+                "Party": "IND",
+                "Name": "HAJI ALI LATIP BIN HAJI TAHA",
+                "Votes": 1130
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P187",
+        "SeatName": "KINABATANGAN",
+        "info": {
+            "EligibleVoters": "19554",
+            "MalayVoters": "0",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "589",
+            "Turnout": "12814",
+            "Unreturned": "22"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK BUNG MOKTAR RADIN",
+                "Votes": 8507,
+                "majority": 6326
+            },
+            {
+                "Party": "PKR",
+                "Name": "AHMAD ABDUL",
+                "Votes": 2181
+            },
+            {
+                "Party": "IND",
+                "Name": "DASIM @ RICKY JIKAH",
+                "Votes": 1515
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P187",
+        "SeatName": "KINABATANGAN",
+        "info": {
+            "EligibleVoters": "19441",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "92",
+            "BumiNonmuslimVoters": "6",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Bung Moktar Radin",
+                "Votes": 0
+            }
+        ]
+    }
+}

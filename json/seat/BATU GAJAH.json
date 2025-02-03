@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P66",
+        "SeatName": "BATU GAJAH",
+        "info": {
+            "EligibleVoters": "111896",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "V. SIVAKUMAR",
+                "Votes": 60999,
+                "NameBallot": "V. SIVAKUMAR",
+                "majority": 53836
+            },
+            {
+                "Party": "PN",
+                "Name": "WOO CHEONG YUEN ",
+                "Votes": 7163,
+                "NameBallot": "WOO CHEONG YUEN "
+            },
+            {
+                "Party": "BN",
+                "Name": "TEOH CHIN CHONG",
+                "Votes": 6793,
+                "NameBallot": "TEOH CHIN CHONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P66",
+        "SeatName": "BATU GAJAH",
+        "info": {
+            "EligibleVoters": "81399",
+            "MalayVoters": "10",
+            "ChineseVoters": "75",
+            "IndianVoters": "15",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "717",
+            "Postal": "20",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SIVAKUMAR A/L VARATHARAJU NAIDU",
+                "Votes": 52850,
+                "NameBallot": "V SIVAKUMAR",
+                "majority": 43868
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEONG CHEE WAI",
+                "Votes": 8982,
+                "NameBallot": "LEONG CHEE WAI"
+            },
+            {
+                "Party": "PSM",
+                "Name": "KUNASEKARAN A/L KRISHNAN",
+                "Votes": 955,
+                "NameBallot": "SEKAR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P66",
+        "SeatName": "BATU GAJAH",
+        "info": {
+            "EligibleVoters": "87587",
+            "MalayVoters": "11",
+            "ChineseVoters": "74",
+            "IndianVoters": "15",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "948",
+            "Turnout": "70152",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SIVAKUMAR A/L VARATHARAJU NAIDU",
+                "Votes": 53900,
+                "majority": 38596
+            },
+            {
+                "Party": "MCA",
+                "Name": "LOO THIN TUCK",
+                "Votes": 15304
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P66",
+        "SeatName": "BATU GAJAH",
+        "info": {
+            "EligibleVoters": "77313",
+            "MalayVoters": "10",
+            "ChineseVoters": "78",
+            "IndianVoters": "12",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "911",
+            "Turnout": "56270",
+            "Unreturned": "142"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "FONG PO KUAN",
+                "Votes": 39922,
+                "majority": 24627
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHEAH YOKE CAN",
+                "Votes": 15295
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P66",
+        "SeatName": "BATU GAJAH",
+        "info": {
+            "EligibleVoters": "73148",
+            "MalayVoters": "10",
+            "ChineseVoters": "79",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "771",
+            "Turnout": "50168",
+            "Unreturned": "771"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "FONG PO KUAN",
+                "Votes": 28662,
+                "majority": 7927
+            },
+            {
+                "Party": "MCA",
+                "Name": "DATUK ONG KA CHUAN",
+                "Votes": 20735
+            }
+        ]
+    }
+}

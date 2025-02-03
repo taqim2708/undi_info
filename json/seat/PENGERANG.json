@@ -1,0 +1,180 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P157",
+        "SeatName": "PENGERANG",
+        "info": {
+            "EligibleVoters": "55316",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "AZALINA OTHMAN SAID",
+                "Votes": 21738,
+                "NameBallot": "AZALINA OTHMAN SAID",
+                "majority": 5010
+            },
+            {
+                "Party": "PN",
+                "Name": "CIKGU IMAM NIZAR",
+                "Votes": 16728,
+                "NameBallot": "CIKGU IMAM NIZAR"
+            },
+            {
+                "Party": "PH",
+                "Name": "CHE ZAKARIA BIN MOHD SALLEH",
+                "Votes": 3374,
+                "NameBallot": "CHE ZAKARIA BIN MOHD SALLEH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P157",
+        "SeatName": "PENGERANG",
+        "info": {
+            "EligibleVoters": "40479",
+            "MalayVoters": "90",
+            "ChineseVoters": "9",
+            "IndianVoters": "1",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1080",
+            "Postal": "5",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AZALINA BINTI DATO OTHMAN SAID",
+                "Votes": 21829,
+                "NameBallot": "AZALINA OTHMAN SAID",
+                "majority": 11417
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "NORLIZA BINTI NGADIRAN",
+                "Votes": 10412,
+                "NameBallot": "NORLIZA NGADIRAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P157",
+        "SeatName": "PENGERANG",
+        "info": {
+            "EligibleVoters": "37999",
+            "MalayVoters": "88",
+            "ChineseVoters": "10",
+            "IndianVoters": "1",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "698",
+            "Turnout": "32969",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AZALINA BINTI OTHMAN",
+                "Votes": 26992,
+                "majority": 22508
+            },
+            {
+                "Party": "PKR",
+                "Name": "TENGKU INTAN BINTI TENGKU ABDUL HAMID",
+                "Votes": 4484
+            },
+            {
+                "Party": "IND",
+                "Name": "MOHD AZAMAN BIN JOHARI",
+                "Votes": 795
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P157",
+        "SeatName": "PENGERANG",
+        "info": {
+            "EligibleVoters": "33002",
+            "MalayVoters": "87",
+            "ChineseVoters": "12",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI AZALINA OTHMAN SAID (WALKOVER)",
+                "Votes": 0
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P157",
+        "SeatName": "PENGERANG",
+        "info": {
+            "EligibleVoters": "30957",
+            "MalayVoters": "85",
+            "ChineseVoters": "14",
+            "IndianVoters": "1",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK AZALINA OTHMAN SAID",
+                "Votes": 0
+            }
+        ]
+    }
+}

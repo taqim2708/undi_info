@@ -1,0 +1,209 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P76",
+        "SeatName": "TELUK INTAN",
+        "info": {
+            "EligibleVoters": "87222",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "NGA KOR MING",
+                "Votes": 33133,
+                "NameBallot": "NGA KOR MING",
+                "majority": 15169
+            },
+            {
+                "Party": "PN",
+                "Name": "ZAINOL FADZI PAHARUDIN",
+                "Votes": 17964,
+                "NameBallot": "ZAINOL FADZI PAHARUDIN"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO T. MURUGIAH",
+                "Votes": 12304,
+                "NameBallot": "DATO T. MURUGIAH"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AMIR KHUSYAIRI ",
+                "Votes": 793,
+                "NameBallot": "AMIR KHUSYAIRI "
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P76",
+        "SeatName": "TELUK INTAN",
+        "info": {
+            "EligibleVoters": "66487",
+            "MalayVoters": "41",
+            "ChineseVoters": "40",
+            "IndianVoters": "19",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "371",
+            "Postal": "15",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "NGA KOR MING",
+                "Votes": 29170,
+                "NameBallot": "NGA KOR MING",
+                "majority": 11179
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "MAH SIEW KEONG",
+                "Votes": 17991,
+                "NameBallot": "MAH SIEW KEONG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHMAD RAMADZAN AHMAD DAUD",
+                "Votes": 6494,
+                "NameBallot": "DR AHMAD RAMADZAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P76",
+        "SeatName": "TELUK INTAN",
+        "info": {
+            "EligibleVoters": "60483",
+            "MalayVoters": "38",
+            "ChineseVoters": "42",
+            "IndianVoters": "19",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "885",
+            "Turnout": "48649",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SEAH LEONG PENG",
+                "Votes": 27399,
+                "majority": 7313
+            },
+            {
+                "Party": "MCA",
+                "Name": "MAH SIEW KEONG",
+                "Votes": 20086
+            },
+            {
+                "Party": "IND",
+                "Name": "MORALINGAM A/L KANNAN",
+                "Votes": 279
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P76",
+        "SeatName": "TELUK INTAN",
+        "info": {
+            "EligibleVoters": "52354",
+            "MalayVoters": "36",
+            "ChineseVoters": "45",
+            "IndianVoters": "19",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1153",
+            "Turnout": "36739",
+            "Unreturned": "84"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "M MANOGARAN",
+                "Votes": 18486,
+                "majority": 1470
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "MAH SIEW KEONG",
+                "Votes": 17016
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P76",
+        "SeatName": "TELUK INTAN",
+        "info": {
+            "EligibleVoters": "53063",
+            "MalayVoters": "35",
+            "ChineseVoters": "45",
+            "IndianVoters": "20",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1255",
+            "Turnout": "34877",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "MAH SIEW KEONG",
+                "Votes": 18665,
+                "majority": 9836
+            },
+            {
+                "Party": "DAP",
+                "Name": "WU HIM VEN",
+                "Votes": 8829
+            },
+            {
+                "Party": "PKR",
+                "Name": "N GOBALAKRISHNAN",
+                "Votes": 6128
+            }
+        ]
+    }
+}

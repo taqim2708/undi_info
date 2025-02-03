@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P135",
+        "SeatName": "ALOR GAJAH",
+        "info": {
+            "EligibleVoters": "93311",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "ADLY ZAHARI",
+                "Votes": 28178,
+                "NameBallot": "ADLY ZAHARI",
+                "majority": 890
+            },
+            {
+                "Party": "BN",
+                "Name": "SHAHRIL HAMDAN",
+                "Votes": 27288,
+                "NameBallot": "SHAHRIL HAMDAN"
+            },
+            {
+                "Party": "PN",
+                "Name": "PAK WAN (DATUK SERI MOHD REDZUAN BIN MD YUSOF)",
+                "Votes": 17211,
+                "NameBallot": "PAK WAN (DATUK SERI MOHD REDZUAN BIN MD YUSOF)"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MUHAMMAD NAZRIQ ABDUL RAHMAN",
+                "Votes": 323,
+                "NameBallot": "MUHAMMAD NAZRIQ ABDUL RAHMAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P135",
+        "SeatName": "ALOR GAJAH",
+        "info": {
+            "EligibleVoters": "70364",
+            "MalayVoters": "61",
+            "ChineseVoters": "25",
+            "IndianVoters": "13",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "584",
+            "Postal": "6",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "MOHD REDZUAN BIN MD YUSOF",
+                "Votes": 29330,
+                "NameBallot": "MOHD REDZUAN YUSOF (PAK WAN )",
+                "majority": 6980
+            },
+            {
+                "Party": "MCA",
+                "Name": "WONG NAI CHEE",
+                "Votes": 22350,
+                "NameBallot": "WONG NAI CHEE"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMMAD NAZREE BIN MOHAMMAD ARIS",
+                "Votes": 6135,
+                "NameBallot": "NAZREE ARIS"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P135",
+        "SeatName": "ALOR GAJAH",
+        "info": {
+            "EligibleVoters": "63591",
+            "MalayVoters": "59",
+            "ChineseVoters": "28",
+            "IndianVoters": "13",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1419",
+            "Turnout": "55010",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "KOH NAI KWONG",
+                "Votes": 32594,
+                "majority": 11597
+            },
+            {
+                "Party": "DAP",
+                "Name": "DAMIAN YEO SHEN LI",
+                "Votes": 20997
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P135",
+        "SeatName": "ALOR GAJAH",
+        "info": {
+            "EligibleVoters": "54097",
+            "MalayVoters": "58",
+            "ChineseVoters": "30",
+            "IndianVoters": "12",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1953",
+            "Turnout": "41854",
+            "Unreturned": "77"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK SERI FONG CHAN ONN",
+                "Votes": 26354,
+                "majority": 12884
+            },
+            {
+                "Party": "DAP",
+                "Name": "TAN LAY SIANG",
+                "Votes": 13470
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P135",
+        "SeatName": "ALOR GAJAH",
+        "info": {
+            "EligibleVoters": "51588",
+            "MalayVoters": "55",
+            "ChineseVoters": "32",
+            "IndianVoters": "13",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1941",
+            "Turnout": "39233",
+            "Unreturned": "110"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK DR FONG CHAN ONN",
+                "Votes": 29920,
+                "majority": 22548
+            },
+            {
+                "Party": "DAP",
+                "Name": "GOH LEONG SAN",
+                "Votes": 7372
+            }
+        ]
+    }
+}

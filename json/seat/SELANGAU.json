@@ -1,0 +1,186 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P214",
+        "SeatName": "SELANGAU",
+        "info": {
+            "EligibleVoters": "45743",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "EDWIN ANAK BANTA",
+                "Votes": 16078,
+                "NameBallot": "EDWIN ANAK BANTA",
+                "majority": 4986
+            },
+            {
+                "Party": "PH",
+                "Name": "UMPANG ANAK SABANG",
+                "Votes": 11092,
+                "NameBallot": "UMPANG ANAK SABANG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HENRY JOSEPH USAU",
+                "Votes": 1626,
+                "NameBallot": "HENRY JOSEPH USAU"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P214",
+        "SeatName": "SELANGAU",
+        "info": {
+            "EligibleVoters": "30026",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "1",
+            "BumiNonmuslimVoters": "94",
+            "SabahBumiVoters": "0",
+            "Early": "75",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "BARU BIAN",
+                "Votes": 11228,
+                "NameBallot": "BARU BIAN",
+                "majority": 486
+            },
+            {
+                "Party": "PRS",
+                "Name": "RITA SARIMAH ANAK PATRICK INSOL",
+                "Votes": 10742,
+                "NameBallot": "RITA INSOL"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P214",
+        "SeatName": "SELANGAU",
+        "info": {
+            "EligibleVoters": "25461",
+            "MalayVoters": "0",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "13",
+            "BumiNonmuslimVoters": "83",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "309",
+            "Turnout": "20725",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "JOSEPH ENTULU ANAK BELAUN",
+                "Votes": 12040,
+                "majority": 7555
+            },
+            {
+                "Party": "SWP",
+                "Name": "SNG CHEE HUA",
+                "Votes": 4485
+            },
+            {
+                "Party": "PKR",
+                "Name": "JOSHUA ANAK JABING @ JOSHUA JABENG",
+                "Votes": 3891
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P214",
+        "SeatName": "SELANGAU",
+        "info": {
+            "EligibleVoters": "20057",
+            "MalayVoters": "0",
+            "ChineseVoters": "5",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "JOSEPH ENTULU BELAUN (WALKOVER)",
+                "Votes": 0
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P213",
+        "SeatName": "SELANGAU",
+        "info": {
+            "EligibleVoters": "20459",
+            "MalayVoters": "0",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "13",
+            "BumiNonmuslimVoters": "83",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "237",
+            "Turnout": "12376",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Joseph Entulu Belaun",
+                "Votes": 7876,
+                "majority": 3616
+            },
+            {
+                "Party": "SNAP",
+                "Name": "Liman Sujang",
+                "Votes": 4260
+            }
+        ]
+    }
+}

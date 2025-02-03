@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P145",
+        "SeatName": "BAKRI",
+        "info": {
+            "EligibleVoters": "97335",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "TAN HONG PIN",
+                "Votes": 36636,
+                "NameBallot": "TAN HONG PIN",
+                "majority": 19254
+            },
+            {
+                "Party": "BN",
+                "Name": "CHRIS LEE CHING YONG",
+                "Votes": 17382,
+                "NameBallot": "CHRIS LEE CHING YONG"
+            },
+            {
+                "Party": "PN",
+                "Name": "R. S. CHELVA",
+                "Votes": 17222,
+                "NameBallot": "R. S. CHELVA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HARON JAFFAR",
+                "Votes": 1900,
+                "NameBallot": "HARON JAFFAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P145",
+        "SeatName": "BAKRI",
+        "info": {
+            "EligibleVoters": "73883",
+            "MalayVoters": "44",
+            "ChineseVoters": "53",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1194",
+            "Postal": "16",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "YEO BEE YIN",
+                "Votes": 38718,
+                "NameBallot": "YEO BEE YIN",
+                "majority": 23211
+            },
+            {
+                "Party": "MCA",
+                "Name": "KOH CHON CHAI",
+                "Votes": 15507,
+                "NameBallot": "KOH CHON CHAI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZARUL @ MOHAMAD ZAHRUL BIN SALLEH",
+                "Votes": 7575,
+                "NameBallot": "ZARUL BIN SALLEH"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P145",
+        "SeatName": "BAKRI",
+        "info": {
+            "EligibleVoters": "67202",
+            "MalayVoters": "44",
+            "ChineseVoters": "53",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1101",
+            "Turnout": "58270",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "ER TECK HWA",
+                "Votes": 31118,
+                "majority": 5067
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEE CHING YONG",
+                "Votes": 26051
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P145",
+        "SeatName": "BAKRI",
+        "info": {
+            "EligibleVoters": "56371",
+            "MalayVoters": "43",
+            "ChineseVoters": "54",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1561",
+            "Turnout": "43155",
+            "Unreturned": "214"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "ER TECK HWA",
+                "Votes": 21051,
+                "majority": 722
+            },
+            {
+                "Party": "MCA",
+                "Name": "TAY PUAY CHUAN",
+                "Votes": 20329
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P145",
+        "SeatName": "BAKRI",
+        "info": {
+            "EligibleVoters": "55438",
+            "MalayVoters": "44",
+            "ChineseVoters": "54",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1177",
+            "Turnout": "40939",
+            "Unreturned": "181"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK CHUA JUI MENG",
+                "Votes": 29320,
+                "majority": 19059
+            },
+            {
+                "Party": "DAP",
+                "Name": "AZHARI ISMAIL",
+                "Votes": 10261
+            }
+        ]
+    }
+}

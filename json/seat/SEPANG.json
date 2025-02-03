@@ -1,0 +1,233 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P113",
+        "SeatName": "SEPANG",
+        "info": {
+            "EligibleVoters": "168039",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "AIMAN ATHIRAH",
+                "Votes": 56264,
+                "NameBallot": "AIMAN ATHIRAH",
+                "majority": 8949
+            },
+            {
+                "Party": "PN",
+                "Name": "DATUK SERI RINA HARUN",
+                "Votes": 47315,
+                "NameBallot": "DATUK SERI RINA HARUN"
+            },
+            {
+                "Party": "BN",
+                "Name": "ANUAR BIN BASIRAN",
+                "Votes": 31097,
+                "NameBallot": "ANUAR BIN BASIRAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "CHE ASMAH IBRAHIM",
+                "Votes": 2337,
+                "NameBallot": "CHE ASMAH IBRAHIM"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SYAHRUL AMRI MAT SARI",
+                "Votes": 319,
+                "NameBallot": "SYAHRUL AMRI MAT SARI"
+            },
+            {
+                "Party": "PUR",
+                "Name": "DAUD LEONG",
+                "Votes": 264,
+                "NameBallot": "DAUD LEONG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "M. MUNESWARAN",
+                "Votes": 194,
+                "NameBallot": "M. MUNESWARAN"
+            },
+            {
+                "Party": "PRM",
+                "Name": "NAGESWARAN RAVI",
+                "Votes": 165,
+                "NameBallot": "NAGESWARAN RAVI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P113",
+        "SeatName": "SEPANG",
+        "info": {
+            "EligibleVoters": "104508",
+            "MalayVoters": "63",
+            "ChineseVoters": "20",
+            "IndianVoters": "14",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1548",
+            "Postal": "53",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "MOHAMED HANIPA BIN MAIDIN",
+                "Votes": 46740,
+                "NameBallot": "MOHAMED HANIPA BIN MAIDIN",
+                "majority": 18705
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MARSUM PAING",
+                "Votes": 28035,
+                "NameBallot": "DATO' HAJI MARSUM BIN PAING"
+            },
+            {
+                "Party": "PAS",
+                "Name": "SABIRIN BIN MARSONO",
+                "Votes": 15882,
+                "NameBallot": "SABIRIN MARSONO"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P113",
+        "SeatName": "SEPANG",
+        "info": {
+            "EligibleVoters": "84362",
+            "MalayVoters": "57",
+            "ChineseVoters": "22",
+            "IndianVoters": "16",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1219",
+            "Turnout": "74944",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED HANIPA BIN MAIDIN",
+                "Votes": 36774,
+                "majority": 1104
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD ZIN BIN MOHAMED",
+                "Votes": 35670
+            },
+            {
+                "Party": "IND",
+                "Name": "SUHAIMI BIN MOHD GHAZALI",
+                "Votes": 963
+            },
+            {
+                "Party": "IND",
+                "Name": "HANAPIAH BIN MOHAMAD",
+                "Votes": 318
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P113",
+        "SeatName": "SEPANG",
+        "info": {
+            "EligibleVoters": "62044",
+            "MalayVoters": "59",
+            "ChineseVoters": "23",
+            "IndianVoters": "18",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1099",
+            "Turnout": "49137",
+            "Unreturned": "125"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATO MOHD ZIN MOHAMED",
+                "Votes": 26381,
+                "majority": 4849
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED MAKKI AHMAD",
+                "Votes": 21532
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P113",
+        "SeatName": "SEPANG",
+        "info": {
+            "EligibleVoters": "58296",
+            "MalayVoters": "55",
+            "ChineseVoters": "24",
+            "IndianVoters": "19",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "315",
+            "Turnout": "42988",
+            "Unreturned": "66"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MOHD ZIN MOHAMED",
+                "Votes": 30755,
+                "majority": 18837
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED MAKKI AHMAD",
+                "Votes": 11918
+            }
+        ]
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P193",
+        "SeatName": "SANTUBONG",
+        "info": {
+            "EligibleVoters": "79540",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "NANCY SHUKRI",
+                "Votes": 43739,
+                "NameBallot": "NANCY SHUKRI",
+                "majority": 38681
+            },
+            {
+                "Party": "PH",
+                "Name": "MOHAMAD ZEN PELI",
+                "Votes": 5058,
+                "NameBallot": "MOHAMAD ZEN PELI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "AFFENDI BIN JEMAN",
+                "Votes": 3012,
+                "NameBallot": "AFFENDI BIN JEMAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P193",
+        "SeatName": "SANTUBONG",
+        "info": {
+            "EligibleVoters": "45628",
+            "MalayVoters": "0",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "81",
+            "BumiNonmuslimVoters": "11",
+            "SabahBumiVoters": "0",
+            "Early": "184",
+            "Postal": "3",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "WAN JUNAIDI BIN TUANKU JAAFAR",
+                "Votes": 26379,
+                "NameBallot": "WAN JUNAIDI BIN TUANKU JAAFAR",
+                "majority": 19485
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "MOHAMAD FIDZUAN BIN ZAIDI",
+                "Votes": 6894,
+                "NameBallot": "FIDZUAN ZAIDI"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P193",
+        "SeatName": "SANTUBONG",
+        "info": {
+            "EligibleVoters": "37017",
+            "MalayVoters": "0",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "83",
+            "BumiNonmuslimVoters": "9",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "394",
+            "Turnout": "29207",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "WAN JUNAIDI BIN TUANKU JAAFAR",
+                "Votes": 24655,
+                "majority": 20936
+            },
+            {
+                "Party": "PKR",
+                "Name": "ZULRUSDI BIN MOHAMAD HOL",
+                "Votes": 3719
+            },
+            {
+                "Party": "IND",
+                "Name": "AFFENDI BIN JEMAN",
+                "Votes": 233
+            },
+            {
+                "Party": "STAR",
+                "Name": "MURA BIN KADIR",
+                "Votes": 206
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P193",
+        "SeatName": "SANTUBONG",
+        "info": {
+            "EligibleVoters": "30836",
+            "MalayVoters": "0",
+            "ChineseVoters": "6",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "248",
+            "Turnout": "19959",
+            "Unreturned": "56"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "DATUK WAN JUNAIDI TUANKU JAAFAR",
+                "Votes": 15800,
+                "majority": 11945
+            },
+            {
+                "Party": "PKR",
+                "Name": "RAHAMAT IDIL LATIP",
+                "Votes": 3855
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P193",
+        "SeatName": "SANTUBONG",
+        "info": {
+            "EligibleVoters": "23238",
+            "MalayVoters": "34",
+            "ChineseVoters": "6",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "244",
+            "Turnout": "14864",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Wan Junaidi Tuanku Jaafar",
+                "Votes": 12590,
+                "majority": 10560
+            },
+            {
+                "Party": "IND",
+                "Name": "Idris Bohari",
+                "Votes": 2030
+            }
+        ]
+    }
+}

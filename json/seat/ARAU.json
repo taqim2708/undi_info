@@ -1,0 +1,198 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P3",
+        "SeatName": "ARAU",
+        "info": {
+            "EligibleVoters": "60876",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "SHAHIDAN BIN KASSIM",
+                "Votes": 31458,
+                "NameBallot": "SHAHIDAN BIN KASSIM",
+                "majority": 23216
+            },
+            {
+                "Party": "BN",
+                "Name": "ROZABIL @ TOK BEN",
+                "Votes": 8242,
+                "NameBallot": "ROZABIL @ TOK BEN"
+            },
+            {
+                "Party": "PH",
+                "Name": "FATHIN AMELINA",
+                "Votes": 7089,
+                "NameBallot": "FATHIN AMELINA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P3",
+        "SeatName": "ARAU",
+        "info": {
+            "EligibleVoters": "48187",
+            "MalayVoters": "88",
+            "ChineseVoters": "8",
+            "IndianVoters": "2",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "488",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHAHIDAN BIN KASSIM",
+                "Votes": 16547,
+                "NameBallot": "SHAHIDAN BIN KASSIM",
+                "majority": 4856
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "ABD RAHMAN BIN DAUD",
+                "Votes": 11691,
+                "NameBallot": "DATO' DR HAJI ABD RAHMAN BIN DAUD"
+            },
+            {
+                "Party": "PAS",
+                "Name": "HASHIM BIN HJ JASIN",
+                "Votes": 11362,
+                "NameBallot": "USTAZ HASHIM JASIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P3",
+        "SeatName": "ARAU",
+        "info": {
+            "EligibleVoters": "43876",
+            "MalayVoters": "88",
+            "ChineseVoters": "8",
+            "IndianVoters": "2",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "525",
+            "Turnout": "38312",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHAHIDAN BIN KASSIM",
+                "Votes": 19376,
+                "majority": 1371
+            },
+            {
+                "Party": "PAS",
+                "Name": "HARON BIN DIN",
+                "Votes": 18005
+            },
+            {
+                "Party": "IND",
+                "Name": "ZAINUDIN BIN YOM",
+                "Votes": 406
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P3",
+        "SeatName": "ARAU",
+        "info": {
+            "EligibleVoters": "39877",
+            "MalayVoters": "87",
+            "ChineseVoters": "9",
+            "IndianVoters": "2",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "586",
+            "Turnout": "33276",
+            "Unreturned": "88"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ISMAIL KASSIM",
+                "Votes": 16451,
+                "majority": 300
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK DRHARON DIN",
+                "Votes": 16151
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P3",
+        "SeatName": "ARAU",
+        "info": {
+            "EligibleVoters": "38067",
+            "MalayVoters": "87",
+            "ChineseVoters": "9",
+            "IndianVoters": "2",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "533",
+            "Turnout": "32062",
+            "Unreturned": "38"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI SYED RAZLAN SYED PUTRA JAMALULLAIL",
+                "Votes": 17367,
+                "majority": 3243
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK DR HARON DIN",
+                "Votes": 14124
+            }
+        ]
+    }
+}

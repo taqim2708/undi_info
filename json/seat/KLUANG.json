@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P152",
+        "SeatName": "KLUANG",
+        "info": {
+            "EligibleVoters": "132342",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "WONG SHU QI",
+                "Votes": 49801,
+                "NameBallot": "WONG SHU QI",
+                "majority": 26406
+            },
+            {
+                "Party": "BN",
+                "Name": "GAN PING SIEU",
+                "Votes": 23395,
+                "NameBallot": "GAN PING SIEU"
+            },
+            {
+                "Party": "PN",
+                "Name": "DZULKARNAIN BIN ALIAS",
+                "Votes": 22021,
+                "NameBallot": "DZULKARNAIN BIN ALIAS"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "Ir. U. RAMENDRAN",
+                "Votes": 404,
+                "NameBallot": "Ir. U. RAMENDRAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P152",
+        "SeatName": "KLUANG",
+        "info": {
+            "EligibleVoters": "96915",
+            "MalayVoters": "42",
+            "ChineseVoters": "48",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "6229",
+            "Postal": "36",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "WONG SHU QI",
+                "Votes": 47671,
+                "NameBallot": "WONG SHU QI",
+                "majority": 23053
+            },
+            {
+                "Party": "MCA",
+                "Name": "GAN PING SHOU @ GAN PING SIEU",
+                "Votes": 24618,
+                "NameBallot": "GAN PING SIEU"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMMAD HASBULLAH BIN MD NAJIB",
+                "Votes": 8242,
+                "NameBallot": "HASBULLAH NAJIB"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P152",
+        "SeatName": "KLUANG",
+        "info": {
+            "EligibleVoters": "86732",
+            "MalayVoters": "39",
+            "ChineseVoters": "49",
+            "IndianVoters": "10",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1292",
+            "Turnout": "75081",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIEW CHIN TONG",
+                "Votes": 40574,
+                "majority": 7359
+            },
+            {
+                "Party": "MCA",
+                "Name": "HOU KOK CHUNG",
+                "Votes": 33215
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P152",
+        "SeatName": "KLUANG",
+        "info": {
+            "EligibleVoters": "71233",
+            "MalayVoters": "38",
+            "ChineseVoters": "52",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1884",
+            "Turnout": "54567",
+            "Unreturned": "524"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "HOU KOK CHUNG",
+                "Votes": 27970,
+                "majority": 3781
+            },
+            {
+                "Party": "DAP",
+                "Name": "NG LAM HUA",
+                "Votes": 24189
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P152",
+        "SeatName": "KLUANG",
+        "info": {
+            "EligibleVoters": "67475",
+            "MalayVoters": "36",
+            "ChineseVoters": "54",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1477",
+            "Turnout": "49662",
+            "Unreturned": "881"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "HOO SEONG CHANG",
+                "Votes": 33001,
+                "majority": 18698
+            },
+            {
+                "Party": "DAP",
+                "Name": "NG LAM HUA",
+                "Votes": 14303
+            }
+        ]
+    }
+}

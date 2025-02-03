@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P155",
+        "SeatName": "TENGGARA",
+        "info": {
+            "EligibleVoters": "67294",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "MANNDZRI BIN NASIB",
+                "Votes": 21185,
+                "NameBallot": "MANNDZRI BIN NASIB",
+                "majority": 2991
+            },
+            {
+                "Party": "PN",
+                "Name": "KOLONEL NAZARI",
+                "Votes": 18194,
+                "NameBallot": "KOLONEL NAZARI"
+            },
+            {
+                "Party": "PH",
+                "Name": "ZURAIDAH CHEDAH",
+                "Votes": 11618,
+                "NameBallot": "ZURAIDAH CHEDAH"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AZHAR PALAL",
+                "Votes": 353,
+                "NameBallot": "AZHAR PALAL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P155",
+        "SeatName": "TENGGARA",
+        "info": {
+            "EligibleVoters": "44749",
+            "MalayVoters": "75",
+            "ChineseVoters": "16",
+            "IndianVoters": "7",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1924",
+            "Postal": "8",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ADHAM BIN BABA",
+                "Votes": 20142,
+                "NameBallot": "DATUK SERI DR ADHAM BIN BABA",
+                "majority": 5933
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "NORJEPRI BIN MOHAMED JELANI",
+                "Votes": 14209,
+                "NameBallot": "NORJEPRI BIN MOHAMED JELANI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "YUHANITA BINTI YUNAN",
+                "Votes": 2683,
+                "NameBallot": "CIKGU YUHA"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P155",
+        "SeatName": "TENGGARA",
+        "info": {
+            "EligibleVoters": "39694",
+            "MalayVoters": "72",
+            "ChineseVoters": "18",
+            "IndianVoters": "7",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "676",
+            "Turnout": "34876",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HALIMAH BINTI MOHD SADIQUE",
+                "Votes": 25698,
+                "majority": 17196
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMAD SAID BIN JONIT",
+                "Votes": 8502
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P155",
+        "SeatName": "TENGGARA",
+        "info": {
+            "EligibleVoters": "32297",
+            "MalayVoters": "75",
+            "ChineseVoters": "18",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1336",
+            "Turnout": "25349",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK HALIMAH MOHAMED SADIQUE",
+                "Votes": 19031,
+                "majority": 14049
+            },
+            {
+                "Party": "PAS",
+                "Name": "SALLEH FARMIN",
+                "Votes": 4982
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P155",
+        "SeatName": "TENGGARA",
+        "info": {
+            "EligibleVoters": "29819",
+            "MalayVoters": "74",
+            "ChineseVoters": "18",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "640",
+            "Turnout": "23056",
+            "Unreturned": "92"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR ADHAM BABA",
+                "Votes": 19706,
+                "majority": 17088
+            },
+            {
+                "Party": "PAS",
+                "Name": "SALLEH FARMIN",
+                "Votes": 2618
+            }
+        ]
+    }
+}

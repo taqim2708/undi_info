@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P134",
+        "SeatName": "MASJID TANAH",
+        "info": {
+            "EligibleVoters": "69174",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "MAS ERMIEYATI",
+                "Votes": 25604,
+                "NameBallot": "MAS ERMIEYATI",
+                "majority": 4411
+            },
+            {
+                "Party": "BN",
+                "Name": "ABDUL HAKIM BIN ABDUL WAHID",
+                "Votes": 21193,
+                "NameBallot": "ABDUL HAKIM BIN ABDUL WAHID"
+            },
+            {
+                "Party": "MUDA",
+                "Name": "MUTALIB UTHMAN ",
+                "Votes": 7445,
+                "NameBallot": "MUTALIB UTHMAN "
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HANDRAWIRAWAN BIN ABU BAKAR",
+                "Votes": 507,
+                "NameBallot": "HANDRAWIRAWAN BIN ABU BAKAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P134",
+        "SeatName": "MASJID TANAH",
+        "info": {
+            "EligibleVoters": "51441",
+            "MalayVoters": "84",
+            "ChineseVoters": "12",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "381",
+            "Postal": "12",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MAS ERMIEYATI BINTI SAMSUDIN",
+                "Votes": 22898,
+                "NameBallot": "MAS ERMIEYATI",
+                "majority": 8159
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "SABIRIN BIN JA'AFAR",
+                "Votes": 14739,
+                "NameBallot": "DATUK DR SABIRIN BIN JA'AFAR"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD NASIR BIN OTHMAN",
+                "Votes": 4688,
+                "NameBallot": "USTAZ NASIR OTHMAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P134",
+        "SeatName": "MASJID TANAH",
+        "info": {
+            "EligibleVoters": "45952",
+            "MalayVoters": "82",
+            "ChineseVoters": "13",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "566",
+            "Turnout": "39742",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MAS ERMIEYATI BINTI SAMSUDIN",
+                "Votes": 27688,
+                "majority": 16200
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD NASAIE BIN ISMAIL",
+                "Votes": 11488
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P134",
+        "SeatName": "MASJID TANAH",
+        "info": {
+            "EligibleVoters": "40606",
+            "MalayVoters": "82",
+            "ChineseVoters": "14",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "717",
+            "Turnout": "31715",
+            "Unreturned": "119"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK WIRA ABU SEMAN YUSOP",
+                "Votes": 21582,
+                "majority": 12285
+            },
+            {
+                "Party": "PAS",
+                "Name": "AB GHANI AB RAHMAN",
+                "Votes": 9297
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P134",
+        "SeatName": "MASJID TANAH",
+        "info": {
+            "EligibleVoters": "39005",
+            "MalayVoters": "80",
+            "ChineseVoters": "15",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "745",
+            "Turnout": "30722",
+            "Unreturned": "85"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK WIRA ABU SEMAN YUSOP",
+                "Votes": 24188,
+                "majority": 18399
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMAD BUROK",
+                "Votes": 5789
+            }
+        ]
+    }
+}

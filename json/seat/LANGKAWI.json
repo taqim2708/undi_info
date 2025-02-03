@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P4",
+        "SeatName": "LANGKAWI",
+        "info": {
+            "EligibleVoters": "66777",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "MOHD SUHAIMI BIN ABDULLAH",
+                "Votes": 25463,
+                "NameBallot": "MOHD SUHAIMI BIN ABDULLAH",
+                "majority": 13518
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' ARMISHAH SIRAJ (DAS)",
+                "Votes": 11945,
+                "NameBallot": "DATO' ARMISHAH SIRAJ (DAS)"
+            },
+            {
+                "Party": "PH",
+                "Name": "ZABIDI YAHYA",
+                "Votes": 5417,
+                "NameBallot": "ZABIDI YAHYA"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MAHATHIR BIN MOHAMAD",
+                "Votes": 4566,
+                "NameBallot": "MAHATHIR BIN MOHAMAD"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DATO PADUKA ABD KADIR",
+                "Votes": 89,
+                "NameBallot": "DATO PADUKA ABD KADIR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P4",
+        "SeatName": "LANGKAWI",
+        "info": {
+            "EligibleVoters": "42697",
+            "MalayVoters": "91",
+            "ChineseVoters": "7",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1588",
+            "Postal": "3",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "MAHATHIR BIN MOHAMAD",
+                "Votes": 18954,
+                "NameBallot": "DR MAHATHIR BIN MOHAMAD",
+                "majority": 8893
+            },
+            {
+                "Party": "UMNO",
+                "Name": "NAWAWI BIN AHMAD",
+                "Votes": 10061,
+                "NameBallot": "DATO' IR NAWAWI BIN AHMAD"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZUBIR BIN AHMAD",
+                "Votes": 5512,
+                "NameBallot": "ZUBIR BIN AHMAD"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P4",
+        "SeatName": "LANGKAWI",
+        "info": {
+            "EligibleVoters": "37536",
+            "MalayVoters": "91",
+            "ChineseVoters": "6",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "744",
+            "Turnout": "31877",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NAWAWI BIN AHMAD",
+                "Votes": 21407,
+                "majority": 11861
+            },
+            {
+                "Party": "PKR",
+                "Name": "AHMAD BIN ABDULLAH",
+                "Votes": 9546
+            },
+            {
+                "Party": "IND",
+                "Name": "MARINA BINTI HUSSEIN",
+                "Votes": 180
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P4",
+        "SeatName": "LANGKAWI",
+        "info": {
+            "EligibleVoters": "29567",
+            "MalayVoters": "91",
+            "ChineseVoters": "7",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "670",
+            "Turnout": "23273",
+            "Unreturned": "49"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATO PADUKA ABU BAKAR TAIB",
+                "Votes": 13762,
+                "majority": 4970
+            },
+            {
+                "Party": "PKR",
+                "Name": "WAN SALLEH WAN ISA",
+                "Votes": 8792
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P4",
+        "SeatName": "LANGKAWI",
+        "info": {
+            "EligibleVoters": "27980",
+            "MalayVoters": "90",
+            "ChineseVoters": "7",
+            "IndianVoters": "3",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "560",
+            "Turnout": "22844",
+            "Unreturned": "36"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABU BAKAR TAIB",
+                "Votes": 16510,
+                "majority": 10772
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZUBIR AHMAD",
+                "Votes": 5738
+            }
+        ]
+    }
+}

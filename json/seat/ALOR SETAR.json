@@ -1,0 +1,227 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P9",
+        "SeatName": "ALOR SETAR",
+        "info": {
+            "EligibleVoters": "105994",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "AFNAN HAMIMI BIN DATO' HAJI TAIB AZAMUDDEN",
+                "Votes": 37486,
+                "NameBallot": "AFNAN HAMIMI BIN DATO' HAJI TAIB AZAMUDDEN",
+                "majority": 9931
+            },
+            {
+                "Party": "PH",
+                "Name": "SIMON OOI TZE MIN",
+                "Votes": 27555,
+                "NameBallot": "SIMON OOI TZE MIN"
+            },
+            {
+                "Party": "BN",
+                "Name": "TAN CHEE HIONG",
+                "Votes": 8930,
+                "NameBallot": "TAN CHEE HIONG"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NUHAIRI RAHMAT",
+                "Votes": 2383,
+                "NameBallot": "NUHAIRI RAHMAT"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "FADZIL BIN HANAFI",
+                "Votes": 366,
+                "NameBallot": "FADZIL BIN HANAFI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SOFAN FEROZA",
+                "Votes": 151,
+                "NameBallot": "SOFAN FEROZA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DATO' DR NORDIN YUNUS",
+                "Votes": 115,
+                "NameBallot": "DATO' DR NORDIN YUNUS"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P9",
+        "SeatName": "ALOR SETAR",
+        "info": {
+            "EligibleVoters": "80272",
+            "MalayVoters": "64",
+            "ChineseVoters": "32",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "696",
+            "Postal": "26",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "CHAN MING KAI",
+                "Votes": 32475,
+                "NameBallot": "CHAN MING KAI",
+                "majority": 15200
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMMAD AMINUR SHAFIQ BIN MOHAMAD ABDUH",
+                "Votes": 17275,
+                "NameBallot": "AMINUR SHAFIQ"
+            },
+            {
+                "Party": "MCA",
+                "Name": "YOO WEI HOW",
+                "Votes": 14181,
+                "NameBallot": "YOO WEI HOW"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P9",
+        "SeatName": "ALOR SETAR",
+        "info": {
+            "EligibleVoters": "69009",
+            "MalayVoters": "61",
+            "ChineseVoters": "34",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1070",
+            "Turnout": "57712",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "GOOI HSIAO - LEUNG",
+                "Votes": 27364,
+                "majority": 1873
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHOR CHEE HEUNG",
+                "Votes": 25491
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "ABDUL FISOL BIN MOHD ISA",
+                "Votes": 3530
+            },
+            {
+                "Party": "BERSAMA",
+                "Name": "JAWAHAR RAJA BIN ABDUL WAHID",
+                "Votes": 257
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P9",
+        "SeatName": "ALOR SETAR",
+        "info": {
+            "EligibleVoters": "58957",
+            "MalayVoters": "63",
+            "ChineseVoters": "33",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1757",
+            "Turnout": "43206",
+            "Unreturned": "151"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK CHOR CHEE HEUNG",
+                "Votes": 20741,
+                "majority": 184
+            },
+            {
+                "Party": "PKR",
+                "Name": "GOOI HSIAO LEUNG",
+                "Votes": 20557
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P9",
+        "SeatName": "ALOR SETAR",
+        "info": {
+            "EligibleVoters": "57313",
+            "MalayVoters": "58",
+            "ChineseVoters": "36",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "828",
+            "Turnout": "43071",
+            "Unreturned": "186"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK CHOR CHEE HEUNG",
+                "Votes": 28379,
+                "majority": 14515
+            },
+            {
+                "Party": "PKR",
+                "Name": "SITI NOR ABDUL HAMID",
+                "Votes": 13864
+            }
+        ]
+    }
+}

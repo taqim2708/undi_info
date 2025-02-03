@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P10",
+        "SeatName": "KUALA KEDAH",
+        "info": {
+            "EligibleVoters": "132500",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DR. AHMAD FAKHRUDDIN",
+                "Votes": 56298,
+                "NameBallot": "DR. AHMAD FAKHRUDDIN",
+                "majority": 28061
+            },
+            {
+                "Party": "PH",
+                "Name": "DR AZMAN ISMAIL",
+                "Votes": 28237,
+                "NameBallot": "DR AZMAN ISMAIL"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO DR MASHITAH BINTI IBRAHIM",
+                "Votes": 13879,
+                "NameBallot": "DATO DR MASHITAH BINTI IBRAHIM"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "ULYA HUSAMUDIN ",
+                "Votes": 1805,
+                "NameBallot": "ULYA HUSAMUDIN "
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "PAK TUAN AL IDRUS",
+                "Votes": 256,
+                "NameBallot": "PAK TUAN AL IDRUS"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P10",
+        "SeatName": "KUALA KEDAH",
+        "info": {
+            "EligibleVoters": "97753",
+            "MalayVoters": "78",
+            "ChineseVoters": "20",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "69",
+            "Postal": "14",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "AZMAN BIN ISMAIL",
+                "Votes": 36624,
+                "NameBallot": "DR AZMAN ISMAIL",
+                "majority": 13481
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMAD RIDUAN BIN OTHMAN",
+                "Votes": 23143,
+                "NameBallot": "MUHAMAD RIDUAN BIN OTHMAN"
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ABDULLAH HASNAN BIN KAMARUDDIN",
+                "Votes": 19400,
+                "NameBallot": "ABDULLAH HASNAN BIN KAMARUDDIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P10",
+        "SeatName": "KUALA KEDAH",
+        "info": {
+            "EligibleVoters": "95328",
+            "MalayVoters": "78",
+            "ChineseVoters": "21",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1212",
+            "Turnout": "82005",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "AZMAN BIN ISMAIL",
+                "Votes": 42870,
+                "majority": 4947
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ZAKI ZAMANI BIN ABD RASHID",
+                "Votes": 37923
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P10",
+        "SeatName": "KUALA KEDAH",
+        "info": {
+            "EligibleVoters": "83132",
+            "MalayVoters": "79",
+            "ChineseVoters": "20",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1385",
+            "Turnout": "65750",
+            "Unreturned": "5"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "AHMAD KASSIM",
+                "Votes": 35689,
+                "majority": 7018
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK HASHIM JAHAYA",
+                "Votes": 28671
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P10",
+        "SeatName": "KUALA KEDAH",
+        "info": {
+            "EligibleVoters": "78791",
+            "MalayVoters": "77",
+            "ChineseVoters": "21",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1023",
+            "Turnout": "64223",
+            "Unreturned": "109"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HASHIM JAHAYA",
+                "Votes": 36707,
+                "majority": 10214
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED SABU",
+                "Votes": 26493
+            }
+        ]
+    }
+}

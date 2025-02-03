@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P1",
+        "SeatName": "PADANG BESAR",
+        "info": {
+            "EligibleVoters": "60192",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "RUSHDAN BIN RUSMI",
+                "Votes": 24267,
+                "NameBallot": "RUSHDAN BIN RUSMI",
+                "majority": 12514
+            },
+            {
+                "Party": "BN",
+                "Name": "ZAHIDA BINTI ZARIK KHAN",
+                "Votes": 11753,
+                "NameBallot": "ZAHIDA BINTI ZARIK KHAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "KAPT (B) HJ MOHAMAD YAHAYA",
+                "Votes": 7085,
+                "NameBallot": "KAPT (B) HJ MOHAMAD YAHAYA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ZAHIDI BIN ZAINUL ABIDIN",
+                "Votes": 1939,
+                "NameBallot": "ZAHIDI BIN ZAINUL ABIDIN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "KO CHU LIANG",
+                "Votes": 244,
+                "NameBallot": "KO CHU LIANG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P1",
+        "SeatName": "PADANG BESAR",
+        "info": {
+            "EligibleVoters": "46095",
+            "MalayVoters": "87",
+            "ChineseVoters": "9",
+            "IndianVoters": "1",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2466",
+            "Postal": "10",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ZAHIDI BIN ZAINUL ABIDIN",
+                "Votes": 15032,
+                "NameBallot": "DATUK ZAHIDI BIN ZAINUL ABIDIN",
+                "majority": 1438
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "IZIZAM BIN IBRAHIM",
+                "Votes": 13594,
+                "NameBallot": "IZIZAM BIN IBRAHIM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOKHTAR BIN SENIK",
+                "Votes": 7874,
+                "NameBallot": "USTAZ MOKHTAR SENIK"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P1",
+        "SeatName": "PADANG BESAR",
+        "info": {
+            "EligibleVoters": "41974",
+            "MalayVoters": "86",
+            "ChineseVoters": "9",
+            "IndianVoters": "1",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "531",
+            "Turnout": "36051",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ZAHIDI BIN ZAINUL ABIDIN",
+                "Votes": 21473,
+                "majority": 7426
+            },
+            {
+                "Party": "PAS",
+                "Name": "AZAMHARI BIN MOHAMOOD",
+                "Votes": 14047
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P1",
+        "SeatName": "PADANG BESAR",
+        "info": {
+            "EligibleVoters": "36613",
+            "MalayVoters": "84",
+            "ChineseVoters": "12",
+            "IndianVoters": "1",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "674",
+            "Turnout": "29310",
+            "Unreturned": "2"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI MOHD AZMI KHALID",
+                "Votes": 16991,
+                "majority": 5348
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZOLKHARNAIN ABIDIN",
+                "Votes": 11643
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PL",
+        "ParliamentCode": "P1",
+        "SeatName": "PADANG BESAR",
+        "info": {
+            "EligibleVoters": "33899",
+            "MalayVoters": "84",
+            "ChineseVoters": "11",
+            "IndianVoters": "1",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "672",
+            "Turnout": "28453",
+            "Unreturned": "400"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI AZMI KHALID",
+                "Votes": 18322,
+                "majority": 9264
+            },
+            {
+                "Party": "PAS",
+                "Name": "WAN KHARIZAL WAN KHAZIM",
+                "Votes": 9058
+            }
+        ]
+    }
+}

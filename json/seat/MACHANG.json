@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P29",
+        "SeatName": "MACHANG",
+        "info": {
+            "EligibleVoters": "88825",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "WAN AHMAD FAYHSAL",
+                "Votes": 35603,
+                "NameBallot": "WAN AHMAD FAYHSAL",
+                "majority": 10154
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK JAZLAN",
+                "Votes": 25449,
+                "NameBallot": "DATUK JAZLAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "DR ROSLI",
+                "Votes": 3934,
+                "NameBallot": "DR ROSLI"
+            },
+            {
+                "Party": "PUTRA",
+                "Name": "MEJAR (B) MAT",
+                "Votes": 128,
+                "NameBallot": "MEJAR (B) MAT"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P29",
+        "SeatName": "MACHANG",
+        "info": {
+            "EligibleVoters": "68387",
+            "MalayVoters": "97",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "300",
+            "Postal": "5",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD JAZLAN BIN YAAKUB",
+                "Votes": 26076,
+                "NameBallot": "DATUK JAZLAN",
+                "majority": 2824
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZULKIFLI BIN MAMAT",
+                "Votes": 23252,
+                "NameBallot": "ZULKIFLI MAMAT"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "SAZMI B MIAH",
+                "Votes": 5695,
+                "NameBallot": "DATO' SAZMI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P29",
+        "SeatName": "MACHANG",
+        "info": {
+            "EligibleVoters": "59226",
+            "MalayVoters": "96",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "729",
+            "Turnout": "51244",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD JAZLAN BIN YAAKUB",
+                "Votes": 25660,
+                "majority": 805
+            },
+            {
+                "Party": "PKR",
+                "Name": "WAN ZAWAWI BIN WAN ISMAIL",
+                "Votes": 24855
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P29",
+        "SeatName": "MACHANG",
+        "info": {
+            "EligibleVoters": "49157",
+            "MalayVoters": "95",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "748",
+            "Turnout": "41494",
+            "Unreturned": "124"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SAIFUDDIN NASUTION ISMAIL",
+                "Votes": 21041,
+                "majority": 1460
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SAZMI MIAH",
+                "Votes": 19581
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P29",
+        "SeatName": "MACHANG",
+        "info": {
+            "EligibleVoters": "43874",
+            "MalayVoters": "95",
+            "ChineseVoters": "5",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "599",
+            "Turnout": "35392",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SAZMI MIAH",
+                "Votes": 17464,
+                "majority": 135
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD YUSOF MOHD NOOR",
+                "Votes": 17329
+            }
+        ]
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P39",
+        "SeatName": "DUNGUN",
+        "info": {
+            "EligibleVoters": "115559",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "USTAZ HAJI WAN HASSAN",
+                "Votes": 59720,
+                "NameBallot": "USTAZ HAJI WAN HASSAN",
+                "majority": 34105
+            },
+            {
+                "Party": "BN",
+                "Name": "USTAZ SHAM",
+                "Votes": 25615,
+                "NameBallot": "USTAZ SHAM"
+            },
+            {
+                "Party": "PH",
+                "Name": "DATO' DR MOHD JOHARI",
+                "Votes": 5307,
+                "NameBallot": "DATO' DR MOHD JOHARI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NORAISAH BINTI HASAN",
+                "Votes": 322,
+                "NameBallot": "NORAISAH BINTI HASAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "PEGUAM GHAZALI",
+                "Votes": 305,
+                "NameBallot": "PEGUAM GHAZALI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P39",
+        "SeatName": "DUNGUN",
+        "info": {
+            "EligibleVoters": "90506",
+            "MalayVoters": "96",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "582",
+            "Postal": "17",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "WAN HASSAN BIN MOHD RAMLI",
+                "Votes": 40850,
+                "NameBallot": "USTAZ WAN HASSAN MOHD RAMLI",
+                "majority": 13119
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DIN BIN ADAM",
+                "Votes": 27731,
+                "NameBallot": "DATO DIN"
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABD RAHMAN BIN YUSOF",
+                "Votes": 6833,
+                "NameBallot": "HJ ABD RAHMAN YUSOF"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P39",
+        "SeatName": "DUNGUN",
+        "info": {
+            "EligibleVoters": "78174",
+            "MalayVoters": "96",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "909",
+            "Turnout": "68047",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "WAN HASSAN BIN MOHD RAMLI",
+                "Votes": 35348,
+                "majority": 3942
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ROSLI BIN MAT HASSAN",
+                "Votes": 31406
+            },
+            {
+                "Party": "IND",
+                "Name": "MAZLAN BIN HARUN",
+                "Votes": 384
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P39",
+        "SeatName": "DUNGUN",
+        "info": {
+            "EligibleVoters": "64851",
+            "MalayVoters": "95",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "930",
+            "Turnout": "54464",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MATULIDI JUSOH",
+                "Votes": 29264,
+                "majority": 4994
+            },
+            {
+                "Party": "PKR",
+                "Name": "SHAMSUL ISKANDAR @ YUSRE MOHD AKIN",
+                "Votes": 24270
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P39",
+        "SeatName": "DUNGUN",
+        "info": {
+            "EligibleVoters": "55711",
+            "MalayVoters": "95",
+            "ChineseVoters": "5",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "708",
+            "Turnout": "48608",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ROSLI MAT HASSAN",
+                "Votes": 26398,
+                "majority": 4896
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK MUSTAFA ALI",
+                "Votes": 21502
+            }
+        ]
+    }
+}

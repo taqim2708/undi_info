@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P7",
+        "SeatName": "PADANG TERAP",
+        "info": {
+            "EligibleVoters": "59806",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "USTAZ NURUL AMIN",
+                "Votes": 28217,
+                "NameBallot": "USTAZ NURUL AMIN",
+                "majority": 10959
+            },
+            {
+                "Party": "BN",
+                "Name": "MAHDZIR BIN KHALID",
+                "Votes": 17258,
+                "NameBallot": "MAHDZIR BIN KHALID"
+            },
+            {
+                "Party": "PH",
+                "Name": "MUAZ ABDULLAH",
+                "Votes": 2702,
+                "NameBallot": "MUAZ ABDULLAH"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "RAZALI BIN LEBAI SALLEH",
+                "Votes": 452,
+                "NameBallot": "RAZALI BIN LEBAI SALLEH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P7",
+        "SeatName": "PADANG TERAP",
+        "info": {
+            "EligibleVoters": "46644",
+            "MalayVoters": "92",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "248",
+            "Postal": "5",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MAHDZIR BIN KHALID",
+                "Votes": 16384,
+                "NameBallot": "DATO' SERI MAHDZIR KHALID",
+                "majority": 1099
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD AZAM BIN ABD MAJID @ ABD AZIZ",
+                "Votes": 15285,
+                "NameBallot": "USTAZ AZAM BIN AZIZ"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "MOHD KHAIRIZAL BIN KHAZALI",
+                "Votes": 7254,
+                "NameBallot": "KHAIRIZAL KHAZALI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P7",
+        "SeatName": "PADANG TERAP",
+        "info": {
+            "EligibleVoters": "41960",
+            "MalayVoters": "92",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "691",
+            "Turnout": "37800",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MAHDZIR BIN KHALID",
+                "Votes": 20654,
+                "majority": 4442
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD NASIR BIN ZAKARIA",
+                "Votes": 16212
+            },
+            {
+                "Party": "IND",
+                "Name": "MUHAMAD BAZLI BIN ABDULLAH",
+                "Votes": 243
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P7",
+        "SeatName": "PADANG TERAP",
+        "info": {
+            "EligibleVoters": "35403",
+            "MalayVoters": "93",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "770",
+            "Turnout": "30445",
+            "Unreturned": "38"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MOHD NASIR ZAKARIA",
+                "Votes": 15003,
+                "majority": 369
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK PADUKA GHAZALI IBRAHIM",
+                "Votes": 14634
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P7",
+        "SeatName": "PADANG TERAP",
+        "info": {
+            "EligibleVoters": "32412",
+            "MalayVoters": "92",
+            "ChineseVoters": "2",
+            "IndianVoters": "1",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "693",
+            "Turnout": "28094",
+            "Unreturned": "21"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK GHAZALI IBRAHIM",
+                "Votes": 14776,
+                "majority": 2172
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZAWAWI HAJI AHMAD",
+                "Votes": 12604
+            }
+        ]
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P154",
+        "SeatName": "MERSING",
+        "info": {
+            "EligibleVoters": "66275",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "ISLAHUDDIN ABAS",
+                "Votes": 21066,
+                "NameBallot": "ISLAHUDDIN ABAS",
+                "majority": 2337
+            },
+            {
+                "Party": "BN",
+                "Name": "ABD LATIF BANDI",
+                "Votes": 18729,
+                "NameBallot": "ABD LATIF BANDI"
+            },
+            {
+                "Party": "PH",
+                "Name": "ZULAIKHA ZAIDI",
+                "Votes": 6813,
+                "NameBallot": "ZULAIKHA ZAIDI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NURFATIMAH IBRAHIM",
+                "Votes": 209,
+                "NameBallot": "NURFATIMAH IBRAHIM"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ISMAIL BIN DON",
+                "Votes": 89,
+                "NameBallot": "ISMAIL BIN DON"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P154",
+        "SeatName": "MERSING",
+        "info": {
+            "EligibleVoters": "48176",
+            "MalayVoters": "82",
+            "ChineseVoters": "14",
+            "IndianVoters": "1",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2293",
+            "Postal": "11",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABD LATIFF BIN AHMAD\t",
+                "Votes": 19806,
+                "NameBallot": "DR ABD LATIFF",
+                "majority": 8459
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MD NASIR BIN HASHIM",
+                "Votes": 11347,
+                "NameBallot": "IR MD NASIR BIN HASHIM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "A RAHMAN BIN A HAMID",
+                "Votes": 6215,
+                "NameBallot": "A RAHMAN BIN A HAMID"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P154",
+        "SeatName": "MERSING",
+        "info": {
+            "EligibleVoters": "44497",
+            "MalayVoters": "79",
+            "ChineseVoters": "16",
+            "IndianVoters": "1",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "678",
+            "Turnout": "37299",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABD LATIFF BIN AHMAD",
+                "Votes": 26184,
+                "majority": 15747
+            },
+            {
+                "Party": "PAS",
+                "Name": "ROSLAN BIN NIKMAT",
+                "Votes": 10437
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P154",
+        "SeatName": "MERSING",
+        "info": {
+            "EligibleVoters": "36445",
+            "MalayVoters": "79",
+            "ChineseVoters": "19",
+            "IndianVoters": "1",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "857",
+            "Turnout": "27548",
+            "Unreturned": "195"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR ABDUL LATIFF AHMAD",
+                "Votes": 20116,
+                "majority": 13736
+            },
+            {
+                "Party": "PAS",
+                "Name": "SHAHAR ABDULLAH",
+                "Votes": 6380
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P154",
+        "SeatName": "MERSING",
+        "info": {
+            "EligibleVoters": "33890",
+            "MalayVoters": "76",
+            "ChineseVoters": "21",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "613",
+            "Turnout": "24484",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL LATIFF AHMAD",
+                "Votes": 19222,
+                "majority": 14573
+            },
+            {
+                "Party": "PAS",
+                "Name": "IDRIS TUKACHIL",
+                "Votes": 4649
+            }
+        ]
+    }
+}

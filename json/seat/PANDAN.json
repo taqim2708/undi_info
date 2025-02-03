@@ -1,0 +1,222 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P100",
+        "SeatName": "PANDAN",
+        "info": {
+            "EligibleVoters": "148730",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "RAFIZI RAMLI",
+                "Votes": 74002,
+                "NameBallot": "RAFIZI RAMLI",
+                "majority": 48296
+            },
+            {
+                "Party": "PN",
+                "Name": "FARIQUE ZUBIR",
+                "Votes": 25706,
+                "NameBallot": "FARIQUE ZUBIR"
+            },
+            {
+                "Party": "BN",
+                "Name": "LEONG KOK WEE",
+                "Votes": 11664,
+                "NameBallot": "LEONG KOK WEE"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "ONG TEE KEAT",
+                "Votes": 3323,
+                "NameBallot": "ONG TEE KEAT"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NADIA HANAFIAH",
+                "Votes": 961,
+                "NameBallot": "NADIA HANAFIAH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P100",
+        "SeatName": "PANDAN",
+        "info": {
+            "EligibleVoters": "101319",
+            "MalayVoters": "46",
+            "ChineseVoters": "46",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "825",
+            "Postal": "42",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "WAN AZIZAH BINTI WAN ISMAIL",
+                "Votes": 64733,
+                "NameBallot": "DR WAN AZIZAH",
+                "majority": 52543
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEONG KOK WEE",
+                "Votes": 12190,
+                "NameBallot": "LEONG KOK WEE"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED SUKRI BIN OMAR",
+                "Votes": 8336,
+                "NameBallot": "USTAZ SUKRI OMAR"
+            },
+            {
+                "Party": "PRM",
+                "Name": "LEE YING HA",
+                "Votes": 442,
+                "NameBallot": "JENICE LEE YING HA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MOHD KHAIRUL AZAM BIN ABDUL AZIZ",
+                "Votes": 73,
+                "NameBallot": "MOHD KHAIRUL AZAM BIN ABDUL AZIZ"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P100",
+        "SeatName": "PANDAN",
+        "info": {
+            "EligibleVoters": "83857",
+            "MalayVoters": "44",
+            "ChineseVoters": "48",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1022",
+            "Turnout": "73074",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MOHD RAFIZI BIN RAMLI",
+                "Votes": 48183,
+                "majority": 26729
+            },
+            {
+                "Party": "MCA",
+                "Name": "LIM CHIN YEE",
+                "Votes": 21454
+            },
+            {
+                "Party": "IND",
+                "Name": "TAN YEW LENG",
+                "Votes": 2415
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P100",
+        "SeatName": "PANDAN",
+        "info": {
+            "EligibleVoters": "64497",
+            "MalayVoters": "49",
+            "ChineseVoters": "45",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "798",
+            "Turnout": "48309",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATO ONG TEE KEAT",
+                "Votes": 25236,
+                "majority": 2961
+            },
+            {
+                "Party": "PKR",
+                "Name": "SYED SHAHIR SYED MOHAMUD",
+                "Votes": 22275
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P100",
+        "SeatName": "PANDAN",
+        "info": {
+            "EligibleVoters": "57884",
+            "MalayVoters": "52",
+            "ChineseVoters": "42",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "632",
+            "Turnout": "39962",
+            "Unreturned": "62"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK ONG TEE KEAT",
+                "Votes": 26721,
+                "majority": 14112
+            },
+            {
+                "Party": "PAS",
+                "Name": "ISKANDAR ABDUL SAMAD",
+                "Votes": 12609
+            }
+        ]
+    }
+}

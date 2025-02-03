@@ -1,0 +1,197 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P196",
+        "SeatName": "STAMPIN",
+        "info": {
+            "EligibleVoters": "121009",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHONG CHIENG JEN",
+                "Votes": 39310,
+                "NameBallot": "CHONG CHIENG JEN",
+                "majority": 7158
+            },
+            {
+                "Party": "GPS",
+                "Name": "LO KHERE CHIANG",
+                "Votes": 32152,
+                "NameBallot": "LO KHERE CHIANG"
+            },
+            {
+                "Party": "PSB",
+                "Name": "LUE CHENG HING",
+                "Votes": 2291,
+                "NameBallot": "LUE CHENG HING"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P196",
+        "SeatName": "STAMPIN",
+        "info": {
+            "EligibleVoters": "66240",
+            "MalayVoters": "0",
+            "ChineseVoters": "64",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "16",
+            "BumiNonmuslimVoters": "18",
+            "SabahBumiVoters": "0",
+            "Early": "4299",
+            "Postal": "22",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHONG CHIENG JEN",
+                "Votes": 33060,
+                "NameBallot": "CHONG CHIENG JEN",
+                "majority": 14221
+            },
+            {
+                "Party": "SUPP",
+                "Name": "SIM KUI HIAN",
+                "Votes": 18839,
+                "NameBallot": "DR SIM KUI HIAN"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P196",
+        "SeatName": "STAMPIN",
+        "info": {
+            "EligibleVoters": "84732",
+            "MalayVoters": "0",
+            "ChineseVoters": "73",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "13",
+            "BumiNonmuslimVoters": "13",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "488",
+            "Turnout": "65383",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "JULIAN TAN KOK PING",
+                "Votes": 41663,
+                "majority": 18670
+            },
+            {
+                "Party": "SUPP",
+                "Name": "YONG KHOON HIAN @ YONG KHOON SENG",
+                "Votes": 22993
+            },
+            {
+                "Party": "STAR",
+                "Name": "SOO LINA",
+                "Votes": 239
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P196",
+        "SeatName": "STAMPIN",
+        "info": {
+            "EligibleVoters": "67257",
+            "MalayVoters": "0",
+            "ChineseVoters": "78",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "428",
+            "Turnout": "43922",
+            "Unreturned": "434"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "DATUK YONG KHOON SENG",
+                "Votes": 21966,
+                "majority": 3070
+            },
+            {
+                "Party": "DAP",
+                "Name": "VOON LEE SHAN",
+                "Votes": 18896
+            },
+            {
+                "Party": "PKR",
+                "Name": "SEE CHEE HOW",
+                "Votes": 2198
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P196",
+        "SeatName": "STAMPIN",
+        "info": {
+            "EligibleVoters": "59809",
+            "MalayVoters": "7",
+            "ChineseVoters": "75",
+            "IndianVoters": "1",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "529",
+            "Turnout": "35806",
+            "Unreturned": "698"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "Yong Khoon Seng",
+                "Votes": 21155,
+                "majority": 7731
+            },
+            {
+                "Party": "DAP",
+                "Name": "Voon Lee Shan",
+                "Votes": 13424
+            }
+        ]
+    }
+}

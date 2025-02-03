@@ -1,0 +1,225 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P167",
+        "SeatName": "KUDAT",
+        "info": {
+            "EligibleVoters": "75724",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BEBAS",
+                "Name": "VERDON BIN BAHANDA",
+                "Votes": 16323,
+                "NameBallot": "VERDON BIN BAHANDA",
+                "majority": 1967
+            },
+            {
+                "Party": "GRS",
+                "Name": "RUDDY BIN AWAH",
+                "Votes": 14356,
+                "NameBallot": "RUDDY BIN AWAH"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "RASHID BIN ABDUL HARUN",
+                "Votes": 9421,
+                "NameBallot": "RASHID BIN ABDUL HARUN"
+            },
+            {
+                "Party": "PH",
+                "Name": "THONNY CHEE",
+                "Votes": 4726,
+                "NameBallot": "THONNY CHEE"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "PETRONELLA USUN",
+                "Votes": 282,
+                "NameBallot": "PETRONELLA USUN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P167",
+        "SeatName": "KUDAT",
+        "info": {
+            "EligibleVoters": "52251",
+            "MalayVoters": "8",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "10",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "73",
+            "Early": "51692",
+            "Postal": "559",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABDUL RAHIM BIN BAKRI",
+                "Votes": 18503,
+                "NameBallot": "DATUK ABDUL RAHIM BAKRI",
+                "majority": 1359
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "SH AZMAN BIN SH ALONG",
+                "Votes": 17144,
+                "NameBallot": "SHARIFF AZMAN SH ALONG"
+            },
+            {
+                "Party": "PPRS",
+                "Name": "MOHD ASHRAF CHIN ABDULLAH",
+                "Votes": 1432,
+                "NameBallot": "MOHD ASHRAF CHIN ABDULLAH"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P167",
+        "SeatName": "KUDAT",
+        "info": {
+            "EligibleVoters": "47249",
+            "MalayVoters": "0",
+            "ChineseVoters": "11",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "47",
+            "BumiNonmuslimVoters": "40",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "919",
+            "Turnout": "36355",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABD RAHIM BIN BAKRI",
+                "Votes": 21883,
+                "majority": 12376
+            },
+            {
+                "Party": "PKR",
+                "Name": "RAHIMAH BINTI MAJID",
+                "Votes": 9507
+            },
+            {
+                "Party": "STAR",
+                "Name": "JUTIRIM BIN GALIBAI GALABI",
+                "Votes": 3083
+            },
+            {
+                "Party": "SAPP",
+                "Name": "MOJURIP BIN DIYUN",
+                "Votes": 963
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P167",
+        "SeatName": "KUDAT",
+        "info": {
+            "EligibleVoters": "39643",
+            "MalayVoters": "0",
+            "ChineseVoters": "15",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1058",
+            "Turnout": "26551",
+            "Unreturned": "120"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL RAHIM BAKRI",
+                "Votes": 17634,
+                "majority": 9895
+            },
+            {
+                "Party": "PKR",
+                "Name": "YAHYA OTHMAN",
+                "Votes": 7739
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P167",
+        "SeatName": "KUDAT",
+        "info": {
+            "EligibleVoters": "37089",
+            "MalayVoters": "0",
+            "ChineseVoters": "15",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "54",
+            "BumiNonmuslimVoters": "31",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1061",
+            "Turnout": "24442",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL RAHIM BAKRI",
+                "Votes": 13236,
+                "majority": 6748
+            },
+            {
+                "Party": "IND",
+                "Name": "Abdul Rahman Sedik",
+                "Votes": 6488
+            },
+            {
+                "Party": "IND",
+                "Name": "Abdul Razak Abdul Salam",
+                "Votes": 2375
+            },
+            {
+                "Party": "IND",
+                "Name": "Asbiah Anggar",
+                "Votes": 1282
+            }
+        ]
+    }
+}

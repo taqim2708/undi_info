@@ -1,0 +1,237 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P168",
+        "SeatName": "KOTA MARUDU",
+        "info": {
+            "EligibleVoters": "80735",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "KDM",
+                "Name": " DATUK WETROM BAHANDA",
+                "Votes": 24318,
+                "NameBallot": " DATUK WETROM BAHANDA",
+                "majority": 8174
+            },
+            {
+                "Party": "GRS",
+                "Name": "DR.MAXIMUS@JOHNITY ONGKILI",
+                "Votes": 16144,
+                "NameBallot": "DR.MAXIMUS@JOHNITY ONGKILI"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "JILID @ ZAINUDDIN BIN KUMINDING",
+                "Votes": 5320,
+                "NameBallot": "JILID @ ZAINUDDIN BIN KUMINDING"
+            },
+            {
+                "Party": "MUDA",
+                "Name": "SHAHRIZAL DENCI",
+                "Votes": 3225,
+                "NameBallot": "SHAHRIZAL DENCI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "NORMAN BIN TULANG (TAS)",
+                "Votes": 660,
+                "NameBallot": "NORMAN BIN TULANG (TAS)"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MOHD AZMI BIN HJ ZULKIFLEE",
+                "Votes": 279,
+                "NameBallot": "MOHD AZMI BIN HJ ZULKIFLEE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P168",
+        "SeatName": "KOTA MARUDU",
+        "info": {
+            "EligibleVoters": "47007",
+            "MalayVoters": "5",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "91",
+            "Early": "46825",
+            "Postal": "182",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "JOHNITY @ MAXIMUS BIN ONGKILI",
+                "Votes": 13033,
+                "NameBallot": "DATUK SERI PANGLIMA DR MAXIMUS JOHNITY ONGKILI",
+                "majority": 1774
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "MAIJOL BIN MAHAP",
+                "Votes": 11259,
+                "NameBallot": "DATUK MAIJOL MAHAP"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "BARLUS BIN MANGABIS",
+                "Votes": 7113,
+                "NameBallot": "BARLUS BIN MANGABIS"
+            },
+            {
+                "Party": "PCS",
+                "Name": "PAUL BIN PORODONG",
+                "Votes": 2501,
+                "NameBallot": "DR PAUL PORODONG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P168",
+        "SeatName": "KOTA MARUDU",
+        "info": {
+            "EligibleVoters": "42197",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "26",
+            "BumiNonmuslimVoters": "71",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "911",
+            "Turnout": "33077",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "JOHNITY @ MAXIMUS BIN ONGKILI",
+                "Votes": 15168,
+                "majority": 842
+            },
+            {
+                "Party": "PKR",
+                "Name": "MAIJOL BIN MAHAP",
+                "Votes": 14326
+            },
+            {
+                "Party": "STAR",
+                "Name": "MAJAMIS BIN TIMBONG",
+                "Votes": 2228
+            },
+            {
+                "Party": "SAPP",
+                "Name": "YUNTAU BIN KOLOD @ KUNTAU BIN KOLOD",
+                "Votes": 444
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P168",
+        "SeatName": "KOTA MARUDU",
+        "info": {
+            "EligibleVoters": "31938",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "748",
+            "Turnout": "22199",
+            "Unreturned": "27"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "DATUK DR MAXIMUS ONGKILI",
+                "Votes": 12028,
+                "majority": 4198
+            },
+            {
+                "Party": "PKR",
+                "Name": "ANTHONY MANDIAU",
+                "Votes": 7830
+            },
+            {
+                "Party": "IND",
+                "Name": "ROSLAN MOHD ZAIN",
+                "Votes": 1109
+            },
+            {
+                "Party": "BERSEKUTU",
+                "Name": "BERNAM ANGKAP",
+                "Votes": 457
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P168",
+        "SeatName": "KOTA MARUDU",
+        "info": {
+            "EligibleVoters": "28111",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "27",
+            "BumiNonmuslimVoters": "70",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "901",
+            "Turnout": "18626",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "Maximus Johnity Ongkili",
+                "Votes": 10457,
+                "majority": 3189
+            },
+            {
+                "Party": "IND",
+                "Name": "Anthony Mandiau",
+                "Votes": 7268
+            }
+        ]
+    }
+}

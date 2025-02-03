@@ -1,0 +1,187 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P200",
+        "SeatName": "BATANG SADONG",
+        "info": {
+            "EligibleVoters": "32640",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "RODIYAH BINTI SAPIEE",
+                "Votes": 18668,
+                "NameBallot": "RODIYAH BINTI SAPIEE",
+                "majority": 14893
+            },
+            {
+                "Party": "PH",
+                "Name": "CIKGU LAHAJI",
+                "Votes": 3775,
+                "NameBallot": "CIKGU LAHAJI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P200",
+        "SeatName": "BATANG SADONG",
+        "info": {
+            "EligibleVoters": "23213",
+            "MalayVoters": "0",
+            "ChineseVoters": "5",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "70",
+            "BumiNonmuslimVoters": "24",
+            "SabahBumiVoters": "0",
+            "Early": "103",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "NANCY BINTI SHUKRI",
+                "Votes": 14208,
+                "NameBallot": "DATO' SRI NANCY SHUKRI",
+                "majority": 12328
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "OTHMAN BIN MUSTAPHA @ MOS",
+                "Votes": 1880,
+                "NameBallot": "OTHMAN BIN MUSTAPHA @ MOS"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ASAN BIN SINGKRO",
+                "Votes": 978,
+                "NameBallot": "CIKGU ASAN SINGKRO"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P200",
+        "SeatName": "BATANG SADONG",
+        "info": {
+            "EligibleVoters": "19839",
+            "MalayVoters": "0",
+            "ChineseVoters": "6",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "74",
+            "BumiNonmuslimVoters": "21",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "227",
+            "Turnout": "15521",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "NANCY BINTI SHUKRI",
+                "Votes": 13277,
+                "majority": 11260
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD BIN JOLHI",
+                "Votes": 2017
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P200",
+        "SeatName": "BATANG SADONG",
+        "info": {
+            "EligibleVoters": "16794",
+            "MalayVoters": "0",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "170",
+            "Turnout": "11120",
+            "Unreturned": "9"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "NANCY SHUKRI",
+                "Votes": 8183,
+                "majority": 5425
+            },
+            {
+                "Party": "PKR",
+                "Name": "PIEE LING",
+                "Votes": 2758
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P200",
+        "SeatName": "BATANG SADONG",
+        "info": {
+            "EligibleVoters": "18496",
+            "MalayVoters": "28",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "167",
+            "Turnout": "11969",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Adenan Satem",
+                "Votes": 10767,
+                "majority": 9732
+            },
+            {
+                "Party": "PAS",
+                "Name": "Adam Ahid",
+                "Votes": 1035
+            }
+        ]
+    }
+}

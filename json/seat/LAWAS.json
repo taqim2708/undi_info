@@ -1,0 +1,157 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P222",
+        "SeatName": "LAWAS",
+        "info": {
+            "EligibleVoters": "33655",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "HENRY SUM AGONG",
+                "Votes": 11361,
+                "NameBallot": "HENRY SUM AGONG",
+                "majority": 5677
+            },
+            {
+                "Party": "PSB",
+                "Name": "BARU BIAN",
+                "Votes": 5684,
+                "NameBallot": "BARU BIAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "HJ JAPAR BIN HJ SUYUT",
+                "Votes": 1163,
+                "NameBallot": "HJ JAPAR BIN HJ SUYUT"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P222",
+        "SeatName": "LAWAS",
+        "info": {
+            "EligibleVoters": "21297",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "41",
+            "BumiNonmuslimVoters": "49",
+            "SabahBumiVoters": "0",
+            "Early": "119",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "HENRY SUM AGONG",
+                "Votes": 10037,
+                "NameBallot": "HENRY SUM AGONG",
+                "majority": 6000
+            },
+            {
+                "Party": "PKR",
+                "Name": "DANNY PIRI",
+                "Votes": 4037,
+                "NameBallot": "DANNY PIRI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MOHAMAD BIN HAJI BRAHIM",
+                "Votes": 176,
+                "NameBallot": "MOHAMMAD BIN HAJI BRAHIM"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P222",
+        "SeatName": "LAWAS",
+        "info": {
+            "EligibleVoters": "18845",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "43",
+            "BumiNonmuslimVoters": "47",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "177",
+            "Turnout": "14072",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "HENRY SUM AGONG",
+                "Votes": 9928,
+                "majority": 6030
+            },
+            {
+                "Party": "DAP",
+                "Name": "BARU LANGUB",
+                "Votes": 3898
+            },
+            {
+                "Party": "STAR",
+                "Name": "ALIRAHMAN BIN KAMSEH",
+                "Votes": 69
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P222",
+        "SeatName": "LAWAS",
+        "info": {
+            "EligibleVoters": "15717",
+            "MalayVoters": "0",
+            "ChineseVoters": "16",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "82",
+            "Turnout": "9342",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "HENRY SUM AGONG (WALKOVER)",
+                "Votes": 8526
+            }
+        ]
+    }
+}

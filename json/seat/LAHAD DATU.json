@@ -1,0 +1,45 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P188",
+        "SeatName": "LAHAD DATU",
+        "info": {
+            "EligibleVoters": "100256",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "DATO' HJ MOHAMMAD YUSOF BIN APDAL",
+                "Votes": 27116,
+                "NameBallot": "DATO' HJ MOHAMMAD YUSOF BIN APDAL",
+                "majority": 4376
+            },
+            {
+                "Party": "BN",
+                "Name": "MAIZATUL AKMAM BT HJ ALAWI",
+                "Votes": 22740,
+                "NameBallot": "MAIZATUL AKMAM BT HJ ALAWI"
+            },
+            {
+                "Party": "PH",
+                "Name": "SIA YU HOCK",
+                "Votes": 8289,
+                "NameBallot": "SIA YU HOCK"
+            }
+        ]
+    }
+}

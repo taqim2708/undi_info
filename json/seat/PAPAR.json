@@ -1,0 +1,226 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P175",
+        "SeatName": "PAPAR",
+        "info": {
+            "EligibleVoters": "59942",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GRS",
+                "Name": "DATUK ARMIZAN BIN MOHD ALI",
+                "Votes": 22620,
+                "NameBallot": "DATUK ARMIZAN BIN MOHD ALI",
+                "majority": 12224
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "HJ. AHMAD HASSAN",
+                "Votes": 10396,
+                "NameBallot": "HJ. AHMAD HASSAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "HENRY SHIM",
+                "Votes": 9144,
+                "NameBallot": "HENRY SHIM"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NICHOLAS SYLVESTER @ BERRY",
+                "Votes": 783,
+                "NameBallot": "NICHOLAS SYLVESTER @ BERRY"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "JOHNNY SITAMIN",
+                "Votes": 335,
+                "NameBallot": "JOHNNY SITAMIN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "NORBERT CHIN",
+                "Votes": 231,
+                "NameBallot": "NORBERT CHIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P175",
+        "SeatName": "PAPAR",
+        "info": {
+            "EligibleVoters": "43586",
+            "MalayVoters": "11",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "76",
+            "Early": "42684",
+            "Postal": "899",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "AHMAD BIN HASSAN",
+                "Votes": 17394,
+                "NameBallot": "AHMAD BIN HASSAN",
+                "majority": 325
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ROSNAH ABD RASHID SHIRLIN",
+                "Votes": 17069,
+                "NameBallot": "ROSNAH HJ ABD RASHID SHIRLIN"
+            },
+            {
+                "Party": "SOLIDARITI",
+                "Name": "JAMIL WILLIAM CORE",
+                "Votes": 892,
+                "NameBallot": "JAMIL BIN WILLIAM CORE"
+            },
+            {
+                "Party": "PCS",
+                "Name": "ELBERT BIN SIKUIL",
+                "Votes": 481,
+                "NameBallot": "ELBERT BIN SIKUIL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P175",
+        "SeatName": "PAPAR",
+        "info": {
+            "EligibleVoters": "38771",
+            "MalayVoters": "0",
+            "ChineseVoters": "9",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "60",
+            "BumiNonmuslimVoters": "30",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "499",
+            "Turnout": "33194",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ROSNAH BINTI HJ ABD RASHID SHIRLIN",
+                "Votes": 21196,
+                "majority": 10535
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHAMMAD YAHYA @ YAHYA BIN LAMPONG",
+                "Votes": 10661
+            },
+            {
+                "Party": "STAR",
+                "Name": "BALON BIN MUJIM",
+                "Votes": 838
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P175",
+        "SeatName": "PAPAR",
+        "info": {
+            "EligibleVoters": "32279",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "651",
+            "Turnout": "24913",
+            "Unreturned": "435"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ROSNAH ABDUL RASHID SHIRLIN",
+                "Votes": 15352,
+                "majority": 9574
+            },
+            {
+                "Party": "PKR",
+                "Name": "WAHAB IDRIS",
+                "Votes": 5778
+            },
+            {
+                "Party": "IND",
+                "Name": "DATUK PATRICK SINDU",
+                "Votes": 2268
+            },
+            {
+                "Party": "IND",
+                "Name": "MOHD HASHIM YUSSUP",
+                "Votes": 429
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P175",
+        "SeatName": "PAPAR",
+        "info": {
+            "EligibleVoters": "31275",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "63",
+            "BumiNonmuslimVoters": "25",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Rosnah Abdul Rashid Shirlin",
+                "Votes": 0
+            }
+        ]
+    }
+}

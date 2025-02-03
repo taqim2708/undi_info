@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P59",
+        "SeatName": "BUKIT GANTANG",
+        "info": {
+            "EligibleVoters": "94253",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO' SYED ABU HUSSIN",
+                "Votes": 32625,
+                "NameBallot": "DATO' SYED ABU HUSSIN",
+                "majority": 12756
+            },
+            {
+                "Party": "BN",
+                "Name": "MOHAMMAD SOLLEHIN",
+                "Votes": 19869,
+                "NameBallot": "MOHAMMAD SOLLEHIN"
+            },
+            {
+                "Party": "PH",
+                "Name": "DR. FAKHRULDIN MOHD HASHIM",
+                "Votes": 18565,
+                "NameBallot": "DR. FAKHRULDIN MOHD HASHIM"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MOHD SHUKRI",
+                "Votes": 508,
+                "NameBallot": "MOHD SHUKRI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P59",
+        "SeatName": "BUKIT GANTANG",
+        "info": {
+            "EligibleVoters": "69873",
+            "MalayVoters": "73",
+            "ChineseVoters": "19",
+            "IndianVoters": "8",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "82",
+            "Postal": "14",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SYED ABU HUSSIN BIN HAFIZ SYED ABDUL FASAL",
+                "Votes": 22450,
+                "NameBallot": "SYED ABU HUSSIN BIN HAFIZ SYED ABDUL FASAL",
+                "majority": 4089
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "KHADRI BIN KHALID",
+                "Votes": 18361,
+                "NameBallot": "DATO HJ KHADRI KHALID"
+            },
+            {
+                "Party": "PAS",
+                "Name": "IDRIS BIN AHMAD",
+                "Votes": 16052,
+                "NameBallot": "USTAZ IDRIS AHMAD"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P59",
+        "SeatName": "BUKIT GANTANG",
+        "info": {
+            "EligibleVoters": "71257",
+            "MalayVoters": "65",
+            "ChineseVoters": "25",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "748",
+            "Turnout": "60888",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "IDRIS BIN AHMAD",
+                "Votes": 30563,
+                "majority": 986
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL BIN SAFFIAN",
+                "Votes": 29577
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P59",
+        "SeatName": "BUKIT GANTANG",
+        "info": {
+            "EligibleVoters": "55471",
+            "MalayVoters": "64",
+            "ChineseVoters": "27",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "851",
+            "Turnout": "40301",
+            "Unreturned": "114"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "ROSLAN SHAHARUM",
+                "Votes": 20015,
+                "majority": 1566
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK AZIM ZABIDI",
+                "Votes": 18449
+            },
+            {
+                "Party": "IND",
+                "Name": "M MORGAN",
+                "Votes": 872
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P59",
+        "SeatName": "BUKIT GANTANG",
+        "info": {
+            "EligibleVoters": "53880",
+            "MalayVoters": "63",
+            "ChineseVoters": "28",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "886",
+            "Turnout": "38642",
+            "Unreturned": "56"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "TAN LIAN HOE",
+                "Votes": 16846,
+                "majority": 6702
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR LO LO MOHAMED GHAZLI",
+                "Votes": 10144
+            }
+        ]
+    }
+}

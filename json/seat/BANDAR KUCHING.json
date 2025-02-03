@@ -1,0 +1,187 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P195",
+        "SeatName": "BANDAR KUCHING",
+        "info": {
+            "EligibleVoters": "109710",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KELVIN YII LEE WUEN",
+                "Votes": 45353,
+                "NameBallot": "KELVIN YII LEE WUEN",
+                "majority": 28891
+            },
+            {
+                "Party": "GPS",
+                "Name": "TAY TZE KOK",
+                "Votes": 16462,
+                "NameBallot": "TAY TZE KOK"
+            },
+            {
+                "Party": "PSB",
+                "Name": "VOON LEE SHAN",
+                "Votes": 1760,
+                "NameBallot": "VOON LEE SHAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P195",
+        "SeatName": "BANDAR KUCHING",
+        "info": {
+            "EligibleVoters": "81856",
+            "MalayVoters": "0",
+            "ChineseVoters": "89",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "4",
+            "BumiNonmuslimVoters": "6",
+            "SabahBumiVoters": "0",
+            "Early": "1193",
+            "Postal": "19",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KELVIN YII LEE WUEN",
+                "Votes": 48548,
+                "NameBallot": "KELVIN YII LEE WUEN",
+                "majority": 35973
+            },
+            {
+                "Party": "SUPP",
+                "Name": "KHO TECK WAN",
+                "Votes": 12575,
+                "NameBallot": "KHO TECK WAN"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P195",
+        "SeatName": "BANDAR KUCHING",
+        "info": {
+            "EligibleVoters": "53336",
+            "MalayVoters": "0",
+            "ChineseVoters": "91",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "5",
+            "BumiNonmuslimVoters": "3",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "201",
+            "Turnout": "40825",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHONG CHIENG JEN",
+                "Votes": 30133,
+                "majority": 19642
+            },
+            {
+                "Party": "SUPP",
+                "Name": "TAN KAI",
+                "Votes": 10491
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P195",
+        "SeatName": "BANDAR KUCHING",
+        "info": {
+            "EligibleVoters": "53216",
+            "MalayVoters": "0",
+            "ChineseVoters": "90",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "242",
+            "Turnout": "36257",
+            "Unreturned": "165"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHONG CHIENG JEN",
+                "Votes": 22901,
+                "majority": 9952
+            },
+            {
+                "Party": "SUPP",
+                "Name": "SIM YAW YEN",
+                "Votes": 12949
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P195",
+        "SeatName": "BANDAR KUCHING",
+        "info": {
+            "EligibleVoters": "55012",
+            "MalayVoters": "3",
+            "ChineseVoters": "90",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "577",
+            "Turnout": "34364",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "Chong Chieng Jen",
+                "Votes": 17914,
+                "majority": 2041
+            },
+            {
+                "Party": "SUPP",
+                "Name": "Wee Kok Tiong",
+                "Votes": 15873
+            }
+        ]
+    }
+}

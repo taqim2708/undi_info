@@ -1,0 +1,220 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P128",
+        "SeatName": "SEREMBAN",
+        "info": {
+            "EligibleVoters": "157244",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "LOKE SIEW FOOK",
+                "Votes": 63916,
+                "NameBallot": "LOKE SIEW FOOK",
+                "majority": 30841
+            },
+            {
+                "Party": "PN",
+                "Name": "HAJI FADLI CHE ME",
+                "Votes": 33075,
+                "NameBallot": "HAJI FADLI CHE ME"
+            },
+            {
+                "Party": "BN",
+                "Name": "FELICIA WONG",
+                "Votes": 24584,
+                "NameBallot": "FELICIA WONG"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "SJN (B) MOHAMAD JANI",
+                "Votes": 1336,
+                "NameBallot": "SJN (B) MOHAMAD JANI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "IZZAT LESLY",
+                "Votes": 373,
+                "NameBallot": "IZZAT LESLY"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P128",
+        "SeatName": "SEREMBAN",
+        "info": {
+            "EligibleVoters": "110168",
+            "MalayVoters": "49",
+            "ChineseVoters": "37",
+            "IndianVoters": "13",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1888",
+            "Postal": "50",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LOKE SIEW FOOK",
+                "Votes": 55503,
+                "NameBallot": "LOKE SIEW FOOK",
+                "majority": 30694
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHONG SIN WOON",
+                "Votes": 24809,
+                "NameBallot": "AH CHONG @ CHONG SIN WOON"
+            },
+            {
+                "Party": "PAS",
+                "Name": "SHARIFFUDDIN BIN AHMAD",
+                "Votes": 11506,
+                "NameBallot": "HAJI SHARIFUDDIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P128",
+        "SeatName": "SEREMBAN",
+        "info": {
+            "EligibleVoters": "102305",
+            "MalayVoters": "44",
+            "ChineseVoters": "41",
+            "IndianVoters": "14",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1486",
+            "Turnout": "87359",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LOKE SIEW FOOK",
+                "Votes": 45628,
+                "majority": 12553
+            },
+            {
+                "Party": "MCA",
+                "Name": "YEOW CHAI THIAM",
+                "Votes": 33075
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "ABDUL HALIM BIN ABDULLAH",
+                "Votes": 6866
+            },
+            {
+                "Party": "IND",
+                "Name": "JOHN A/L FERNANDEZ",
+                "Votes": 221
+            },
+            {
+                "Party": "IND",
+                "Name": "BUJANG BIN ABU",
+                "Votes": 83
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P128",
+        "SeatName": "SEREMBAN",
+        "info": {
+            "EligibleVoters": "84675",
+            "MalayVoters": "42",
+            "ChineseVoters": "46",
+            "IndianVoters": "12",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "2248",
+            "Turnout": "64437",
+            "Unreturned": "197"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "JOHN FERNANDEZ",
+                "Votes": 32970,
+                "majority": 3948
+            },
+            {
+                "Party": "MCA",
+                "Name": "DATUK YU CHOK TOW",
+                "Votes": 29022
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P128",
+        "SeatName": "SEREMBAN",
+        "info": {
+            "EligibleVoters": "81704",
+            "MalayVoters": "39",
+            "ChineseVoters": "48",
+            "IndianVoters": "12",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "2190",
+            "Turnout": "59038",
+            "Unreturned": "134"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK HON CHOON KIM",
+                "Votes": 36542,
+                "majority": 16236
+            },
+            {
+                "Party": "DAP",
+                "Name": "CHOONG YEN LOONG",
+                "Votes": 20306
+            }
+        ]
+    }
+}

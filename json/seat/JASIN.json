@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P139",
+        "SeatName": "JASIN",
+        "info": {
+            "EligibleVoters": "96208",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "TUAN GURU ZULKIFLI ISMAIL",
+                "Votes": 27893,
+                "NameBallot": "TUAN GURU ZULKIFLI ISMAIL",
+                "majority": 322
+            },
+            {
+                "Party": "BN",
+                "Name": "ROSLAN BIN AHMAD",
+                "Votes": 27571,
+                "NameBallot": "ROSLAN BIN AHMAD"
+            },
+            {
+                "Party": "PH",
+                "Name": "DATUK HARUN ",
+                "Votes": 21674,
+                "NameBallot": "DATUK HARUN "
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MOHD DAUD NASIR",
+                "Votes": 460,
+                "NameBallot": "MOHD DAUD NASIR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P139",
+        "SeatName": "JASIN",
+        "info": {
+            "EligibleVoters": "73432",
+            "MalayVoters": "74",
+            "ChineseVoters": "16",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "410",
+            "Postal": "9",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD HAMZAH",
+                "Votes": 26560,
+                "NameBallot": "DATUK SERI HAJI AHMAD HAMZAH",
+                "majority": 219
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "KHAIRUDDIN BIN ABU HASSAN",
+                "Votes": 26341,
+                "NameBallot": "KHAIRUDDIN ABU HASSAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABD ALIM BIN SHAPIE",
+                "Votes": 8860,
+                "NameBallot": "ABD ALIM SHAPIE"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P139",
+        "SeatName": "JASIN",
+        "info": {
+            "EligibleVoters": "64455",
+            "MalayVoters": "71",
+            "ChineseVoters": "18",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1001",
+            "Turnout": "56710",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD BIN HAMZAH",
+                "Votes": 33736,
+                "majority": 11763
+            },
+            {
+                "Party": "PKR",
+                "Name": "RAHMAT BIN YUSOF",
+                "Votes": 21973
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P139",
+        "SeatName": "JASIN",
+        "info": {
+            "EligibleVoters": "56121",
+            "MalayVoters": "71",
+            "ChineseVoters": "16",
+            "IndianVoters": "3",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "990",
+            "Turnout": "44181",
+            "Unreturned": "5"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK WIRA AHMAD HAMZAH",
+                "Votes": 28101,
+                "majority": 12728
+            },
+            {
+                "Party": "PKR",
+                "Name": "ZULKEFLY OTHMAN",
+                "Votes": 15373
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P139",
+        "SeatName": "JASIN",
+        "info": {
+            "EligibleVoters": "53218",
+            "MalayVoters": "68",
+            "ChineseVoters": "21",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1249",
+            "Turnout": "42311",
+            "Unreturned": "96"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD SAID YUSOF",
+                "Votes": 31198,
+                "majority": 21334
+            },
+            {
+                "Party": "PAS",
+                "Name": "JASME TOMPANG",
+                "Votes": 9864
+            }
+        ]
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P213",
+        "SeatName": "MUKAH",
+        "info": {
+            "EligibleVoters": "46964",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "HANIFAH HAJAR TAIB",
+                "Votes": 21733,
+                "NameBallot": "HANIFAH HAJAR TAIB",
+                "majority": 15686
+            },
+            {
+                "Party": "PH",
+                "Name": "ABDUL JALIL",
+                "Votes": 6047,
+                "NameBallot": "ABDUL JALIL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P213",
+        "SeatName": "MUKAH",
+        "info": {
+            "EligibleVoters": "30608",
+            "MalayVoters": "0",
+            "ChineseVoters": "9",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "7",
+            "BumiNonmuslimVoters": "84",
+            "SabahBumiVoters": "0",
+            "Early": "204",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "HANIFAH HAJAR TAIB",
+                "Votes": 13853,
+                "NameBallot": "HANIFAH HAJAR TAIB",
+                "majority": 7000
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABDUL JALIL BIN BUJANG",
+                "Votes": 6853,
+                "NameBallot": "ABDUL JALIL BUJANG"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P213",
+        "SeatName": "MUKAH",
+        "info": {
+            "EligibleVoters": "26477",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "75",
+            "BumiNonmuslimVoters": "16",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "417",
+            "Turnout": "19838",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "MUHAMMAD LEO MICHAEL TOYAD ABDULLAH",
+                "Votes": 14983,
+                "majority": 12764
+            },
+            {
+                "Party": "IND",
+                "Name": "SYLVESTER AJAH SUBAH @ AJAH BIN SUBAH",
+                "Votes": 2219
+            },
+            {
+                "Party": "DAP",
+                "Name": "HAI BIN MERAWIN @ BONAVENTURE",
+                "Votes": 2219
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P213",
+        "SeatName": "MUKAH",
+        "info": {
+            "EligibleVoters": "22851",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "521",
+            "Turnout": "14435",
+            "Unreturned": "32"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "DATUK SERI MUHD LEO MICHAEL TOYAD",
+                "Votes": 10090,
+                "majority": 6298
+            },
+            {
+                "Party": "IND",
+                "Name": "HAI MERAWIN",
+                "Votes": 3792
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P212",
+        "SeatName": "MUKAH",
+        "info": {
+            "EligibleVoters": "25853",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "75",
+            "BumiNonmuslimVoters": "16",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "341",
+            "Turnout": "14849",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Muhammad Leo Michael Toyad Abdullah",
+                "Votes": 11829,
+                "majority": 9178
+            },
+            {
+                "Party": "IND",
+                "Name": "Mohamad @ Latip Rahman",
+                "Votes": 2651
+            }
+        ]
+    }
+}

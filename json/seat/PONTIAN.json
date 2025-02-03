@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P164",
+        "SeatName": "PONTIAN",
+        "info": {
+            "EligibleVoters": "75212",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATUK SERI AHMAD MASLAN",
+                "Votes": 23201,
+                "NameBallot": "DATUK SERI AHMAD MASLAN",
+                "majority": 5758
+            },
+            {
+                "Party": "PN",
+                "Name": "CIKGU ISA BIN AB HAMID",
+                "Votes": 17443,
+                "NameBallot": "CIKGU ISA BIN AB HAMID"
+            },
+            {
+                "Party": "PH",
+                "Name": "SHAZWAN ZDAINAL",
+                "Votes": 15901,
+                "NameBallot": "SHAZWAN ZDAINAL"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "JAMALUDDIN MOHAMAD",
+                "Votes": 306,
+                "NameBallot": "JAMALUDDIN MOHAMAD"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P164",
+        "SeatName": "PONTIAN",
+        "info": {
+            "EligibleVoters": "55570",
+            "MalayVoters": "69",
+            "ChineseVoters": "30",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "100",
+            "Postal": "9",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD BIN HAJI MASLAN",
+                "Votes": 21132,
+                "NameBallot": "DATUK SERI HAJI AHMAD HAJI MASLAN",
+                "majority": 833
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "KARMAINE BIN SARDINI",
+                "Votes": 20299,
+                "NameBallot": "HAJI KARMAINE BIN SARDINI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "BAHAROM BIN MOHAMAD",
+                "Votes": 4295,
+                "NameBallot": "DR BAHAROM MOHAMAD"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P164",
+        "SeatName": "PONTIAN",
+        "info": {
+            "EligibleVoters": "49633",
+            "MalayVoters": "69",
+            "ChineseVoters": "28",
+            "IndianVoters": "1",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "873",
+            "Turnout": "42754",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD BIN MASLAN",
+                "Votes": 27804,
+                "majority": 13727
+            },
+            {
+                "Party": "PKR",
+                "Name": "HANIFF @ GHAZALI BIN HOSMAN",
+                "Votes": 14077
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P164",
+        "SeatName": "PONTIAN",
+        "info": {
+            "EligibleVoters": "43264",
+            "MalayVoters": "68",
+            "ChineseVoters": "31",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1008",
+            "Turnout": "32806",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD MASLAN",
+                "Votes": 23121,
+                "majority": 14444
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD ANNUAR MOHD SALLEH",
+                "Votes": 8677
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P164",
+        "SeatName": "PONTIAN",
+        "info": {
+            "EligibleVoters": "44377",
+            "MalayVoters": "68",
+            "ChineseVoters": "31",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1167",
+            "Turnout": "33460",
+            "Unreturned": "117"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HASNI MOHAMAD",
+                "Votes": 26667,
+                "majority": 21158
+            },
+            {
+                "Party": "PKR",
+                "Name": "HASSAN ABDUL KARIM",
+                "Votes": 5509
+            }
+        ]
+    }
+}

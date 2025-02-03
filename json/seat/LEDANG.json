@@ -1,0 +1,211 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P144",
+        "SeatName": "LEDANG",
+        "info": {
+            "EligibleVoters": "104577",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "SYED IBRAHIM SYED NOH",
+                "Votes": 33650,
+                "NameBallot": "SYED IBRAHIM SYED NOH",
+                "majority": 9769
+            },
+            {
+                "Party": "BN",
+                "Name": "HAMIM SAMURI",
+                "Votes": 23881,
+                "NameBallot": "HAMIM SAMURI"
+            },
+            {
+                "Party": "PN",
+                "Name": "ZAIDI HJ MAJID",
+                "Votes": 22292,
+                "NameBallot": "ZAIDI HJ MAJID"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "RAFIDAH RIDWAN",
+                "Votes": 269,
+                "NameBallot": "RAFIDAH RIDWAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "CIKGU YUNUS",
+                "Votes": 140,
+                "NameBallot": "CIKGU YUNUS"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ZAINAL BAHROM",
+                "Votes": 75,
+                "NameBallot": "ZAINAL BAHROM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P144",
+        "SeatName": "LEDANG",
+        "info": {
+            "EligibleVoters": "77474",
+            "MalayVoters": "56",
+            "ChineseVoters": "39",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "398",
+            "Postal": "21",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SYED IBRAHIM BIN SYED NOR",
+                "Votes": 34706,
+                "NameBallot": "SYED IBRAHIM BIN SYED NOR",
+                "majority": 8666
+            },
+            {
+                "Party": "UMNO",
+                "Name": "HAMIM BIN SAMURI",
+                "Votes": 26040,
+                "NameBallot": "DATUK IR DR HJ HAMIM SAMURI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "RUSMAN BIN KEMIN",
+                "Votes": 4668,
+                "NameBallot": "RUSMAN BIN KEMIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P144",
+        "SeatName": "LEDANG",
+        "info": {
+            "EligibleVoters": "69316",
+            "MalayVoters": "53",
+            "ChineseVoters": "41",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1077",
+            "Turnout": "60348",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HAMIM BIN SAMURI",
+                "Votes": 30619,
+                "majority": 1967
+            },
+            {
+                "Party": "PKR",
+                "Name": "HASSAN BIN ABDUL KARIM",
+                "Votes": 28652
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P144",
+        "SeatName": "LEDANG",
+        "info": {
+            "EligibleVoters": "58501",
+            "MalayVoters": "53",
+            "ChineseVoters": "43",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1433",
+            "Turnout": "44556",
+            "Unreturned": "102"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HAMIM SAMURI",
+                "Votes": 25319,
+                "majority": 7617
+            },
+            {
+                "Party": "DAP",
+                "Name": "LEE FU HAW",
+                "Votes": 17702
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P144",
+        "SeatName": "LEDANG",
+        "info": {
+            "EligibleVoters": "57175",
+            "MalayVoters": "53",
+            "ChineseVoters": "43",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1362",
+            "Turnout": "41684",
+            "Unreturned": "59"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HAMIM SAMURI",
+                "Votes": 30967,
+                "majority": 21671
+            },
+            {
+                "Party": "PAS",
+                "Name": "KASIM IBRAHIM",
+                "Votes": 9296
+            }
+        ]
+    }
+}

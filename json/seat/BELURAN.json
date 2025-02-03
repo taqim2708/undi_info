@@ -1,0 +1,242 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P183",
+        "SeatName": "BELURAN",
+        "info": {
+            "EligibleVoters": "44727",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "RONALD KIANDEE",
+                "Votes": 11303,
+                "NameBallot": "RONALD KIANDEE",
+                "majority": 1594
+            },
+            {
+                "Party": "BN",
+                "Name": "BENEDICT ASMAT",
+                "Votes": 9709,
+                "NameBallot": "BENEDICT ASMAT"
+            },
+            {
+                "Party": "PH",
+                "Name": "FELIX JOSEPH SAANG",
+                "Votes": 4460,
+                "NameBallot": "FELIX JOSEPH SAANG"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "ROWIENA RASID",
+                "Votes": 3707,
+                "NameBallot": "ROWIENA RASID"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HAUSING BIN SAMSUDIN @ SUDIN",
+                "Votes": 155,
+                "NameBallot": "HAUSING BIN SAMSUDIN @ SUDIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P183",
+        "SeatName": "BELURAN",
+        "info": {
+            "EligibleVoters": "28509",
+            "MalayVoters": "10",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "82",
+            "Early": "28354",
+            "Postal": "155",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "RONALD KIANDEE",
+                "Votes": 13007,
+                "NameBallot": "DATUK RONALD KIANDEE",
+                "majority": 7115
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "JAPAR BIN ZAIRUN",
+                "Votes": 5892,
+                "NameBallot": "DR JAPAR BIN ZAIRUN"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "SIPIN BIN KADANDI",
+                "Votes": 996,
+                "NameBallot": "SIPIN BIN KADANDI"
+            },
+            {
+                "Party": "PCS",
+                "Name": "TOIDY LUIT",
+                "Votes": 284,
+                "NameBallot": "TOIDY LUIT"
+            },
+            {
+                "Party": "PERPADUAN",
+                "Name": "LEM @ SALIM BIN MATIN",
+                "Votes": 273,
+                "NameBallot": "LEM MATIN @ SALIM BIN MATIN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SALIMAH BINTI OYONG",
+                "Votes": 246,
+                "NameBallot": "SALIMAH BINTI OYONG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P183",
+        "SeatName": "BELURAN",
+        "info": {
+            "EligibleVoters": "24688",
+            "MalayVoters": "0",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "40",
+            "BumiNonmuslimVoters": "56",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "552",
+            "Turnout": "18914",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "RONALD KIANDEE",
+                "Votes": 13174,
+                "majority": 9988
+            },
+            {
+                "Party": "PKR",
+                "Name": "JAMES BIN MIKI",
+                "Votes": 3186
+            },
+            {
+                "Party": "STAR",
+                "Name": "RAIMON BIN LANJAT",
+                "Votes": 1460
+            },
+            {
+                "Party": "IND",
+                "Name": "DATU KAMARUDDIN BIN DATU MUSTAPHA",
+                "Votes": 542
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P183",
+        "SeatName": "BELURAN",
+        "info": {
+            "EligibleVoters": "19181",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "468",
+            "Turnout": "12349",
+            "Unreturned": "36"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK RONALD KIANDEE",
+                "Votes": 7090,
+                "majority": 5819
+            },
+            {
+                "Party": "PKR",
+                "Name": "MICHAEL @ RADIO LUBAN",
+                "Votes": 1271
+            },
+            {
+                "Party": "IND",
+                "Name": "PETRUS RINNING",
+                "Votes": 571
+            },
+            {
+                "Party": "IND",
+                "Name": "RAMSAH TASIM @ RAMSAH TASHIM",
+                "Votes": 0
+            },
+            {
+                "Party": "IND",
+                "Name": "NORDIN KANING",
+                "Votes": 0
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P183",
+        "SeatName": "BELURAN",
+        "info": {
+            "EligibleVoters": "18960",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "61",
+            "BumiNonmuslimVoters": "37",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Ronald Kiandee",
+                "Votes": 0
+            }
+        ]
+    }
+}

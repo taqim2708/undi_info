@@ -1,0 +1,211 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P77",
+        "SeatName": "TANJONG MALIM",
+        "info": {
+            "EligibleVoters": "93873",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "CHANG LIH KANG",
+                "Votes": 25140,
+                "NameBallot": "CHANG LIH KANG",
+                "majority": 3541
+            },
+            {
+                "Party": "PN",
+                "Name": "NOLEE RADZI",
+                "Votes": 21599,
+                "NameBallot": "NOLEE RADZI"
+            },
+            {
+                "Party": "BN",
+                "Name": "DR MAH HANG SOON",
+                "Votes": 20963,
+                "NameBallot": "DR MAH HANG SOON"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DATUK JAMALUDDIN BIN MOHD. RADZI",
+                "Votes": 1032,
+                "NameBallot": "DATUK JAMALUDDIN BIN MOHD. RADZI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR AMIR HAMZAH",
+                "Votes": 609,
+                "NameBallot": "DR AMIR HAMZAH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "CIKGU IZZAT JOHARI",
+                "Votes": 328,
+                "NameBallot": "CIKGU IZZAT JOHARI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P77",
+        "SeatName": "TANJONG MALIM",
+        "info": {
+            "EligibleVoters": "68468",
+            "MalayVoters": "56",
+            "ChineseVoters": "26",
+            "IndianVoters": "13",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "530",
+            "Postal": "25",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "CHANG LIH KANG",
+                "Votes": 24672,
+                "NameBallot": "CHANG LIH KANG",
+                "majority": 5358
+            },
+            {
+                "Party": "MCA",
+                "Name": "MAH HANG SOON",
+                "Votes": 19314,
+                "NameBallot": "DR MAH HANG SOON"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD TARMIZI BIN AB RAHMAN",
+                "Votes": 10311,
+                "NameBallot": "USTAZ MOHD TARMIZI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P77",
+        "SeatName": "TANJONG MALIM",
+        "info": {
+            "EligibleVoters": "64499",
+            "MalayVoters": "53",
+            "ChineseVoters": "27",
+            "IndianVoters": "14",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1115",
+            "Turnout": "53237",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATO' SERI ONG KA CHUAN",
+                "Votes": 28225,
+                "majority": 4328
+            },
+            {
+                "Party": "PKR",
+                "Name": "TAN YEE KEW",
+                "Votes": 23897
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P77",
+        "SeatName": "TANJONG MALIM",
+        "info": {
+            "EligibleVoters": "53481",
+            "MalayVoters": "51",
+            "ChineseVoters": "31",
+            "IndianVoters": "15",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1344",
+            "Turnout": "38107",
+            "Unreturned": "153"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "ONG KA CHUAN",
+                "Votes": 21016,
+                "majority": 5422
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHAMAD AZMAN MARJOHAN",
+                "Votes": 15594
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P77",
+        "SeatName": "TANJONG MALIM",
+        "info": {
+            "EligibleVoters": "52743",
+            "MalayVoters": "49",
+            "ChineseVoters": "32",
+            "IndianVoters": "16",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1275",
+            "Turnout": "34789",
+            "Unreturned": "117"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK LOKE YUEN YOW",
+                "Votes": 24025,
+                "majority": 14536
+            },
+            {
+                "Party": "PKR",
+                "Name": "SHAMSUDDIN ABDUL RAHMAN",
+                "Votes": 9489
+            }
+        ]
+    }
+}

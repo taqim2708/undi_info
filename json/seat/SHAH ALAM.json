@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P108",
+        "SeatName": "SHAH ALAM",
+        "info": {
+            "EligibleVoters": "165744",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "AZLI YUSOF",
+                "Votes": 61409,
+                "NameBallot": "AZLI YUSOF",
+                "majority": 18095
+            },
+            {
+                "Party": "PN",
+                "Name": "DR. AFIF BAHARDIN",
+                "Votes": 43314,
+                "NameBallot": "DR. AFIF BAHARDIN"
+            },
+            {
+                "Party": "BN",
+                "Name": "ISHAM JALIL",
+                "Votes": 28266,
+                "NameBallot": "ISHAM JALIL"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "RAFIQUE RASHID",
+                "Votes": 2781,
+                "NameBallot": "RAFIQUE RASHID"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P108",
+        "SeatName": "SHAH ALAM",
+        "info": {
+            "EligibleVoters": "107316",
+            "MalayVoters": "76",
+            "ChineseVoters": "11",
+            "IndianVoters": "13",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2158",
+            "Postal": "61",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "KHALID BIN ABD SAMAD",
+                "Votes": 55949,
+                "NameBallot": "KHALID ABD SAMAD",
+                "majority": 33849
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AZHARI BIN SAARI",
+                "Votes": 22100,
+                "NameBallot": "HAJI AZHARI SHAARI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOH ZUHDI BIN MARSUKI",
+                "Votes": 15194,
+                "NameBallot": "DR MOHD ZUHDI BIN MARSUKI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P108",
+        "SeatName": "SHAH ALAM",
+        "info": {
+            "EligibleVoters": "99957",
+            "MalayVoters": "69",
+            "ChineseVoters": "15",
+            "IndianVoters": "14",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "863",
+            "Turnout": "87942",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "KHALID BIN ABD SAMAD",
+                "Votes": 49009,
+                "majority": 10939
+            },
+            {
+                "Party": "BN",
+                "Name": "ZULKIFLI BIN NOORDIN",
+                "Votes": 38070
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P108",
+        "SeatName": "SHAH ALAM",
+        "info": {
+            "EligibleVoters": "75334",
+            "MalayVoters": "69",
+            "ChineseVoters": "16",
+            "IndianVoters": "15",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "749",
+            "Turnout": "58361",
+            "Unreturned": "214"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "HJ KHALID ABD SAMAD",
+                "Votes": 33356,
+                "majority": 9314
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL AZIZ SHAMSUDDIN",
+                "Votes": 24042
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P108",
+        "SeatName": "SHAH ALAM",
+        "info": {
+            "EligibleVoters": "69170",
+            "MalayVoters": "66",
+            "ChineseVoters": "17",
+            "IndianVoters": "17",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "699",
+            "Turnout": "52123",
+            "Unreturned": "213"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL AZIZ SHAMSUDDIN",
+                "Votes": 32417,
+                "majority": 13410
+            },
+            {
+                "Party": "PAS",
+                "Name": "KHALID ABDUL SAMAD",
+                "Votes": 19007
+            }
+        ]
+    }
+}

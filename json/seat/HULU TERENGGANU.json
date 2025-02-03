@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P38",
+        "SeatName": "HULU TERENGGANU",
+        "info": {
+            "EligibleVoters": "87917",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATO ROSOL WAHID",
+                "Votes": 42910,
+                "NameBallot": "DATO ROSOL WAHID",
+                "majority": 15734
+            },
+            {
+                "Party": "BN",
+                "Name": "CIKGU ROZI",
+                "Votes": 27176,
+                "NameBallot": "CIKGU ROZI"
+            },
+            {
+                "Party": "PH",
+                "Name": "CIKGU ALIAS ISMAIL",
+                "Votes": 1740,
+                "NameBallot": "CIKGU ALIAS ISMAIL"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "KHADRI",
+                "Votes": 182,
+                "NameBallot": "KHADRI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P38",
+        "SeatName": "HULU TERENGGANU",
+        "info": {
+            "EligibleVoters": "73487",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "279",
+            "Postal": "6",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ROSOL BIN WAHID",
+                "Votes": 30925,
+                "NameBallot": "DATO' ROSOL BIN WAHID",
+                "majority": 2868
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHYIDIN BIN ABDUL RASHID",
+                "Votes": 28057,
+                "NameBallot": "HAJI MUHYIDIN ABDUL RASHID"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "RAZALI BIN IDRIS",
+                "Votes": 3364,
+                "NameBallot": "DATUK RAZALI IDRIS"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P38",
+        "SeatName": "HULU TERENGGANU",
+        "info": {
+            "EligibleVoters": "63543",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "824",
+            "Turnout": "56491",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "JAILANI BIN JOHARI",
+                "Votes": 31940,
+                "majority": 8213
+            },
+            {
+                "Party": "PAS",
+                "Name": "KAMARUZAMAN BIN ABDULLAH",
+                "Votes": 23727
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P38",
+        "SeatName": "HULU TERENGGANU",
+        "info": {
+            "EligibleVoters": "52515",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "709",
+            "Turnout": "45971",
+            "Unreturned": "154"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD NOR OTHMAN",
+                "Votes": 27784,
+                "majority": 10460
+            },
+            {
+                "Party": "PAS",
+                "Name": "KAMARUZAMAN ABDULLAH",
+                "Votes": 17324
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P38",
+        "SeatName": "HULU TERENGGANU",
+        "info": {
+            "EligibleVoters": "45258",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "633",
+            "Turnout": "40503",
+            "Unreturned": "56"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TENGKU PUTERA TENGKU AWANG",
+                "Votes": 23815,
+                "majority": 7760
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHYIDIN ABD RASHID",
+                "Votes": 16055
+            }
+        ]
+    }
+}

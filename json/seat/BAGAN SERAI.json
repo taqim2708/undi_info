@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P58",
+        "SeatName": "BAGAN SERAI",
+        "info": {
+            "EligibleVoters": "80293",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATUK USTAZ IDRIS",
+                "Votes": 33753,
+                "NameBallot": "DATUK USTAZ IDRIS",
+                "majority": 18551
+            },
+            {
+                "Party": "BN",
+                "Name": "HAJI ZUL HELMI GHAZALI",
+                "Votes": 15202,
+                "NameBallot": "HAJI ZUL HELMI GHAZALI"
+            },
+            {
+                "Party": "PH",
+                "Name": "SITI AISHAH BINTI SHAIK ISMAIL",
+                "Votes": 13195,
+                "NameBallot": "SITI AISHAH BINTI SHAIK ISMAIL"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HAJI AHMAD LUQMAN",
+                "Votes": 383,
+                "NameBallot": "HAJI AHMAD LUQMAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P58",
+        "SeatName": "BAGAN SERAI",
+        "info": {
+            "EligibleVoters": "59293",
+            "MalayVoters": "78",
+            "ChineseVoters": "13",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "349",
+            "Postal": "5",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NOOR AZMI BIN GHAZALI",
+                "Votes": 17220,
+                "NameBallot": "DATO DR NOOR AZMI BIN GHAZALI",
+                "majority": 172
+            },
+            {
+                "Party": "PAS",
+                "Name": "ROHAYA BINTI BAKAR",
+                "Votes": 17048,
+                "NameBallot": "USTAZAH ROHAYA BINTI BAKAR"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "ADAM BIN ASMUNI",
+                "Votes": 12987,
+                "NameBallot": "ADAM BIN ASMUNI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P58",
+        "SeatName": "BAGAN SERAI",
+        "info": {
+            "EligibleVoters": "54792",
+            "MalayVoters": "76",
+            "ChineseVoters": "14",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1096",
+            "Turnout": "46313",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NOOR AZMI BIN GHAZALI",
+                "Votes": 23014,
+                "majority": 1140
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD NOR BIN HJ R M MONUTTY",
+                "Votes": 21874
+            },
+            {
+                "Party": "IND",
+                "Name": "ABDUL LATIF BIN MASUD",
+                "Votes": 329
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P58",
+        "SeatName": "BAGAN SERAI",
+        "info": {
+            "EligibleVoters": "47111",
+            "MalayVoters": "74",
+            "ChineseVoters": "16",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1186",
+            "Turnout": "36237",
+            "Unreturned": "578"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MOHSIN FADZLI HAJI SAMSURI",
+                "Votes": 18943,
+                "majority": 3413
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ZAINAL ABIDIN ZIN",
+                "Votes": 15530
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P58",
+        "SeatName": "BAGAN SERAI",
+        "info": {
+            "EligibleVoters": "47745",
+            "MalayVoters": "73",
+            "ChineseVoters": "16",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "986",
+            "Turnout": "35076",
+            "Unreturned": "54"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ZAINAL ABIDIN ZIN",
+                "Votes": 19827,
+                "majority": 5614
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHMAD AWANG",
+                "Votes": 14213
+            }
+        ]
+    }
+}

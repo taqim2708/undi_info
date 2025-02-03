@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P81",
+        "SeatName": "JERANTUT",
+        "info": {
+            "EligibleVoters": "87051",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "IR. HAJI KHAIRIL",
+                "Votes": 31701,
+                "NameBallot": "IR. HAJI KHAIRIL",
+                "majority": 8092
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' MOHD ZUKARMI",
+                "Votes": 23609,
+                "NameBallot": "DATO' MOHD ZUKARMI"
+            },
+            {
+                "Party": "PH",
+                "Name": "DATO' DR HASSAN BASRI BIN AWANG MAT DAHAN",
+                "Votes": 11444,
+                "NameBallot": "DATO' DR HASSAN BASRI BIN AWANG MAT DAHAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P81",
+        "SeatName": "JERANTUT",
+        "info": {
+            "EligibleVoters": "63609",
+            "MalayVoters": "82",
+            "ChineseVoters": "13",
+            "IndianVoters": "3",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "398",
+            "Postal": "6",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD NAZLAN BIN IDRIS",
+                "Votes": 22640,
+                "NameBallot": "DATO' AHMAD NAZLAN",
+                "majority": 5908
+            },
+            {
+                "Party": "PAS",
+                "Name": "YOHANIS BIN AHMAD",
+                "Votes": 16732,
+                "NameBallot": "USTAZ YOHANIS AHMAD"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "WAN MOHD SHAHARIR BIN WAN ABD JALIL",
+                "Votes": 10877,
+                "NameBallot": "WAN MOHD SHAHRIR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P81",
+        "SeatName": "JERANTUT",
+        "info": {
+            "EligibleVoters": "58364",
+            "MalayVoters": "81",
+            "ChineseVoters": "14",
+            "IndianVoters": "3",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "905",
+            "Turnout": "49461",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD NAZLAN BIN IDRIS",
+                "Votes": 26544,
+                "majority": 4532
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR HAMZAH BIN JAAFFAR",
+                "Votes": 22012
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P81",
+        "SeatName": "JERANTUT",
+        "info": {
+            "EligibleVoters": "48812",
+            "MalayVoters": "81",
+            "ChineseVoters": "15",
+            "IndianVoters": "3",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "829",
+            "Turnout": "38078",
+            "Unreturned": "109"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TENGKU AZLAN SULTAN ABU BAKAR",
+                "Votes": 19543,
+                "majority": 1946
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR HAMZAH JAAFAR",
+                "Votes": 17597
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P81",
+        "SeatName": "JERANTUT",
+        "info": {
+            "EligibleVoters": "46059",
+            "MalayVoters": "80",
+            "ChineseVoters": "15",
+            "IndianVoters": "3",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "776",
+            "Turnout": "36444",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI TENGKU AZLAN SULTAN ABU BAKAR",
+                "Votes": 21349,
+                "majority": 8457
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR HAMZAH JAAFAR",
+                "Votes": 12892
+            }
+        ]
+    }
+}

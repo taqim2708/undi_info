@@ -1,0 +1,227 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P166",
+        "SeatName": "LABUAN",
+        "info": {
+            "EligibleVoters": "44484",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO' DR. SUHAILI ABDUL RAHMAN",
+                "Votes": 8124,
+                "NameBallot": "DATO' DR. SUHAILI ABDUL RAHMAN",
+                "majority": 708
+            },
+            {
+                "Party": "BN",
+                "Name": "BASHIR BIN ALIAS",
+                "Votes": 7416,
+                "NameBallot": "BASHIR BIN ALIAS"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "DATUK ROZMAN ISLI",
+                "Votes": 7310,
+                "NameBallot": "DATUK ROZMAN ISLI"
+            },
+            {
+                "Party": "PH",
+                "Name": "DATUK WIRA DR RAMLI",
+                "Votes": 5307,
+                "NameBallot": "DATUK WIRA DR RAMLI"
+            },
+            {
+                "Party": "PBM",
+                "Name": "DAYANG RUSIMAH @ RAYNIE BINTI DATUK HJ. MOHD. DIN",
+                "Votes": 202,
+                "NameBallot": "DAYANG RUSIMAH @ RAYNIE BINTI DATUK HJ. MOHD. DIN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "RAMLE",
+                "Votes": 90,
+                "NameBallot": "RAMLE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P166",
+        "SeatName": "LABUAN",
+        "info": {
+            "EligibleVoters": "28356",
+            "MalayVoters": "44",
+            "ChineseVoters": "21",
+            "IndianVoters": "0",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "30",
+            "Early": "26042",
+            "Postal": "2309",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ROZMAN BIN ISLI",
+                "Votes": 10164,
+                "NameBallot": "ROZMAN BIN ISLI",
+                "majority": 1450
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "NOOR HALIM BINZAINI",
+                "Votes": 8714,
+                "NameBallot": "NOOR HALIM BIN ZAINI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHMAD JUNID BIN MOHD ALING",
+                "Votes": 1555,
+                "NameBallot": "USTAZ JUNID"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "SITI ZALEHA BINTI SW IBRAHIM",
+                "Votes": 925,
+                "NameBallot": "SITI ZALEHA SWIBRAHIM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P166",
+        "SeatName": "LABUAN",
+        "info": {
+            "EligibleVoters": "24474",
+            "MalayVoters": "0",
+            "ChineseVoters": "23",
+            "IndianVoters": "0",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "60",
+            "BumiNonmuslimVoters": "14",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "207",
+            "Turnout": "19356",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ROZMAN BIN ISLI",
+                "Votes": 12694,
+                "majority": 6625
+            },
+            {
+                "Party": "PKR",
+                "Name": "TAN SRI IBRAHIM BIN MENUDIN",
+                "Votes": 6069
+            },
+            {
+                "Party": "PAS",
+                "Name": "HADNAN BIN MOHAMAD",
+                "Votes": 386
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P166",
+        "SeatName": "LABUAN",
+        "info": {
+            "EligibleVoters": "20783",
+            "MalayVoters": "37",
+            "ChineseVoters": "25",
+            "IndianVoters": "2",
+            "OtherVoters": "36",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "311",
+            "Turnout": "14149",
+            "Unreturned": "247"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "YUSOF MAHAL",
+                "Votes": 10471,
+                "majority": 8457
+            },
+            {
+                "Party": "IND",
+                "Name": "LAU SENG KIAT",
+                "Votes": 2014
+            },
+            {
+                "Party": "PAS",
+                "Name": "MATUSIN ABDUL RAHMAN",
+                "Votes": 1106
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P166",
+        "SeatName": "LABUAN",
+        "info": {
+            "EligibleVoters": "22006",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "1",
+            "OtherVoters": "12",
+            "BumiMuslimVoters": "62",
+            "BumiNonmuslimVoters": "25",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "488",
+            "Turnout": "14761",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SUHAILI ABDUL RAHMAN",
+                "Votes": 11087,
+                "majority": 7901
+            },
+            {
+                "Party": "PAS",
+                "Name": "MATUSIN ABDUL RAHMAN",
+                "Votes": 3186
+            }
+        ]
+    }
+}

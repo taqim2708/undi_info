@@ -1,0 +1,230 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P174",
+        "SeatName": "PENAMPANG",
+        "info": {
+            "EligibleVoters": "77214",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "EWON BENEDICK",
+                "Votes": 29066,
+                "NameBallot": "EWON BENEDICK",
+                "majority": 14410
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "DARELL LEIKING",
+                "Votes": 14656,
+                "NameBallot": "DARELL LEIKING"
+            },
+            {
+                "Party": "GRS",
+                "Name": "KENNY CHUA TECK HO",
+                "Votes": 6719,
+                "NameBallot": "KENNY CHUA TECK HO"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "RICHARD JIMMY",
+                "Votes": 289,
+                "NameBallot": "RICHARD JIMMY"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P174",
+        "SeatName": "PENAMPANG",
+        "info": {
+            "EligibleVoters": "53131",
+            "MalayVoters": "6",
+            "ChineseVoters": "35",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "57",
+            "Early": "51097",
+            "Postal": "2027",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "IGNATIUS DORELL LEIKING",
+                "Votes": 32470,
+                "NameBallot": "DARELL LEIKING",
+                "majority": 23473
+            },
+            {
+                "Party": "UPKO",
+                "Name": "CAESAR MANDELA MALAKUN",
+                "Votes": 8997,
+                "NameBallot": "CEASAR MANDELA MALAKUN"
+            },
+            {
+                "Party": "SOLIDARITI",
+                "Name": "CLEFTUS STEPHEN SPINE",
+                "Votes": 1196,
+                "NameBallot": "CLEFTUS STEPHEN SPINE"
+            },
+            {
+                "Party": "ANAK NEGERI",
+                "Name": "EDWIN @ JACK BOSI",
+                "Votes": 445,
+                "NameBallot": "DR EDWIN @ JACK BOSI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P174",
+        "SeatName": "PENAMPANG",
+        "info": {
+            "EligibleVoters": "44323",
+            "MalayVoters": "0",
+            "ChineseVoters": "32",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "16",
+            "BumiNonmuslimVoters": "50",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "454",
+            "Turnout": "36553",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "IGNATIUS DORELL LEIKING",
+                "Votes": 22598,
+                "majority": 10216
+            },
+            {
+                "Party": "UPKO",
+                "Name": "BERNARD GILUK DOMPOK",
+                "Votes": 12382
+            },
+            {
+                "Party": "STAR",
+                "Name": "MELANIA @ MELANIE ANNOL",
+                "Votes": 1119
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P174",
+        "SeatName": "PENAMPANG",
+        "info": {
+            "EligibleVoters": "35821",
+            "MalayVoters": "0",
+            "ChineseVoters": "33",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "540",
+            "Turnout": "25552",
+            "Unreturned": "175"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "TAN SRI BERNARD GILUK DOMPOK",
+                "Votes": 13400,
+                "majority": 3063
+            },
+            {
+                "Party": "PKR",
+                "Name": "DR EDWIN BOSI",
+                "Votes": 10337
+            },
+            {
+                "Party": "IND",
+                "Name": "ANTHONY TIBOK",
+                "Votes": 696
+            },
+            {
+                "Party": "PASOK",
+                "Name": "LIVIRED MISSIH @ WILLYBROAD MISSI",
+                "Votes": 404
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P174",
+        "SeatName": "PENAMPANG",
+        "info": {
+            "EligibleVoters": "32832",
+            "MalayVoters": "0",
+            "ChineseVoters": "33",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "11",
+            "BumiNonmuslimVoters": "55",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "436",
+            "Turnout": "21680",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "Donald Peter Mojuntin",
+                "Votes": 16032,
+                "majority": 12707
+            },
+            {
+                "Party": "DAP",
+                "Name": "Jomilon Mojountin",
+                "Votes": 3325
+            },
+            {
+                "Party": "IND",
+                "Name": "Joseph Sulaiman",
+                "Votes": 960
+            },
+            {
+                "Party": "PKR",
+                "Name": "Blaise Mosidin",
+                "Votes": 927
+            }
+        ]
+    }
+}

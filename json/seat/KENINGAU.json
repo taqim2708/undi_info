@@ -1,0 +1,221 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P180",
+        "SeatName": "KENINGAU",
+        "info": {
+            "EligibleVoters": "87588",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GRS",
+                "Name": "DATUK SERI PANGLIMA DR.JEFFREY G.KITINGAN",
+                "Votes": 23155,
+                "NameBallot": "DATUK SERI PANGLIMA DR.JEFFREY G.KITINGAN",
+                "majority": 8056
+            },
+            {
+                "Party": "PH",
+                "Name": "GRELYDIA GILLOD",
+                "Votes": 15099,
+                "NameBallot": "GRELYDIA GILLOD"
+            },
+            {
+                "Party": "KDM",
+                "Name": "DATUK JAKE NOINTIN",
+                "Votes": 9598,
+                "NameBallot": "DATUK JAKE NOINTIN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "RASININ BIN KOUTIS @ KAUTIS",
+                "Votes": 7020,
+                "NameBallot": "RASININ BIN KOUTIS @ KAUTIS"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P180",
+        "SeatName": "KENINGAU",
+        "info": {
+            "EligibleVoters": "51177",
+            "MalayVoters": "6",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "82",
+            "Early": "50888",
+            "Postal": "285",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "STAR",
+                "Name": "GAPARI BIN KATINGAN @ GEOFFREY KITINGAN",
+                "Votes": 13286,
+                "NameBallot": "DATUK DR JEFFREY KITINGAN",
+                "majority": 45
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "JIKULIN NOINTIN @ ANASTASIUS",
+                "Votes": 13241,
+                "NameBallot": "JAKE NOINTIN"
+            },
+            {
+                "Party": "PBS",
+                "Name": "DANIEL BIN KINSIK",
+                "Votes": 12742,
+                "NameBallot": "DATUK DANIEL KINSIK"
+            },
+            {
+                "Party": "PCS",
+                "Name": "JIUS BIN AWANG",
+                "Votes": 433,
+                "NameBallot": "JIUS BIN AWANG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MAIMIN BIN RIJAN",
+                "Votes": 248,
+                "NameBallot": "MAIMIN BIN RIJAN @ JEFFRUS RIJAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "JUSTIN BIN GUKA",
+                "Votes": 199,
+                "NameBallot": "DATUK JUSTIN GUKA"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P180",
+        "SeatName": "KENINGAU",
+        "info": {
+            "EligibleVoters": "43691",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "18",
+            "BumiNonmuslimVoters": "70",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "555",
+            "Turnout": "36098",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "JOSEPH PAIRIN KITINGAN",
+                "Votes": 15818,
+                "majority": 3918
+            },
+            {
+                "Party": "STAR",
+                "Name": "GAPARI BIN KATINGAN @ GEOFFREY KITINGAN",
+                "Votes": 11900
+            },
+            {
+                "Party": "PKR",
+                "Name": "STEPHEN SANDOR",
+                "Votes": 7825
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P180",
+        "SeatName": "KENINGAU",
+        "info": {
+            "EligibleVoters": "35578",
+            "MalayVoters": "0",
+            "ChineseVoters": "11",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "464",
+            "Turnout": "25956",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "DATUK SERI JOSEPH PAIRIN KITINGAN",
+                "Votes": 14598,
+                "majority": 4264
+            },
+            {
+                "Party": "PKR",
+                "Name": "DATUK DR JEFFREY KITINGAN",
+                "Votes": 10334
+            },
+            {
+                "Party": "DAP",
+                "Name": "PETER KODOU",
+                "Votes": 560
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P180",
+        "SeatName": "KENINGAU",
+        "info": {
+            "EligibleVoters": "34510",
+            "MalayVoters": "0",
+            "ChineseVoters": "11",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "24",
+            "BumiNonmuslimVoters": "65",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "Joseph Pairin Kitingan",
+                "Votes": 0
+            }
+        ]
+    }
+}

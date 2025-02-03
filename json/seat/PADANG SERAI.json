@@ -1,0 +1,226 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P17",
+        "SeatName": "PADANG SERAI",
+        "info": {
+            "EligibleVoters": "133867",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO' CIKGU AZMAN",
+                "Votes": 51637,
+                "NameBallot": "DATO' CIKGU AZMAN",
+                "majority": 16260
+            },
+            {
+                "Party": "PH",
+                "Name": "DR. SOFEE RAZAK",
+                "Votes": 35377,
+                "NameBallot": "DR. SOFEE RAZAK"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO SIVARAJ CHANDRAN",
+                "Votes": 2983,
+                "NameBallot": "DATO SIVARAJ CHANDRAN"
+            },
+            {
+                "Party": "IND",
+                "Name": "ANANDA AK",
+                "Votes": 846,
+                "NameBallot": "ANANDA AK"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HAMZAH ABD RAHMAN",
+                "Votes": 424,
+                "NameBallot": "HAMZAH ABD RAHMAN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "MOHD BAKHRI BIN HAJI HASHIM",
+                "Votes": 149,
+                "NameBallot": "MOHD BAKHRI BIN HAJI HASHIM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P17",
+        "SeatName": "PADANG SERAI",
+        "info": {
+            "EligibleVoters": "84834",
+            "MalayVoters": "59",
+            "ChineseVoters": "20",
+            "IndianVoters": "21",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "92",
+            "Postal": "19",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "KARUPAIYA A/L MUTUSAMI",
+                "Votes": 31724,
+                "NameBallot": "KARUPAIYA MUTUSAMI",
+                "majority": 8813
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMAD SOBRI BIN OSMAN",
+                "Votes": 22911,
+                "NameBallot": "MUHAMAD SOBRI BIN OSMAN"
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEONG YONG KONG",
+                "Votes": 15449,
+                "NameBallot": "DATO' DR LEONG YONG KONG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P17",
+        "SeatName": "PADANG SERAI",
+        "info": {
+            "EligibleVoters": "74095",
+            "MalayVoters": "56",
+            "ChineseVoters": "21",
+            "IndianVoters": "23",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1223",
+            "Turnout": "64387",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "N SURENDRAN A/L K NAGARAJAN",
+                "Votes": 34151,
+                "majority": 8437
+            },
+            {
+                "Party": "MCA",
+                "Name": "HENG SEAI KIE",
+                "Votes": 25714
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "HAMIDI BIN ABU HASSAN",
+                "Votes": 2630
+            },
+            {
+                "Party": "IND",
+                "Name": "GOBALAKRISHNAN A/L NAGAPAN",
+                "Votes": 390
+            },
+            {
+                "Party": "IND",
+                "Name": "OTHMAN BIN WAWI",
+                "Votes": 279
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P17",
+        "SeatName": "PADANG SERAI",
+        "info": {
+            "EligibleVoters": "59218",
+            "MalayVoters": "55",
+            "ChineseVoters": "23",
+            "IndianVoters": "22",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1259",
+            "Turnout": "47125",
+            "Unreturned": "56"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "N GOBALAKRISHNAN",
+                "Votes": 28774,
+                "majority": 11738
+            },
+            {
+                "Party": "MCA",
+                "Name": "DATUK BOEY CHIN GAN",
+                "Votes": 17036
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P17",
+        "SeatName": "PADANG SERAI",
+        "info": {
+            "EligibleVoters": "53925",
+            "MalayVoters": "53",
+            "ChineseVoters": "24",
+            "IndianVoters": "23",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1075",
+            "Turnout": "43297",
+            "Unreturned": "10"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "LIM BEE KAU",
+                "Votes": 26269,
+                "majority": 10316
+            },
+            {
+                "Party": "PKR",
+                "Name": "SAIFUDDIN NASUTION ISMAIL",
+                "Votes": 15953
+            }
+        ]
+    }
+}

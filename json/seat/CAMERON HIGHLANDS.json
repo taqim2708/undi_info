@@ -1,0 +1,269 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P78",
+        "SeatName": "CAMERON HIGHLANDS",
+        "info": {
+            "EligibleVoters": "46020",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATO' RAMLI BIN MOHD NOR",
+                "Votes": 16120,
+                "NameBallot": "DATO' RAMLI BIN MOHD NOR",
+                "majority": 4544
+            },
+            {
+                "Party": "PH",
+                "Name": "CHIONG YOKE KONG",
+                "Votes": 11576,
+                "NameBallot": "CHIONG YOKE KONG"
+            },
+            {
+                "Party": "PN",
+                "Name": "DR. ABDUL RASID",
+                "Votes": 5569,
+                "NameBallot": "DR. ABDUL RASID"
+            }
+        ]
+    },
+    "2019-BYELECTION": {
+        "year": "2019",
+        "type": "BYELECTION",
+        "State": "PH",
+        "ParliamentCode": "P78",
+        "SeatName": "CAMERON HIGHLANDS",
+        "info": {
+            "EligibleVoters": "21428",
+            "MalayVoters": "34",
+            "ChineseVoters": "30",
+            "IndianVoters": "15",
+            "OtherVoters": "22",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "99",
+            "Spoilt": "568",
+            "Turnout": "0",
+            "Unreturned": "23"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "RAMLI BIN MOHD NOR",
+                "Votes": 12038,
+                "NameBallot": "RAMLI MOHD NOR",
+                "majority": 3238
+            },
+            {
+                "Party": "DAP",
+                "Name": "MANOGARAN MARIMUTHU",
+                "Votes": 8800,
+                "NameBallot": "MANOGARAN"
+            },
+            {
+                "Party": "IND",
+                "Name": "CIKGU HJ. SALLEHUDIN BIN HJ. AB. TALIB",
+                "Votes": 314,
+                "NameBallot": "CIKGU HJ. SALLEHUDIN"
+            },
+            {
+                "Party": "IND",
+                "Name": "WONG SENG YEE",
+                "Votes": 276,
+                "NameBallot": "WONG SENG YEE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P78",
+        "SeatName": "CAMERON HIGHLANDS",
+        "info": {
+            "EligibleVoters": "32048",
+            "MalayVoters": "34",
+            "ChineseVoters": "30",
+            "IndianVoters": "15",
+            "OtherVoters": "22",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "255",
+            "Postal": "13",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "SIVARAJ A/L CHANDRAN",
+                "Votes": 10307,
+                "NameBallot": "DATO' SIVARRAAJH CHANDRAN",
+                "majority": 597
+            },
+            {
+                "Party": "DAP",
+                "Name": "MANOGARAN MARIMUTHU\t",
+                "Votes": 9710,
+                "NameBallot": "MANOGARAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "WAN MAHADIR BIN WAN MAHMUD\t      ",
+                "Votes": 3587,
+                "NameBallot": "CIKGU WAN MAHADIR"
+            },
+            {
+                "Party": "PSM",
+                "Name": "SURESH KUMAR A/L BALASUBRAMANIAM",
+                "Votes": 680,
+                "NameBallot": "SURESH KUMAR"
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "MOHD TAHIR BIN HAJI KASSIM",
+                "Votes": 81,
+                "NameBallot": "USTAZ TAHIR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P78",
+        "SeatName": "CAMERON HIGHLANDS",
+        "info": {
+            "EligibleVoters": "27980",
+            "MalayVoters": "34",
+            "ChineseVoters": "32",
+            "IndianVoters": "12",
+            "OtherVoters": "21",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "877",
+            "Turnout": "22748",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "PALANIVEL A/L K GOVINDASAMY",
+                "Votes": 10506,
+                "majority": 462
+            },
+            {
+                "Party": "DAP",
+                "Name": "MANOGARAN A/L MARIMUTHU",
+                "Votes": 10044
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "MOHD SHOKRI BIN MAHMOOD",
+                "Votes": 912
+            },
+            {
+                "Party": "IND",
+                "Name": "ALAGU A/L THANGARAJOO",
+                "Votes": 308
+            },
+            {
+                "Party": "IND",
+                "Name": "KISHO KUMAR A/L KATHIRVELOO",
+                "Votes": 101
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P78",
+        "SeatName": "CAMERON HIGHLANDS",
+        "info": {
+            "EligibleVoters": "23461",
+            "MalayVoters": "43",
+            "ChineseVoters": "34",
+            "IndianVoters": "14",
+            "OtherVoters": "10",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1186",
+            "Turnout": "16456",
+            "Unreturned": "59"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "SK DEVAMANY",
+                "Votes": 9164,
+                "majority": 3117
+            },
+            {
+                "Party": "DAP",
+                "Name": "J APALASAMY",
+                "Votes": 6047
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P78",
+        "SeatName": "CAMERON HIGHLANDS",
+        "info": {
+            "EligibleVoters": "23061",
+            "MalayVoters": "36",
+            "ChineseVoters": "33",
+            "IndianVoters": "16",
+            "OtherVoters": "16",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1010",
+            "Turnout": "15202",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "DEVAMANY A/L KRISHNASAMY",
+                "Votes": 10226,
+                "majority": 6260
+            },
+            {
+                "Party": "DAP",
+                "Name": "APALASAMY A/L JATALIAH",
+                "Votes": 3966
+            }
+        ]
+    }
+}

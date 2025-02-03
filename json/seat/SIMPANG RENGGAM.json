@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P151",
+        "SeatName": "SIMPANG RENGGAM",
+        "info": {
+            "EligibleVoters": "59033",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "HASNI BIN MOHAMMAD",
+                "Votes": 18312,
+                "NameBallot": "HASNI BIN MOHAMMAD",
+                "majority": 1821
+            },
+            {
+                "Party": "PH",
+                "Name": "DR MASZLEE MALIK",
+                "Votes": 16491,
+                "NameBallot": "DR MASZLEE MALIK"
+            },
+            {
+                "Party": "PN",
+                "Name": "FAZRUL KAMAT",
+                "Votes": 9077,
+                "NameBallot": "FAZRUL KAMAT"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "KAMAL",
+                "Votes": 251,
+                "NameBallot": "KAMAL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P151",
+        "SeatName": "SIMPANG RENGGAM",
+        "info": {
+            "EligibleVoters": "43998",
+            "MalayVoters": "60",
+            "ChineseVoters": "31",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "908",
+            "Postal": "8",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "MASZLEE BIN MALIK",
+                "Votes": 18157,
+                "NameBallot": "DRMASZLEE MALIK",
+                "majority": 3475
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "LIANG TECK MENG",
+                "Votes": 14682,
+                "NameBallot": "LIANG TECK MENG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD JUBRI BIN SELAMAT",
+                "Votes": 2983,
+                "NameBallot": "HJ JUBRI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P151",
+        "SeatName": "SIMPANG RENGGAM",
+        "info": {
+            "EligibleVoters": "40143",
+            "MalayVoters": "57",
+            "ChineseVoters": "33",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "868",
+            "Turnout": "34670",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "LIANG TECK MENG",
+                "Votes": 19754,
+                "majority": 5706
+            },
+            {
+                "Party": "PAS",
+                "Name": "SUHAIZAN BIN KAIAT",
+                "Votes": 14048
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P151",
+        "SeatName": "SIMPANG RENGGAM",
+        "info": {
+            "EligibleVoters": "34859",
+            "MalayVoters": "54",
+            "ChineseVoters": "36",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "924",
+            "Turnout": "25998",
+            "Unreturned": "27"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "LIANG TECK MENG",
+                "Votes": 16450,
+                "majority": 7853
+            },
+            {
+                "Party": "PAS",
+                "Name": "ATAN GOMBANG",
+                "Votes": 8597
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P151",
+        "SeatName": "SIMPANG RENGGAM",
+        "info": {
+            "EligibleVoters": "34240",
+            "MalayVoters": "54",
+            "ChineseVoters": "35",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "907",
+            "Turnout": "24888",
+            "Unreturned": "142"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "DATUK SERI KERK CHOO TING",
+                "Votes": 18997,
+                "majority": 14155
+            },
+            {
+                "Party": "PAS",
+                "Name": "ATAN GOMBANG",
+                "Votes": 4842
+            }
+        ]
+    }
+}

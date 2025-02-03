@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P55",
+        "SeatName": "LENGGONG",
+        "info": {
+            "EligibleVoters": "36950",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DR SHAMSUL ANUAR NASARAH",
+                "Votes": 12588,
+                "NameBallot": "DR SHAMSUL ANUAR NASARAH",
+                "majority": 879
+            },
+            {
+                "Party": "PN",
+                "Name": "USTAZ RIF'AAT RAZMAN",
+                "Votes": 11709,
+                "NameBallot": "USTAZ RIF'AAT RAZMAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "JUREY LATIFF ROSLI",
+                "Votes": 3382,
+                "NameBallot": "JUREY LATIFF ROSLI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P55",
+        "SeatName": "LENGGONG",
+        "info": {
+            "EligibleVoters": "29752",
+            "MalayVoters": "84",
+            "ChineseVoters": "13",
+            "IndianVoters": "1",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "52",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHAMSUL ANUAR BIN NASARAH",
+                "Votes": 12523,
+                "NameBallot": "DR SHAMSUL ANUAR NASARAH",
+                "majority": 5773
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMMAD MUJAHID BIN MOHAMMAD FADZIL",
+                "Votes": 6750,
+                "NameBallot": "USTAZ MUJAHID IR FADZIL"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "AMIRUL FAIRUZZEEN BIN JAMALUDDIN",
+                "Votes": 3932,
+                "NameBallot": "AMIRUL FAIRUZZEEN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P55",
+        "SeatName": "LENGGONG",
+        "info": {
+            "EligibleVoters": "27950",
+            "MalayVoters": "82",
+            "ChineseVoters": "14",
+            "IndianVoters": "2",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "368",
+            "Turnout": "23485",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHAMSUL ANUAR BIN NASARAH",
+                "Votes": 13285,
+                "majority": 3453
+            },
+            {
+                "Party": "PAS",
+                "Name": "RAZMAN BIN ZAKARIA",
+                "Votes": 9832
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P55",
+        "SeatName": "LENGGONG",
+        "info": {
+            "EligibleVoters": "23223",
+            "MalayVoters": "81",
+            "ChineseVoters": "17",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "311",
+            "Turnout": "17436",
+            "Unreturned": "60"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SAMSUL ANUAR NASARAH",
+                "Votes": 10992,
+                "majority": 4919
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMAD ZULKIFLI MOHAMAD ZAKARIA",
+                "Votes": 6073
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P55",
+        "SeatName": "LENGGONG",
+        "info": {
+            "EligibleVoters": "23159",
+            "MalayVoters": "78",
+            "ChineseVoters": "18",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "295",
+            "Turnout": "16531",
+            "Unreturned": "20"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATIL KHAMSIYAH YEOP",
+                "Votes": 10924,
+                "majority": 5632
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZULKIFLI ABU",
+                "Votes": 5292
+            }
+        ]
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P37",
+        "SeatName": "MARANG",
+        "info": {
+            "EligibleVoters": "131756",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "TUAN GURU HAJI ABDUL HADI AWANG",
+                "Votes": 73115,
+                "NameBallot": "TUAN GURU HAJI ABDUL HADI AWANG",
+                "majority": 41729
+            },
+            {
+                "Party": "BN",
+                "Name": "JASMIRA OTHMAN",
+                "Votes": 31386,
+                "NameBallot": "JASMIRA OTHMAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "USTAZ AZHAR",
+                "Votes": 4140,
+                "NameBallot": "USTAZ AZHAR"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR.ZARAWI BIN SULONG",
+                "Votes": 427,
+                "NameBallot": "DR.ZARAWI BIN SULONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P37",
+        "SeatName": "MARANG",
+        "info": {
+            "EligibleVoters": "104898",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "827",
+            "Postal": "19",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "ABDUL HADI BIN AWANG",
+                "Votes": 53749,
+                "NameBallot": "TUAN GURU HAJI ABDUL HADI AWANG",
+                "majority": 21954
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHAMAD NOR BIN ENDOT",
+                "Votes": 31795,
+                "NameBallot": "MOHAMAD NOR BIN ENDOT"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "ZARAWI BIN SULONG",
+                "Votes": 5138,
+                "NameBallot": "ZARAWI BIN SULONG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P37",
+        "SeatName": "MARANG",
+        "info": {
+            "EligibleVoters": "90795",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "800",
+            "Turnout": "81644",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "ABDUL HADI BIN AWANG",
+                "Votes": 42984,
+                "majority": 5124
+            },
+            {
+                "Party": "UMNO",
+                "Name": "YAHYA BIN KHATIB MOHAMAD",
+                "Votes": 37860
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P37",
+        "SeatName": "MARANG",
+        "info": {
+            "EligibleVoters": "74813",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "806",
+            "Turnout": "65008",
+            "Unreturned": "79"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK SERI ABDUL HADI AWANG",
+                "Votes": 33435,
+                "majority": 2747
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR AHMAD RAMZI MOHAMAD ZUBIR",
+                "Votes": 30688
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P37",
+        "SeatName": "MARANG",
+        "info": {
+            "EligibleVoters": "64367",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "866",
+            "Turnout": "56855",
+            "Unreturned": "331"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL RAHMAN BAKAR",
+                "Votes": 28076,
+                "majority": 163
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK SERI ABDUL HADI AWANG",
+                "Votes": 27913
+            }
+        ]
+    }
+}

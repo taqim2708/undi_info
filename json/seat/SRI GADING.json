@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P149",
+        "SeatName": "SRI GADING",
+        "info": {
+            "EligibleVoters": "78602",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "CIKGU HUDA",
+                "Votes": 23242,
+                "NameBallot": "CIKGU HUDA",
+                "majority": 4000
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK LASSIM BURHAN",
+                "Votes": 19242,
+                "NameBallot": "DATUK LASSIM BURHAN"
+            },
+            {
+                "Party": "PN",
+                "Name": "ZANARIYAH ",
+                "Votes": 18475,
+                "NameBallot": "ZANARIYAH "
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MAHDZIR BIN IBRAHIM",
+                "Votes": 305,
+                "NameBallot": "MAHDZIR BIN IBRAHIM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P149",
+        "SeatName": "SRI GADING",
+        "info": {
+            "EligibleVoters": "52119",
+            "MalayVoters": "65",
+            "ChineseVoters": "33",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "106",
+            "Postal": "10",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "SHARUDDIN BIN MD SALLEH",
+                "Votes": 21511,
+                "NameBallot": "DATUK DR SHAHRUDDIN SALLEH",
+                "majority": 3288
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AB AZIZ BIN KAPRAWI",
+                "Votes": 18223,
+                "NameBallot": "DATUK AZIZ KAPRAWI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "M ASH'ARI BIN SIDON",
+                "Votes": 4548,
+                "NameBallot": "LT KOL HJ M ASHARI SIDON"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P149",
+        "SeatName": "SRI GADING",
+        "info": {
+            "EligibleVoters": "44816",
+            "MalayVoters": "63",
+            "ChineseVoters": "34",
+            "IndianVoters": "1",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "673",
+            "Turnout": "39818",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AB AZIZ BIN KAPRAWI",
+                "Votes": 22453,
+                "majority": 5761
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD KHUZZAN BIN ABU BAKAR",
+                "Votes": 16692
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P149",
+        "SeatName": "SRI GADING",
+        "info": {
+            "EligibleVoters": "36845",
+            "MalayVoters": "65",
+            "ChineseVoters": "33",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "738",
+            "Turnout": "29266",
+            "Unreturned": "120"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MOHAMAD AZIZ",
+                "Votes": 19641,
+                "majority": 10874
+            },
+            {
+                "Party": "PKR",
+                "Name": "ALI MARKOM",
+                "Votes": 8767
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P149",
+        "SeatName": "SRI GADING",
+        "info": {
+            "EligibleVoters": "35807",
+            "MalayVoters": "66",
+            "ChineseVoters": "32",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "26828",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MOHAMAD AZIZ",
+                "Votes": 21512,
+                "majority": 16196
+            },
+            {
+                "Party": "PKR",
+                "Name": "DR AHMAD FAIDI SAIDI",
+                "Votes": 5316
+            }
+        ]
+    }
+}

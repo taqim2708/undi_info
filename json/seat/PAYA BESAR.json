@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P84",
+        "SeatName": "PAYA BESAR",
+        "info": {
+            "EligibleVoters": "79744",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATO' INDERA MOHD SHAHAR BIN ABDULLAH",
+                "Votes": 26899,
+                "NameBallot": "DATO' INDERA MOHD SHAHAR BIN ABDULLAH",
+                "majority": 1317
+            },
+            {
+                "Party": "PN",
+                "Name": "USTAZ AIRE ROSLAN",
+                "Votes": 25582,
+                "NameBallot": "USTAZ AIRE ROSLAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "AHMAD AZAM",
+                "Votes": 9192,
+                "NameBallot": "AHMAD AZAM"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "Ir. ROSMINAHAR",
+                "Votes": 310,
+                "NameBallot": "Ir. ROSMINAHAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P84",
+        "SeatName": "PAYA BESAR",
+        "info": {
+            "EligibleVoters": "55135",
+            "MalayVoters": "84",
+            "ChineseVoters": "13",
+            "IndianVoters": "2",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "72",
+            "Postal": "10",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD SHAHAR BIN ABDULLAH",
+                "Votes": 19033,
+                "NameBallot": "MOHD SHAHAR BIN ABDULLAH",
+                "majority": 5742
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD AZHAR BIN MOHD",
+                "Votes": 13291,
+                "NameBallot": "MOHAMAD AZHAR BIN MOHD NOOR"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MOHD ASHRAF MUSTAQIM BIN BADRUL MUNIR",
+                "Votes": 11776,
+                "NameBallot": "MOHD ASHRAF MUSTAQIM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P84",
+        "SeatName": "PAYA BESAR",
+        "info": {
+            "EligibleVoters": "48067",
+            "MalayVoters": "81",
+            "ChineseVoters": "15",
+            "IndianVoters": "2",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "643",
+            "Turnout": "40694",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABDUL MANAN BIN ISMAIL",
+                "Votes": 23747,
+                "majority": 7715
+            },
+            {
+                "Party": "PKR",
+                "Name": "MURNIE HIDAYAH BINTI ANUAR",
+                "Votes": 16032
+            },
+            {
+                "Party": "IND",
+                "Name": "ZAHARI BIN MAMAT",
+                "Votes": 272
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P84",
+        "SeatName": "PAYA BESAR",
+        "info": {
+            "EligibleVoters": "39882",
+            "MalayVoters": "80",
+            "ChineseVoters": "17",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "637",
+            "Turnout": "30887",
+            "Unreturned": "43"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL MANAN ISMAIL",
+                "Votes": 19355,
+                "majority": 8503
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD JAFRI AB RASHID",
+                "Votes": 10852
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P84",
+        "SeatName": "PAYA BESAR",
+        "info": {
+            "EligibleVoters": "37440",
+            "MalayVoters": "78",
+            "ChineseVoters": "19",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "564",
+            "Turnout": "29001",
+            "Unreturned": "7"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI DR SITI ZAHARAH SULAIMAN",
+                "Votes": 20474,
+                "majority": 12518
+            },
+            {
+                "Party": "PKR",
+                "Name": "SAARI SUNGIB",
+                "Votes": 7956
+            }
+        ]
+    }
+}

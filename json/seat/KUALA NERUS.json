@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P35",
+        "SeatName": "KUALA NERUS",
+        "info": {
+            "EligibleVoters": "105952",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATO' DR. HAJI ALIAS RAZAK",
+                "Votes": 56697,
+                "NameBallot": "DATO' DR. HAJI ALIAS RAZAK",
+                "majority": 29765
+            },
+            {
+                "Party": "BN",
+                "Name": "UST. DATO' DR. KHAIRUDDIN TAKIRI",
+                "Votes": 26932,
+                "NameBallot": "UST. DATO' DR. KHAIRUDDIN TAKIRI"
+            },
+            {
+                "Party": "PH",
+                "Name": "DATO' SERI SUHAIMI HASHIM",
+                "Votes": 3708,
+                "NameBallot": "DATO' SERI SUHAIMI HASHIM"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AZAHA",
+                "Votes": 291,
+                "NameBallot": "AZAHA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P35",
+        "SeatName": "KUALA NERUS",
+        "info": {
+            "EligibleVoters": "83663",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1756",
+            "Postal": "14",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MOHD KHAIRUDDIN BIN AMAN RAZALI",
+                "Votes": 37974,
+                "NameBallot": "USTAZ DATO' DR KHAIRUDDIN TAKIRI",
+                "majority": 8447
+            },
+            {
+                "Party": "UMNO",
+                "Name": "TENGKU ASMADI BIN TENGKU MOHAMAD",
+                "Votes": 29527,
+                "NameBallot": "DR TENGKU ASMADI"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "ABDULLAH BIN MOHAMED",
+                "Votes": 4604,
+                "NameBallot": "HAJI ABDULLAH"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P35",
+        "SeatName": "KUALA NERUS",
+        "info": {
+            "EligibleVoters": "76238",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "770",
+            "Turnout": "67882",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MOHD KHAIRUDDIN BIN AMAN RAZALI",
+                "Votes": 33861,
+                "majority": 610
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD NASIR B IBRAHIM @ IBRAHIM FIKRI",
+                "Votes": 33251
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P35",
+        "SeatName": "KUALA NERUS",
+        "info": {
+            "EligibleVoters": "61214",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "713",
+            "Turnout": "52539",
+            "Unreturned": "289"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHAMED NASIR IBRAHIM FIKRI",
+                "Votes": 26439,
+                "majority": 1341
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD SHUKRIMUN SHAMSUDDIN",
+                "Votes": 25098
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P35",
+        "SeatName": "KUALA NERUS",
+        "info": {
+            "EligibleVoters": "52468",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "713",
+            "Turnout": "46406",
+            "Unreturned": "140"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "CHE AZMI ABD RAHMAN",
+                "Votes": 24895,
+                "majority": 4097
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD SHUKRIMUN SHAMSUDIN",
+                "Votes": 20798
+            }
+        ]
+    }
+}

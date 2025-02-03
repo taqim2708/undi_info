@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P8",
+        "SeatName": "POKOK SENA",
+        "info": {
+            "EligibleVoters": "114838",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO' AHMAD YAHAYA",
+                "Votes": 52275,
+                "NameBallot": "DATO' AHMAD YAHAYA",
+                "majority": 31751
+            },
+            {
+                "Party": "PH",
+                "Name": "DATO' WIRA HJ MAHFUZ OMAR",
+                "Votes": 20524,
+                "NameBallot": "DATO' WIRA HJ MAHFUZ OMAR"
+            },
+            {
+                "Party": "BN",
+                "Name": "NORAN ZAMINI BIN JAMALUDDIN",
+                "Votes": 14523,
+                "NameBallot": "NORAN ZAMINI BIN JAMALUDDIN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "NORAINI BINTI MD SALLEH",
+                "Votes": 622,
+                "NameBallot": "NORAINI BINTI MD SALLEH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P8",
+        "SeatName": "POKOK SENA",
+        "info": {
+            "EligibleVoters": "86892",
+            "MalayVoters": "82",
+            "ChineseVoters": "16",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "3283",
+            "Postal": "21",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "MAHFUZ BIN OMAR",
+                "Votes": 28959,
+                "NameBallot": "DATO' HJ MAHFUZ OMAR",
+                "majority": 5558
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMAD RADHI BIN MAT DIN",
+                "Votes": 23401,
+                "NameBallot": "RADHI MAT DIN"
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SAID ALI BIN SAID RASTAN",
+                "Votes": 18390,
+                "NameBallot": "DATO' SAID ALI BIN SYED RASTAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P8",
+        "SeatName": "POKOK SENA",
+        "info": {
+            "EligibleVoters": "80714",
+            "MalayVoters": "80",
+            "ChineseVoters": "18",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "848",
+            "Turnout": "69309",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATO' MAHFUZ BIN OMAR",
+                "Votes": 36198,
+                "majority": 3935
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SHAHLAN BIN ISMAIL",
+                "Votes": 32263
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P8",
+        "SeatName": "POKOK SENA",
+        "info": {
+            "EligibleVoters": "69631",
+            "MalayVoters": "79",
+            "ChineseVoters": "18",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1039",
+            "Turnout": "55318",
+            "Unreturned": "636"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MAHFUZ OMAR",
+                "Votes": 29687,
+                "majority": 5731
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK PADUKA ABDUL RAHMAN IBRAHIM",
+                "Votes": 23956
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P8",
+        "SeatName": "POKOK SENA",
+        "info": {
+            "EligibleVoters": "66072",
+            "MalayVoters": "78",
+            "ChineseVoters": "19",
+            "IndianVoters": "3",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "855",
+            "Turnout": "53035",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL RAHMAN IBRAHIM",
+                "Votes": 29740,
+                "majority": 7300
+            },
+            {
+                "Party": "PAS",
+                "Name": "MAHFUZ OMAR",
+                "Votes": 22440
+            }
+        ]
+    }
+}

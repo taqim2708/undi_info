@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P30",
+        "SeatName": "JELI",
+        "info": {
+            "EligibleVoters": "59798",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "POK ZAHARI",
+                "Votes": 27072,
+                "NameBallot": "POK ZAHARI",
+                "majority": 12464
+            },
+            {
+                "Party": "BN",
+                "Name": "NORWAHIDA PATUAN",
+                "Votes": 14608,
+                "NameBallot": "NORWAHIDA PATUAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "MD RADZI",
+                "Votes": 1140,
+                "NameBallot": "MD RADZI"
+            },
+            {
+                "Party": "PUTRA",
+                "Name": "PROFESSOR DR IR HJ MAT",
+                "Votes": 133,
+                "NameBallot": "PROFESSOR DR IR HJ MAT"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P30",
+        "SeatName": "JELI",
+        "info": {
+            "EligibleVoters": "47470",
+            "MalayVoters": "98",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2950",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MUSTAPA BIN MOHAMED",
+                "Votes": 21665,
+                "NameBallot": "DATO' PA",
+                "majority": 6647
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD BIN HAMID",
+                "Votes": 15018,
+                "NameBallot": "CIKGU MAT"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "AZRAN BIN DERAMAN",
+                "Votes": 2078,
+                "NameBallot": "AZRAN BIN DERAMAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P30",
+        "SeatName": "JELI",
+        "info": {
+            "EligibleVoters": "43224",
+            "MalayVoters": "99",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "422",
+            "Turnout": "37599",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MUSTAPA BIN MOHAMED",
+                "Votes": 21223,
+                "majority": 5269
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD APANDI BIN MOHAMAD",
+                "Votes": 15954
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P30",
+        "SeatName": "JELI",
+        "info": {
+            "EligibleVoters": "36298",
+            "MalayVoters": "99",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "474",
+            "Turnout": "30555",
+            "Unreturned": "181"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MUSTAPA MOHAMED",
+                "Votes": 17168,
+                "majority": 4436
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD APANDI MOHAMAD",
+                "Votes": 12732
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P30",
+        "SeatName": "JELI",
+        "info": {
+            "EligibleVoters": "32729",
+            "MalayVoters": "99",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "394",
+            "Turnout": "26961",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MUSTAPA MOHAMED",
+                "Votes": 16960,
+                "majority": 7353
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD APANDI MOHAMED",
+                "Votes": 9607
+            }
+        ]
+    }
+}

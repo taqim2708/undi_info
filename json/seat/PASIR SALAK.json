@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P73",
+        "SeatName": "PASIR SALAK",
+        "info": {
+            "EligibleVoters": "74761",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "USTAZ JAMALUDIN BIN YAHYA",
+                "Votes": 24897,
+                "NameBallot": "USTAZ JAMALUDIN BIN YAHYA",
+                "majority": 5003
+            },
+            {
+                "Party": "BN",
+                "Name": "KHAIRUL AZWAN HARUN",
+                "Votes": 19894,
+                "NameBallot": "KHAIRUL AZWAN HARUN"
+            },
+            {
+                "Party": "PH",
+                "Name": "USTAZ NIK OMAR",
+                "Votes": 11693,
+                "NameBallot": "USTAZ NIK OMAR"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "ZAIROL HIZAM BIN ZAKARIA",
+                "Votes": 539,
+                "NameBallot": "ZAIROL HIZAM BIN ZAKARIA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P73",
+        "SeatName": "PASIR SALAK",
+        "info": {
+            "EligibleVoters": "54671",
+            "MalayVoters": "81",
+            "ChineseVoters": "13",
+            "IndianVoters": "4",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "75",
+            "Postal": "8",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TAJUDDIN BIN ABDUL RAHMAN",
+                "Votes": 20003,
+                "NameBallot": "DATO SRI TAJUDDIN ABDUL RAHMAN",
+                "majority": 7712
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "SALIHUDDIN BIN RADIN SUMADI",
+                "Votes": 12291,
+                "NameBallot": "DR SALIHUDDIN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZAFARULAZHAN BIN ZAN",
+                "Votes": 11151,
+                "NameBallot": "USTAZ ZAFARULAZHAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P73",
+        "SeatName": "PASIR SALAK",
+        "info": {
+            "EligibleVoters": "51498",
+            "MalayVoters": "79",
+            "ChineseVoters": "14",
+            "IndianVoters": "4",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1008",
+            "Turnout": "43372",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TAJUDDIN BIN ABDUL RAHMAN",
+                "Votes": 24875,
+                "majority": 7386
+            },
+            {
+                "Party": "PKR",
+                "Name": "MUSTAFFA KAMIL BIN AYUB",
+                "Votes": 17489
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P73",
+        "SeatName": "PASIR SALAK",
+        "info": {
+            "EligibleVoters": "42712",
+            "MalayVoters": "80",
+            "ChineseVoters": "15",
+            "IndianVoters": "4",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "950",
+            "Turnout": "32119",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK TAJUDDIN ABDUL RAHMAN",
+                "Votes": 16928,
+                "majority": 2688
+            },
+            {
+                "Party": "PKR",
+                "Name": "MUSTAFFA KAMIL AYUB",
+                "Votes": 14240
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P73",
+        "SeatName": "PASIR SALAK",
+        "info": {
+            "EligibleVoters": "42959",
+            "MalayVoters": "79",
+            "ChineseVoters": "15",
+            "IndianVoters": "5",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "919",
+            "Turnout": "31216",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TAN SRI RAMLI NGAH TALIB",
+                "Votes": 19422,
+                "majority": 8547
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAIMIN SULAM",
+                "Votes": 10875
+            }
+        ]
+    }
+}

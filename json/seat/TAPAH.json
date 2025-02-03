@@ -1,0 +1,221 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P72",
+        "SeatName": "TAPAH",
+        "info": {
+            "EligibleVoters": "61946",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATUK SERI M. SARAVANAN",
+                "Votes": 18398,
+                "NameBallot": "DATUK SERI M. SARAVANAN",
+                "majority": 5064
+            },
+            {
+                "Party": "PH",
+                "Name": "SARASWATHY KANDASAMI",
+                "Votes": 13334,
+                "NameBallot": "SARASWATHY KANDASAMI"
+            },
+            {
+                "Party": "PN",
+                "Name": "DATUK HAJI MUHAMMAD YADZAN BIN HAJI MOHAMMAD",
+                "Votes": 12115,
+                "NameBallot": "DATUK HAJI MUHAMMAD YADZAN BIN HAJI MOHAMMAD"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MIOR HAIDIR",
+                "Votes": 335,
+                "NameBallot": "MIOR HAIDIR"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "MOHAMED AKBAR B. YASIN",
+                "Votes": 200,
+                "NameBallot": "MOHAMED AKBAR B. YASIN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "M. KATHIRAVAN",
+                "Votes": 99,
+                "NameBallot": "M. KATHIRAVAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P72",
+        "SeatName": "TAPAH",
+        "info": {
+            "EligibleVoters": "47128",
+            "MalayVoters": "47",
+            "ChineseVoters": "26",
+            "IndianVoters": "15",
+            "OtherVoters": "13",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1939",
+            "Postal": "15",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "SARAVANAN A/L MURUGAN",
+                "Votes": 16086,
+                "NameBallot": "DATUK SERI M SARAVANAN",
+                "majority": 614
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MOHAMED AZNI BIN MOHAMED ALI",
+                "Votes": 15472,
+                "NameBallot": "MOHAMED AZNI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NORAZLI BIN MUSA",
+                "Votes": 4616,
+                "NameBallot": "USTAZ NORAZLI BIN MUSA"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P72",
+        "SeatName": "TAPAH",
+        "info": {
+            "EligibleVoters": "45485",
+            "MalayVoters": "46",
+            "ChineseVoters": "28",
+            "IndianVoters": "13",
+            "OtherVoters": "13",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1040",
+            "Turnout": "36843",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "SARAVANAN A/L MURUGAN",
+                "Votes": 20670,
+                "majority": 7927
+            },
+            {
+                "Party": "PKR",
+                "Name": "VASANTHA KUMAR A/L KRISHNAN",
+                "Votes": 12743
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "SHAHARUZZAMAN BIN BISTAMAM",
+                "Votes": 2053
+            },
+            {
+                "Party": "IND",
+                "Name": "RIDZUAN BIN BANI",
+                "Votes": 337
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P72",
+        "SeatName": "TAPAH",
+        "info": {
+            "EligibleVoters": "38236",
+            "MalayVoters": "47",
+            "ChineseVoters": "32",
+            "IndianVoters": "13",
+            "OtherVoters": "8",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1662",
+            "Turnout": "26811",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "DATUK M SARAVANAN",
+                "Votes": 14084,
+                "majority": 3020
+            },
+            {
+                "Party": "PKR",
+                "Name": "TAN SENG TOH",
+                "Votes": 11064
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P72",
+        "SeatName": "TAPAH",
+        "info": {
+            "EligibleVoters": "38899",
+            "MalayVoters": "44",
+            "ChineseVoters": "34",
+            "IndianVoters": "13",
+            "OtherVoters": "9",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "956",
+            "Turnout": "25260",
+            "Unreturned": "421"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "DATUK S VEERASINGAM",
+                "Votes": 16945,
+                "majority": 9586
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR MOHD RADZI OTHMAN",
+                "Votes": 7359
+            }
+        ]
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P124",
+        "SeatName": "BANDAR TUN RAZAK",
+        "info": {
+            "EligibleVoters": "119185",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "DATO' SERI DR WAN AZIZAH BINTI WAN ISMAIL",
+                "Votes": 43476,
+                "NameBallot": "DATO' SERI DR WAN AZIZAH BINTI WAN ISMAIL",
+                "majority": 9817
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO KAMARUDIN JAFFAR",
+                "Votes": 33659,
+                "NameBallot": "DATO KAMARUDIN JAFFAR"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK CHEW YIN KEEN",
+                "Votes": 15886,
+                "NameBallot": "DATUK CHEW YIN KEEN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P124",
+        "SeatName": "BANDAR TUN RAZAK",
+        "info": {
+            "EligibleVoters": "83650",
+            "MalayVoters": "61",
+            "ChineseVoters": "29",
+            "IndianVoters": "8",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "5469",
+            "Postal": "38",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "KAMARUDIN BIN JAFFAR",
+                "Votes": 41126,
+                "NameBallot": "DATO' KAMARUDIN JAFFAR",
+                "majority": 19930
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ADNAN BIN SEMAN @ ABDULLAH",
+                "Votes": 21196,
+                "NameBallot": "ADNAN BIN SEMAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ROSNI BINTI ADAM",
+                "Votes": 7884,
+                "NameBallot": "DR ROSNI ADAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P124",
+        "SeatName": "BANDAR TUN RAZAK",
+        "info": {
+            "EligibleVoters": "90993",
+            "MalayVoters": "53",
+            "ChineseVoters": "37",
+            "IndianVoters": "9",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "861",
+            "Turnout": "78147",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ABD KHALID BIN IBRAHIM",
+                "Votes": 44067,
+                "majority": 11832
+            },
+            {
+                "Party": "MCA",
+                "Name": "TAN KOK ENG",
+                "Votes": 32235
+            },
+            {
+                "Party": "IND",
+                "Name": "MOHAMAD SUKERI BIN ABDUL SAMAT",
+                "Votes": 793
+            },
+            {
+                "Party": "IND",
+                "Name": "MOKHTAR BIN SALAHUDIN",
+                "Votes": 191
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P124",
+        "SeatName": "BANDAR TUN RAZAK",
+        "info": {
+            "EligibleVoters": "72628",
+            "MalayVoters": "53",
+            "ChineseVoters": "40",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "557",
+            "Turnout": "54995",
+            "Unreturned": "707"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ABDUL KHALID IBRAHIM",
+                "Votes": 28123,
+                "majority": 2515
+            },
+            {
+                "Party": "MCA",
+                "Name": "TAN CHAI HO",
+                "Votes": 25608
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P124",
+        "SeatName": "BANDAR TUN RAZAK",
+        "info": {
+            "EligibleVoters": "67241",
+            "MalayVoters": "51",
+            "ChineseVoters": "40",
+            "IndianVoters": "8",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "600",
+            "Turnout": "49519",
+            "Unreturned": "496"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK TAN CHAI HO",
+                "Votes": 33223,
+                "majority": 17527
+            },
+            {
+                "Party": "PKR",
+                "Name": "DR ROSLI IBRAHIM",
+                "Votes": 15696
+            }
+        ]
+    }
+}

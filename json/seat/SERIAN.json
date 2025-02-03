@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P199",
+        "SeatName": "SERIAN",
+        "info": {
+            "EligibleVoters": "65273",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "DATO' SRI RICHARD RIOT ANAK JAEM",
+                "Votes": 22876,
+                "NameBallot": "DATO' SRI RICHARD RIOT ANAK JAEM",
+                "majority": 16697
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DR ALIM IMPIRA",
+                "Votes": 6179,
+                "NameBallot": "DR ALIM IMPIRA"
+            },
+            {
+                "Party": "PSB",
+                "Name": "ELSIY A/K TINGANG",
+                "Votes": 5630,
+                "NameBallot": "ELSIY A/K TINGANG"
+            },
+            {
+                "Party": "DAP",
+                "Name": "LEARRY ANAK JABUL",
+                "Votes": 5289,
+                "NameBallot": "LEARRY ANAK JABUL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P199",
+        "SeatName": "SERIAN",
+        "info": {
+            "EligibleVoters": "37629",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "8",
+            "BumiNonmuslimVoters": "81",
+            "SabahBumiVoters": "0",
+            "Early": "188",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "RICHARD RIOT ANAK JAEM",
+                "Votes": 17545,
+                "NameBallot": "DATO SRI RICHARD RIOT ANAK JAEM",
+                "majority": 9905
+            },
+            {
+                "Party": "DAP",
+                "Name": "EDWARD ANAK ANDREW LUWAK @ EDWARD LUWAK",
+                "Votes": 7640,
+                "NameBallot": "EDWARD ANDREW LUWAK"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SENIOR ANAK WILLIAM RADE",
+                "Votes": 2234,
+                "NameBallot": "SENIOR ANAK WILLIAM RADE"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P199",
+        "SeatName": "SERIAN",
+        "info": {
+            "EligibleVoters": "33713",
+            "MalayVoters": "0",
+            "ChineseVoters": "11",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "15",
+            "BumiNonmuslimVoters": "75",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "296",
+            "Turnout": "26523",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "RICHARD RIOT ANAK JAEM",
+                "Votes": 19494,
+                "majority": 13151
+            },
+            {
+                "Party": "DAP",
+                "Name": "EDWARD ANAK ANDREW LUWAK",
+                "Votes": 6343
+            },
+            {
+                "Party": "STAR",
+                "Name": "JOHNNY ANAK APUT",
+                "Votes": 390
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P199",
+        "SeatName": "SERIAN",
+        "info": {
+            "EligibleVoters": "27901",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "332",
+            "Turnout": "18516",
+            "Unreturned": "25"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "DATUK RICHARD RIOT JAEM",
+                "Votes": 15793,
+                "majority": 13427
+            },
+            {
+                "Party": "SNAP",
+                "Name": "SYLVESTER BELAYONG",
+                "Votes": 2366
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P199",
+        "SeatName": "SERIAN",
+        "info": {
+            "EligibleVoters": "31601",
+            "MalayVoters": "4",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "372",
+            "Turnout": "18686",
+            "Unreturned": "89"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "Richard Riot Jaem",
+                "Votes": 13960,
+                "majority": 9695
+            },
+            {
+                "Party": "IND",
+                "Name": "Henry Ginai Langgie",
+                "Votes": 4265
+            }
+        ]
+    }
+}

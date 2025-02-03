@@ -1,0 +1,158 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P218",
+        "SeatName": "SIBUTI",
+        "info": {
+            "EligibleVoters": "58522",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "LUKANISMAN BIN AWANG SAUNI",
+                "Votes": 22150,
+                "NameBallot": "LUKANISMAN BIN AWANG SAUNI",
+                "majority": 11745
+            },
+            {
+                "Party": "PH",
+                "Name": "ZULHAIDAH SUBOH",
+                "Votes": 10405,
+                "NameBallot": "ZULHAIDAH SUBOH"
+            },
+            {
+                "Party": "PBDS",
+                "Name": "BOBBY ANAK WILLIAM",
+                "Votes": 1361,
+                "NameBallot": "BOBBY ANAK WILLIAM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P218",
+        "SeatName": "SIBUTI",
+        "info": {
+            "EligibleVoters": "31868",
+            "MalayVoters": "0",
+            "ChineseVoters": "22",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "24",
+            "BumiNonmuslimVoters": "54",
+            "SabahBumiVoters": "0",
+            "Early": "967",
+            "Postal": "2",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "LUKANISMAN BIN AWANG SAUNI",
+                "Votes": 12214,
+                "NameBallot": "LUKANISMAN BIN AWANG SAUNI",
+                "majority": 3676
+            },
+            {
+                "Party": "PKR",
+                "Name": "JEMAT PANJANG",
+                "Votes": 8538,
+                "NameBallot": "JEMAT PANJANG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZULAIHI BIN BAKAR",
+                "Votes": 1617,
+                "NameBallot": "ANAI ZULAI"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P218",
+        "SeatName": "SIBUTI",
+        "info": {
+            "EligibleVoters": "28351",
+            "MalayVoters": "0",
+            "ChineseVoters": "22",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "33",
+            "BumiNonmuslimVoters": "44",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "288",
+            "Turnout": "20918",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "AHMAD LAI BIN BUJANG",
+                "Votes": 13348,
+                "majority": 6066
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMMAD ZAID BIN TANDANG",
+                "Votes": 7282
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P218",
+        "SeatName": "SIBUTI",
+        "info": {
+            "EligibleVoters": "22143",
+            "MalayVoters": "0",
+            "ChineseVoters": "22",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "192",
+            "Turnout": "13030",
+            "Unreturned": "10"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "AHMAD LAI BUJANG",
+                "Votes": 8238,
+                "majority": 3648
+            },
+            {
+                "Party": "PKR",
+                "Name": "DR TEO YU KENG",
+                "Votes": 4590
+            }
+        ]
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P52",
+        "SeatName": "BAYAN BARU",
+        "info": {
+            "EligibleVoters": "119640",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "SIM TZE TZIN",
+                "Votes": 55209,
+                "NameBallot": "SIM TZE TZIN",
+                "majority": 34902
+            },
+            {
+                "Party": "PN",
+                "Name": "OH TONG KEONG",
+                "Votes": 20307,
+                "NameBallot": "OH TONG KEONG"
+            },
+            {
+                "Party": "BN",
+                "Name": "SAW YEE FUNG",
+                "Votes": 13377,
+                "NameBallot": "SAW YEE FUNG"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "JEFF OOI",
+                "Votes": 440,
+                "NameBallot": "JEFF OOI"
+            },
+            {
+                "Party": "PRM",
+                "Name": "RAVINDER SINGH",
+                "Votes": 251,
+                "NameBallot": "RAVINDER SINGH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "KAN CHEE YUEN",
+                "Votes": 124,
+                "NameBallot": "KAN CHEE YUEN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P52",
+        "SeatName": "BAYAN BARU",
+        "info": {
+            "EligibleVoters": "90780",
+            "MalayVoters": "40",
+            "ChineseVoters": "49",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2538",
+            "Postal": "35",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SIM TZE TZIN",
+                "Votes": 51555,
+                "NameBallot": "SIM TZE TZIN",
+                "majority": 37751
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHUAH SENG GUAN",
+                "Votes": 13804,
+                "NameBallot": "CHUAH SENG GUAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ISZUREE BIN IBRAHIM",
+                "Votes": 8757,
+                "NameBallot": "ISZUREE BIN IBRAHIM"
+            },
+            {
+                "Party": "MU",
+                "Name": "YIM BOON LEONG",
+                "Votes": 733,
+                "NameBallot": "DAVID YIM BOON LEONG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P52",
+        "SeatName": "BAYAN BARU",
+        "info": {
+            "EligibleVoters": "79155",
+            "MalayVoters": "39",
+            "ChineseVoters": "49",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "850",
+            "Turnout": "68659",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SIM TZE TZIN",
+                "Votes": 43558,
+                "majority": 19307
+            },
+            {
+                "Party": "MCA",
+                "Name": "TANG HEAP SENG",
+                "Votes": 24251
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P52",
+        "SeatName": "BAYAN BARU",
+        "info": {
+            "EligibleVoters": "60713",
+            "MalayVoters": "41",
+            "ChineseVoters": "49",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "655",
+            "Turnout": "46418",
+            "Unreturned": "1556"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ZAHRAIN MOHAMED HASHIM",
+                "Votes": 27618,
+                "majority": 11029
+            },
+            {
+                "Party": "MCA",
+                "Name": "OOI SWEE KIM",
+                "Votes": 16589
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P52",
+        "SeatName": "BAYAN BARU",
+        "info": {
+            "EligibleVoters": "55407",
+            "MalayVoters": "40",
+            "ChineseVoters": "48",
+            "IndianVoters": "12",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1010",
+            "Turnout": "41020",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "WONG KAM HOONG",
+                "Votes": 29430,
+                "majority": 18851
+            },
+            {
+                "Party": "PKR",
+                "Name": "ONG PENG CHEOW",
+                "Votes": 10579
+            }
+        ]
+    }
+}

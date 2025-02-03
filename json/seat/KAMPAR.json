@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P70",
+        "SeatName": "KAMPAR",
+        "info": {
+            "EligibleVoters": "89894",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "CHONG ZHEMIN",
+                "Votes": 30467,
+                "NameBallot": "CHONG ZHEMIN",
+                "majority": 14330
+            },
+            {
+                "Party": "BN",
+                "Name": "LEE CHEE LEONG",
+                "Votes": 16137,
+                "NameBallot": "LEE CHEE LEONG"
+            },
+            {
+                "Party": "PN",
+                "Name": "JANICE WONG",
+                "Votes": 12127,
+                "NameBallot": "JANICE WONG"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "LEONG CHEOK LUNG ",
+                "Votes": 655,
+                "NameBallot": "LEONG CHEOK LUNG "
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P70",
+        "SeatName": "KAMPAR",
+        "info": {
+            "EligibleVoters": "69436",
+            "MalayVoters": "33",
+            "ChineseVoters": "55",
+            "IndianVoters": "9",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "402",
+            "Postal": "16",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SU KEONG SIONG",
+                "Votes": 30216,
+                "NameBallot": "SU KEONG SIONG",
+                "majority": 11801
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEE CHEE LEONG",
+                "Votes": 18415,
+                "NameBallot": "LEE CHEE LEONG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "YOUGAN A/L MAHALINGAM",
+                "Votes": 3864,
+                "NameBallot": "YOUGAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P70",
+        "SeatName": "KAMPAR",
+        "info": {
+            "EligibleVoters": "63619",
+            "MalayVoters": "29",
+            "ChineseVoters": "61",
+            "IndianVoters": "9",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "816",
+            "Turnout": "49142",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KO CHUNG SEN",
+                "Votes": 26863,
+                "majority": 5400
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEE CHEE LEONG",
+                "Votes": 21463
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P70",
+        "SeatName": "KAMPAR",
+        "info": {
+            "EligibleVoters": "59784",
+            "MalayVoters": "27",
+            "ChineseVoters": "63",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1048",
+            "Turnout": "38953",
+            "Unreturned": "350"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK LEE CHEE LEONG",
+                "Votes": 20126,
+                "majority": 2697
+            },
+            {
+                "Party": "DAP",
+                "Name": "KEONG MENG SING",
+                "Votes": 17429
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P70",
+        "SeatName": "KAMPAR",
+        "info": {
+            "EligibleVoters": "60874",
+            "MalayVoters": "26",
+            "ChineseVoters": "64",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1542",
+            "Turnout": "38326",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "TAN SRI HEW SEE YONG",
+                "Votes": 23129,
+                "majority": 9474
+            },
+            {
+                "Party": "DAP",
+                "Name": "LIEW AH KIM",
+                "Votes": 13655
+            }
+        ]
+    }
+}

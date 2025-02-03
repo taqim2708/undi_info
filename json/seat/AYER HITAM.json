@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P148",
+        "SeatName": "AYER HITAM",
+        "info": {
+            "EligibleVoters": "61041",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "WEE KA SIONG",
+                "Votes": 18911,
+                "NameBallot": "WEE KA SIONG",
+                "majority": 2963
+            },
+            {
+                "Party": "PH",
+                "Name": "SHEIKH OMAR",
+                "Votes": 15948,
+                "NameBallot": "SHEIKH OMAR"
+            },
+            {
+                "Party": "PN",
+                "Name": "SYAFIQ AZIZ",
+                "Votes": 11833,
+                "NameBallot": "SYAFIQ AZIZ"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P148",
+        "SeatName": "AYER HITAM",
+        "info": {
+            "EligibleVoters": "46157",
+            "MalayVoters": "58",
+            "ChineseVoters": "38",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "73",
+            "Postal": "7",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "WEE KA SIONG",
+                "Votes": 17076,
+                "NameBallot": "WEE KA SIONG",
+                "majority": 303
+            },
+            {
+                "Party": "DAP",
+                "Name": "LIEW CHIN TONG",
+                "Votes": 16773,
+                "NameBallot": "LIEW CHIN TONG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MARDI BIN MARWAN",
+                "Votes": 4975,
+                "NameBallot": "HJ MARDI MARWAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P148",
+        "SeatName": "AYER HITAM",
+        "info": {
+            "EligibleVoters": "42913",
+            "MalayVoters": "56",
+            "ChineseVoters": "38",
+            "IndianVoters": "4",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "967",
+            "Turnout": "37747",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "WEE KA SIONG",
+                "Votes": 22045,
+                "majority": 7310
+            },
+            {
+                "Party": "PAS",
+                "Name": "HU PANG CHAW",
+                "Votes": 14735
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P148",
+        "SeatName": "AYER HITAM",
+        "info": {
+            "EligibleVoters": "34805",
+            "MalayVoters": "57",
+            "ChineseVoters": "39",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "907",
+            "Turnout": "27488",
+            "Unreturned": "30"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DR WEE KA SIONG",
+                "Votes": 20230,
+                "majority": 13909
+            },
+            {
+                "Party": "PAS",
+                "Name": "HUSSIN SUJAK",
+                "Votes": 6321
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P148",
+        "SeatName": "AYER HITAM",
+        "info": {
+            "EligibleVoters": "32804",
+            "MalayVoters": "56",
+            "ChineseVoters": "40",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "851",
+            "Turnout": "25218",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DR WEE KA SIONG",
+                "Votes": 20065,
+                "majority": 15763
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD ZAMRI MAT TAKSIS",
+                "Votes": 4302
+            }
+        ]
+    }
+}

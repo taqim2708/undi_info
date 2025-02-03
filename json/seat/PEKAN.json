@@ -1,0 +1,211 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P85",
+        "SeatName": "PEKAN",
+        "info": {
+            "EligibleVoters": "119443",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "SH MOHMED PUZI BIN SH ALI",
+                "Votes": 47418,
+                "NameBallot": "SH MOHMED PUZI BIN SH ALI",
+                "majority": 8949
+            },
+            {
+                "Party": "PN",
+                "Name": "USTAZ MOHD FADHIL NOOR",
+                "Votes": 38469,
+                "NameBallot": "USTAZ MOHD FADHIL NOOR"
+            },
+            {
+                "Party": "PH",
+                "Name": "MOHD NAIM ZAINAL ABIDIN",
+                "Votes": 6316,
+                "NameBallot": "MOHD NAIM ZAINAL ABIDIN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATO' RADHI ABDUL RAZAK",
+                "Votes": 472,
+                "NameBallot": "DATO' RADHI ABDUL RAZAK"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TENGKU DATO' HISHAM",
+                "Votes": 366,
+                "NameBallot": "TENGKU DATO' HISHAM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P85",
+        "SeatName": "PEKAN",
+        "info": {
+            "EligibleVoters": "88899",
+            "MalayVoters": "88",
+            "ChineseVoters": "2",
+            "IndianVoters": "1",
+            "OtherVoters": "9",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "6824",
+            "Postal": "14",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD NAJIB TUN ABDUL RAZAK",
+                "Votes": 43854,
+                "NameBallot": "DATO' SRI MOHD NAJIB BIN TUN ABD RAZAK",
+                "majority": 24859
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHAITUDIN BIN DAUD",
+                "Votes": 18995,
+                "NameBallot": "KAPT (B) AHIATUDIN BIN DAUD"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MUHAMMAD ZAHID BIN MD ARIP",
+                "Votes": 7662,
+                "NameBallot": "MUHD ZAHID MD ARIP"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ABD KADIR BIN SAINUDIN",
+                "Votes": 103,
+                "NameBallot": "ABD KADIR BIN SAINUDIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P85",
+        "SeatName": "PEKAN",
+        "info": {
+            "EligibleVoters": "80260",
+            "MalayVoters": "88",
+            "ChineseVoters": "2",
+            "IndianVoters": "1",
+            "OtherVoters": "9",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1275",
+            "Turnout": "68218",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD NAJIB BIN HJ ABD RAZAK",
+                "Votes": 51278,
+                "majority": 35613
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD FARIZ B ABD TALIB @ MUSA",
+                "Votes": 15665
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P85",
+        "SeatName": "PEKAN",
+        "info": {
+            "EligibleVoters": "58217",
+            "MalayVoters": "93",
+            "ChineseVoters": "3",
+            "IndianVoters": "1",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1261",
+            "Turnout": "47870",
+            "Unreturned": "549"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NAJIB TUN RAZAK",
+                "Votes": 36262,
+                "majority": 26464
+            },
+            {
+                "Party": "PKR",
+                "Name": "KHAIRUL ANUAR AHMAD ZAINUDIN",
+                "Votes": 9798
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P85",
+        "SeatName": "PEKAN",
+        "info": {
+            "EligibleVoters": "52687",
+            "MalayVoters": "89",
+            "ChineseVoters": "3",
+            "IndianVoters": "2",
+            "OtherVoters": "6",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "56",
+            "Turnout": "41046",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI MOHD NAJIB TUN ABDUL RAZAK",
+                "Votes": 31956,
+                "majority": 22922
+            },
+            {
+                "Party": "PAS",
+                "Name": "BRIG JEN (B) DATUK ZAKARIA DAHLAN",
+                "Votes": 9034
+            }
+        ]
+    }
+}

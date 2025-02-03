@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P150",
+        "SeatName": "BATU PAHAT",
+        "info": {
+            "EligibleVoters": "133910",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "ONN BIN ABU BAKAR",
+                "Votes": 45242,
+                "NameBallot": "ONN BIN ABU BAKAR",
+                "majority": 15972
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO' RASHID HASNON",
+                "Votes": 29270,
+                "NameBallot": "DATO' RASHID HASNON"
+            },
+            {
+                "Party": "BN",
+                "Name": "ISHAK SIRAJ ",
+                "Votes": 24309,
+                "NameBallot": "ISHAK SIRAJ "
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NIZAM BASHIR",
+                "Votes": 410,
+                "NameBallot": "NIZAM BASHIR"
+            },
+            {
+                "Party": "PRM",
+                "Name": "ZAHARI BIN OSMAN",
+                "Votes": 263,
+                "NameBallot": "ZAHARI BIN OSMAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P150",
+        "SeatName": "BATU PAHAT",
+        "info": {
+            "EligibleVoters": "98543",
+            "MalayVoters": "55",
+            "ChineseVoters": "44",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1318",
+            "Postal": "38",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MOHD RASHID BIN HASNON",
+                "Votes": 45929,
+                "NameBallot": "MOHD RASHID",
+                "majority": 17894
+            },
+            {
+                "Party": "UMNO",
+                "Name": "HALIZA BINTI ABDULLAH",
+                "Votes": 28035,
+                "NameBallot": "HALIZA BINTI ABDULLAH"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MAHFODZ BIN MOHAMED",
+                "Votes": 8173,
+                "NameBallot": "DATO' DR MAHFODZ BIN MOHAMED"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P150",
+        "SeatName": "BATU PAHAT",
+        "info": {
+            "EligibleVoters": "88272",
+            "MalayVoters": "52",
+            "ChineseVoters": "46",
+            "IndianVoters": "1",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1445",
+            "Turnout": "77047",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MOHD IDRIS BIN JUSI",
+                "Votes": 38667,
+                "majority": 1732
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD PUAD BIN ZARKASHI",
+                "Votes": 36935
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P150",
+        "SeatName": "BATU PAHAT",
+        "info": {
+            "EligibleVoters": "70069",
+            "MalayVoters": "53",
+            "ChineseVoters": "46",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1768",
+            "Turnout": "54103",
+            "Unreturned": "117"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD PUAD ZARKASHI",
+                "Votes": 32593,
+                "majority": 12968
+            },
+            {
+                "Party": "PKR",
+                "Name": "MUHAMMAD ABDULLAH",
+                "Votes": 19625
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P150",
+        "SeatName": "BATU PAHAT",
+        "info": {
+            "EligibleVoters": "68415",
+            "MalayVoters": "53",
+            "ChineseVoters": "45",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1372",
+            "Turnout": "50234",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DR JUNAIDY AND WAHAB",
+                "Votes": 38982,
+                "majority": 29102
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMED HANIPA MAIDIN",
+                "Votes": 9880
+            }
+        ]
+    }
+}

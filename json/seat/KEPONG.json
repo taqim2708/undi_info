@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P114",
+        "SeatName": "KEPONG",
+        "info": {
+            "EligibleVoters": "94285",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "LIM LIP ENG",
+                "Votes": 64308,
+                "NameBallot": "LIM LIP ENG",
+                "majority": 61081
+            },
+            {
+                "Party": "BN",
+                "Name": "YAP ZHENG HOE",
+                "Votes": 3227,
+                "NameBallot": "YAP ZHENG HOE"
+            },
+            {
+                "Party": "PN",
+                "Name": "PHAANG JING FATT",
+                "Votes": 2795,
+                "NameBallot": "PHAANG JING FATT"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "YEE POH PING",
+                "Votes": 1461,
+                "NameBallot": "YEE POH PING"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "SHAUN YOUNG",
+                "Votes": 528,
+                "NameBallot": "SHAUN YOUNG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P114",
+        "SeatName": "KEPONG",
+        "info": {
+            "EligibleVoters": "72696",
+            "MalayVoters": "5",
+            "ChineseVoters": "89",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "284",
+            "Postal": "20",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM LIP ENG",
+                "Votes": 56516,
+                "NameBallot": "LIM LIP ENG",
+                "majority": 51628
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "ONG SIANG LIANG",
+                "Votes": 4888,
+                "NameBallot": "ONG SIANG LIANG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P114",
+        "SeatName": "KEPONG",
+        "info": {
+            "EligibleVoters": "68035",
+            "MalayVoters": "4",
+            "ChineseVoters": "89",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "388",
+            "Turnout": "58512",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TAN SENG GIAW @ TAN CHUN TIN",
+                "Votes": 47837,
+                "majority": 40307
+            },
+            {
+                "Party": "PPP",
+                "Name": "CHANDRAKUMANAN A/L ARUMUGAM",
+                "Votes": 7530
+            },
+            {
+                "Party": "IND",
+                "Name": "YEE POH PING",
+                "Votes": 2757
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P114",
+        "SeatName": "KEPONG",
+        "info": {
+            "EligibleVoters": "60775",
+            "MalayVoters": "4",
+            "ChineseVoters": "90",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "212",
+            "Turnout": "47508",
+            "Unreturned": "40"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "DR TAN SENG GIAW",
+                "Votes": 35552,
+                "majority": 23848
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "LAU HOI KEONG",
+                "Votes": 11704
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P114",
+        "SeatName": "KEPONG",
+        "info": {
+            "EligibleVoters": "60273",
+            "MalayVoters": "4",
+            "ChineseVoters": "91",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "212",
+            "Turnout": "44922",
+            "Unreturned": "34"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "DR TAN SENG GIAW",
+                "Votes": 23282,
+                "majority": 1854
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "MA WOEI CHYI",
+                "Votes": 21428
+            }
+        ]
+    }
+}

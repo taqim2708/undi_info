@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P92",
+        "SeatName": "SABAK BERNAM",
+        "info": {
+            "EligibleVoters": "51609",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "CIKGU KALAM BIN SALAN",
+                "Votes": 17973,
+                "NameBallot": "CIKGU KALAM BIN SALAN",
+                "majority": 5056
+            },
+            {
+                "Party": "BN",
+                "Name": "ABD RAHMAN BIN BAKRI",
+                "Votes": 12917,
+                "NameBallot": "ABD RAHMAN BIN BAKRI"
+            },
+            {
+                "Party": "PH",
+                "Name": "HJ. SHAMSUL  MA`ARIF ISMAIL",
+                "Votes": 9627,
+                "NameBallot": "HJ. SHAMSUL  MA`ARIF ISMAIL"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATO` SRI EIZLAN YUSOF",
+                "Votes": 460,
+                "NameBallot": "DATO` SRI EIZLAN YUSOF"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P92",
+        "SeatName": "SABAK BERNAM",
+        "info": {
+            "EligibleVoters": "40863",
+            "MalayVoters": "83",
+            "ChineseVoters": "12",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "72",
+            "Postal": "2",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD FASIAH BIN MOHD FAKEH",
+                "Votes": 12862,
+                "NameBallot": "DATO' FASIAH",
+                "majority": 1674
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "WARNO BIN DOGOL",
+                "Votes": 11188,
+                "NameBallot": "WARNO BIN DOGOL"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMMAD LABIB BIN ABDUL JALIL",
+                "Votes": 9300,
+                "NameBallot": "USTAZ MUHAMMAD LABIB BIN ABD JALIL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P92",
+        "SeatName": "SABAK BERNAM",
+        "info": {
+            "EligibleVoters": "37318",
+            "MalayVoters": "81",
+            "ChineseVoters": "13",
+            "IndianVoters": "5",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "567",
+            "Turnout": "31697",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD FASIAH BIN MOHD FAKEH",
+                "Votes": 16387,
+                "majority": 1644
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABDUL AZIZ BIN BARI",
+                "Votes": 14743
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P92",
+        "SeatName": "SABAK BERNAM",
+        "info": {
+            "EligibleVoters": "31381",
+            "MalayVoters": "81",
+            "ChineseVoters": "14",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "711",
+            "Turnout": "23581",
+            "Unreturned": "95"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABD RAHMAN BAKRI",
+                "Votes": 12055,
+                "majority": 1335
+            },
+            {
+                "Party": "PKR",
+                "Name": "BADRUL AMIN BAHRON",
+                "Votes": 10720
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P92",
+        "SeatName": "SABAK BERNAM",
+        "info": {
+            "EligibleVoters": "30862",
+            "MalayVoters": "80",
+            "ChineseVoters": "14",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "776",
+            "Turnout": "23080",
+            "Unreturned": "7"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MAT YASIR IKHSAN",
+                "Votes": 13826,
+                "majority": 5348
+            },
+            {
+                "Party": "PKR",
+                "Name": "BADRUL AMIN BAHRON",
+                "Votes": 8478
+            }
+        ]
+    }
+}

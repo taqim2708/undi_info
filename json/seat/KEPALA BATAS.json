@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P41",
+        "SeatName": "KEPALA BATAS",
+        "info": {
+            "EligibleVoters": "83081",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DR USTAZAH MASTURA",
+                "Votes": 28604,
+                "NameBallot": "DR USTAZAH MASTURA",
+                "majority": 2867
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' SRI REEZAL MERICAN BIN NAINA MERICAN",
+                "Votes": 25737,
+                "NameBallot": "DATO' SRI REEZAL MERICAN BIN NAINA MERICAN"
+            },
+            {
+                "Party": "MUDA",
+                "Name": "DANIAL ABDUL MAJEED",
+                "Votes": 14214,
+                "NameBallot": "DANIAL ABDUL MAJEED"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "USTAZ HAMIDI ABU HASSAN",
+                "Votes": 747,
+                "NameBallot": "USTAZ HAMIDI ABU HASSAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P41",
+        "SeatName": "KEPALA BATAS",
+        "info": {
+            "EligibleVoters": "60523",
+            "MalayVoters": "79",
+            "ChineseVoters": "17",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "779",
+            "Postal": "2",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "REEZAL MERICAN BIN NAINA MERICAN",
+                "Votes": 22459,
+                "NameBallot": "DATO' SRI REEZAL MERICAN B NAINA MERICAN",
+                "majority": 4736
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "ZAIDI BIN ZAKARIA",
+                "Votes": 17723,
+                "NameBallot": "DR ZAIDI BIN ZAKARIA"
+            },
+            {
+                "Party": "PAS",
+                "Name": "SITI MASTURA BINTI MUHAMMAD",
+                "Votes": 12120,
+                "NameBallot": "SITI MASTURA MUHAMMAD"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P41",
+        "SeatName": "KEPALA BATAS",
+        "info": {
+            "EligibleVoters": "51635",
+            "MalayVoters": "76",
+            "ChineseVoters": "19",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "585",
+            "Turnout": "46665",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "REEZAL MERICAN BIB NAINA MERICAN",
+                "Votes": 25128,
+                "majority": 4176
+            },
+            {
+                "Party": "PAS",
+                "Name": "AFNAN HAMIMI BIN TAIB AZAMUDDEN",
+                "Votes": 20952
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P41",
+        "SeatName": "KEPALA BATAS",
+        "info": {
+            "EligibleVoters": "43018",
+            "MalayVoters": "75",
+            "ChineseVoters": "21",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "634",
+            "Turnout": "36328",
+            "Unreturned": "50"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI ABDULLAH AHMAD BADAWI",
+                "Votes": 23445,
+                "majority": 11246
+            },
+            {
+                "Party": "PAS",
+                "Name": "SUBRI ARSHAD",
+                "Votes": 12199
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P41",
+        "SeatName": "KEPALA BATAS",
+        "info": {
+            "EligibleVoters": "39622",
+            "MalayVoters": "74",
+            "ChineseVoters": "22",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "672",
+            "Turnout": "33356",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI ABDULLAH AHMAD BADAWI",
+                "Votes": 25403,
+                "majority": 18122
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL RASHID RASID",
+                "Votes": 7281
+            }
+        ]
+    }
+}

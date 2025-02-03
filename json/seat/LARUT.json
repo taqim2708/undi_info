@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P56",
+        "SeatName": "LARUT",
+        "info": {
+            "EligibleVoters": "65719",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO SERI HAMZAH ZAINUDIN",
+                "Votes": 28350,
+                "NameBallot": "DATO SERI HAMZAH ZAINUDIN",
+                "majority": 11598
+            },
+            {
+                "Party": "BN",
+                "Name": "SHAFIQ FHADLY MAHMUD",
+                "Votes": 16752,
+                "NameBallot": "SHAFIQ FHADLY MAHMUD"
+            },
+            {
+                "Party": "PH",
+                "Name": "USTAZ ZOLKHARNAIN BIN ABIDIN",
+                "Votes": 6207,
+                "NameBallot": "USTAZ ZOLKHARNAIN BIN ABIDIN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "USTAZ AUZAIE",
+                "Votes": 566,
+                "NameBallot": "USTAZ AUZAIE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P56",
+        "SeatName": "LARUT",
+        "info": {
+            "EligibleVoters": "49453",
+            "MalayVoters": "90",
+            "ChineseVoters": "4",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "237",
+            "Postal": "7",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HAMZAH BIN ZAINUDIN",
+                "Votes": 18184,
+                "NameBallot": "DATO SERI HAMZAH ZAINUDIN",
+                "majority": 4486
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABU HUSIN BIN MOHAMMAD",
+                "Votes": 13698,
+                "NameBallot": "CIKGU HAJI ABU HUSIN"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "KHAIRIL ANUAR BIN AKHIRUDDIN",
+                "Votes": 7738,
+                "NameBallot": "DATO' KHAIRIL ANUAR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P56",
+        "SeatName": "LARUT",
+        "info": {
+            "EligibleVoters": "46577",
+            "MalayVoters": "89",
+            "ChineseVoters": "5",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "579",
+            "Turnout": "39929",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "HAMZAH BIN ZAINUDIN",
+                "Votes": 22184,
+                "majority": 5296
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD FAUZI BIN SA'ARI",
+                "Votes": 16888
+            },
+            {
+                "Party": "IND",
+                "Name": "RAVEENDRAN A/L MVALLIKANA",
+                "Votes": 278
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P56",
+        "SeatName": "LARUT",
+        "info": {
+            "EligibleVoters": "39697",
+            "MalayVoters": "87",
+            "ChineseVoters": "6",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "687",
+            "Turnout": "30589",
+            "Unreturned": "57"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK HAMZAH ZAINUDDIN",
+                "Votes": 15878,
+                "majority": 1911
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR MOHD DHARI OTHMAN",
+                "Votes": 13967
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P56",
+        "SeatName": "LARUT",
+        "info": {
+            "EligibleVoters": "40150",
+            "MalayVoters": "86",
+            "ChineseVoters": "7",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "756",
+            "Turnout": "31393",
+            "Unreturned": "78"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK RAJA AHMAD ZAINUDDIN RAJA OMAR",
+                "Votes": 18421,
+                "majority": 7438
+            },
+            {
+                "Party": "PAS",
+                "Name": "KAMARUDDIN AWANG BASIR",
+                "Votes": 10983
+            }
+        ]
+    }
+}

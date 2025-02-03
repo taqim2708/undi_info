@@ -1,0 +1,224 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P191",
+        "SeatName": "KALABAKAN",
+        "info": {
+            "EligibleVoters": "83970",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "ANDI MUHAMMAD SURYADY BIN BANDY",
+                "Votes": 23855,
+                "NameBallot": "ANDI MUHAMMAD SURYADY BIN BANDY",
+                "majority": 9100
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "MA'MUN BIN SULAIMAN",
+                "Votes": 14755,
+                "NameBallot": "MA'MUN BIN SULAIMAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "NORAINI ABD GHAPUR",
+                "Votes": 9398,
+                "NameBallot": "NORAINI ABD GHAPUR"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR NUR AINI ABD RAHMAN (MD)",
+                "Votes": 1681,
+                "NameBallot": "DR NUR AINI ABD RAHMAN (MD)"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DATO MUHAMAD",
+                "Votes": 341,
+                "NameBallot": "DATO MUHAMAD"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P191",
+        "SeatName": "KALABAKAN",
+        "info": {
+            "EligibleVoters": "52199",
+            "MalayVoters": "51",
+            "ChineseVoters": "9",
+            "IndianVoters": "0",
+            "OtherVoters": "21",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "20",
+            "Early": "49251",
+            "Postal": "2945",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "MA'MUN BIN SULAIMAN",
+                "Votes": 18486,
+                "NameBallot": "MA'MUN BIN SULAIMAN",
+                "majority": 3187
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI PANGLIMA ABDUL GHAPUR BIN SALLEH",
+                "Votes": 15299,
+                "NameBallot": "ABDUL GHAPUR SALLEH"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NORBIN ALOH",
+                "Votes": 2813,
+                "NameBallot": "NORBIN BIN ALOH"
+            },
+            {
+                "Party": "PPRS",
+                "Name": "AHMAD BIN LAHAMA",
+                "Votes": 311,
+                "NameBallot": "AHMAD BIN LAHAMA"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P191",
+        "SeatName": "KALABAKAN",
+        "info": {
+            "EligibleVoters": "46793",
+            "MalayVoters": "0",
+            "ChineseVoters": "11",
+            "IndianVoters": "0",
+            "OtherVoters": "12",
+            "BumiMuslimVoters": "70",
+            "BumiNonmuslimVoters": "6",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1027",
+            "Turnout": "36132",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABDUL GHAPUR BIN SALLEH",
+                "Votes": 23125,
+                "majority": 14221
+            },
+            {
+                "Party": "PAS",
+                "Name": "USMAN BIN MADEAMING",
+                "Votes": 8904
+            },
+            {
+                "Party": "IND",
+                "Name": "MOHD BIN MANUKE",
+                "Votes": 1313
+            },
+            {
+                "Party": "IND",
+                "Name": "SIAMSIR BIN BORHAN",
+                "Votes": 891
+            },
+            {
+                "Party": "STAR",
+                "Name": "MALVINE REYES",
+                "Votes": 603
+            },
+            {
+                "Party": "IND",
+                "Name": "FREDDIE JAPAT ANAK SIMBOL",
+                "Votes": 137
+            },
+            {
+                "Party": "IND",
+                "Name": "YAHYA BIN ZAINAL",
+                "Votes": 132
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P191",
+        "SeatName": "KALABAKAN",
+        "info": {
+            "EligibleVoters": "36018",
+            "MalayVoters": "0",
+            "ChineseVoters": "13",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL GHAPUR SALLEH (WON UNCONTESTED)",
+                "Votes": 0
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P191",
+        "SeatName": "KALABAKAN",
+        "info": {
+            "EligibleVoters": "34617",
+            "MalayVoters": "0",
+            "ChineseVoters": "13",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "78",
+            "BumiNonmuslimVoters": "8",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Abdul Ghapur Salleh",
+                "Votes": 0
+            }
+        ]
+    }
+}

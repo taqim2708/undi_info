@@ -1,0 +1,209 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P212",
+        "SeatName": "SIBU",
+        "info": {
+            "EligibleVoters": "105875",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "OSCAR LING CHAI YEW",
+                "Votes": 31287,
+                "NameBallot": "OSCAR LING CHAI YEW",
+                "majority": 7760
+            },
+            {
+                "Party": "GPS",
+                "Name": "CLARENCE TING ING HORH",
+                "Votes": 23527,
+                "NameBallot": "CLARENCE TING ING HORH"
+            },
+            {
+                "Party": "PSB",
+                "Name": "WONG SOON KOH",
+                "Votes": 11128,
+                "NameBallot": "WONG SOON KOH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P212",
+        "SeatName": "SIBU",
+        "info": {
+            "EligibleVoters": "74149",
+            "MalayVoters": "0",
+            "ChineseVoters": "63",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "12",
+            "BumiNonmuslimVoters": "25",
+            "SabahBumiVoters": "0",
+            "Early": "3188",
+            "Postal": "10",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "OSCAR LING CHAI YEW",
+                "Votes": 33811,
+                "NameBallot": "OSCAR LING CHAI YEW",
+                "majority": 11422
+            },
+            {
+                "Party": "SUPP",
+                "Name": "WONG KEE YEW @ ANDREW WONG",
+                "Votes": 22389,
+                "NameBallot": "WONG KEE YEW"
+            },
+            {
+                "Party": "PEACE",
+                "Name": "TIEW YEN HOUNG",
+                "Votes": 377,
+                "NameBallot": "TIEW YEN HOUNG"
+            },
+            {
+                "Party": "STAR",
+                "Name": "TIONG ING TUNG",
+                "Votes": 176,
+                "NameBallot": "TIONG ING TUNG"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P212",
+        "SeatName": "SIBU",
+        "info": {
+            "EligibleVoters": "64601",
+            "MalayVoters": "0",
+            "ChineseVoters": "65",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "20",
+            "BumiNonmuslimVoters": "15",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "496",
+            "Turnout": "51474",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "OSCAR LING CHAI YEW",
+                "Votes": 26808,
+                "majority": 2841
+            },
+            {
+                "Party": "SUPP",
+                "Name": "LAU LEE MING",
+                "Votes": 23967
+            },
+            {
+                "Party": "IND",
+                "Name": "NARAWI BIN HARON",
+                "Votes": 203
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P212",
+        "SeatName": "SIBU",
+        "info": {
+            "EligibleVoters": "53679",
+            "MalayVoters": "0",
+            "ChineseVoters": "60",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "334",
+            "Turnout": "36379",
+            "Unreturned": "192"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "DATUK ROBERT LAU HOI CHEW",
+                "Votes": 19138,
+                "majority": 3235
+            },
+            {
+                "Party": "DAP",
+                "Name": "WONG HO LENG",
+                "Votes": 15903
+            },
+            {
+                "Party": "PKR",
+                "Name": "LIM CHIN CHUANG",
+                "Votes": 812
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P211",
+        "SeatName": "SIBU",
+        "info": {
+            "EligibleVoters": "60832",
+            "MalayVoters": "0",
+            "ChineseVoters": "65",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "20",
+            "BumiNonmuslimVoters": "15",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "430",
+            "Turnout": "38216",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "Robert Lau Hoi Chew",
+                "Votes": 20501,
+                "majority": 3340
+            },
+            {
+                "Party": "DAP",
+                "Name": "Wong Ho Leng",
+                "Votes": 17161
+            }
+        ]
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P184",
+        "SeatName": "LIBARAN",
+        "info": {
+            "EligibleVoters": "72332",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "SUHAIMI BIN NASIR",
+                "Votes": 22969,
+                "NameBallot": "SUHAIMI BIN NASIR",
+                "majority": 12618
+            },
+            {
+                "Party": "PH",
+                "Name": "DR PETER JR NAINTIN",
+                "Votes": 10351,
+                "NameBallot": "DR PETER JR NAINTIN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "SHARIF BOKRATA",
+                "Votes": 9185,
+                "NameBallot": "SHARIF BOKRATA"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "JEFFRI @ AMAT PUDANG",
+                "Votes": 826,
+                "NameBallot": "JEFFRI @ AMAT PUDANG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HJ. AMDAN BIN TUMPONG",
+                "Votes": 659,
+                "NameBallot": "HJ. AMDAN BIN TUMPONG"
+            },
+            {
+                "Party": "PPRS",
+                "Name": "NORDIN BIN KHANI",
+                "Votes": 541,
+                "NameBallot": "NORDIN BIN KHANI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P184",
+        "SeatName": "LIBARAN",
+        "info": {
+            "EligibleVoters": "47914",
+            "MalayVoters": "30",
+            "ChineseVoters": "17",
+            "IndianVoters": "0",
+            "OtherVoters": "14",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "39",
+            "Early": "46666",
+            "Postal": "1245",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ZAKARIA MOHD EDRIS @ TUBAU",
+                "Votes": 17799,
+                "NameBallot": "ZAKARIA BIN MOHD EDRIS @ TUBAU",
+                "majority": 678
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "IRWANSHAH BIN MUSTAPA",
+                "Votes": 17121,
+                "NameBallot": "IRWANSHAH BIN MUSTAPA"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "ALFIAN BIN MANSYUR",
+                "Votes": 1223,
+                "NameBallot": "ALFIAN BIN MANSYUR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P184",
+        "SeatName": "LIBARAN",
+        "info": {
+            "EligibleVoters": "39772",
+            "MalayVoters": "0",
+            "ChineseVoters": "21",
+            "IndianVoters": "0",
+            "OtherVoters": "7",
+            "BumiMuslimVoters": "57",
+            "BumiNonmuslimVoters": "15",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "714",
+            "Turnout": "32017",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK JUSLIE BIN AJIROL",
+                "Votes": 19584,
+                "majority": 11586
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD SERMAN BIN HASSNAR",
+                "Votes": 7998
+            },
+            {
+                "Party": "IND",
+                "Name": "SAHAR BIN SAKA",
+                "Votes": 3219
+            },
+            {
+                "Party": "STAR",
+                "Name": "ROSNAH BINTI UNSARI",
+                "Votes": 502
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P184",
+        "SeatName": "LIBARAN",
+        "info": {
+            "EligibleVoters": "31435",
+            "MalayVoters": "0",
+            "ChineseVoters": "23",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "613",
+            "Turnout": "20536",
+            "Unreturned": "116"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK JUSLIE AJIROL",
+                "Votes": 13668,
+                "majority": 7529
+            },
+            {
+                "Party": "PKR",
+                "Name": "AHMAD THAMRIN JAINI",
+                "Votes": 6139
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P184",
+        "SeatName": "LIBARAN",
+        "info": {
+            "EligibleVoters": "26888",
+            "MalayVoters": "0",
+            "ChineseVoters": "23",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "72",
+            "BumiNonmuslimVoters": "5",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "804",
+            "Turnout": "16484",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Juslie Ajirol",
+                "Votes": 13140,
+                "majority": 10669
+            },
+            {
+                "Party": "PKR",
+                "Name": "Raj Munni Sabu",
+                "Votes": 2471
+            }
+        ]
+    }
+}

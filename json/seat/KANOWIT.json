@@ -1,0 +1,198 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P210",
+        "SeatName": "KANOWIT",
+        "info": {
+            "EligibleVoters": "30988",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "AARON AGO ANAK DAGANG",
+                "Votes": 7411,
+                "NameBallot": "AARON AGO ANAK DAGANG",
+                "majority": 236
+            },
+            {
+                "Party": "PH",
+                "Name": "JOSEPH NYAMBONG",
+                "Votes": 7175,
+                "NameBallot": "JOSEPH NYAMBONG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MICHAEL ANAK LIAS",
+                "Votes": 2289,
+                "NameBallot": "MICHAEL ANAK LIAS"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "GEORGE CHEN",
+                "Votes": 741,
+                "NameBallot": "GEORGE CHEN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DR. ELLI LUHAT",
+                "Votes": 427,
+                "NameBallot": "DR. ELLI LUHAT"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P210",
+        "SeatName": "KANOWIT",
+        "info": {
+            "EligibleVoters": "21022",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "2",
+            "BumiNonmuslimVoters": "86",
+            "SabahBumiVoters": "0",
+            "Early": "72",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "AGO ANAK DAGANG",
+                "Votes": 9552,
+                "NameBallot": "AGO ANAK DAGANG",
+                "majority": 4312
+            },
+            {
+                "Party": "PKR",
+                "Name": "SATU ANAK ANCHOM",
+                "Votes": 5240,
+                "NameBallot": "SATU ANAK ANCHOM"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P210",
+        "SeatName": "KANOWIT",
+        "info": {
+            "EligibleVoters": "19433",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "16",
+            "BumiNonmuslimVoters": "72",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "276",
+            "Turnout": "13743",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "AGO ANAK DAGANG",
+                "Votes": 8046,
+                "majority": 3042
+            },
+            {
+                "Party": "PKR",
+                "Name": "THOMAS LAJA ANAK BESI",
+                "Votes": 5004
+            },
+            {
+                "Party": "SWP",
+                "Name": "ELLISON LUDAN ANAK MUYAN",
+                "Votes": 417
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P210",
+        "SeatName": "KANOWIT",
+        "info": {
+            "EligibleVoters": "17613",
+            "MalayVoters": "0",
+            "ChineseVoters": "15",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "AGO DAGANG (WALKOVER)",
+                "Votes": 0
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P209",
+        "SeatName": "KANOWIT",
+        "info": {
+            "EligibleVoters": "18181",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "185",
+            "Turnout": "11022",
+            "Unreturned": "18"
+        },
+        "candidates": [
+            {
+                "Party": "PBDS",
+                "Name": "Aaron Ago Dagang",
+                "Votes": 6438,
+                "majority": 2057
+            },
+            {
+                "Party": "IND",
+                "Name": "Frederick Bungsu Jantan",
+                "Votes": 4381
+            }
+        ]
+    }
+}

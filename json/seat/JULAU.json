@@ -1,0 +1,198 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P209",
+        "SeatName": "JULAU",
+        "info": {
+            "EligibleVoters": "34850",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBM",
+                "Name": "LARRY SOON @ LARRY SNG WEI SHIEN",
+                "Votes": 9159,
+                "NameBallot": "LARRY SOON @ LARRY SNG WEI SHIEN",
+                "majority": 1340
+            },
+            {
+                "Party": "GPS",
+                "Name": "JOSEPH SALANG",
+                "Votes": 7819,
+                "NameBallot": "JOSEPH SALANG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ELLY LAWAI NGALAI",
+                "Votes": 5224,
+                "NameBallot": "ELLY LAWAI NGALAI"
+            },
+            {
+                "Party": "PBDS",
+                "Name": "SUSAN ANAK GEORGE",
+                "Votes": 335,
+                "NameBallot": "SUSAN ANAK GEORGE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P209",
+        "SeatName": "JULAU",
+        "info": {
+            "EligibleVoters": "25380",
+            "MalayVoters": "0",
+            "ChineseVoters": "5",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "1",
+            "BumiNonmuslimVoters": "93",
+            "SabahBumiVoters": "0",
+            "Early": "56",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BEBAS",
+                "Name": "LARRY SOON @ LARRY SNG WEI SHIEN",
+                "Votes": 10105,
+                "NameBallot": "LARRY SOON @ LARRY SNG WEI SHIEN",
+                "majority": 1931
+            },
+            {
+                "Party": "PRS",
+                "Name": "JOSEPH SALANG ANAK GANDUM",
+                "Votes": 8174,
+                "NameBallot": "JOSEPH SALANG ANAK GANDUM"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P209",
+        "SeatName": "JULAU",
+        "info": {
+            "EligibleVoters": "22522",
+            "MalayVoters": "0",
+            "ChineseVoters": "5",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "12",
+            "BumiNonmuslimVoters": "83",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "278",
+            "Turnout": "16957",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "JOSEPH SALANG ANAK GANDUM",
+                "Votes": 9891,
+                "majority": 5955
+            },
+            {
+                "Party": "SWP",
+                "Name": "WONG ANAK JUDAT",
+                "Votes": 3936
+            },
+            {
+                "Party": "PKR",
+                "Name": "WONG HONG YU",
+                "Votes": 2852
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P209",
+        "SeatName": "JULAU",
+        "info": {
+            "EligibleVoters": "20306",
+            "MalayVoters": "0",
+            "ChineseVoters": "6",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "182",
+            "Turnout": "13313",
+            "Unreturned": "13"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "DATUK JOSEPH SALANG GANDUM",
+                "Votes": 10351,
+                "majority": 7584
+            },
+            {
+                "Party": "PKR",
+                "Name": "AMBROSE LABANG JAMBA",
+                "Votes": 2767
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P208",
+        "SeatName": "JULAU",
+        "info": {
+            "EligibleVoters": "19765",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "176",
+            "Turnout": "14271",
+            "Unreturned": "7"
+        },
+        "candidates": [
+            {
+                "Party": "PBDS",
+                "Name": "Joseph Salang Gandum",
+                "Votes": 8388,
+                "majority": 2688
+            },
+            {
+                "Party": "IND",
+                "Name": "Ambrose Labang Jamba",
+                "Votes": 5700
+            }
+        ]
+    }
+}

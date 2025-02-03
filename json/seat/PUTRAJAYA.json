@@ -1,0 +1,211 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P125",
+        "SeatName": "PUTRAJAYA",
+        "info": {
+            "EligibleVoters": "42881",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DR. RADZI JIDIN (DRJ)",
+                "Votes": 16002,
+                "NameBallot": "DR. RADZI JIDIN (DRJ)",
+                "majority": 2310
+            },
+            {
+                "Party": "BN",
+                "Name": "TENGKU ADNAN BIN TENGKU MANSOR",
+                "Votes": 13692,
+                "NameBallot": "TENGKU ADNAN BIN TENGKU MANSOR"
+            },
+            {
+                "Party": "PH",
+                "Name": "NORAISHAH MYDIN BINTI HAJI ABDUL AZIZ",
+                "Votes": 5988,
+                "NameBallot": "NORAISHAH MYDIN BINTI HAJI ABDUL AZIZ"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATO' MOHD ROSLI BIN RAMLI",
+                "Votes": 878,
+                "NameBallot": "DATO' MOHD ROSLI BIN RAMLI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SAMSUDIN PKPKL",
+                "Votes": 63,
+                "NameBallot": "SAMSUDIN PKPKL"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "LIM FICE BEE",
+                "Votes": 20,
+                "NameBallot": "LIM FICE BEE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P125",
+        "SeatName": "PUTRAJAYA",
+        "info": {
+            "EligibleVoters": "27306",
+            "MalayVoters": "95",
+            "ChineseVoters": "1",
+            "IndianVoters": "3",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "823",
+            "Postal": "75",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TENGKU ADNAN TENGKU MANSUR",
+                "Votes": 12148,
+                "NameBallot": "TENGKU ADNAN BIN TENGKU MANSOR",
+                "majority": 3372
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "SAMSU ADABI BIN MAMAT",
+                "Votes": 8776,
+                "NameBallot": "SAMSU ADABI BIN MAMAT"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZAINAL ABIDIN KIDAM",
+                "Votes": 3634,
+                "NameBallot": "HJ ZAINAL ABIDIN KIDAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P125",
+        "SeatName": "PUTRAJAYA",
+        "info": {
+            "EligibleVoters": "15791",
+            "MalayVoters": "94",
+            "ChineseVoters": "1",
+            "IndianVoters": "3",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "73",
+            "Turnout": "14418",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TENGKU ADNAN BIN TENGKU MANSOR",
+                "Votes": 9943,
+                "majority": 5541
+            },
+            {
+                "Party": "PAS",
+                "Name": "HUSAM BIN MUSA",
+                "Votes": 4402
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P125",
+        "SeatName": "PUTRAJAYA",
+        "info": {
+            "EligibleVoters": "6608",
+            "MalayVoters": "95",
+            "ChineseVoters": "1",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "38",
+            "Turnout": "5416",
+            "Unreturned": "36"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TENGKU ADNAN TENGKU MANSOR",
+                "Votes": 4038,
+                "majority": 2734
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMMAD NOR MOHAMAD",
+                "Votes": 1304
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P125",
+        "SeatName": "PUTRAJAYA",
+        "info": {
+            "EligibleVoters": "5079",
+            "MalayVoters": "95",
+            "ChineseVoters": "2",
+            "IndianVoters": "3",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "28",
+            "Turnout": "4654",
+            "Unreturned": "8"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK TENGKU ADNAN TENGKU MANSOR",
+                "Votes": 4086,
+                "majority": 3546
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABDUL RAHMAN OTHMAN",
+                "Votes": 540
+            }
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P189",
+        "SeatName": "SEMPORNA",
+        "info": {
+            "EligibleVoters": "72169",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "MOHD SHAFIE APDAL",
+                "Votes": 28702,
+                "NameBallot": "MOHD SHAFIE APDAL",
+                "majority": 20810
+            },
+            {
+                "Party": "GRS",
+                "Name": "NIXON BIN ABDUL HABI",
+                "Votes": 7892,
+                "NameBallot": "NIXON BIN ABDUL HABI"
+            },
+            {
+                "Party": "PH",
+                "Name": "ARASTAM BIN PANDOROG",
+                "Votes": 1848,
+                "NameBallot": "ARASTAM BIN PANDOROG"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AB RAJIK AB HAMID",
+                "Votes": 467,
+                "NameBallot": "AB RAJIK AB HAMID"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P189",
+        "SeatName": "SEMPORNA",
+        "info": {
+            "EligibleVoters": "48248",
+            "MalayVoters": "12",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "84",
+            "Early": "47198",
+            "Postal": "1050",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "MOHD SHAFIE BIN APDAL",
+                "Votes": 26809,
+                "NameBallot": "MOHD SHAFIE APDAL",
+                "majority": 20674
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK RAMLEE BIN MARAHABAN",
+                "Votes": 6135,
+                "NameBallot": "HAJI RAMLEE MARAHABAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL NASIR AB RAUP",
+                "Votes": 384,
+                "NameBallot": "ABDUL NASIR BIN AB RAUP"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "ASMARA BIN ASMAD",
+                "Votes": 98,
+                "NameBallot": "ASMARA BIN ASMAD"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P189",
+        "SeatName": "SEMPORNA",
+        "info": {
+            "EligibleVoters": "41549",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "96",
+            "BumiNonmuslimVoters": "1",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "985",
+            "Turnout": "31523",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI MOHD SHAFIE BIN APDAL",
+                "Votes": 25559,
+                "majority": 20905
+            },
+            {
+                "Party": "PKR",
+                "Name": "ZAMREE @ MOHD SUFFIAN B ABDUL HABI",
+                "Votes": 4654
+            },
+            {
+                "Party": "IND",
+                "Name": "DATU BADARUDDIN BIN TUN DATU HJ MUSTAPHA",
+                "Votes": 325
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P189",
+        "SeatName": "SEMPORNA",
+        "info": {
+            "EligibleVoters": "35216",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "832",
+            "Turnout": "22209",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SHAFIE APDAL",
+                "Votes": 19419,
+                "majority": 17462
+            },
+            {
+                "Party": "PKR",
+                "Name": "ABDUL AZIS ABDUL HAMID",
+                "Votes": 1957
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P189",
+        "SeatName": "SEMPORNA",
+        "info": {
+            "EligibleVoters": "33772",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "93",
+            "BumiNonmuslimVoters": "5",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "770",
+            "Turnout": "19086",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Mohd Shafie Apdal",
+                "Votes": 13970,
+                "majority": 12266
+            },
+            {
+                "Party": "IND",
+                "Name": "Madjalis Lais",
+                "Votes": 1704
+            },
+            {
+                "Party": "PKR",
+                "Name": "Aldani Landi",
+                "Votes": 1162
+            },
+            {
+                "Party": "IND",
+                "Name": "Noraidah Abdul Salleh",
+                "Votes": 764
+            },
+            {
+                "Party": "PKR",
+                "Name": "Mohd Abdul Wahab Pg Abdullah",
+                "Votes": 676
+            }
+        ]
+    }
+}

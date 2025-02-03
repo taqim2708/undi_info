@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P19",
+        "SeatName": "TUMPAT",
+        "info": {
+            "EligibleVoters": "149371",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATO' KAK TAZ",
+                "Votes": 65426,
+                "NameBallot": "DATO' KAK TAZ",
+                "majority": 34793
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' CHE LAH (DCL)",
+                "Votes": 30633,
+                "NameBallot": "DATO' CHE LAH (DCL)"
+            },
+            {
+                "Party": "PH",
+                "Name": "HAJI WAN JO",
+                "Votes": 7762,
+                "NameBallot": "HAJI WAN JO"
+            },
+            {
+                "Party": "PUTRA",
+                "Name": "ASRI ALI",
+                "Votes": 593,
+                "NameBallot": "ASRI ALI"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "KHAIRUL AZUAN",
+                "Votes": 245,
+                "NameBallot": "KHAIRUL AZUAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P19",
+        "SeatName": "TUMPAT",
+        "info": {
+            "EligibleVoters": "110924",
+            "MalayVoters": "93",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "421",
+            "Postal": "17",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "CHE ABDULLAH BIN MAT NAWI",
+                "Votes": 47041,
+                "NameBallot": "DATO HJ CHE LAH MAT NAWI",
+                "majority": 17500
+            },
+            {
+                "Party": "UMNO",
+                "Name": "WAN JOHANI BIN WAN HUSSIN",
+                "Votes": 29541,
+                "NameBallot": "DATUK WAN"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "NORDIN BIN SALLEH",
+                "Votes": 10003,
+                "NameBallot": "DATUK NORDIN BIN SALLEH"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P19",
+        "SeatName": "TUMPAT",
+        "info": {
+            "EligibleVoters": "98632",
+            "MalayVoters": "93",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1086",
+            "Turnout": "82764",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "KAMARUDIN BIN JAFFAR",
+                "Votes": 46151,
+                "majority": 10624
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MANSOR BIN SALLEH",
+                "Votes": 35527
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P19",
+        "SeatName": "TUMPAT",
+        "info": {
+            "EligibleVoters": "80072",
+            "MalayVoters": "92",
+            "ChineseVoters": "3",
+            "IndianVoters": "1",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1032",
+            "Turnout": "65254",
+            "Unreturned": "171"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK KAMARUDDIN JAAFAR",
+                "Votes": 36714,
+                "majority": 9377
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DR ASRAF WAJDI DUSUKI",
+                "Votes": 27337
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P19",
+        "SeatName": "TUMPAT",
+        "info": {
+            "EligibleVoters": "70810",
+            "MalayVoters": "92",
+            "ChineseVoters": "3",
+            "IndianVoters": "1",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1072",
+            "Turnout": "55090",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK KAMARUDIN JAAFAR",
+                "Votes": 27919,
+                "majority": 1820
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MAT NAWAWI MAT JUSOH",
+                "Votes": 26099
+            }
+        ]
+    }
+}

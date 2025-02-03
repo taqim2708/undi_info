@@ -1,0 +1,192 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P205",
+        "SeatName": "SARATOK",
+        "info": {
+            "EligibleVoters": "44531",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATUK ALI BIJU",
+                "Votes": 19223,
+                "NameBallot": "DATUK ALI BIJU",
+                "majority": 8826
+            },
+            {
+                "Party": "GPS",
+                "Name": "GIENDAM JONATHAN TAIT",
+                "Votes": 10397,
+                "NameBallot": "GIENDAM JONATHAN TAIT"
+            },
+            {
+                "Party": "PH",
+                "Name": "IBIL JAYA",
+                "Votes": 1221,
+                "NameBallot": "IBIL JAYA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P205",
+        "SeatName": "SARATOK",
+        "info": {
+            "EligibleVoters": "30517",
+            "MalayVoters": "0",
+            "ChineseVoters": "6",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "36",
+            "BumiNonmuslimVoters": "57",
+            "SabahBumiVoters": "0",
+            "Early": "132",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ALI ANAK BIJU",
+                "Votes": 11848,
+                "NameBallot": "ALI BIJU",
+                "majority": 989
+            },
+            {
+                "Party": "PDP",
+                "Name": "JAGAH@SUBENG ANAK MULA",
+                "Votes": 10859,
+                "NameBallot": "SUBENG ANAK MULA"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P205",
+        "SeatName": "SARATOK",
+        "info": {
+            "EligibleVoters": "27562",
+            "MalayVoters": "0",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "44",
+            "BumiNonmuslimVoters": "49",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "258",
+            "Turnout": "22058",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SPDP",
+                "Name": "WILLIAM IKOM",
+                "Votes": 11600,
+                "majority": 2081
+            },
+            {
+                "Party": "PKR",
+                "Name": "ALI ANAK BIJU",
+                "Votes": 9519
+            },
+            {
+                "Party": "IND",
+                "Name": "ROSLI BIN LEK @ ABG ROSELIE BIN ABG PALENG",
+                "Votes": 681
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P205",
+        "SeatName": "SARATOK",
+        "info": {
+            "EligibleVoters": "23982",
+            "MalayVoters": "0",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "218",
+            "Turnout": "16467",
+            "Unreturned": "15"
+        },
+        "candidates": [
+            {
+                "Party": "SPDP",
+                "Name": "JELAING MERSAT",
+                "Votes": 12470,
+                "majority": 8706
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD YAHYA ABDULLAH",
+                "Votes": 3764
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P205",
+        "SeatName": "SARATOK",
+        "info": {
+            "EligibleVoters": "24607",
+            "MalayVoters": "11",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "229",
+            "Turnout": "16684",
+            "Unreturned": "10"
+        },
+        "candidates": [
+            {
+                "Party": "SPDP",
+                "Name": "Jelaing Mersat",
+                "Votes": 11995,
+                "majority": 7545
+            },
+            {
+                "Party": "SNAP",
+                "Name": "Edmond Stanley Jugol",
+                "Votes": 4450
+            }
+        ]
+    }
+}

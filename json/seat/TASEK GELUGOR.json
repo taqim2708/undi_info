@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P42",
+        "SeatName": "TASEK GELUGOR",
+        "info": {
+            "EligibleVoters": "80868",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATUK WAN SAIFUL WAN JAN",
+                "Votes": 31116,
+                "NameBallot": "DATUK WAN SAIFUL WAN JAN",
+                "majority": 12252
+            },
+            {
+                "Party": "BN",
+                "Name": "MUHAMAD YUSOFF BIN MOHD NOOR (YB CHOP)",
+                "Votes": 18864,
+                "NameBallot": "MUHAMAD YUSOFF BIN MOHD NOOR (YB CHOP)"
+            },
+            {
+                "Party": "PH",
+                "Name": "RAZAK RIDZUAN",
+                "Votes": 16547,
+                "NameBallot": "RAZAK RIDZUAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR. ABDUL HALIM",
+                "Votes": 406,
+                "NameBallot": "DR. ABDUL HALIM"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "AKMAL AZHAR",
+                "Votes": 179,
+                "NameBallot": "AKMAL AZHAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P42",
+        "SeatName": "TASEK GELUGOR",
+        "info": {
+            "EligibleVoters": "60850",
+            "MalayVoters": "78",
+            "ChineseVoters": "15",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2642",
+            "Postal": "7",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHABUDIN BIN YAHAYA",
+                "Votes": 18547,
+                "NameBallot": "DATUK SHABUDIN YAHAYA",
+                "majority": 81
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MARZUKI BIN YAHYA",
+                "Votes": 18466,
+                "NameBallot": "HJ MARZUKI BIN YAHYA"
+            },
+            {
+                "Party": "PAS",
+                "Name": "RIZAL HAFIZ BIN RUSLAN",
+                "Votes": 14891,
+                "NameBallot": "RIZAL HAFIZ BIN RUSLAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P42",
+        "SeatName": "TASEK GELUGOR",
+        "info": {
+            "EligibleVoters": "54042",
+            "MalayVoters": "78",
+            "ChineseVoters": "15",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "675",
+            "Turnout": "48009",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHABUDIN BIN YAHAYA",
+                "Votes": 24393,
+                "majority": 3042
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL RAHMAN BIN B MAIDIN",
+                "Votes": 21351
+            },
+            {
+                "Party": "IND",
+                "Name": "MOHD SHARIFF BIN OMAR",
+                "Votes": 1590
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P42",
+        "SeatName": "TASEK GELUGOR",
+        "info": {
+            "EligibleVoters": "44466",
+            "MalayVoters": "77",
+            "ChineseVoters": "15",
+            "IndianVoters": "8",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "600",
+            "Turnout": "37308",
+            "Unreturned": "359"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TAN SRI NOR MOHAMED YAKCOP",
+                "Votes": 20448,
+                "majority": 4547
+            },
+            {
+                "Party": "PAS",
+                "Name": "ISMAIL SALLEH",
+                "Votes": 15901
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P42",
+        "SeatName": "TASEK GELUGOR",
+        "info": {
+            "EligibleVoters": "41615",
+            "MalayVoters": "77",
+            "ChineseVoters": "15",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "620",
+            "Turnout": "34551",
+            "Unreturned": "92"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI MOHD SHARIFF OMAR",
+                "Votes": 22011,
+                "majority": 10183
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUJAHID YUSOF RAWA",
+                "Votes": 11828
+            }
+        ]
+    }
+}

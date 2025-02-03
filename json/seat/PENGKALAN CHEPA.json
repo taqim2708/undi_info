@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P20",
+        "SeatName": "PENGKALAN CHEPA",
+        "info": {
+            "EligibleVoters": "106982",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK MARZUK",
+                "Votes": 53933,
+                "NameBallot": "DATUK MARZUK",
+                "majority": 38270
+            },
+            {
+                "Party": "BN",
+                "Name": "DR. HAFIZ",
+                "Votes": 15663,
+                "NameBallot": "DR. HAFIZ"
+            },
+            {
+                "Party": "PH",
+                "Name": "KAK JAH",
+                "Votes": 7356,
+                "NameBallot": "KAK JAH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ABE WAE - REDZUAN",
+                "Votes": 451,
+                "NameBallot": "ABE WAE - REDZUAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "WAN AHMAD NASRI",
+                "Votes": 358,
+                "NameBallot": "WAN AHMAD NASRI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P20",
+        "SeatName": "PENGKALAN CHEPA",
+        "info": {
+            "EligibleVoters": "75384",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "3121",
+            "Postal": "23",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "AHMAD MARZUK BIN SHAARY",
+                "Votes": 32592,
+                "NameBallot": "USTAZ MARZUK SHAARY",
+                "majority": 13232
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ZALUZI BIN SULAIMAN",
+                "Votes": 19360,
+                "NameBallot": "DATUK ZALUZI"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "MOHAMAD BIN IBRAHIM",
+                "Votes": 7435,
+                "NameBallot": "MEJAR MAT"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P20",
+        "SeatName": "PENGKALAN CHEPA",
+        "info": {
+            "EligibleVoters": "64409",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "683",
+            "Turnout": "54797",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "IZANI BIN HUSIN",
+                "Votes": 34617,
+                "majority": 15120
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DALI BIN HUSIN",
+                "Votes": 19497
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P20",
+        "SeatName": "PENGKALAN CHEPA",
+        "info": {
+            "EligibleVoters": "52350",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "564",
+            "Turnout": "43049",
+            "Unreturned": "270"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK ABD HALIM ABD RAHMAN",
+                "Votes": 26763,
+                "majority": 11311
+            },
+            {
+                "Party": "UMNO",
+                "Name": "RAHIM MOHD ZAIN",
+                "Votes": 15452
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P20",
+        "SeatName": "PENGKALAN CHEPA",
+        "info": {
+            "EligibleVoters": "44844",
+            "MalayVoters": "97",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "818",
+            "Turnout": "35838",
+            "Unreturned": "297"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK AB HALIM AB RAHMAN",
+                "Votes": 20621,
+                "majority": 6222
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR NIK MOHD ZAIN OMAR",
+                "Votes": 14399
+            }
+        ]
+    }
+}

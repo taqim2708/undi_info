@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P86",
+        "SeatName": "MARAN",
+        "info": {
+            "EligibleVoters": "53128",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO SRI DR HJ ISMAIL B HJ ABD MUTTALIB",
+                "Votes": 19600,
+                "NameBallot": "DATO SRI DR HJ ISMAIL B HJ ABD MUTTALIB",
+                "majority": 1821
+            },
+            {
+                "Party": "BN",
+                "Name": "SHAHANIZA SHAMSUDDIN",
+                "Votes": 17779,
+                "NameBallot": "SHAHANIZA SHAMSUDDIN"
+            },
+            {
+                "Party": "PH",
+                "Name": "AHMAD SHUHOR",
+                "Votes": 3547,
+                "NameBallot": "AHMAD SHUHOR"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MUHAMAD HAFIZ AL-HAFIZ",
+                "Votes": 166,
+                "NameBallot": "MUHAMAD HAFIZ AL-HAFIZ"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P86",
+        "SeatName": "MARAN",
+        "info": {
+            "EligibleVoters": "41036",
+            "MalayVoters": "90",
+            "ChineseVoters": "6",
+            "IndianVoters": "2",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "263",
+            "Postal": "3",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL BIN ABD MUTTALIB",
+                "Votes": 16064,
+                "NameBallot": "DATO' SRI DR HJ ISMAIL BIN HJ ABD MUTTALIB",
+                "majority": 3763
+            },
+            {
+                "Party": "PAS",
+                "Name": "HASENAN BIN HARON",
+                "Votes": 12301,
+                "NameBallot": "CIKGU HASENAN HARON"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "AHMAD FARID BIN AHMAD NORDIN",
+                "Votes": 4360,
+                "NameBallot": "AHMAD FARID BIN AHMAD NORDIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P86",
+        "SeatName": "MARAN",
+        "info": {
+            "EligibleVoters": "38436",
+            "MalayVoters": "90",
+            "ChineseVoters": "7",
+            "IndianVoters": "1",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "572",
+            "Turnout": "32595",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL BIN ABD MUTTALIB",
+                "Votes": 19249,
+                "majority": 6475
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUJIBUR RAHMAN BIN ISHAK",
+                "Votes": 12774
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P86",
+        "SeatName": "MARAN",
+        "info": {
+            "EligibleVoters": "32517",
+            "MalayVoters": "90",
+            "ChineseVoters": "8",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "495",
+            "Turnout": "25672",
+            "Unreturned": "82"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL ABD MUTTALIB",
+                "Votes": 15868,
+                "majority": 6641
+            },
+            {
+                "Party": "PAS",
+                "Name": "MASRUDIN TANTAWI",
+                "Votes": 9227
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P86",
+        "SeatName": "MARAN",
+        "info": {
+            "EligibleVoters": "31860",
+            "MalayVoters": "89",
+            "ChineseVoters": "8",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "569",
+            "Turnout": "24777",
+            "Unreturned": "133"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL ABDUL MUTTALIB",
+                "Votes": 15725,
+                "majority": 7242
+            },
+            {
+                "Party": "PAS",
+                "Name": "DATUK TUAN IBRAHIM TUAN MAN",
+                "Votes": 8483
+            }
+        ]
+    }
+}

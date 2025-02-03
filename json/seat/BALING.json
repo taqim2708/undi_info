@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P16",
+        "SeatName": "BALING",
+        "info": {
+            "EligibleVoters": "132099",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "USTAZ HASSAN",
+                "Votes": 64493,
+                "NameBallot": "USTAZ HASSAN",
+                "majority": 29137
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK AZEEZ RAHIM",
+                "Votes": 35356,
+                "NameBallot": "DATUK AZEEZ RAHIM"
+            },
+            {
+                "Party": "PH",
+                "Name": "CIKGU JOHARI ABDULLAH",
+                "Votes": 8636,
+                "NameBallot": "CIKGU JOHARI ABDULLAH"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "LT KOL (B) BASIR",
+                "Votes": 579,
+                "NameBallot": "LT KOL (B) BASIR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P16",
+        "SeatName": "BALING",
+        "info": {
+            "EligibleVoters": "107213",
+            "MalayVoters": "89",
+            "ChineseVoters": "4",
+            "IndianVoters": "5",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "363",
+            "Postal": "7",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABDUL AZEEZ BIN ABDUL RAHIM",
+                "Votes": 38557,
+                "NameBallot": "DATUK AZEEZ RAHIM",
+                "majority": 1074
+            },
+            {
+                "Party": "PAS",
+                "Name": "HASSAN BIN SAAD",
+                "Votes": 37483,
+                "NameBallot": "USTAZ HASSAN BIN SAAD"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MOHD TAUFIK BIN YAACOB",
+                "Votes": 14472,
+                "NameBallot": "MOHD TAUFIK BIN HJ YAACOB"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P16",
+        "SeatName": "BALING",
+        "info": {
+            "EligibleVoters": "93168",
+            "MalayVoters": "89",
+            "ChineseVoters": "5",
+            "IndianVoters": "5",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1081",
+            "Turnout": "82904",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABDUL AZEEZ BIN ABDUL RAHIM",
+                "Votes": 43504,
+                "majority": 5185
+            },
+            {
+                "Party": "PAS",
+                "Name": "NAJMI BIN HJ AHMAD",
+                "Votes": 38319
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P16",
+        "SeatName": "BALING",
+        "info": {
+            "EligibleVoters": "78784",
+            "MalayVoters": "88",
+            "ChineseVoters": "6",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1154",
+            "Turnout": "65764",
+            "Unreturned": "75"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "TAIB AZAMUDDEN MD TAIB",
+                "Votes": 36074,
+                "majority": 7613
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABD AZEEZ ABD RAHIM",
+                "Votes": 28461
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P16",
+        "SeatName": "BALING",
+        "info": {
+            "EligibleVoters": "74698",
+            "MalayVoters": "87",
+            "ChineseVoters": "6",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1109",
+            "Turnout": "62202",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR MASHITAH IBRAHIM",
+                "Votes": 32661,
+                "majority": 4229
+            },
+            {
+                "Party": "PAS",
+                "Name": "TAIB AZAMUDDEN MD TAIB",
+                "Votes": 28432
+            }
+        ]
+    }
+}

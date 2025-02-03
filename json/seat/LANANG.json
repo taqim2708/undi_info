@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P211",
+        "SeatName": "LANANG",
+        "info": {
+            "EligibleVoters": "87356",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "ALICE LAU KIONG YIENG",
+                "Votes": 30120,
+                "NameBallot": "ALICE LAU KIONG YIENG",
+                "majority": 11544
+            },
+            {
+                "Party": "GPS",
+                "Name": "WONG CHING YONG",
+                "Votes": 18576,
+                "NameBallot": "WONG CHING YONG"
+            },
+            {
+                "Party": "PSB",
+                "Name": "PRISCILLA LAU",
+                "Votes": 3663,
+                "NameBallot": "PRISCILLA LAU"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DATO WONG TIING KIONG",
+                "Votes": 587,
+                "NameBallot": "DATO WONG TIING KIONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P211",
+        "SeatName": "LANANG",
+        "info": {
+            "EligibleVoters": "61973",
+            "MalayVoters": "0",
+            "ChineseVoters": "69",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "4",
+            "BumiNonmuslimVoters": "27",
+            "SabahBumiVoters": "0",
+            "Early": "1250",
+            "Postal": "5",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "ALICE LAU KIONG YIENG",
+                "Votes": 29905,
+                "NameBallot": "ALICE LAU KIONG YIENG",
+                "majority": 14546
+            },
+            {
+                "Party": "SUPP",
+                "Name": "KONG SIEN CHIU @ KELVIN KONG",
+                "Votes": 15359,
+                "NameBallot": "KONG SIEN CHIU"
+            },
+            {
+                "Party": "PEACE",
+                "Name": "PRISCILLA LAU",
+                "Votes": 628,
+                "NameBallot": "PRISCILLA LAU"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P211",
+        "SeatName": "LANANG",
+        "info": {
+            "EligibleVoters": "57143",
+            "MalayVoters": "0",
+            "ChineseVoters": "72",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "10",
+            "BumiNonmuslimVoters": "18",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "304",
+            "Turnout": "44900",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "ALICE LAU KIONG YIENG",
+                "Votes": 26613,
+                "majority": 8630
+            },
+            {
+                "Party": "SUPP",
+                "Name": "TIONG THAI KING",
+                "Votes": 17983
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P211",
+        "SeatName": "LANANG",
+        "info": {
+            "EligibleVoters": "49530",
+            "MalayVoters": "0",
+            "ChineseVoters": "73",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "253",
+            "Turnout": "34443",
+            "Unreturned": "102"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "DATUK TIONG THAI KING",
+                "Votes": 19476,
+                "majority": 4864
+            },
+            {
+                "Party": "DAP",
+                "Name": "WONG KEE WOAN",
+                "Votes": 14612
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P210",
+        "SeatName": "LANANG",
+        "info": {
+            "EligibleVoters": "40100",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "252",
+            "Turnout": "25374",
+            "Unreturned": "53"
+        },
+        "candidates": [
+            {
+                "Party": "PBDS",
+                "Name": "Tiong Thai King",
+                "Votes": 14895,
+                "majority": 4721
+            },
+            {
+                "Party": "DAP",
+                "Name": "David Wong Kee Woan",
+                "Votes": 10174
+            }
+        ]
+    }
+}

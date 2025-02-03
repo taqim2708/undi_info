@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P130",
+        "SeatName": "RASAH",
+        "info": {
+            "EligibleVoters": "155896",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "CHA KEE CHIN",
+                "Votes": 81434,
+                "NameBallot": "CHA KEE CHIN",
+                "majority": 61987
+            },
+            {
+                "Party": "BN",
+                "Name": "NG KIAN NAM",
+                "Votes": 19447,
+                "NameBallot": "NG KIAN NAM"
+            },
+            {
+                "Party": "PN",
+                "Name": "DAVID CHOONG",
+                "Votes": 18810,
+                "NameBallot": "DAVID CHOONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P130",
+        "SeatName": "RASAH",
+        "info": {
+            "EligibleVoters": "102838",
+            "MalayVoters": "30",
+            "ChineseVoters": "48",
+            "IndianVoters": "21",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2547",
+            "Postal": "43",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHA KEE CHIN",
+                "Votes": 61806,
+                "NameBallot": "CHA KEE CHIN",
+                "majority": 46867
+            },
+            {
+                "Party": "MCA",
+                "Name": "NG KIAN NAM",
+                "Votes": 14939,
+                "NameBallot": "NG KIAN NAM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD KHAIRIL ANUAR BIN MOHD WAFA",
+                "Votes": 8260,
+                "NameBallot": "USTAZ KHAIRIL ANUAR WAFA"
+            },
+            {
+                "Party": "PAP",
+                "Name": "DAVID DASS ASEERPATHAM",
+                "Votes": 302,
+                "NameBallot": "DAVID DASS ASEERPATHAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P130",
+        "SeatName": "RASAH",
+        "info": {
+            "EligibleVoters": "88403",
+            "MalayVoters": "28",
+            "ChineseVoters": "48",
+            "IndianVoters": "22",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1208",
+            "Turnout": "75651",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TEO KOK SEONG",
+                "Votes": 48964,
+                "majority": 23485
+            },
+            {
+                "Party": "MCA",
+                "Name": "TEO ENG KIAN",
+                "Votes": 25479
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P130",
+        "SeatName": "RASAH",
+        "info": {
+            "EligibleVoters": "72115",
+            "MalayVoters": "28",
+            "ChineseVoters": "52",
+            "IndianVoters": "20",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1261",
+            "Turnout": "56654",
+            "Unreturned": "2"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LOKE SIEW FOOK",
+                "Votes": 34271,
+                "majority": 13151
+            },
+            {
+                "Party": "MCA",
+                "Name": "DATUK DR YEOW CHAI THIAM",
+                "Votes": 21120
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P130",
+        "SeatName": "RASAH",
+        "info": {
+            "EligibleVoters": "65152",
+            "MalayVoters": "27",
+            "ChineseVoters": "52",
+            "IndianVoters": "21",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1294",
+            "Turnout": "46749",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK GOH SIOW HUAT",
+                "Votes": 25009,
+                "majority": 4563
+            },
+            {
+                "Party": "DAP",
+                "Name": "CHAN SU SANN",
+                "Votes": 20446
+            }
+        ]
+    }
+}

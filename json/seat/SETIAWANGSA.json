@@ -1,0 +1,211 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P118",
+        "SeatName": "SETIAWANGSA",
+        "info": {
+            "EligibleVoters": "95753",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "NIK NAZMI NIK AHMAD",
+                "Votes": 34434,
+                "NameBallot": "NIK NAZMI NIK AHMAD",
+                "majority": 12164
+            },
+            {
+                "Party": "PN",
+                "Name": "NURUL FADZILAH BINTI KAMALUDDIN",
+                "Votes": 22270,
+                "NameBallot": "NURUL FADZILAH BINTI KAMALUDDIN"
+            },
+            {
+                "Party": "BN",
+                "Name": "IZUDIN BIN ISHAK",
+                "Votes": 16333,
+                "NameBallot": "IZUDIN BIN ISHAK"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "BIBI SUNITA",
+                "Votes": 953,
+                "NameBallot": "BIBI SUNITA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MEJAR MIOR ROSLI TUDM (B)",
+                "Votes": 492,
+                "NameBallot": "MEJAR MIOR ROSLI TUDM (B)"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "STANLEY LIM YEN TIONG",
+                "Votes": 282,
+                "NameBallot": "STANLEY LIM YEN TIONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P118",
+        "SeatName": "SETIAWANGSA",
+        "info": {
+            "EligibleVoters": "72136",
+            "MalayVoters": "62",
+            "ChineseVoters": "26",
+            "IndianVoters": "10",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "17398",
+            "Postal": "52",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "NIK NAZMI BIN NIK AHMAD",
+                "Votes": 34471,
+                "NameBallot": "NIK NAZMI BIN NIK AHMAD",
+                "majority": 14372
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ZULHASNAN BIN RAFIQUE",
+                "Votes": 20099,
+                "NameBallot": "ZULHASNAN BIN RAFIQUE"
+            },
+            {
+                "Party": "PAS",
+                "Name": "UBAID ABD AKLA",
+                "Votes": 6282,
+                "NameBallot": "USTAZ UBAID BIN HAJI ABD AKLA"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P118",
+        "SeatName": "SETIAWANGSA",
+        "info": {
+            "EligibleVoters": "62309",
+            "MalayVoters": "56",
+            "ChineseVoters": "30",
+            "IndianVoters": "11",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "502",
+            "Turnout": "52730",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AHMAD FAUZI BIN ZAHARI",
+                "Votes": 26809,
+                "majority": 1390
+            },
+            {
+                "Party": "PKR",
+                "Name": "IBRAHIM BIN YAACOB",
+                "Votes": 25419
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P118",
+        "SeatName": "SETIAWANGSA",
+        "info": {
+            "EligibleVoters": "57161",
+            "MalayVoters": "56",
+            "ChineseVoters": "33",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "918",
+            "Turnout": "45096",
+            "Unreturned": "1334"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ZULHASNAN RAFIQUE",
+                "Votes": 25489,
+                "majority": 8134
+            },
+            {
+                "Party": "PKR",
+                "Name": "IBRAHIM YAAKOB",
+                "Votes": 17355
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P118",
+        "SeatName": "SETIAWANGSA",
+        "info": {
+            "EligibleVoters": "51536",
+            "MalayVoters": "52",
+            "ChineseVoters": "36",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "292",
+            "Turnout": "36137",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ZULHASNAN RAFIQUE",
+                "Votes": 27757,
+                "majority": 19669
+            },
+            {
+                "Party": "PAS",
+                "Name": "MEJAR (B) ABDUL RASHID HASSAN BASRI",
+                "Votes": 8088
+            }
+        ]
+    }
+}

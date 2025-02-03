@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P177",
+        "SeatName": "BEAUFORT",
+        "info": {
+            "EligibleVoters": "43248",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATUK SITI AMINAH BINTI ACHING",
+                "Votes": 10570,
+                "NameBallot": "DATUK SITI AMINAH BINTI ACHING",
+                "majority": 2518
+            },
+            {
+                "Party": "KDM",
+                "Name": "DATUK HJH.JOHAIR MAT LANI",
+                "Votes": 8052,
+                "NameBallot": "DATUK HJH.JOHAIR MAT LANI"
+            },
+            {
+                "Party": "PH",
+                "Name": "DIKIN BIN MUSAH",
+                "Votes": 7835,
+                "NameBallot": "DIKIN BIN MUSAH"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "MASRI BIN ADUL",
+                "Votes": 2152,
+                "NameBallot": "MASRI BIN ADUL"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "JOHAN @ CHRISTOPHER BIN O T GHANI",
+                "Votes": 546,
+                "NameBallot": "JOHAN @ CHRISTOPHER BIN O T GHANI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MATLANI BIN SABLI",
+                "Votes": 143,
+                "NameBallot": "MATLANI BIN SABLI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P177",
+        "SeatName": "BEAUFORT",
+        "info": {
+            "EligibleVoters": "33342",
+            "MalayVoters": "9",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "81",
+            "Early": "33142",
+            "Postal": "199",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "AZIZAH BINTI MOHD DUN",
+                "Votes": 11354,
+                "NameBallot": "DATUK AZIZAH BINTI MOHD DUN",
+                "majority": 3331
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "LAJIM BIN UKIN",
+                "Votes": 8023,
+                "NameBallot": "LAJIM BIN UKIN (DATUK SERI PANGLIMA)"
+            },
+            {
+                "Party": "PKR",
+                "Name": "JOHAN @ CHRISTOPHER BIN OT GHANI",
+                "Votes": 7835,
+                "NameBallot": "DATUK JOHN OT GHANI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P177",
+        "SeatName": "BEAUFORT",
+        "info": {
+            "EligibleVoters": "30097",
+            "MalayVoters": "0",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "61",
+            "BumiNonmuslimVoters": "30",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "559",
+            "Turnout": "25949",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK AZIZAH BINTI MOHD DUN",
+                "Votes": 12827,
+                "majority": 673
+            },
+            {
+                "Party": "PKR",
+                "Name": "LAJIM BIN UKIN",
+                "Votes": 12154
+            },
+            {
+                "Party": "STAR",
+                "Name": "GUAN DEE BIN KOH HOI",
+                "Votes": 409
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P177",
+        "SeatName": "BEAUFORT",
+        "info": {
+            "EligibleVoters": "26788",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "681",
+            "Turnout": "19346",
+            "Unreturned": "19"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK LAJIM UKIN",
+                "Votes": 14780,
+                "majority": 10914
+            },
+            {
+                "Party": "PKR",
+                "Name": "LAJIM YUSOF",
+                "Votes": 3866
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P177",
+        "SeatName": "BEAUFORT",
+        "info": {
+            "EligibleVoters": "26461",
+            "MalayVoters": "0",
+            "ChineseVoters": "12",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "63",
+            "BumiNonmuslimVoters": "26",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Azizah Mohd Dun",
+                "Votes": 0
+            }
+        ]
+    }
+}

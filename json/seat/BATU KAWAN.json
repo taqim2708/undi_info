@@ -1,0 +1,226 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P46",
+        "SeatName": "BATU KAWAN",
+        "info": {
+            "EligibleVoters": "88812",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "CHOW KON YEOW",
+                "Votes": 50744,
+                "NameBallot": "CHOW KON YEOW",
+                "majority": 40400
+            },
+            {
+                "Party": "PN",
+                "Name": "WONG CHIA ZHEN",
+                "Votes": 10344,
+                "NameBallot": "WONG CHIA ZHEN"
+            },
+            {
+                "Party": "BN",
+                "Name": "TAN LEE HUAT",
+                "Votes": 7145,
+                "NameBallot": "TAN LEE HUAT"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "ONG CHIN WEN",
+                "Votes": 450,
+                "NameBallot": "ONG CHIN WEN"
+            },
+            {
+                "Party": "PRM",
+                "Name": "LEE AH LEONG",
+                "Votes": 148,
+                "NameBallot": "LEE AH LEONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P46",
+        "SeatName": "BATU KAWAN",
+        "info": {
+            "EligibleVoters": "65394",
+            "MalayVoters": "21",
+            "ChineseVoters": "56",
+            "IndianVoters": "23",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "223",
+            "Postal": "2",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KASTHURIRAANI A/P PATTO",
+                "Votes": 42683,
+                "NameBallot": "KASTHURIRAANI PATTO",
+                "majority": 33553
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "JAYANTHI DEVI A/P BALAGURU",
+                "Votes": 9130,
+                "NameBallot": "JAYANTHI DEVI BALAGURU"
+            },
+            {
+                "Party": "PAS",
+                "Name": "JAY KUMAR A/L BALAKRISHNA",
+                "Votes": 2636,
+                "NameBallot": "JAY KUMAR"
+            },
+            {
+                "Party": "PFP",
+                "Name": "OOI KHAR GIAP",
+                "Votes": 256,
+                "NameBallot": "OOI KHAR GIAP"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P46",
+        "SeatName": "BATU KAWAN",
+        "info": {
+            "EligibleVoters": "57500",
+            "MalayVoters": "21",
+            "ChineseVoters": "56",
+            "IndianVoters": "23",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "723",
+            "Turnout": "50139",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KASTHURIRAANI A/P PATTO",
+                "Votes": 36636,
+                "majority": 25962
+            },
+            {
+                "Party": "MIC",
+                "Name": "GOBALAKRISHNAN A/L NARAYANASAMY",
+                "Votes": 10674
+            },
+            {
+                "Party": "PCM",
+                "Name": "HUAN CHENG GUAN",
+                "Votes": 1801
+            },
+            {
+                "Party": "IND",
+                "Name": "MOHAN A/L APPAROO",
+                "Votes": 305
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P46",
+        "SeatName": "BATU KAWAN",
+        "info": {
+            "EligibleVoters": "47540",
+            "MalayVoters": "20",
+            "ChineseVoters": "56",
+            "IndianVoters": "24",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "640",
+            "Turnout": "37292",
+            "Unreturned": "3"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "DR P RAMASAMY",
+                "Votes": 23067,
+                "majority": 9485
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "TAN SRI DR KOH TSU KOON",
+                "Votes": 13582
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P46",
+        "SeatName": "BATU KAWAN",
+        "info": {
+            "EligibleVoters": "43055",
+            "MalayVoters": "21",
+            "ChineseVoters": "56",
+            "IndianVoters": "23",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "811",
+            "Turnout": "32559",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "HUAN CHENG GUAN",
+                "Votes": 17097,
+                "majority": 8998
+            },
+            {
+                "Party": "PKR",
+                "Name": "LAW CHOO KIAN",
+                "Votes": 8099
+            },
+            {
+                "Party": "DAP",
+                "Name": "TANASEKHARAN A/L AUDHERAPADY",
+                "Votes": 6552
+            }
+        ]
+    }
+}

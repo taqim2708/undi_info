@@ -1,0 +1,175 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P215",
+        "SeatName": "KAPIT",
+        "info": {
+            "EligibleVoters": "45210",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "ALEXANDER NANTA LINGGI",
+                "Votes": 16522,
+                "NameBallot": "ALEXANDER NANTA LINGGI",
+                "majority": 12402
+            },
+            {
+                "Party": "PH",
+                "Name": "PANGKAS AK. UNGGANG",
+                "Votes": 4120,
+                "NameBallot": "PANGKAS AK. UNGGANG"
+            },
+            {
+                "Party": "PBDS",
+                "Name": "ROBERT SAWENG ",
+                "Votes": 1357,
+                "NameBallot": "ROBERT SAWENG "
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P215",
+        "SeatName": "KAPIT",
+        "info": {
+            "EligibleVoters": "30658",
+            "MalayVoters": "0",
+            "ChineseVoters": "9",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "3",
+            "BumiNonmuslimVoters": "87",
+            "SabahBumiVoters": "0",
+            "Early": "157",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "ALEXANDER NANTA LINGGI",
+                "Votes": 14302,
+                "NameBallot": "DATUK ALEXANDER NANTA LINGGI",
+                "majority": 10479
+            },
+            {
+                "Party": "DAP",
+                "Name": "PAREN ANAK NYAWI",
+                "Votes": 3823,
+                "NameBallot": "PAREN ANAK NYAWI"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P215",
+        "SeatName": "KAPIT",
+        "info": {
+            "EligibleVoters": "26195",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "22",
+            "BumiNonmuslimVoters": "68",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "271",
+            "Turnout": "17432",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "ALEXANDER NANTA LINGGI",
+                "Votes": 13446,
+                "majority": 9731
+            },
+            {
+                "Party": "DAP",
+                "Name": "RAMLI ANAK MALAKA",
+                "Votes": 3715
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P215",
+        "SeatName": "KAPIT",
+        "info": {
+            "EligibleVoters": "22723",
+            "MalayVoters": "0",
+            "ChineseVoters": "11",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "ALEXANDER NANTA LINGGI (WALKOVER)",
+                "Votes": 0
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P214",
+        "SeatName": "KAPIT",
+        "info": {
+            "EligibleVoters": "23330",
+            "MalayVoters": "0",
+            "ChineseVoters": "10",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "22",
+            "BumiNonmuslimVoters": "68",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Alexander Nanta Linggi",
+                "Votes": 0
+            }
+        ]
+    }
+}

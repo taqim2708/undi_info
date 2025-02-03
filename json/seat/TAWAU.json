@@ -1,0 +1,226 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P190",
+        "SeatName": "TAWAU",
+        "info": {
+            "EligibleVoters": "87477",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GRS",
+                "Name": "LO SU FUI",
+                "Votes": 19865,
+                "NameBallot": "LO SU FUI",
+                "majority": 3800
+            },
+            {
+                "Party": "PH",
+                "Name": "CHRISTINA LIEW ",
+                "Votes": 16065,
+                "NameBallot": "CHRISTINA LIEW "
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "KC CHEN KET CHUIN ",
+                "Votes": 11263,
+                "NameBallot": "KC CHEN KET CHUIN "
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MOHD SALLEH BACHO",
+                "Votes": 1776,
+                "NameBallot": "MOHD SALLEH BACHO"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HERMAN BIN AMDAS",
+                "Votes": 1067,
+                "NameBallot": "HERMAN BIN AMDAS"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DATO' CHIN CHEE SYN",
+                "Votes": 651,
+                "NameBallot": "DATO' CHIN CHEE SYN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P190",
+        "SeatName": "TAWAU",
+        "info": {
+            "EligibleVoters": "59919",
+            "MalayVoters": "37",
+            "ChineseVoters": "35",
+            "IndianVoters": "0",
+            "OtherVoters": "11",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "17",
+            "Early": "59083",
+            "Postal": "830",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "LIEW CHIN JIN",
+                "Votes": 21400,
+                "NameBallot": "CHRISTINA LIEW",
+                "majority": 4727
+            },
+            {
+                "Party": "PBS",
+                "Name": "YAP KAIN CHING @ MARY YAP KEN JIN",
+                "Votes": 16673,
+                "NameBallot": "MARY YAP KAIN CHING"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD HUSAIN",
+                "Votes": 2518,
+                "NameBallot": "MOHAMAD BIN HUSAIN"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "ALIZAMAN BIN JIJURAHMAN",
+                "Votes": 2162,
+                "NameBallot": "ALIZAMAN BIN JIJURAHMAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P190",
+        "SeatName": "TAWAU",
+        "info": {
+            "EligibleVoters": "51538",
+            "MalayVoters": "0",
+            "ChineseVoters": "38",
+            "IndianVoters": "0",
+            "OtherVoters": "8",
+            "BumiMuslimVoters": "50",
+            "BumiNonmuslimVoters": "4",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "789",
+            "Turnout": "39658",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "YAP KAIN CHING @ MARY YAP KEN JIN",
+                "Votes": 21331,
+                "majority": 4979
+            },
+            {
+                "Party": "PKR",
+                "Name": "KONG HONG MING @ KONG FO MIN",
+                "Votes": 16352
+            },
+            {
+                "Party": "SAPP",
+                "Name": "CHUA SOON BUI",
+                "Votes": 633
+            },
+            {
+                "Party": "IND",
+                "Name": "AHMAD BIN AWANG @ MADON",
+                "Votes": 553
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P190",
+        "SeatName": "TAWAU",
+        "info": {
+            "EligibleVoters": "42560",
+            "MalayVoters": "0",
+            "ChineseVoters": "44",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "735",
+            "Turnout": "27071",
+            "Unreturned": "39"
+        },
+        "candidates": [
+            {
+                "Party": "SAPP",
+                "Name": "DATUK DR CHUA SOON BUI",
+                "Votes": 13943,
+                "majority": 4867
+            },
+            {
+                "Party": "DAP",
+                "Name": "CHAN FOONG HIN",
+                "Votes": 9076
+            },
+            {
+                "Party": "PKR",
+                "Name": "BERHAN @ BIRHAN RUSLAN",
+                "Votes": 3278
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P190",
+        "SeatName": "TAWAU",
+        "info": {
+            "EligibleVoters": "41143",
+            "MalayVoters": "0",
+            "ChineseVoters": "44",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "51",
+            "BumiNonmuslimVoters": "4",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "SAPP",
+                "Name": "Shim Paw Fatt",
+                "Votes": 0
+            }
+        ]
+    }
+}

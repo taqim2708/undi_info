@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P79",
+        "SeatName": "LIPIS",
+        "info": {
+            "EligibleVoters": "47124",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATO SRI ABDUL RAHMAN BIN MOHAMAD",
+                "Votes": 17672,
+                "NameBallot": "DATO SRI ABDUL RAHMAN BIN MOHAMAD",
+                "majority": 6118
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO' SHAHRUM ",
+                "Votes": 11554,
+                "NameBallot": "DATO' SHAHRUM "
+            },
+            {
+                "Party": "PH",
+                "Name": "TENGKU ZULPURI SHAH BIN RAJA PUJI",
+                "Votes": 6366,
+                "NameBallot": "TENGKU ZULPURI SHAH BIN RAJA PUJI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AISHATON BINTI ABU BAKAR",
+                "Votes": 263,
+                "NameBallot": "AISHATON BINTI ABU BAKAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P79",
+        "SeatName": "LIPIS",
+        "info": {
+            "EligibleVoters": "35294",
+            "MalayVoters": "78",
+            "ChineseVoters": "16",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1071",
+            "Postal": "3",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABDUL RAHMAN BIN MOHAMAD",
+                "Votes": 13995,
+                "NameBallot": "ABDUL RAHMAN BIN MOHAMAD",
+                "majority": 6569
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "BADARUDIN BIN ABD RAHAMAN",
+                "Votes": 7426,
+                "NameBallot": "DATO BADARUDIN ABD RAHAMAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "SOBIRIN BIN HJ DULI",
+                "Votes": 6671,
+                "NameBallot": "CIKGU HJ SOBIRIN BIN HJ DULI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P79",
+        "SeatName": "LIPIS",
+        "info": {
+            "EligibleVoters": "32324",
+            "MalayVoters": "76",
+            "ChineseVoters": "17",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "426",
+            "Turnout": "26986",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABDUL RAHMAN BIN MOHAMAD",
+                "Votes": 14863,
+                "majority": 3469
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD MAHYUDDIN BIN GHAZAL @ RAZALI",
+                "Votes": 11394
+            },
+            {
+                "Party": "IND",
+                "Name": "AISHATON BINTI ABU BAKAR",
+                "Votes": 303
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P79",
+        "SeatName": "LIPIS",
+        "info": {
+            "EligibleVoters": "28425",
+            "MalayVoters": "74",
+            "ChineseVoters": "19",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "561",
+            "Turnout": "21758",
+            "Unreturned": "112"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MUHAMAD SHAHRUM",
+                "Votes": 12611,
+                "majority": 4137
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD NILAM ABDUL MANAP",
+                "Votes": 8474
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P79",
+        "SeatName": "LIPIS",
+        "info": {
+            "EligibleVoters": "28083",
+            "MalayVoters": "73",
+            "ChineseVoters": "20",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "528",
+            "Turnout": "20875",
+            "Unreturned": "231"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHAMAD SHAHRUM OSMAN",
+                "Votes": 13870,
+                "majority": 7624
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD ZAI MUSTAFA",
+                "Votes": 6246
+            }
+        ]
+    }
+}

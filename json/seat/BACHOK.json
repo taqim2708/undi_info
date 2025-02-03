@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P25",
+        "SeatName": "BACHOK",
+        "info": {
+            "EligibleVoters": "123183",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SYAHIR SULAIMAN",
+                "Votes": 57130,
+                "NameBallot": "SYAHIR SULAIMAN",
+                "majority": 29901
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK HAJI ZAIN",
+                "Votes": 27229,
+                "NameBallot": "DATUK HAJI ZAIN"
+            },
+            {
+                "Party": "PH",
+                "Name": "NOR AZMIZA MAMAT",
+                "Votes": 4366,
+                "NameBallot": "NOR AZMIZA MAMAT"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HAJI ZU",
+                "Votes": 418,
+                "NameBallot": "HAJI ZU"
+            },
+            {
+                "Party": "PUTRA",
+                "Name": "CIKGU ZAM",
+                "Votes": 274,
+                "NameBallot": "CIKGU ZAM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P25",
+        "SeatName": "BACHOK",
+        "info": {
+            "EligibleVoters": "92606",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "261",
+            "Postal": "9",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "NIK MOHAMAD ABDUH BIN NIK ABDUL AZIZ",
+                "Votes": 36188,
+                "NameBallot": "USTAZ NIK ABDUH",
+                "majority": 3292
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AWANG ADEK BIN HUSSIN",
+                "Votes": 32896,
+                "NameBallot": "DATUK AWANG"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MOHD ZULKIFLI BIN HAJI ZAKARIA",
+                "Votes": 4880,
+                "NameBallot": "HJ ZUL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P25",
+        "SeatName": "BACHOK",
+        "info": {
+            "EligibleVoters": "81566",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "946",
+            "Turnout": "71583",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "AHMAD MARZUK BIN SHAARY",
+                "Votes": 35419,
+                "majority": 201
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AWANG ADEK BIN HUSSIN",
+                "Votes": 35218
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P25",
+        "SeatName": "BACHOK",
+        "info": {
+            "EligibleVoters": "64808",
+            "MalayVoters": "98",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "811",
+            "Turnout": "55724",
+            "Unreturned": "144"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "NASHARUDIN MAT ISA",
+                "Votes": 28835,
+                "majority": 2901
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DR AWANG ADEK HUSSIN",
+                "Votes": 25934
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P25",
+        "SeatName": "BACHOK",
+        "info": {
+            "EligibleVoters": "55319",
+            "MalayVoters": "98",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "893",
+            "Turnout": "48009",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR AWANG ADEK HUSSIN",
+                "Votes": 25194,
+                "majority": 3272
+            },
+            {
+                "Party": "PAS",
+                "Name": "WAN NIK WAN YUSOF",
+                "Votes": 21922
+            }
+        ]
+    }
+}

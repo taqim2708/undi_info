@@ -1,0 +1,209 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P121",
+        "SeatName": "LEMBAH PANTAI",
+        "info": {
+            "EligibleVoters": "101828",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "FAHMI FADZIL",
+                "Votes": 35359,
+                "NameBallot": "FAHMI FADZIL",
+                "majority": 13912
+            },
+            {
+                "Party": "BN",
+                "Name": "RAMLAN ASKOLANI",
+                "Votes": 21447,
+                "NameBallot": "RAMLAN ASKOLANI"
+            },
+            {
+                "Party": "PN",
+                "Name": "HAJI FAUZI ABU BAKAR",
+                "Votes": 19098,
+                "NameBallot": "HAJI FAUZI ABU BAKAR"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR. ASMAH",
+                "Votes": 810,
+                "NameBallot": "DR. ASMAH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P121",
+        "SeatName": "LEMBAH PANTAI",
+        "info": {
+            "EligibleVoters": "80346",
+            "MalayVoters": "63",
+            "ChineseVoters": "19",
+            "IndianVoters": "16",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "10250",
+            "Postal": "35",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "AHMAD FAHMI BIN MOHAMED FADZIL",
+                "Votes": 33313,
+                "NameBallot": "FAHMI FADZIL",
+                "majority": 5598
+            },
+            {
+                "Party": "UMNO",
+                "Name": "RAJA NONG CHIK RAJA ZAINAL ABIDIN",
+                "Votes": 27715,
+                "NameBallot": "RAJA NONG CHIK"
+            },
+            {
+                "Party": "PAS",
+                "Name": "FAUZI ABU BAKAR",
+                "Votes": 5277,
+                "NameBallot": "FAUZI BIN ABU BAKAR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P121",
+        "SeatName": "LEMBAH PANTAI",
+        "info": {
+            "EligibleVoters": "72396",
+            "MalayVoters": "55",
+            "ChineseVoters": "23",
+            "IndianVoters": "20",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "519",
+            "Turnout": "60855",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "NURUL IZZAH BINTI ANWAR",
+                "Votes": 31008,
+                "majority": 1847
+            },
+            {
+                "Party": "UMNO",
+                "Name": "RAJA NONG CHIK BIN RAJA ZAINAL ABIDIN",
+                "Votes": 29161
+            },
+            {
+                "Party": "IND",
+                "Name": "RUSLI BIN BABA",
+                "Votes": 167
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P121",
+        "SeatName": "LEMBAH PANTAI",
+        "info": {
+            "EligibleVoters": "56650",
+            "MalayVoters": "55",
+            "ChineseVoters": "27",
+            "IndianVoters": "18",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "239",
+            "Turnout": "41289",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "NURUL IZZAH ANWAR",
+                "Votes": 21728,
+                "majority": 2895
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI SHAHRIZAT ABDUL JALIL",
+                "Votes": 18833
+            },
+            {
+                "Party": "IND",
+                "Name": "N PERIASAMY",
+                "Votes": 489
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P121",
+        "SeatName": "LEMBAH PANTAI",
+        "info": {
+            "EligibleVoters": "56562",
+            "MalayVoters": "53",
+            "ChineseVoters": "26",
+            "IndianVoters": "20",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "213",
+            "Turnout": "37873",
+            "Unreturned": "85"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI SHAHRIZAT ABDUL JALIL",
+                "Votes": 26474,
+                "majority": 15288
+            },
+            {
+                "Party": "PKR",
+                "Name": "SANUSI OSMAN",
+                "Votes": 11186
+            }
+        ]
+    }
+}

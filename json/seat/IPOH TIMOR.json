@@ -1,0 +1,187 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P64",
+        "SeatName": "IPOH TIMOR",
+        "info": {
+            "EligibleVoters": "118178",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "HOWARD LEE CHUAN HOW",
+                "Votes": 57549,
+                "NameBallot": "HOWARD LEE CHUAN HOW",
+                "majority": 43888
+            },
+            {
+                "Party": "PN",
+                "Name": "NOR AFZAINIZAM BIN SALLEH",
+                "Votes": 13661,
+                "NameBallot": "NOR AFZAINIZAM BIN SALLEH"
+            },
+            {
+                "Party": "BN",
+                "Name": "NG KAI CHEONG",
+                "Votes": 8570,
+                "NameBallot": "NG KAI CHEONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P64",
+        "SeatName": "IPOH TIMUR",
+        "info": {
+            "EligibleVoters": "91486",
+            "MalayVoters": "21",
+            "ChineseVoters": "72",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2675",
+            "Postal": "115",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "WONG KAH WOH",
+                "Votes": 56519,
+                "NameBallot": "WONG KAH WOH",
+                "majority": 42797
+            },
+            {
+                "Party": "MCA",
+                "Name": "KATHLEEN WONG MEI YIN",
+                "Votes": 13722,
+                "NameBallot": "KATHLEEN (KAT) WONG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P64",
+        "SeatName": "IPOH TIMOR",
+        "info": {
+            "EligibleVoters": "81818",
+            "MalayVoters": "14",
+            "ChineseVoters": "80",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "834",
+            "Turnout": "65006",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SU KEONG SIONG",
+                "Votes": 49086,
+                "majority": 34000
+            },
+            {
+                "Party": "MCA",
+                "Name": "KATHLEEN WONG MEI YIN",
+                "Votes": 15086
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P64",
+        "SeatName": "IPOH TIMOR",
+        "info": {
+            "EligibleVoters": "76647",
+            "MalayVoters": "12",
+            "ChineseVoters": "82",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "707",
+            "Turnout": "53994",
+            "Unreturned": "501"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM KIT SIANG",
+                "Votes": 37364,
+                "majority": 21942
+            },
+            {
+                "Party": "MCA",
+                "Name": "LIEW MUN HON",
+                "Votes": 15422
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P64",
+        "SeatName": "IPOH TIMOR",
+        "info": {
+            "EligibleVoters": "73333",
+            "MalayVoters": "9",
+            "ChineseVoters": "86",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "933",
+            "Turnout": "48861",
+            "Unreturned": "314"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM KIT SIANG",
+                "Votes": 28851,
+                "majority": 9774
+            },
+            {
+                "Party": "MCA",
+                "Name": "THONG FAH CHONG",
+                "Votes": 19077
+            }
+        ]
+    }
+}

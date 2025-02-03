@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P48",
+        "SeatName": "BUKIT BENDERA",
+        "info": {
+            "EligibleVoters": "92521",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "SYERLEENA  ABDUL RASHID",
+                "Votes": 49353,
+                "NameBallot": "SYERLEENA  ABDUL RASHID",
+                "majority": 42610
+            },
+            {
+                "Party": "PN",
+                "Name": "HNG CHEE WEY",
+                "Votes": 6743,
+                "NameBallot": "HNG CHEE WEY"
+            },
+            {
+                "Party": "BN",
+                "Name": "RICHIE HUAN XIN YUN",
+                "Votes": 5417,
+                "NameBallot": "RICHIE HUAN XIN YUN"
+            },
+            {
+                "Party": "PRM",
+                "Name": "TEH YEE CHEU",
+                "Votes": 677,
+                "NameBallot": "TEH YEE CHEU"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "RAZALIF ZAIN",
+                "Votes": 299,
+                "NameBallot": "RAZALIF ZAIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P48",
+        "SeatName": "BUKIT BENDERA",
+        "info": {
+            "EligibleVoters": "75069",
+            "MalayVoters": "15",
+            "ChineseVoters": "73",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1209",
+            "Postal": "20",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "WONG HON WAI",
+                "Votes": 50049,
+                "NameBallot": "WONG HON WAI",
+                "majority": 40731
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "ANDY YONG KIM SENG",
+                "Votes": 9318,
+                "NameBallot": "ANDY YONG KIM SENG"
+            },
+            {
+                "Party": "MU",
+                "Name": "TAN GIN THEAM",
+                "Votes": 339,
+                "NameBallot": "TAN GIN THEAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P48",
+        "SeatName": "BUKIT BENDERA",
+        "info": {
+            "EligibleVoters": "71085",
+            "MalayVoters": "14",
+            "ChineseVoters": "74",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "615",
+            "Turnout": "59019",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "ZAIRIL KHIR JOHARI",
+                "Votes": 45591,
+                "majority": 32778
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "TEH LEONG MENG",
+                "Votes": 12813
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P48",
+        "SeatName": "BUKIT BENDERA",
+        "info": {
+            "EligibleVoters": "64545",
+            "MalayVoters": "15",
+            "ChineseVoters": "75",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "642",
+            "Turnout": "47105",
+            "Unreturned": "89"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIEW CHIN TONG",
+                "Votes": 31243,
+                "majority": 16112
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "DATUK SERI CHIA KWANG CHYE",
+                "Votes": 15131
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P48",
+        "SeatName": "BUKIT BENDERA",
+        "info": {
+            "EligibleVoters": "65126",
+            "MalayVoters": "14",
+            "ChineseVoters": "74",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "998",
+            "Turnout": "46843",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "CHIA KWANG CHYE",
+                "Votes": 28281,
+                "majority": 10717
+            },
+            {
+                "Party": "DAP",
+                "Name": "ZULKIFLI MOHD NOOR",
+                "Votes": 17564
+            }
+        ]
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P51",
+        "SeatName": "BUKIT GELUGOR",
+        "info": {
+            "EligibleVoters": "117134",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "RAMKARPAL SINGH",
+                "Votes": 71204,
+                "NameBallot": "RAMKARPAL SINGH",
+                "majority": 63112
+            },
+            {
+                "Party": "PN",
+                "Name": "P. THINAGARANABHAN",
+                "Votes": 8092,
+                "NameBallot": "P. THINAGARANABHAN"
+            },
+            {
+                "Party": "BN",
+                "Name": "WONG CHIN CHONG",
+                "Votes": 6777,
+                "NameBallot": "WONG CHIN CHONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P51",
+        "SeatName": "BUKIT GELUGOR",
+        "info": {
+            "EligibleVoters": "91595",
+            "MalayVoters": "15",
+            "ChineseVoters": "74",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "152",
+            "Postal": "30",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "RAMKARPAL SINGH A/L KARPAL SINGH",
+                "Votes": 65622,
+                "NameBallot": "RAMKARPAL SINGH A/L KARPAL SINGH",
+                "majority": 55951
+            },
+            {
+                "Party": "MCA",
+                "Name": "LOW JOO HIAP",
+                "Votes": 9671,
+                "NameBallot": "LOW JOO HIAP"
+            },
+            {
+                "Party": "MU",
+                "Name": "LAI XUE CHING",
+                "Votes": 412,
+                "NameBallot": "LAI XUE CHING"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P51",
+        "SeatName": "BUKIT GELUGOR",
+        "info": {
+            "EligibleVoters": "81897",
+            "MalayVoters": "14",
+            "ChineseVoters": "75",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "654",
+            "Turnout": "70554",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KARPAL SINGH A/L RAM SINGH",
+                "Votes": 55839,
+                "majority": 41778
+            },
+            {
+                "Party": "MCA",
+                "Name": "TEH BENG YEAM",
+                "Votes": 14061
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P51",
+        "SeatName": "BUKIT GELUGOR",
+        "info": {
+            "EligibleVoters": "65614",
+            "MalayVoters": "17",
+            "ChineseVoters": "75",
+            "IndianVoters": "8",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "707",
+            "Turnout": "50553",
+            "Unreturned": "581"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KARPAL SINGH",
+                "Votes": 35140,
+                "majority": 21015
+            },
+            {
+                "Party": "MCA",
+                "Name": "KOAY HAR HUAH",
+                "Votes": 14125
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P51",
+        "SeatName": "BUKIT GELUGOR",
+        "info": {
+            "EligibleVoters": "60123",
+            "MalayVoters": "16",
+            "ChineseVoters": "74",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "793",
+            "Turnout": "44618",
+            "Unreturned": "28"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KARPAL SINGH",
+                "Votes": 22529,
+                "majority": 1261
+            },
+            {
+                "Party": "MCA",
+                "Name": "LIM BOO CHANG",
+                "Votes": 21268
+            }
+        ]
+    }
+}

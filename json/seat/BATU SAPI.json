@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P185",
+        "SeatName": "BATU SAPI",
+        "info": {
+            "EligibleVoters": "43916",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GRS",
+                "Name": "KHAIRUL FIRDAUS AKBAR KHAN",
+                "Votes": 12152,
+                "NameBallot": "KHAIRUL FIRDAUS AKBAR KHAN",
+                "majority": 4821
+            },
+            {
+                "Party": "PH",
+                "Name": "LIAU FUI FUI",
+                "Votes": 7331,
+                "NameBallot": "LIAU FUI FUI"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "ALIAS BIN SANI",
+                "Votes": 7218,
+                "NameBallot": "ALIAS BIN SANI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "BONI YUSUF JUANICO ABDULLAH",
+                "Votes": 176,
+                "NameBallot": "BONI YUSUF JUANICO ABDULLAH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "IR. HJ. OTHMAN HJ. AHMAD",
+                "Votes": 160,
+                "NameBallot": "IR. HJ. OTHMAN HJ. AHMAD"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P185",
+        "SeatName": "BATU SAPI",
+        "info": {
+            "EligibleVoters": "32574",
+            "MalayVoters": "20",
+            "ChineseVoters": "31",
+            "IndianVoters": "0",
+            "OtherVoters": "10",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "39",
+            "Early": "30371",
+            "Postal": "2203",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "LIEW VUI KEONG",
+                "Votes": 12976,
+                "NameBallot": "LIEW VUI KEONG",
+                "majority": 4619
+            },
+            {
+                "Party": "PBS",
+                "Name": "TSEN THAU LIN",
+                "Votes": 8357,
+                "NameBallot": "LINDA TSEN THAU LIN"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "HAMZA BIN A ABDULLAH @ HAMZAH",
+                "Votes": 980,
+                "NameBallot": "HAMZAH ABDULLAH"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NORSAH BINTI BONGSU",
+                "Votes": 948,
+                "NameBallot": "NORSAH BONGSU"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P185",
+        "SeatName": "BATU SAPI",
+        "info": {
+            "EligibleVoters": "30199",
+            "MalayVoters": "0",
+            "ChineseVoters": "33",
+            "IndianVoters": "0",
+            "OtherVoters": "7",
+            "BumiMuslimVoters": "51",
+            "BumiNonmuslimVoters": "8",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "574",
+            "Turnout": "23356",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "TSEN THAU LIN",
+                "Votes": 13085,
+                "majority": 3798
+            },
+            {
+                "Party": "PAS",
+                "Name": "HAMZA BIN A ABDULLAH @ HAMZAH",
+                "Votes": 9287
+            },
+            {
+                "Party": "STAR",
+                "Name": "SAIFUL BAHARI RASHADA BIN AHMAD",
+                "Votes": 410
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P185",
+        "SeatName": "BATU SAPI",
+        "info": {
+            "EligibleVoters": "26004",
+            "MalayVoters": "0",
+            "ChineseVoters": "37",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "730",
+            "Turnout": "16398",
+            "Unreturned": "418"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "DATUK EDMUND CHONG KET WAH",
+                "Votes": 9479,
+                "majority": 3708
+            },
+            {
+                "Party": "IND",
+                "Name": "CHONG KWONG WING",
+                "Votes": 5771
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P185",
+        "SeatName": "BATU SAPI",
+        "info": {
+            "EligibleVoters": "26504",
+            "MalayVoters": "0",
+            "ChineseVoters": "37",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "60",
+            "BumiNonmuslimVoters": "2",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBS",
+                "Name": "Edmund Chong Ket Wah",
+                "Votes": 0
+            }
+        ]
+    }
+}

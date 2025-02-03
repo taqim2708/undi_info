@@ -1,0 +1,236 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P179",
+        "SeatName": "RANAU",
+        "info": {
+            "EligibleVoters": "66517",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GRS",
+                "Name": "JONATHAN YASIN",
+                "Votes": 22606,
+                "NameBallot": "JONATHAN YASIN",
+                "majority": 11092
+            },
+            {
+                "Party": "PH",
+                "Name": "TAUFIK DAHLAN",
+                "Votes": 11514,
+                "NameBallot": "TAUFIK DAHLAN"
+            },
+            {
+                "Party": "PBRS",
+                "Name": "EWON BIN EBIN",
+                "Votes": 4254,
+                "NameBallot": "EWON BIN EBIN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "MARKOS SITON",
+                "Votes": 2657,
+                "NameBallot": "MARKOS SITON"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AZIZUL JULIRIN",
+                "Votes": 1267,
+                "NameBallot": "AZIZUL JULIRIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P179",
+        "SeatName": "RANAU",
+        "info": {
+            "EligibleVoters": "43706",
+            "MalayVoters": "4",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "93",
+            "Early": "43531",
+            "Postal": "175",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "JONATHAN BIN YASIN",
+                "Votes": 14880,
+                "NameBallot": "JONATHAN BIN YASIN",
+                "majority": 1076
+            },
+            {
+                "Party": "UPKO",
+                "Name": "EWON BINEBIN",
+                "Votes": 13804,
+                "NameBallot": "DATUK DR EWON EBIN"
+            },
+            {
+                "Party": "SOLIDARITI",
+                "Name": "SOUDI @ SAMI ANDANG",
+                "Votes": 3148,
+                "NameBallot": "SOUDI @ SAMI BIN ANDANG"
+            },
+            {
+                "Party": "PCS",
+                "Name": "ANDAU BIN YASUN @ BRUNO",
+                "Votes": 1110,
+                "NameBallot": "ANDAU BIN YASUN @ BRUNO"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P179",
+        "SeatName": "RANAU",
+        "info": {
+            "EligibleVoters": "39053",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "11",
+            "BumiNonmuslimVoters": "87",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "666",
+            "Turnout": "31396",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "EWON EBIN",
+                "Votes": 15434,
+                "majority": 3611
+            },
+            {
+                "Party": "PKR",
+                "Name": "JONATHAN BIN YASIN",
+                "Votes": 11823
+            },
+            {
+                "Party": "STAR",
+                "Name": "ULIANAH BTE SITUN @ WIDYA JULIA",
+                "Votes": 2559
+            },
+            {
+                "Party": "IND",
+                "Name": "YAZID BIN SAHJINAN",
+                "Votes": 914
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P179",
+        "SeatName": "RANAU",
+        "info": {
+            "EligibleVoters": "30810",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "653",
+            "Turnout": "22201",
+            "Unreturned": "32"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "DATUK SIRIGAN GUBAT",
+                "Votes": 14074,
+                "majority": 7251
+            },
+            {
+                "Party": "PKR",
+                "Name": "JONATHAN YASIN",
+                "Votes": 6823
+            },
+            {
+                "Party": "PASOK",
+                "Name": "VITOS MARK KODING",
+                "Votes": 619
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P179",
+        "SeatName": "RANAU",
+        "info": {
+            "EligibleVoters": "27986",
+            "MalayVoters": "0",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "39",
+            "BumiNonmuslimVoters": "58",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "775",
+            "Turnout": "19699",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "Bernard Giluk Dompok",
+                "Votes": 7547,
+                "majority": 1387
+            },
+            {
+                "Party": "IND",
+                "Name": "Ruhimin Adzim",
+                "Votes": 6160
+            },
+            {
+                "Party": "IND",
+                "Name": "Karim Adam",
+                "Votes": 3310
+            },
+            {
+                "Party": "IND",
+                "Name": "Japiril Suhaimin",
+                "Votes": 1609
+            }
+        ]
+    }
+}

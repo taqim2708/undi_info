@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P74",
+        "SeatName": "LUMUT",
+        "info": {
+            "EligibleVoters": "92972",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "KOMANDER (B) NORDIN",
+                "Votes": 25212,
+                "NameBallot": "KOMANDER (B) NORDIN",
+                "majority": 363
+            },
+            {
+                "Party": "BN",
+                "Name": "DR ZAMBRY ABD KADIR",
+                "Votes": 24849,
+                "NameBallot": "DR ZAMBRY ABD KADIR"
+            },
+            {
+                "Party": "PH",
+                "Name": "DR HATTA RAMLI",
+                "Votes": 20358,
+                "NameBallot": "DR HATTA RAMLI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MAZLAN ABD GHANI",
+                "Votes": 385,
+                "NameBallot": "MAZLAN ABD GHANI"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "KOMANDER ISNIN",
+                "Votes": 358,
+                "NameBallot": "KOMANDER ISNIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P74",
+        "SeatName": "LUMUT",
+        "info": {
+            "EligibleVoters": "67157",
+            "MalayVoters": "72",
+            "ChineseVoters": "15",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "11900",
+            "Postal": "13",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "MOHD HATTA BIN MD RAMLI",
+                "Votes": 21955,
+                "NameBallot": "DR HATTA RAMLI",
+                "majority": 400
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ZAMBRY BIN ABD KADIR",
+                "Votes": 21555,
+                "NameBallot": "DATO' SERI DIRAJA DR ZAMBRY ABD KADIR"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMMED ZAMRI BIN IBRAHIM",
+                "Votes": 10135,
+                "NameBallot": "ZAMRI IBRAHIM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P74",
+        "SeatName": "LUMUT",
+        "info": {
+            "EligibleVoters": "88300",
+            "MalayVoters": "51",
+            "ChineseVoters": "35",
+            "IndianVoters": "12",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1133",
+            "Turnout": "73581",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "MOHAMAD IMRAN BIN ABD HAMID",
+                "Votes": 40308,
+                "majority": 8168
+            },
+            {
+                "Party": "MCA",
+                "Name": "KONG CHO HA",
+                "Votes": 32140
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P74",
+        "SeatName": "LUMUT",
+        "info": {
+            "EligibleVoters": "72763",
+            "MalayVoters": "49",
+            "ChineseVoters": "39",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1884",
+            "Turnout": "55930",
+            "Unreturned": "2948"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "KONG CHO HA",
+                "Votes": 25698,
+                "majority": 298
+            },
+            {
+                "Party": "PKR",
+                "Name": "SUWARDI SAPUAN",
+                "Votes": 25400
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P74",
+        "SeatName": "LUMUT",
+        "info": {
+            "EligibleVoters": "68522",
+            "MalayVoters": "47",
+            "ChineseVoters": "41",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1477",
+            "Turnout": "44693",
+            "Unreturned": "5"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "KONG CHO HA",
+                "Votes": 27415,
+                "majority": 11614
+            },
+            {
+                "Party": "PKR",
+                "Name": "MUSTAFA KAMIL AYUB",
+                "Votes": 15801
+            }
+        ]
+    }
+}

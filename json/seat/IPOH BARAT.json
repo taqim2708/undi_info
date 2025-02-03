@@ -1,0 +1,198 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P65",
+        "SeatName": "IPOH BARAT",
+        "info": {
+            "EligibleVoters": "114654",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "M. KULA",
+                "Votes": 63915,
+                "NameBallot": "M. KULA",
+                "majority": 56667
+            },
+            {
+                "Party": "BN",
+                "Name": "AH NAN",
+                "Votes": 7248,
+                "NameBallot": "AH NAN"
+            },
+            {
+                "Party": "PN",
+                "Name": "CHEK KWONG WENG",
+                "Votes": 6815,
+                "NameBallot": "CHEK KWONG WENG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TAN SRI M KAYVEAS",
+                "Votes": 378,
+                "NameBallot": "TAN SRI M KAYVEAS"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P65",
+        "SeatName": "IPOH BARAT",
+        "info": {
+            "EligibleVoters": "84874",
+            "MalayVoters": "12",
+            "ChineseVoters": "63",
+            "IndianVoters": "24",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "590",
+            "Postal": "62",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "MKULASEGARAN A/L VMURUGESON",
+                "Votes": 55613,
+                "NameBallot": "M KULA",
+                "majority": 45724
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHENG WEI YEE",
+                "Votes": 9889,
+                "NameBallot": "CHENG WEI YEE"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P65",
+        "SeatName": "IPOH BARAT",
+        "info": {
+            "EligibleVoters": "77761",
+            "MalayVoters": "14",
+            "ChineseVoters": "62",
+            "IndianVoters": "23",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "875",
+            "Turnout": "62912",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "M KULASEGARAN A/L V MURUGESON",
+                "Votes": 45420,
+                "majority": 29038
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHENG WEI YEE",
+                "Votes": 16382
+            },
+            {
+                "Party": "IND",
+                "Name": "KALWANT SINGH A/L SUJAN SINGH",
+                "Votes": 235
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P65",
+        "SeatName": "IPOH BARAT",
+        "info": {
+            "EligibleVoters": "68773",
+            "MalayVoters": "13",
+            "ChineseVoters": "65",
+            "IndianVoters": "22",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "829",
+            "Turnout": "50641",
+            "Unreturned": "194"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "M KULASEGARAN A/L V MURUGESON",
+                "Votes": 32576,
+                "majority": 15534
+            },
+            {
+                "Party": "MCA",
+                "Name": "YIK PHOOI HONG",
+                "Votes": 17042
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P65",
+        "SeatName": "IPOH BARAT",
+        "info": {
+            "EligibleVoters": "68394",
+            "MalayVoters": "13",
+            "ChineseVoters": "64",
+            "IndianVoters": "23",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1015",
+            "Turnout": "46287",
+            "Unreturned": "481"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "M KULASEGARAN",
+                "Votes": 22935,
+                "majority": 598
+            },
+            {
+                "Party": "MCA",
+                "Name": "DATUK IR HO CHEONG SING",
+                "Votes": 22337
+            }
+        ]
+    }
+}

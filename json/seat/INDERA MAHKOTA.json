@@ -1,0 +1,204 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P82",
+        "SeatName": "INDERA MAHKOTA",
+        "info": {
+            "EligibleVoters": "120549",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO' SRI SAIFUDDIN ABDULLAH",
+                "Votes": 41692,
+                "NameBallot": "DATO' SRI SAIFUDDIN ABDULLAH",
+                "majority": 8399
+            },
+            {
+                "Party": "PH",
+                "Name": "HAJI ZURAIDI ISMAIL",
+                "Votes": 33293,
+                "NameBallot": "HAJI ZURAIDI ISMAIL"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' QUEK TAI SEONG",
+                "Votes": 16530,
+                "NameBallot": "DATO' QUEK TAI SEONG"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR. MOHAMAD NOR BIN SUNDARI",
+                "Votes": 1864,
+                "NameBallot": "DR. MOHAMAD NOR BIN SUNDARI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P82",
+        "SeatName": "INDERA MAHKOTA",
+        "info": {
+            "EligibleVoters": "77208",
+            "MalayVoters": "67",
+            "ChineseVoters": "27",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "3154",
+            "Postal": "25",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SAIFUDDIN BIN ABDULLAH",
+                "Votes": 28578,
+                "NameBallot": "DATO' SAIFUDDIN ABDULLAH",
+                "majority": 10950
+            },
+            {
+                "Party": "UMNO",
+                "Name": "JOHAN BIN MAT SAH",
+                "Votes": 17628,
+                "NameBallot": "DATO' DR JOHAN BIN MAT SAH"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NASRUDIN BIN HASSAN",
+                "Votes": 17515,
+                "NameBallot": "USTAZ NASRUDIN HASSAN TANTAWI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P82",
+        "SeatName": "INDERA MAHKOTA",
+        "info": {
+            "EligibleVoters": "64219",
+            "MalayVoters": "65",
+            "ChineseVoters": "29",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "689",
+            "Turnout": "54527",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "FAUZI BIN ABDUL RAHMAN",
+                "Votes": 30584,
+                "majority": 7523
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ADNAN BIN WAN MAMAT",
+                "Votes": 23061
+            },
+            {
+                "Party": "IND",
+                "Name": "PONUSAMY A/L GOVINDASAMY",
+                "Votes": 193
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P82",
+        "SeatName": "INDERA MAHKOTA",
+        "info": {
+            "EligibleVoters": "51235",
+            "MalayVoters": "65",
+            "ChineseVoters": "29",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "668",
+            "Turnout": "39677",
+            "Unreturned": "390"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "AZAN BIN ISMAIL",
+                "Votes": 19823,
+                "majority": 1027
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SALAMON ALI RIZAL ABD RAHMAN",
+                "Votes": 18796
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P82",
+        "SeatName": "INDERA MAHKOTA",
+        "info": {
+            "EligibleVoters": "47455",
+            "MalayVoters": "65",
+            "ChineseVoters": "28",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "801",
+            "Turnout": "37296",
+            "Unreturned": "370"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK WAN ADNAN WAN MAMAT",
+                "Votes": 25177,
+                "majority": 14229
+            },
+            {
+                "Party": "PKR",
+                "Name": "DZULKIFLI ISMAIL",
+                "Votes": 10948
+            }
+        ]
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P182",
+        "SeatName": "PENSIANGAN",
+        "info": {
+            "EligibleVoters": "55672",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATUK ARTHUR JOSEPH KURUP",
+                "Votes": 19623,
+                "NameBallot": "DATUK ARTHUR JOSEPH KURUP",
+                "majority": 5412
+            },
+            {
+                "Party": "PH",
+                "Name": "SANGKAR BIN RASAM",
+                "Votes": 14211,
+                "NameBallot": "SANGKAR BIN RASAM"
+            },
+            {
+                "Party": "KDM",
+                "Name": "JEKERISON KILAN",
+                "Votes": 1640,
+                "NameBallot": "JEKERISON KILAN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "SITI NOORHASMAHWATTY OSMAN",
+                "Votes": 1512,
+                "NameBallot": "SITI NOORHASMAHWATTY OSMAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "JAMANI BIN DERIMIN",
+                "Votes": 124,
+                "NameBallot": "JAMANI BIN DERIMIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P182",
+        "SeatName": "PENSIANGAN",
+        "info": {
+            "EligibleVoters": "31377",
+            "MalayVoters": "3",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "94",
+            "Early": "31368",
+            "Postal": "9",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBRS",
+                "Name": "ARTHUR JOSEPH KURUP",
+                "Votes": 11783,
+                "NameBallot": "ARTHUR JOSEPH KURUP",
+                "majority": 2314
+            },
+            {
+                "Party": "PKR",
+                "Name": "RAYMOND AHUAR",
+                "Votes": 9469,
+                "NameBallot": "RAYMOND BIN AHUAR"
+            },
+            {
+                "Party": "SOLIDARITI",
+                "Name": "JOH BIN JIMMY @ RICHARD JOE JIMMY",
+                "Votes": 2839,
+                "NameBallot": "RICHARD JOE JIMMY"
+            },
+            {
+                "Party": "PCS",
+                "Name": "MAIDIN BIN ATAK @ MAIDIN HAJI OSMAN",
+                "Votes": 212,
+                "NameBallot": "MAIDIN BIN ATAK @ MAIDIN HAJI OSMAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ENGAH BIN SINTAN @ DAHLAN BIN ABDULLAH",
+                "Votes": 65,
+                "NameBallot": "ENGAH BIN SINTAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P182",
+        "SeatName": "PENSIANGAN",
+        "info": {
+            "EligibleVoters": "26194",
+            "MalayVoters": "0",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "12",
+            "BumiNonmuslimVoters": "86",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "483",
+            "Turnout": "21379",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBRS",
+                "Name": "JOSEPH KURUP",
+                "Votes": 9467,
+                "majority": 1744
+            },
+            {
+                "Party": "PKR",
+                "Name": "RICHARD SAKIAN BIN GUNTING",
+                "Votes": 7723
+            },
+            {
+                "Party": "STAR",
+                "Name": "MARTIN TOMY @ TOMMY",
+                "Votes": 3554
+            },
+            {
+                "Party": "IND",
+                "Name": "FATIMAH BINTI AGITOR @ MOHD DAUD",
+                "Votes": 152
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P182",
+        "SeatName": "PENSIANGAN",
+        "info": {
+            "EligibleVoters": "19712",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBRS",
+                "Name": "TAN SRI JOSEPH KURUP (WON UNCONTESTED)",
+                "Votes": 0
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P182",
+        "SeatName": "PENSIANGAN",
+        "info": {
+            "EligibleVoters": "18075",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "12",
+            "BumiNonmuslimVoters": "85",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "562",
+            "Turnout": "12271",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBRS",
+                "Name": "Bernard S Maraat",
+                "Votes": 5880,
+                "majority": 608
+            },
+            {
+                "Party": "IND",
+                "Name": "Martin Tommy",
+                "Votes": 5272
+            },
+            {
+                "Party": "SETIA",
+                "Name": "Razali Suffian Koroh",
+                "Votes": 557
+            }
+        ]
+    }
+}

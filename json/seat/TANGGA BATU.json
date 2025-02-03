@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P136",
+        "SeatName": "TANGGA BATU",
+        "info": {
+            "EligibleVoters": "115998",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "BAKRI JAMALUDDIN",
+                "Votes": 37406,
+                "NameBallot": "BAKRI JAMALUDDIN",
+                "majority": 8849
+            },
+            {
+                "Party": "PH",
+                "Name": "PROF. MADYA RUSNAH ALUAI",
+                "Votes": 28557,
+                "NameBallot": "PROF. MADYA RUSNAH ALUAI"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK LIM BAN HONG",
+                "Votes": 25095,
+                "NameBallot": "DATUK LIM BAN HONG"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "GHAZALI BIN ABU",
+                "Votes": 702,
+                "NameBallot": "GHAZALI BIN ABU"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SHAHRIL MAHMOOD",
+                "Votes": 267,
+                "NameBallot": "SHAHRIL MAHMOOD"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P136",
+        "SeatName": "TANGGA BATU",
+        "info": {
+            "EligibleVoters": "83213",
+            "MalayVoters": "71",
+            "ChineseVoters": "22",
+            "IndianVoters": "4",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "11741",
+            "Postal": "22",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "RUSNAH BINTI ALUAI",
+                "Votes": 32420,
+                "NameBallot": "PROF MADYA RUSNAH",
+                "majority": 4659
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ZALI BIN MAT YASIN",
+                "Votes": 27761,
+                "NameBallot": "DATUK ZALI MAT YASIN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZULKIFLI BIN ISMAIL",
+                "Votes": 8961,
+                "NameBallot": "TUAN GURU UST ZULKIFLI ISMAIL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P136",
+        "SeatName": "TANGGA BATU",
+        "info": {
+            "EligibleVoters": "73282",
+            "MalayVoters": "68",
+            "ChineseVoters": "25",
+            "IndianVoters": "4",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "986",
+            "Turnout": "64289",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ABU BAKAR BIN MOHAMAD DIAH",
+                "Votes": 39468,
+                "majority": 15633
+            },
+            {
+                "Party": "PKR",
+                "Name": "RAHIM BIN ALI",
+                "Votes": 23835
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P136",
+        "SeatName": "TANGGA BATU",
+        "info": {
+            "EligibleVoters": "60188",
+            "MalayVoters": "70",
+            "ChineseVoters": "25",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1283",
+            "Turnout": "49675",
+            "Unreturned": "1972"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK IDRIS HARON",
+                "Votes": 30460,
+                "majority": 14500
+            },
+            {
+                "Party": "PKR",
+                "Name": "ZAINON JAAFAR",
+                "Votes": 15960
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P136",
+        "SeatName": "TANGGA BATU",
+        "info": {
+            "EligibleVoters": "53291",
+            "MalayVoters": "67",
+            "ChineseVoters": "27",
+            "IndianVoters": "4",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1321",
+            "Turnout": "42955",
+            "Unreturned": "10"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "IDRIS HARON",
+                "Votes": 33039,
+                "majority": 24444
+            },
+            {
+                "Party": "PKR",
+                "Name": "SHAMSUL ISKANDAR MOHD AKIN",
+                "Votes": 8595
+            }
+        ]
+    }
+}

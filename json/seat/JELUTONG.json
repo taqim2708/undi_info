@@ -1,0 +1,216 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P50",
+        "SeatName": "JELUTONG",
+        "info": {
+            "EligibleVoters": "93989",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "SANISVARA NETHAJI RAYER (RSN RAYER)",
+                "Votes": 50369,
+                "NameBallot": "SANISVARA NETHAJI RAYER (RSN RAYER)",
+                "majority": 38604
+            },
+            {
+                "Party": "PN",
+                "Name": "BALJIT SINGH",
+                "Votes": 11765,
+                "NameBallot": "BALJIT SINGH"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK LOGANATHAN A/L THORAISAMY",
+                "Votes": 7387,
+                "NameBallot": "DATUK LOGANATHAN A/L THORAISAMY"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "YACOOB BIN NOOR",
+                "Votes": 480,
+                "NameBallot": "YACOOB BIN NOOR"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "LIM HUAT POH (MARTIN)",
+                "Votes": 442,
+                "NameBallot": "LIM HUAT POH (MARTIN)"
+            },
+            {
+                "Party": "PRM",
+                "Name": "KOH SWE YONG",
+                "Votes": 264,
+                "NameBallot": "KOH SWE YONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P50",
+        "SeatName": "JELUTONG",
+        "info": {
+            "EligibleVoters": "76991",
+            "MalayVoters": "23",
+            "ChineseVoters": "65",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "852",
+            "Postal": "13",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SANISVARA NETHAJI RAYER A/L RAJAJI",
+                "Votes": 50700,
+                "NameBallot": "SANISVARA NETHAJI RAYER A/L RAJAJI",
+                "majority": 38171
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "BALJIT SINGH A/L JIGIRI SINGH",
+                "Votes": 12529,
+                "NameBallot": "BALJIT SINGH"
+            },
+            {
+                "Party": "MU",
+                "Name": "TAN SIM BEE",
+                "Votes": 437,
+                "NameBallot": "TAN SIM BEE"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P50",
+        "SeatName": "JELUTONG",
+        "info": {
+            "EligibleVoters": "71247",
+            "MalayVoters": "22",
+            "ChineseVoters": "67",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "769",
+            "Turnout": "61441",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "OOI CHUAN AUN",
+                "Votes": 43211,
+                "majority": 25750
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "NG FOOK ON",
+                "Votes": 17461
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P50",
+        "SeatName": "JELUTONG",
+        "info": {
+            "EligibleVoters": "61181",
+            "MalayVoters": "20",
+            "ChineseVoters": "68",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "41",
+            "Turnout": "46406",
+            "Unreturned": "743"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "JEFF OOI",
+                "Votes": 30493,
+                "majority": 16246
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "DR THOR TEONG GEE",
+                "Votes": 14247
+            },
+            {
+                "Party": "IND",
+                "Name": "BADRUL ZAMAN PS MD ZAKARIAH",
+                "Votes": 882
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P50",
+        "SeatName": "JELUTONG",
+        "info": {
+            "EligibleVoters": "59641",
+            "MalayVoters": "20",
+            "ChineseVoters": "68",
+            "IndianVoters": "12",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1002",
+            "Turnout": "43538",
+            "Unreturned": "30"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "LEE KAH CHOON",
+                "Votes": 24988,
+                "majority": 7470
+            },
+            {
+                "Party": "DAP",
+                "Name": "GOOI SEONG KIN",
+                "Votes": 17518
+            }
+        ]
+    }
+}

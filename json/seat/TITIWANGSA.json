@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P119",
+        "SeatName": "TITIWANGSA",
+        "info": {
+            "EligibleVoters": "80747",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATUK SERI JOHARI GHANI",
+                "Votes": 25042,
+                "NameBallot": "DATUK SERI JOHARI GHANI",
+                "majority": 4632
+            },
+            {
+                "Party": "PH",
+                "Name": "KHALID ABD SAMAD",
+                "Votes": 20410,
+                "NameBallot": "KHALID ABD SAMAD"
+            },
+            {
+                "Party": "PN",
+                "Name": "DR. ROSNI ADAM",
+                "Votes": 14518,
+                "NameBallot": "DR. ROSNI ADAM"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATO' SRI KHAIRUDDIN BIN ABU HASSAN",
+                "Votes": 888,
+                "NameBallot": "DATO' SRI KHAIRUDDIN BIN ABU HASSAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P119",
+        "SeatName": "TITIWANGSA",
+        "info": {
+            "EligibleVoters": "61598",
+            "MalayVoters": "72",
+            "ChineseVoters": "17",
+            "IndianVoters": "9",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2695",
+            "Postal": "35",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "RINA BINTI MOHD HARUN",
+                "Votes": 23840,
+                "NameBallot": "RINA MOHD HARUN",
+                "majority": 4139
+            },
+            {
+                "Party": "UMNO",
+                "Name": "JOHARI BIN ABDUL GHANI",
+                "Votes": 19701,
+                "NameBallot": "DATUK SERI JOHARI GHANI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD NOOR BIN MOHAMAD",
+                "Votes": 6845,
+                "NameBallot": "HAJI MOHAMAD NOOR MOHAMAD"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P119",
+        "SeatName": "TITIWANGSA",
+        "info": {
+            "EligibleVoters": "55282",
+            "MalayVoters": "68",
+            "ChineseVoters": "20",
+            "IndianVoters": "10",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "311",
+            "Turnout": "45513",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "JOHARI BIN ABDUL GHANI",
+                "Votes": 23034,
+                "majority": 866
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHMAD ZAMRI BIN ASA'AD KHUZAMI",
+                "Votes": 22168
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P119",
+        "SeatName": "TITIWANGSA",
+        "info": {
+            "EligibleVoters": "49892",
+            "MalayVoters": "67",
+            "ChineseVoters": "24",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "191",
+            "Turnout": "33933",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DR LO' LO' MOHD GHAZALI",
+                "Votes": 17857,
+                "majority": 1972
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AZIZ JAMALUDDIN MOHD TAHIR",
+                "Votes": 15885
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P119",
+        "SeatName": "TITIWANGSA",
+        "info": {
+            "EligibleVoters": "52017",
+            "MalayVoters": "64",
+            "ChineseVoters": "24",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "189",
+            "Turnout": "34194",
+            "Unreturned": "786"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ASTAMAN ABDUL AZIZ",
+                "Votes": 22910,
+                "majority": 11815
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD NOOR MOHAMAD",
+                "Votes": 11095
+            }
+        ]
+    }
+}

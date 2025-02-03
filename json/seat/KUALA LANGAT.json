@@ -1,0 +1,216 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P112",
+        "SeatName": "KUALA LANGAT",
+        "info": {
+            "EligibleVoters": "148637",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DR AHMAD YUNUS HAIRI",
+                "Votes": 52867,
+                "NameBallot": "DR AHMAD YUNUS HAIRI",
+                "majority": 1833
+            },
+            {
+                "Party": "PH",
+                "Name": "MANIVANAN GOWIN",
+                "Votes": 51034,
+                "NameBallot": "MANIVANAN GOWIN"
+            },
+            {
+                "Party": "BN",
+                "Name": "MOHANA MUNIANDY",
+                "Votes": 18685,
+                "NameBallot": "MOHANA MUNIANDY"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MOHD RIDZUAN ABDULLAH",
+                "Votes": 591,
+                "NameBallot": "MOHD RIDZUAN ABDULLAH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HAJAH ZANARIAH JUMHURI",
+                "Votes": 512,
+                "NameBallot": "HAJAH ZANARIAH JUMHURI"
+            },
+            {
+                "Party": "PRM",
+                "Name": "GANESKUMAR",
+                "Votes": 171,
+                "NameBallot": "GANESKUMAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P112",
+        "SeatName": "KUALA LANGAT",
+        "info": {
+            "EligibleVoters": "102406",
+            "MalayVoters": "57",
+            "ChineseVoters": "24",
+            "IndianVoters": "16",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1166",
+            "Postal": "14",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "XAVIER JAYAKUMAR A/L ARULANANDAM",
+                "Votes": 43239,
+                "NameBallot": "DR XAVIER JAYAKUMAR",
+                "majority": 17112
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SHAHRIL SUFIAN BIN HAMDAN",
+                "Votes": 26127,
+                "NameBallot": "SHAHRIL HAMDAN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "YAHYA BIN BABA",
+                "Votes": 18731,
+                "NameBallot": "DATUK DR YAHYA BABA"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P112",
+        "SeatName": "KUALA LANGAT",
+        "info": {
+            "EligibleVoters": "88474",
+            "MalayVoters": "52",
+            "ChineseVoters": "26",
+            "IndianVoters": "17",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1517",
+            "Turnout": "78551",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ABDULLAH SANI BIN ABDUL HAMID",
+                "Votes": 40983,
+                "majority": 5358
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SHARUDDIN BIN OMAR",
+                "Votes": 35625
+            },
+            {
+                "Party": "IND",
+                "Name": "KOTTAPPAN A/L SUPPAIAH",
+                "Votes": 426
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P112",
+        "SeatName": "KUALA LANGAT",
+        "info": {
+            "EligibleVoters": "66515",
+            "MalayVoters": "55",
+            "ChineseVoters": "26",
+            "IndianVoters": "18",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "407",
+            "Turnout": "52792",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ABDULLAH SANI BIN ABDUL HAMID",
+                "Votes": 26687,
+                "majority": 989
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATO HJ SULAIMAN B MOHD KARLI",
+                "Votes": 25698
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P112",
+        "SeatName": "KUALA LANGAT",
+        "info": {
+            "EligibleVoters": "63151",
+            "MalayVoters": "52",
+            "ChineseVoters": "27",
+            "IndianVoters": "19",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1387",
+            "Turnout": "48128",
+            "Unreturned": "566"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK DR SHAFIE MOHD SALLEH",
+                "Votes": 34118,
+                "majority": 21495
+            },
+            {
+                "Party": "PKR",
+                "Name": "ZULKIFLI NOORDIN",
+                "Votes": 12623
+            }
+        ]
+    }
+}

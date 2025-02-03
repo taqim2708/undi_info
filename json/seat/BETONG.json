@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P204",
+        "SeatName": "BETONG",
+        "info": {
+            "EligibleVoters": "41743",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "DR. RICHARD RAPU",
+                "Votes": 16479,
+                "NameBallot": "DR. RICHARD RAPU",
+                "majority": 11302
+            },
+            {
+                "Party": "PH",
+                "Name": "PATRICK KAMIS @ HJ KAMENG",
+                "Votes": 5177,
+                "NameBallot": "PATRICK KAMIS @ HJ KAMENG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HASBIE BIN SATAR",
+                "Votes": 5057,
+                "NameBallot": "HASBIE BIN SATAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P204",
+        "SeatName": "BETONG",
+        "info": {
+            "EligibleVoters": "29145",
+            "MalayVoters": "0",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "38",
+            "BumiNonmuslimVoters": "55",
+            "SabahBumiVoters": "0",
+            "Early": "129",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "ROBERT LAWSON CHUAT",
+                "Votes": 12517,
+                "NameBallot": "ROBERT LAWSON CHUAT",
+                "majority": 8116
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ABANG AHMAD BIN ABANG SUNI",
+                "Votes": 4401,
+                "NameBallot": "ABANG AHMAD BIN ABANG SUNI"
+            },
+            {
+                "Party": "PKR",
+                "Name": "NOEL CHANGGAI BUCKING",
+                "Votes": 3802,
+                "NameBallot": "NOEL CHANGGAI BUCKING"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P204",
+        "SeatName": "BETONG",
+        "info": {
+            "EligibleVoters": "26322",
+            "MalayVoters": "0",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "50",
+            "BumiNonmuslimVoters": "43",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "315",
+            "Turnout": "20380",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "DOUGLAS UGGAH EMBAS",
+                "Votes": 15476,
+                "majority": 10887
+            },
+            {
+                "Party": "PKR",
+                "Name": "CECILIA SITI UNA @ SITTIE ENDEK",
+                "Votes": 4589
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P204",
+        "SeatName": "BETONG",
+        "info": {
+            "EligibleVoters": "22088",
+            "MalayVoters": "0",
+            "ChineseVoters": "5",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "246",
+            "Turnout": "15953",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "DATUK DOUGLAS UGGAH EMBAS",
+                "Votes": 13708,
+                "majority": 11709
+            },
+            {
+                "Party": "SNAP",
+                "Name": "EDMOND STANLEY JUGOL",
+                "Votes": 1999
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P204",
+        "SeatName": "BETONG",
+        "info": {
+            "EligibleVoters": "20737",
+            "MalayVoters": "12",
+            "ChineseVoters": "9",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "176",
+            "Turnout": "13689",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "Douglas Uggah Embas",
+                "Votes": 11618,
+                "majority": 9723
+            },
+            {
+                "Party": "SNAP",
+                "Name": "Abang Zulkifli Abang Engkeh",
+                "Votes": 1895
+            }
+        ]
+    }
+}

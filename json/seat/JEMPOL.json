@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P127",
+        "SeatName": "JEMPOL",
+        "info": {
+            "EligibleVoters": "95813",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "DATO' HAJI SHAMSHULKAHAR BIN HAJI MOHD DELI",
+                "Votes": 30138,
+                "NameBallot": "DATO' HAJI SHAMSHULKAHAR BIN HAJI MOHD DELI",
+                "majority": 5857
+            },
+            {
+                "Party": "PH",
+                "Name": "NORWANI AHMAT",
+                "Votes": 24281,
+                "NameBallot": "NORWANI AHMAT"
+            },
+            {
+                "Party": "PN",
+                "Name": "AFFENDY SALLEH",
+                "Votes": 16722,
+                "NameBallot": "AFFENDY SALLEH"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "TAN SRI KHALID YUNUS",
+                "Votes": 654,
+                "NameBallot": "TAN SRI KHALID YUNUS"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P127",
+        "SeatName": "JEMPOL",
+        "info": {
+            "EligibleVoters": "72122",
+            "MalayVoters": "64",
+            "ChineseVoters": "23",
+            "IndianVoters": "12",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "420",
+            "Postal": "6",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HAJI MOHD SALIM BIN SHARIF @ MOHD SHARIF",
+                "Votes": 26819,
+                "NameBallot": "DATO' HJ SALIM SHARIF",
+                "majority": 1631
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "KAMARULZAMAN BIN KAMDIAS",
+                "Votes": 25188,
+                "NameBallot": "KAMARULZAMAN KAMDIAS"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUSTAFFA BIN DAHARUN",
+                "Votes": 5267,
+                "NameBallot": "MUSTAFFA BIN DAHARUN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P127",
+        "SeatName": "JEMPOL",
+        "info": {
+            "EligibleVoters": "65213",
+            "MalayVoters": "60",
+            "ChineseVoters": "25",
+            "IndianVoters": "13",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1097",
+            "Turnout": "54701",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD ISA BIN ABDUL SAMAD",
+                "Votes": 31109,
+                "majority": 8614
+            },
+            {
+                "Party": "PAS",
+                "Name": "WAN AISHAH BINTI WAN ARIFFIN",
+                "Votes": 22495
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P127",
+        "SeatName": "JEMPOL",
+        "info": {
+            "EligibleVoters": "53478",
+            "MalayVoters": "58",
+            "ChineseVoters": "28",
+            "IndianVoters": "14",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1054",
+            "Turnout": "39322",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK LILAH YASIN",
+                "Votes": 25294,
+                "majority": 12320
+            },
+            {
+                "Party": "PAS",
+                "Name": "SITI MERIAM NAAN",
+                "Votes": 12974
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P127",
+        "SeatName": "JEMPOL",
+        "info": {
+            "EligibleVoters": "50553",
+            "MalayVoters": "57",
+            "ChineseVoters": "29",
+            "IndianVoters": "14",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1050",
+            "Turnout": "36690",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "TAN SRI MOHAMED ISA ABDUL SAMAD",
+                "Votes": 26360,
+                "majority": 17080
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD FOZI MOHD ZIN",
+                "Votes": 9280
+            }
+        ]
+    }
+}

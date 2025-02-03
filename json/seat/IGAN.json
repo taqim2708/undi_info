@@ -1,0 +1,140 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P207",
+        "SeatName": "IGAN",
+        "info": {
+            "EligibleVoters": "28290",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "AHMAD JOHNIE BIN ZAWAWI",
+                "Votes": 15824,
+                "NameBallot": "AHMAD JOHNIE BIN ZAWAWI",
+                "majority": 14662
+            },
+            {
+                "Party": "PH",
+                "Name": "HUD ANDRI",
+                "Votes": 1162,
+                "NameBallot": "HUD ANDRI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P207",
+        "SeatName": "IGAN",
+        "info": {
+            "EligibleVoters": "19592",
+            "MalayVoters": "0",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "7",
+            "BumiNonmuslimVoters": "89",
+            "SabahBumiVoters": "0",
+            "Early": "88",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "AHMAD JOHNIE BIN ZAWAWI",
+                "Votes": 10538,
+                "NameBallot": "AHMAD JOHNIE BIN ZAWAWI",
+                "majority": 8495
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "ANDRI ZULKARNAEN BIN HAMDEN",
+                "Votes": 2043,
+                "NameBallot": "HUD ANDRI"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P207",
+        "SeatName": "IGAN",
+        "info": {
+            "EligibleVoters": "17771",
+            "MalayVoters": "0",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "81",
+            "BumiNonmuslimVoters": "15",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "222",
+            "Turnout": "13865",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "WAHAB BIN HAJI DOLAH",
+                "Votes": 11896,
+                "majority": 10149
+            },
+            {
+                "Party": "PAS",
+                "Name": "AJIJI BIN FAUZAN",
+                "Votes": 1747
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P207",
+        "SeatName": "IGAN",
+        "info": {
+            "EligibleVoters": "15735",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "BN-PBB WALKOVER",
+                "Votes": 0
+            }
+        ]
+    }
+}

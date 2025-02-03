@@ -1,0 +1,256 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P115",
+        "SeatName": "BATU",
+        "info": {
+            "EligibleVoters": "113863",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "PRABAKARAN PARAMESWARAN",
+                "Votes": 45716,
+                "NameBallot": "PRABAKARAN PARAMESWARAN",
+                "majority": 22241
+            },
+            {
+                "Party": "PN",
+                "Name": "USTAZ AZHAR YAHYA",
+                "Votes": 23475,
+                "NameBallot": "USTAZ AZHAR YAHYA"
+            },
+            {
+                "Party": "BN",
+                "Name": "A. KOHILAN PILLAY",
+                "Votes": 10398,
+                "NameBallot": "A. KOHILAN PILLAY"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TIAN CHUA",
+                "Votes": 4603,
+                "NameBallot": "TIAN CHUA"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "WAN AZLIANA",
+                "Votes": 849,
+                "NameBallot": "WAN AZLIANA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SITI KASIM",
+                "Votes": 653,
+                "NameBallot": "SITI KASIM"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "NUR FATHIAH SYAZWANA @ CLEO",
+                "Votes": 628,
+                "NameBallot": "NUR FATHIAH SYAZWANA @ CLEO"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "NATHAN BATU",
+                "Votes": 575,
+                "NameBallot": "NATHAN BATU"
+            },
+            {
+                "Party": "PRM",
+                "Name": "ZULKIFLI FATTAH",
+                "Votes": 137,
+                "NameBallot": "ZULKIFLI FATTAH"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TOO GAO LAN",
+                "Votes": 112,
+                "NameBallot": "TOO GAO LAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P115",
+        "SeatName": "BATU",
+        "info": {
+            "EligibleVoters": "76328",
+            "MalayVoters": "43",
+            "ChineseVoters": "38",
+            "IndianVoters": "17",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "3614",
+            "Postal": "21",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BEBAS",
+                "Name": "PRABAKARAN A/L M PARAMESWARAN",
+                "Votes": 38125,
+                "NameBallot": "PRABAKARAN",
+                "majority": 24438
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "DOMINIC LAU HOE CHAI",
+                "Votes": 13687,
+                "NameBallot": "DR DOMINIC LAU HOE CHAI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "AZHAR BIN YAHYA",
+                "Votes": 10610,
+                "NameBallot": "AZHAR YAHYA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "VM PANJAMOTHY A/L MUTHUSAMY",
+                "Votes": 383,
+                "NameBallot": "DATUK V M PANJAMOTHY"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P115",
+        "SeatName": "BATU",
+        "info": {
+            "EligibleVoters": "85402",
+            "MalayVoters": "44",
+            "ChineseVoters": "38",
+            "IndianVoters": "16",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "606",
+            "Turnout": "71988",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "CHUA TIAN CHANG",
+                "Votes": 41672,
+                "majority": 13284
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "DOMINIC LAU HOE CHAI",
+                "Votes": 28388
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "HASHIM BIN ABDUL KARIM",
+                "Votes": 949
+            },
+            {
+                "Party": "IND",
+                "Name": "NAZARIAH BINTI ABBAS",
+                "Votes": 209
+            },
+            {
+                "Party": "IND",
+                "Name": "ATAN BIN JASIN",
+                "Votes": 164
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P115",
+        "SeatName": "BATU",
+        "info": {
+            "EligibleVoters": "70544",
+            "MalayVoters": "44",
+            "ChineseVoters": "41",
+            "IndianVoters": "14",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "614",
+            "Turnout": "51303",
+            "Unreturned": "574"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "CHUA TIAN CHANG",
+                "Votes": 29785,
+                "majority": 9455
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "LIM SI PIN",
+                "Votes": 20330
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P115",
+        "SeatName": "BATU",
+        "info": {
+            "EligibleVoters": "67652",
+            "MalayVoters": "42",
+            "ChineseVoters": "41",
+            "IndianVoters": "16",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "309",
+            "Turnout": "46228",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "NG LIP YONG @ NG LIP SAT",
+                "Votes": 28718,
+                "majority": 11517
+            },
+            {
+                "Party": "PKR",
+                "Name": "CHUA TIAN CHANG",
+                "Votes": 17201
+            }
+        ]
+    }
+}

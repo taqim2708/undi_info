@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P6",
+        "SeatName": "KUBANG PASU",
+        "info": {
+            "EligibleVoters": "108217",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DATO' WIRA DR KU ABD RAHMAN BIN KU ISMAIL",
+                "Votes": 47584,
+                "NameBallot": "DATO' WIRA DR KU ABD RAHMAN BIN KU ISMAIL",
+                "majority": 31584
+            },
+            {
+                "Party": "PH",
+                "Name": "AIZUDDIN ARIFFIN",
+                "Votes": 16000,
+                "NameBallot": "AIZUDDIN ARIFFIN"
+            },
+            {
+                "Party": "BN",
+                "Name": "HASMUNI BIN HASSAN (TOK MUNI)",
+                "Votes": 14489,
+                "NameBallot": "HASMUNI BIN HASSAN (TOK MUNI)"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AMIRUDDIN HAMZAH (TOK MET)",
+                "Votes": 5329,
+                "NameBallot": "AMIRUDDIN HAMZAH (TOK MET)"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P6",
+        "SeatName": "KUBANG PASU",
+        "info": {
+            "EligibleVoters": "73881",
+            "MalayVoters": "87",
+            "ChineseVoters": "9",
+            "IndianVoters": "4",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2650",
+            "Postal": "18",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "AMIRUDDIN BIN HAMZAH",
+                "Votes": 29984,
+                "NameBallot": "DATO' AMIRUDDIN HAMZAH",
+                "majority": 13009
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD JOHARI BIN BAHARUM",
+                "Votes": 16975,
+                "NameBallot": "DATO' SRI MOHD JOHARI BIN BAHARUM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NORHAFIZA BINTI FADZIL",
+                "Votes": 13375,
+                "NameBallot": "NORHAFIZA BINTI FADZIL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P6",
+        "SeatName": "KUBANG PASU",
+        "info": {
+            "EligibleVoters": "65550",
+            "MalayVoters": "86",
+            "ChineseVoters": "9",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "834",
+            "Turnout": "57058",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD JOHARI BIN BAHARUM",
+                "Votes": 33334,
+                "majority": 10444
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD JAMAL BIN NASIR",
+                "Votes": 22890
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P6",
+        "SeatName": "KUBANG PASU",
+        "info": {
+            "EligibleVoters": "53323",
+            "MalayVoters": "96",
+            "ChineseVoters": "3",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "928",
+            "Turnout": "42226",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MOHD JOHARI BAHARUM",
+                "Votes": 24179,
+                "majority": 7060
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR ISA ISMAIL",
+                "Votes": 17119
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P6",
+        "SeatName": "KUBANG PASU",
+        "info": {
+            "EligibleVoters": "49594",
+            "MalayVoters": "84",
+            "ChineseVoters": "10",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "919",
+            "Turnout": "40602",
+            "Unreturned": "81"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MOHD JOHARI BAHAROM",
+                "Votes": 26657,
+                "majority": 13712
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR ABDUL ISA ISMAIL",
+                "Votes": 12945
+            }
+        ]
+    }
+}

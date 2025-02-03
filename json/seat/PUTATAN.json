@@ -1,0 +1,226 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P173",
+        "SeatName": "PUTATAN",
+        "info": {
+            "EligibleVoters": "63173",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "SHAHELMEY BIN YAHYA",
+                "Votes": 16234,
+                "NameBallot": "SHAHELMEY BIN YAHYA",
+                "majority": 124
+            },
+            {
+                "Party": "PH",
+                "Name": "AWANG HUSAINI BIN SAHARI",
+                "Votes": 16110,
+                "NameBallot": "AWANG HUSAINI BIN SAHARI"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "AHMAD BIN MOHD SAID",
+                "Votes": 8511,
+                "NameBallot": "AHMAD BIN MOHD SAID"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "POYNE B. TUDUS @ PATRICK PAYNE",
+                "Votes": 394,
+                "NameBallot": "POYNE B. TUDUS @ PATRICK PAYNE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P173",
+        "SeatName": "PUTATAN",
+        "info": {
+            "EligibleVoters": "41312",
+            "MalayVoters": "24",
+            "ChineseVoters": "16",
+            "IndianVoters": "0",
+            "OtherVoters": "7",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "53",
+            "Early": "37567",
+            "Postal": "3740",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "AWANG HUSAINI BIN SAHARI",
+                "Votes": 14106,
+                "NameBallot": "AWANG HUSAINI BIN DATUK SAHARI",
+                "majority": 2339
+            },
+            {
+                "Party": "UPKO",
+                "Name": "MAKIN @ MARCUS MAJIGOH",
+                "Votes": 11767,
+                "NameBallot": "DATUK DR MARCUS MAKIN MOJIGOH"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ZULZAIM HILMEE ABIDIN",
+                "Votes": 2434,
+                "NameBallot": "ZULZAIM HILMEE ABIDIN"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "JIVOL @ EDMUND BIN DOUDILIM",
+                "Votes": 1755,
+                "NameBallot": "EDMUND JIVOL DOUDILIM"
+            },
+            {
+                "Party": "ANAK NEGERI",
+                "Name": "MIL KUSIN BIN ABDILLAH",
+                "Votes": 728,
+                "NameBallot": "MIL KUSIN ABDILLAH SULAI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P173",
+        "SeatName": "PUTATAN",
+        "info": {
+            "EligibleVoters": "37490",
+            "MalayVoters": "0",
+            "ChineseVoters": "19",
+            "IndianVoters": "0",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "63",
+            "BumiNonmuslimVoters": "15",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "665",
+            "Turnout": "29760",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "MAKIN @ MARCUS MOJIGOH",
+                "Votes": 17465,
+                "majority": 9507
+            },
+            {
+                "Party": "DAP",
+                "Name": "LEE HAN KYUN @ JOSEPH LEE",
+                "Votes": 7958
+            },
+            {
+                "Party": "STAR",
+                "Name": "AWANG AHMAD SAH",
+                "Votes": 2604
+            },
+            {
+                "Party": "SAPP",
+                "Name": "DULI @ DULLIE BIN MARI @ MARIE",
+                "Votes": 1068
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P173",
+        "SeatName": "PUTATAN",
+        "info": {
+            "EligibleVoters": "34935",
+            "MalayVoters": "0",
+            "ChineseVoters": "24",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "608",
+            "Turnout": "23296",
+            "Unreturned": "741"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "DATUK DR MARCUS MOJIGOH",
+                "Votes": 13737,
+                "majority": 6445
+            },
+            {
+                "Party": "PKR",
+                "Name": "SAUKINAH YUSOF",
+                "Votes": 7292
+            },
+            {
+                "Party": "IND",
+                "Name": "RAMZAH AHMAD",
+                "Votes": 918
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P173",
+        "SeatName": "PUTATAN",
+        "info": {
+            "EligibleVoters": "34123",
+            "MalayVoters": "0",
+            "ChineseVoters": "24",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "63",
+            "BumiNonmuslimVoters": "13",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "725",
+            "Turnout": "21252",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "Marcus Mojigoh",
+                "Votes": 13816,
+                "majority": 7832
+            },
+            {
+                "Party": "PKR",
+                "Name": "Awang Ahmad Sah",
+                "Votes": 5984
+            }
+        ]
+    }
+}

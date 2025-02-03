@@ -1,0 +1,211 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P88",
+        "SeatName": "TEMERLOH",
+        "info": {
+            "EligibleVoters": "106829",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "HJH SALAMIAH MOHD NOR",
+                "Votes": 30929,
+                "NameBallot": "HJH SALAMIAH MOHD NOR",
+                "majority": 5520
+            },
+            {
+                "Party": "PH",
+                "Name": "HASBIE MUDA",
+                "Votes": 25409,
+                "NameBallot": "HASBIE MUDA"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' SRI HJ MOHD SHARKAR BIN HJ SHAMSUDIN",
+                "Votes": 25191,
+                "NameBallot": "DATO' SRI HJ MOHD SHARKAR BIN HJ SHAMSUDIN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AMINUDDIN BIN YAHAYA",
+                "Votes": 1108,
+                "NameBallot": "AMINUDDIN BIN YAHAYA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P88",
+        "SeatName": "TEMERLOH",
+        "info": {
+            "EligibleVoters": "75081",
+            "MalayVoters": "67",
+            "ChineseVoters": "23",
+            "IndianVoters": "8",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "2942",
+            "Postal": "14",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "AMANAH",
+                "Name": "MOHD ANUAR BIN MOHD TAHIR",
+                "Votes": 23998,
+                "NameBallot": "HJ ANUAR TAHIR",
+                "majority": 1904
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD SHARKAR BIN SHAMSUDIN",
+                "Votes": 22094,
+                "NameBallot": "DATO' SRI HAJI MOHD SHARKAR BIN HAJI SHAMSUDIN"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MD JUSOH BIN DARUS",
+                "Votes": 14734,
+                "NameBallot": "HAJI MD JUSOH BIN DARUS"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MOHD KHAIDIR BIN AHMAD",
+                "Votes": 178,
+                "NameBallot": "KHAIDIR AHMAD"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MUHAMAD FAKHRUDIN BIN ABU HANIPAH",
+                "Votes": 46,
+                "NameBallot": "MUHD FAKHRUDIN B ABU HANIPAH"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P88",
+        "SeatName": "TEMERLOH",
+        "info": {
+            "EligibleVoters": "66105",
+            "MalayVoters": "64",
+            "ChineseVoters": "24",
+            "IndianVoters": "9",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "977",
+            "Turnout": "56441",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "NASRUDIN BIN HASSAN",
+                "Votes": 28267,
+                "majority": 1070
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SAIFUDDIN BIN ABDULLAH",
+                "Votes": 27197
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P88",
+        "SeatName": "TEMERLOH",
+        "info": {
+            "EligibleVoters": "54010",
+            "MalayVoters": "63",
+            "ChineseVoters": "27",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "924",
+            "Turnout": "41245",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SAIFUDDIN ABDULLAH",
+                "Votes": 21381,
+                "majority": 2441
+            },
+            {
+                "Party": "PKR",
+                "Name": "AHMAD NIZAM HAMID",
+                "Votes": 18940
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P88",
+        "SeatName": "TEMERLOH",
+        "info": {
+            "EligibleVoters": "49984",
+            "MalayVoters": "62",
+            "ChineseVoters": "27",
+            "IndianVoters": "9",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "884",
+            "Turnout": "37543",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MOHD SARIT YUSOH",
+                "Votes": 24633,
+                "majority": 12607
+            },
+            {
+                "Party": "PAS",
+                "Name": "IDRIS OMAR",
+                "Votes": 12026
+            }
+        ]
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P87",
+        "SeatName": "KUALA KRAU",
+        "info": {
+            "EligibleVoters": "60537",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "USTAZ HAJI KAMAL BIN ASHAARI",
+                "Votes": 22505,
+                "NameBallot": "USTAZ HAJI KAMAL BIN ASHAARI",
+                "majority": 1024
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' SRI DR HAJI ISMAIL BIN MOHAMED SAID",
+                "Votes": 21481,
+                "NameBallot": "DATO' SRI DR HAJI ISMAIL BIN MOHAMED SAID"
+            },
+            {
+                "Party": "PH",
+                "Name": "JUHARI OSMAN",
+                "Votes": 3593,
+                "NameBallot": "JUHARI OSMAN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "SHAHRUDDIN MOHAMED SALLEH",
+                "Votes": 174,
+                "NameBallot": "SHAHRUDDIN MOHAMED SALLEH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P87",
+        "SeatName": "KUALA KRAU",
+        "info": {
+            "EligibleVoters": "47264",
+            "MalayVoters": "90",
+            "ChineseVoters": "3",
+            "IndianVoters": "2",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "45",
+            "Postal": "3",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL BIN MOHAMED SAID",
+                "Votes": 18058,
+                "NameBallot": "DATO' SRI HAJI ISMAIL BIN HAJI MOHAMED SAID",
+                "majority": 2876
+            },
+            {
+                "Party": "PAS",
+                "Name": "KAMAL BIN ASHAARI ",
+                "Votes": 15182,
+                "NameBallot": "USTAZ HAJI KAMAL BIN ASHAARI"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MOHAMAD RAFIDEE BIN HASHIM",
+                "Votes": 5071,
+                "NameBallot": "MOHAMAD RAFIDEE"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P87",
+        "SeatName": "KUALA KRAU",
+        "info": {
+            "EligibleVoters": "43003",
+            "MalayVoters": "90",
+            "ChineseVoters": "3",
+            "IndianVoters": "3",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "603",
+            "Turnout": "37548",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL BIN MOHAMED SAID",
+                "Votes": 21575,
+                "majority": 6205
+            },
+            {
+                "Party": "PAS",
+                "Name": "SHAHRIL AZMAN BIN ABD HALIM",
+                "Votes": 15370
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P87",
+        "SeatName": "KUALA KRAU",
+        "info": {
+            "EligibleVoters": "34139",
+            "MalayVoters": "91",
+            "ChineseVoters": "4",
+            "IndianVoters": "3",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "479",
+            "Turnout": "27594",
+            "Unreturned": "50"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL MOHAMED SAID",
+                "Votes": 16165,
+                "majority": 5265
+            },
+            {
+                "Party": "PAS",
+                "Name": "KAMAL SHAARI",
+                "Votes": 10900
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P87",
+        "SeatName": "KUALA KRAU",
+        "info": {
+            "EligibleVoters": "31404",
+            "MalayVoters": "89",
+            "ChineseVoters": "4",
+            "IndianVoters": "4",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "487",
+            "Turnout": "25178",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL MOHAMED SAID",
+                "Votes": 16021,
+                "majority": 7351
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUSANIFF AB RAHMAN",
+                "Votes": 8670
+            }
+        ]
+    }
+}

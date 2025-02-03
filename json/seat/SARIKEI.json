@@ -1,0 +1,212 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P208",
+        "SeatName": "SARIKEI",
+        "info": {
+            "EligibleVoters": "55018",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "HUANG TIONG SII",
+                "Votes": 20080,
+                "NameBallot": "HUANG TIONG SII",
+                "majority": 3697
+            },
+            {
+                "Party": "DAP",
+                "Name": "RODERICK WONG SIEW LEAD",
+                "Votes": 16383,
+                "NameBallot": "RODERICK WONG SIEW LEAD"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P208",
+        "SeatName": "SARIKEI",
+        "info": {
+            "EligibleVoters": "39561",
+            "MalayVoters": "0",
+            "ChineseVoters": "63",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "5",
+            "BumiNonmuslimVoters": "32",
+            "SabahBumiVoters": "0",
+            "Early": "372",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "WONG LING BIU",
+                "Votes": 16327,
+                "NameBallot": "WONG LING BIU",
+                "majority": 2570
+            },
+            {
+                "Party": "SUPP",
+                "Name": "HUANG TIONG SII",
+                "Votes": 13757,
+                "NameBallot": "HUANG TIONG SII"
+            },
+            {
+                "Party": "PBK",
+                "Name": "WONG CHIN KING",
+                "Votes": 392,
+                "NameBallot": "WONG CHIN KING"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P208",
+        "SeatName": "SARIKEI",
+        "info": {
+            "EligibleVoters": "36550",
+            "MalayVoters": "0",
+            "ChineseVoters": "66",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "11",
+            "BumiNonmuslimVoters": "23",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "277",
+            "Turnout": "28298",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "WONG LING BIU",
+                "Votes": 14263,
+                "majority": 505
+            },
+            {
+                "Party": "SUPP",
+                "Name": "DING KUONG HIING",
+                "Votes": 13758
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P208",
+        "SeatName": "SARIKEI",
+        "info": {
+            "EligibleVoters": "31675",
+            "MalayVoters": "0",
+            "ChineseVoters": "67",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "176",
+            "Turnout": "22246",
+            "Unreturned": "179"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "DING KUONG HIING",
+                "Votes": 10588,
+                "majority": 51
+            },
+            {
+                "Party": "DAP",
+                "Name": "DR WONG HUA SEH",
+                "Votes": 10537
+            },
+            {
+                "Party": "IND",
+                "Name": "KUNG CHIN CHIN",
+                "Votes": 545
+            },
+            {
+                "Party": "IND",
+                "Name": "LAU KAIN CHAI",
+                "Votes": 116
+            },
+            {
+                "Party": "IND",
+                "Name": "NGU TIENG HAI",
+                "Votes": 105
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P207",
+        "SeatName": "SARIKEI",
+        "info": {
+            "EligibleVoters": "35880",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "237",
+            "Turnout": "22173",
+            "Unreturned": "34"
+        },
+        "candidates": [
+            {
+                "Party": "SUPP",
+                "Name": "Law Hieng Ding",
+                "Votes": 15485,
+                "majority": 11599
+            },
+            {
+                "Party": "IND",
+                "Name": "Ngu Tieng Hai",
+                "Votes": 3886
+            },
+            {
+                "Party": "IND",
+                "Name": "Ling Bit Tiing",
+                "Votes": 1667
+            },
+            {
+                "Party": "IND",
+                "Name": "Junak Jawek",
+                "Votes": 864
+            }
+        ]
+    }
+}

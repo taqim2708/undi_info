@@ -1,0 +1,221 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P15",
+        "SeatName": "SUNGAI PETANI",
+        "info": {
+            "EligibleVoters": "168847",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "DR. TAUFIQ BIN DATO' JOHARI",
+                "Votes": 50580,
+                "NameBallot": "DR. TAUFIQ BIN DATO' JOHARI",
+                "majority": 1115
+            },
+            {
+                "Party": "PN",
+                "Name": "DR. ROBERT LING",
+                "Votes": 49465,
+                "NameBallot": "DR. ROBERT LING"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' SHAHANIM BINTI MOHAMAD YUSOFF",
+                "Votes": 27391,
+                "NameBallot": "DATO' SHAHANIM BINTI MOHAMAD YUSOFF"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HJ. MARZUKI YAHYA",
+                "Votes": 2342,
+                "NameBallot": "HJ. MARZUKI YAHYA"
+            },
+            {
+                "Party": "PRM",
+                "Name": "TAN JOON LONG @ TAN CHOW KANG",
+                "Votes": 226,
+                "NameBallot": "TAN JOON LONG @ TAN CHOW KANG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P15",
+        "SeatName": "SUNGAI PETANI",
+        "info": {
+            "EligibleVoters": "112577",
+            "MalayVoters": "61",
+            "ChineseVoters": "27",
+            "IndianVoters": "12",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "157",
+            "Postal": "22",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "JOHARI BIN ABDUL",
+                "Votes": 45532,
+                "NameBallot": "DATO' JOHARI ABDUL",
+                "majority": 21569
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SHAHANIM BINTI MOHAMAD YUSOFF",
+                "Votes": 23963,
+                "NameBallot": "DATO' SHAHANIM BINTI MOHAMAD YUSOFF"
+            },
+            {
+                "Party": "PAS",
+                "Name": "SHARIR BIN LONG",
+                "Votes": 22760,
+                "NameBallot": "USTAZ SHARIR LONG"
+            },
+            {
+                "Party": "PRM",
+                "Name": "SRITHARAN A/L PICHATHU",
+                "Votes": 279,
+                "NameBallot": "P SRITHARAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P15",
+        "SeatName": "SUNGAI PETANI",
+        "info": {
+            "EligibleVoters": "93176",
+            "MalayVoters": "59",
+            "ChineseVoters": "29",
+            "IndianVoters": "12",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "959",
+            "Turnout": "80771",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "JOHARI BIN ABDUL",
+                "Votes": 44194,
+                "majority": 9548
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SYAMSYUL ANUAR BIN CHE MEY @ ISMAIL",
+                "Votes": 34646
+            },
+            {
+                "Party": "IND",
+                "Name": "ONG WEI SIN",
+                "Votes": 772
+            },
+            {
+                "Party": "KITA",
+                "Name": "SUHAIMI BIN HASHIM",
+                "Votes": 200
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P15",
+        "SeatName": "SUNGAI PETANI",
+        "info": {
+            "EligibleVoters": "76284",
+            "MalayVoters": "60",
+            "ChineseVoters": "29",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "986",
+            "Turnout": "59378",
+            "Unreturned": "129"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "JOHARI ABDUL",
+                "Votes": 33822,
+                "majority": 9381
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ZAINUDDIN MAIDIN",
+                "Votes": 24441
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P15",
+        "SeatName": "SUNGAI PETANI",
+        "info": {
+            "EligibleVoters": "70920",
+            "MalayVoters": "58",
+            "ChineseVoters": "31",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1007",
+            "Turnout": "55639",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK MAHADZIR MOHD KHIR",
+                "Votes": 36067,
+                "majority": 17502
+            },
+            {
+                "Party": "PKR",
+                "Name": "ZAMRI YUSOF",
+                "Votes": 18565
+            }
+        ]
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P138",
+        "SeatName": "KOTA MELAKA",
+        "info": {
+            "EligibleVoters": "164140",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "KHOO POAY TIONG",
+                "Votes": 73995,
+                "NameBallot": "KHOO POAY TIONG",
+                "majority": 46420
+            },
+            {
+                "Party": "PN",
+                "Name": "SUHAIME BORHAN",
+                "Votes": 27575,
+                "NameBallot": "SUHAIME BORHAN"
+            },
+            {
+                "Party": "BN",
+                "Name": "KON QI YAO",
+                "Votes": 20686,
+                "NameBallot": "KON QI YAO"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DATO' DR. NORAZLAN",
+                "Votes": 925,
+                "NameBallot": "DATO' DR. NORAZLAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P138",
+        "SeatName": "KOTA MELAKA",
+        "info": {
+            "EligibleVoters": "126848",
+            "MalayVoters": "38",
+            "ChineseVoters": "57",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "796",
+            "Postal": "40",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "KHOO POAY TIONG",
+                "Votes": 76518,
+                "NameBallot": "KHOO POAY TIONG",
+                "majority": 49175
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHOO WEI SERN",
+                "Votes": 27343,
+                "NameBallot": "ERIC CHOO WEI SERN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "GOH LEONG SAN",
+                "Votes": 1415,
+                "NameBallot": "GOH LEONG SAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P138",
+        "SeatName": "KOTA MELAKA",
+        "info": {
+            "EligibleVoters": "92322",
+            "MalayVoters": "36",
+            "ChineseVoters": "59",
+            "IndianVoters": "4",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1168",
+            "Turnout": "79464",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SIM TONG HIM",
+                "Votes": 49521,
+                "majority": 20746
+            },
+            {
+                "Party": "MCA",
+                "Name": "YEE KOK WAH",
+                "Votes": 28775
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P138",
+        "SeatName": "KOTA MELAKA",
+        "info": {
+            "EligibleVoters": "84805",
+            "MalayVoters": "33",
+            "ChineseVoters": "62",
+            "IndianVoters": "3",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1448",
+            "Turnout": "67479",
+            "Unreturned": "141"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "SIM TONG HIM",
+                "Votes": 38640,
+                "majority": 11390
+            },
+            {
+                "Party": "MCA",
+                "Name": "WONG NAI CHEE",
+                "Votes": 27250
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "MK",
+        "ParliamentCode": "P138",
+        "SeatName": "KOTA MELAKA",
+        "info": {
+            "EligibleVoters": "82781",
+            "MalayVoters": "31",
+            "ChineseVoters": "64",
+            "IndianVoters": "4",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1959",
+            "Turnout": "64174",
+            "Unreturned": "217"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "WONG NAI CHEE",
+                "Votes": 31217,
+                "majority": 219
+            },
+            {
+                "Party": "DAP",
+                "Name": "KERK KIM HOCK",
+                "Votes": 30998
+            }
+        ]
+    }
+}

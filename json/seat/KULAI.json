@@ -1,0 +1,198 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P163",
+        "SeatName": "KULAI",
+        "info": {
+            "EligibleVoters": "151247",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "TEO NIE CHING",
+                "Votes": 65529,
+                "NameBallot": "TEO NIE CHING",
+                "majority": 36023
+            },
+            {
+                "Party": "BN",
+                "Name": "CHUA JIAN BOON",
+                "Votes": 29506,
+                "NameBallot": "CHUA JIAN BOON"
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO' TAN",
+                "Votes": 20218,
+                "NameBallot": "DATO' TAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P163",
+        "SeatName": "KULAI",
+        "info": {
+            "EligibleVoters": "99147",
+            "MalayVoters": "35",
+            "ChineseVoters": "54",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "738",
+            "Postal": "23",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TEO NIE CHING",
+                "Votes": 55312,
+                "NameBallot": "TEO NIE CHING",
+                "majority": 32748
+            },
+            {
+                "Party": "MCA",
+                "Name": "TANG NAI SOON",
+                "Votes": 22564,
+                "NameBallot": "TANG NAI SOON"
+            },
+            {
+                "Party": "PAS",
+                "Name": "JUWAHIR BIN AMIN",
+                "Votes": 6667,
+                "NameBallot": "USTAZ JUWAHIR BIN AMIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P163",
+        "SeatName": "KULAI",
+        "info": {
+            "EligibleVoters": "83991",
+            "MalayVoters": "33",
+            "ChineseVoters": "56",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1432",
+            "Turnout": "74896",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TEO NIE CHING",
+                "Votes": 43338,
+                "majority": 13450
+            },
+            {
+                "Party": "MCA",
+                "Name": "TAY CHIN HEIN",
+                "Votes": 29888
+            },
+            {
+                "Party": "IND",
+                "Name": "SURENDIRAN A/L KUPPAYAH",
+                "Votes": 238
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P163",
+        "SeatName": "KULAI",
+        "info": {
+            "EligibleVoters": "67358",
+            "MalayVoters": "32",
+            "ChineseVoters": "59",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1327",
+            "Turnout": "53676",
+            "Unreturned": "59"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "ONG KA TING",
+                "Votes": 32017,
+                "majority": 11744
+            },
+            {
+                "Party": "DAP",
+                "Name": "NG PAK SIONG",
+                "Votes": 20273
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P163",
+        "SeatName": "KULAI",
+        "info": {
+            "EligibleVoters": "62273",
+            "MalayVoters": "32",
+            "ChineseVoters": "59",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1935",
+            "Turnout": "48377",
+            "Unreturned": "30"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "LIM SI CHENG",
+                "Votes": 32278,
+                "majority": 18144
+            },
+            {
+                "Party": "DAP",
+                "Name": "ONG KOW MENG",
+                "Votes": 14134
+            }
+        ]
+    }
+}

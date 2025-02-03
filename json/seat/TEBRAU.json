@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P158",
+        "SeatName": "TEBRAU",
+        "info": {
+            "EligibleVoters": "223301",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "JIMMY PUAH WEE TSE",
+                "Votes": 83959,
+                "NameBallot": "JIMMY PUAH WEE TSE",
+                "majority": 30720
+            },
+            {
+                "Party": "PN",
+                "Name": "MOHAMAD ISA BIN MOHAMAD BASIR",
+                "Votes": 53239,
+                "NameBallot": "MOHAMAD ISA BIN MOHAMAD BASIR"
+            },
+            {
+                "Party": "BN",
+                "Name": "NICOLE WONG",
+                "Votes": 30767,
+                "NameBallot": "NICOLE WONG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P158",
+        "SeatName": "TEBRAU",
+        "info": {
+            "EligibleVoters": "123033",
+            "MalayVoters": "48",
+            "ChineseVoters": "39",
+            "IndianVoters": "12",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "221",
+            "Postal": "19",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "CHOONG SHIAU YOON",
+                "Votes": 64535,
+                "NameBallot": "STEVEN CHOONG",
+                "majority": 37225
+            },
+            {
+                "Party": "MCA",
+                "Name": "HOU KOK CHUNG",
+                "Votes": 27310,
+                "NameBallot": "HOU KOK CHUNG"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDULLAH BIN HUSIN",
+                "Votes": 12098,
+                "NameBallot": "USTAZ ABDULLAH HUSIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P158",
+        "SeatName": "TEBRAU",
+        "info": {
+            "EligibleVoters": "90482",
+            "MalayVoters": "47",
+            "ChineseVoters": "38",
+            "IndianVoters": "13",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1551",
+            "Turnout": "79754",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "KHOO SOO SEANG",
+                "Votes": 39985,
+                "majority": 1767
+            },
+            {
+                "Party": "PKR",
+                "Name": "CHOONG SHIAU YOON",
+                "Votes": 38218
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P158",
+        "SeatName": "TEBRAU",
+        "info": {
+            "EligibleVoters": "62505",
+            "MalayVoters": "49",
+            "ChineseVoters": "37",
+            "IndianVoters": "13",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1525",
+            "Turnout": "48587",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "LING BAN SAN @ TENG BOON SOON",
+                "Votes": 30860,
+                "majority": 14658
+            },
+            {
+                "Party": "PAS",
+                "Name": "ROSLAINI SARIF",
+                "Votes": 16202
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P158",
+        "SeatName": "TEBRAU",
+        "info": {
+            "EligibleVoters": "52644",
+            "MalayVoters": "51",
+            "ChineseVoters": "35",
+            "IndianVoters": "14",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1101",
+            "Turnout": "39261",
+            "Unreturned": "29"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "LING BAN SAN @ TENG BOON SOON",
+                "Votes": 32071,
+                "majority": 26011
+            },
+            {
+                "Party": "PAS",
+                "Name": "YAAKOB MOHD YUSOF",
+                "Votes": 6060
+            }
+        ]
+    }
+}

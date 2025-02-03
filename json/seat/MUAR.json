@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P146",
+        "SeatName": "MUAR",
+        "info": {
+            "EligibleVoters": "68925",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MUDA",
+                "Name": "SYED SADDIQ",
+                "Votes": 19961,
+                "NameBallot": "SYED SADDIQ",
+                "majority": 1345
+            },
+            {
+                "Party": "PN",
+                "Name": "USTAZ ABDULLAH HUSIN",
+                "Votes": 18616,
+                "NameBallot": "USTAZ ABDULLAH HUSIN"
+            },
+            {
+                "Party": "BN",
+                "Name": "MOHD HELMY ABD.LATIF",
+                "Votes": 14581,
+                "NameBallot": "MOHD HELMY ABD.LATIF"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P146",
+        "SeatName": "MUAR",
+        "info": {
+            "EligibleVoters": "50843",
+            "MalayVoters": "67",
+            "ChineseVoters": "32",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "643",
+            "Postal": "13",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "SYED SADDIQ BIN SYED ABDUL RAHMAN",
+                "Votes": 22341,
+                "NameBallot": "SYED SADDIQ",
+                "majority": 6953
+            },
+            {
+                "Party": "UMNO",
+                "Name": "RAZALI BIN IBRAHIM",
+                "Votes": 15388,
+                "NameBallot": "DATUK SERI RAZALI BIN IBRAHIM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL AZIZ BIN TALIB",
+                "Votes": 4354,
+                "NameBallot": "CIKGU HAJI ABDUL AZIZ BIN TALIB"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P146",
+        "SeatName": "MUAR",
+        "info": {
+            "EligibleVoters": "48208",
+            "MalayVoters": "62",
+            "ChineseVoters": "35",
+            "IndianVoters": "1",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "804",
+            "Turnout": "40892",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "RAZALI BIN IBRAHIM",
+                "Votes": 20867,
+                "majority": 1646
+            },
+            {
+                "Party": "PKR",
+                "Name": "NOR HIZWAN BIN AHMAD",
+                "Votes": 19221
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P146",
+        "SeatName": "MUAR",
+        "info": {
+            "EligibleVoters": "41019",
+            "MalayVoters": "62",
+            "ChineseVoters": "36",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "902",
+            "Turnout": "30275",
+            "Unreturned": "62"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "RAZALI IBRAHIM",
+                "Votes": 16986,
+                "majority": 4661
+            },
+            {
+                "Party": "PKR",
+                "Name": "NAH BUDIN",
+                "Votes": 12325
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P146",
+        "SeatName": "MUAR",
+        "info": {
+            "EligibleVoters": "42130",
+            "MalayVoters": "62",
+            "ChineseVoters": "36",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "872",
+            "Turnout": "29770",
+            "Unreturned": "81"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "RAZALI IBRAHIM",
+                "Votes": 21116,
+                "majority": 13415
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD TAIB",
+                "Votes": 7701
+            }
+        ]
+    }
+}

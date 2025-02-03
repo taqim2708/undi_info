@@ -1,0 +1,219 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P169",
+        "SeatName": "KOTA BELUD",
+        "info": {
+            "EligibleVoters": "79885",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "MUNIRAH MAJILIS",
+                "Votes": 25148,
+                "NameBallot": "MUNIRAH MAJILIS",
+                "majority": 4582
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK SERI PANGLIMA  ABD RAHMAN BIN DAHLAN",
+                "Votes": 20566,
+                "NameBallot": "DATUK SERI PANGLIMA  ABD RAHMAN BIN DAHLAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "MADELI @ MODILY BIN BANGALI",
+                "Votes": 8323,
+                "NameBallot": "MADELI @ MODILY BIN BANGALI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P169",
+        "SeatName": "KOTA BELUD",
+        "info": {
+            "EligibleVoters": "57919",
+            "MalayVoters": "5",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "90",
+            "Early": "57560",
+            "Postal": "357",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "WARISAN",
+                "Name": "ISNARAISSAH MUNIRAH BT MAJILIS @ FAKHARUDY",
+                "Votes": 23429,
+                "NameBallot": "MUNIRAH MAJILIS",
+                "majority": 4262
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MD SALLEH MD SAID",
+                "Votes": 19167,
+                "NameBallot": "SALLEH SAID KERUAK"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "MIASIN@AIMADUDDIN BIN MION",
+                "Votes": 2092,
+                "NameBallot": "MIASIN@AIMADUDDIN BIN MION"
+            },
+            {
+                "Party": "PAS",
+                "Name": "LAIMAN BIN IKIN @ AG LAIMAN BKAKIMIN",
+                "Votes": 1410,
+                "NameBallot": "HJ AG LAIMAN BIN HJ IKIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P169",
+        "SeatName": "KOTA BELUD",
+        "info": {
+            "EligibleVoters": "51467",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "59",
+            "BumiNonmuslimVoters": "39",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1109",
+            "Turnout": "43423",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATO' ABD RAHMAN BIN DAHLAN",
+                "Votes": 21768,
+                "majority": 5095
+            },
+            {
+                "Party": "PKR",
+                "Name": "ISNARAISSAH MUNIRAH BT MAJILIS @ FAKHARUDY",
+                "Votes": 16673
+            },
+            {
+                "Party": "STAR",
+                "Name": "JALUMIN BIN BAYOGOH",
+                "Votes": 2709
+            },
+            {
+                "Party": "IND",
+                "Name": "LAMSIL BIN AMIDSOR",
+                "Votes": 979
+            },
+            {
+                "Party": "IND",
+                "Name": "KANUL BIN GINDOL",
+                "Votes": 185
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P169",
+        "SeatName": "KOTA BELUD",
+        "info": {
+            "EligibleVoters": "43071",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1046",
+            "Turnout": "33710",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL RAHMAN DAHLAN",
+                "Votes": 17842,
+                "majority": 3020
+            },
+            {
+                "Party": "PKR",
+                "Name": "SAIDIL SIMOI",
+                "Votes": 14822
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P169",
+        "SeatName": "KOTA BELUD",
+        "info": {
+            "EligibleVoters": "41065",
+            "MalayVoters": "0",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "59",
+            "BumiNonmuslimVoters": "39",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1091",
+            "Turnout": "31100",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Salleh Said Keruak",
+                "Votes": 19185,
+                "majority": 10229
+            },
+            {
+                "Party": "IND",
+                "Name": "James Bagah",
+                "Votes": 8956
+            },
+            {
+                "Party": "SETIA",
+                "Name": "Jainin Giau",
+                "Votes": 1586
+            }
+        ]
+    }
+}

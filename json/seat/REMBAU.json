@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P131",
+        "SeatName": "REMBAU",
+        "info": {
+            "EligibleVoters": "133555",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "TOK MAT",
+                "Votes": 53075,
+                "NameBallot": "TOK MAT",
+                "majority": 19897
+            },
+            {
+                "Party": "PH",
+                "Name": "JUFITRI JOHA",
+                "Votes": 33178,
+                "NameBallot": "JUFITRI JOHA"
+            },
+            {
+                "Party": "PN",
+                "Name": "HJ. NAZREE YUNUS",
+                "Votes": 21875,
+                "NameBallot": "HJ. NAZREE YUNUS"
+            },
+            {
+                "Party": "PSM",
+                "Name": "CIKGU TINA",
+                "Votes": 779,
+                "NameBallot": "CIKGU TINA"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "RAMLY BIN AWALLUDIN",
+                "Votes": 529,
+                "NameBallot": "RAMLY BIN AWALLUDIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P131",
+        "SeatName": "REMBAU",
+        "info": {
+            "EligibleVoters": "88365",
+            "MalayVoters": "74",
+            "ChineseVoters": "10",
+            "IndianVoters": "15",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1153",
+            "Postal": "43",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "KHAIRY JAMALUDDIN BIN ABU BAKAR",
+                "Votes": 36096,
+                "NameBallot": "KHAIRY JAMALUDDIN",
+                "majority": 4364
+            },
+            {
+                "Party": "PKR",
+                "Name": "ROSELI BIN ABDUL GANI",
+                "Votes": 31732,
+                "NameBallot": "LT KOL ROSELI BIN ABDUL GANI (B)"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUSTAFA BIN DOLAH",
+                "Votes": 6028,
+                "NameBallot": "MUSTAFA"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P131",
+        "SeatName": "REMBAU",
+        "info": {
+            "EligibleVoters": "79661",
+            "MalayVoters": "70",
+            "ChineseVoters": "12",
+            "IndianVoters": "16",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1214",
+            "Turnout": "69288",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "KHAIRY JAMALUDDIN ABU BAKAR",
+                "Votes": 43053,
+                "majority": 18357
+            },
+            {
+                "Party": "PKR",
+                "Name": "RADZALI BIN A GHANI",
+                "Votes": 24696
+            },
+            {
+                "Party": "IND",
+                "Name": "ABDUL AZIZ BIN HASSAN",
+                "Votes": 325
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P131",
+        "SeatName": "REMBAU",
+        "info": {
+            "EligibleVoters": "62896",
+            "MalayVoters": "69",
+            "ChineseVoters": "15",
+            "IndianVoters": "16",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1086",
+            "Turnout": "48901",
+            "Unreturned": "511"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "KHAIRY JAMALUDDIN ABU BAKAR",
+                "Votes": 26525,
+                "majority": 5746
+            },
+            {
+                "Party": "PKR",
+                "Name": "BADRUL HISHAM SHAHARIN",
+                "Votes": 20779
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P131",
+        "SeatName": "REMBAU",
+        "info": {
+            "EligibleVoters": "53537",
+            "MalayVoters": "70",
+            "ChineseVoters": "15",
+            "IndianVoters": "15",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1114",
+            "Turnout": "39786",
+            "Unreturned": "80"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK FIRDAUS MUHAMMAD ROM HARUN",
+                "Votes": 28664,
+                "majority": 18656
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR DZULKEFLI AHMAD",
+                "Votes": 10008
+            }
+        ]
+    }
+}

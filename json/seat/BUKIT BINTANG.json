@@ -1,0 +1,203 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P120",
+        "SeatName": "BUKIT BINTANG",
+        "info": {
+            "EligibleVoters": "79782",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "FONG KUI LUN",
+                "Votes": 43827,
+                "NameBallot": "FONG KUI LUN",
+                "majority": 38977
+            },
+            {
+                "Party": "BN",
+                "Name": "TAN TEIK PENG",
+                "Votes": 4850,
+                "NameBallot": "TAN TEIK PENG"
+            },
+            {
+                "Party": "PN",
+                "Name": "EDWIN CHEN",
+                "Votes": 4259,
+                "NameBallot": "EDWIN CHEN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P120",
+        "SeatName": "BUKIT BINTANG",
+        "info": {
+            "EligibleVoters": "69526",
+            "MalayVoters": "13",
+            "ChineseVoters": "75",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "3769",
+            "Postal": "20",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "FONG KUI LUN",
+                "Votes": 44516,
+                "NameBallot": "FONG KUI LUN",
+                "majority": 37260
+            },
+            {
+                "Party": "MCA",
+                "Name": "TAN EAN EAN",
+                "Votes": 7256,
+                "NameBallot": "ANN TAN EAN EAN"
+            },
+            {
+                "Party": "PFP",
+                "Name": "KHAIRUL HUSNI BIN OTHMAN",
+                "Votes": 636,
+                "NameBallot": "KHAIRUL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P120",
+        "SeatName": "BUKIT BINTANG",
+        "info": {
+            "EligibleVoters": "55721",
+            "MalayVoters": "14",
+            "ChineseVoters": "73",
+            "IndianVoters": "11",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "355",
+            "Turnout": "41772",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "FONG KUI LUN",
+                "Votes": 30408,
+                "majority": 19399
+            },
+            {
+                "Party": "MCA",
+                "Name": "GAN JOON ZIN",
+                "Votes": 11009
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P120",
+        "SeatName": "BUKIT BINTANG",
+        "info": {
+            "EligibleVoters": "59986",
+            "MalayVoters": "15",
+            "ChineseVoters": "75",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "466",
+            "Turnout": "40441",
+            "Unreturned": "630"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "FONG KUI LUN",
+                "Votes": 26811,
+                "majority": 14277
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEE CHONG MENG",
+                "Votes": 12534
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P120",
+        "SeatName": "BUKIT BINTANG",
+        "info": {
+            "EligibleVoters": "65112",
+            "MalayVoters": "13",
+            "ChineseVoters": "76",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "298",
+            "Turnout": "39439",
+            "Unreturned": "499"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "FONG KUI LUN",
+                "Votes": 19103,
+                "majority": 304
+            },
+            {
+                "Party": "MCA",
+                "Name": "TAN CHEW MOOI",
+                "Votes": 18799
+            },
+            {
+                "Party": "MDP",
+                "Name": "WEE CHOO KEONG",
+                "Votes": 1107
+            },
+            {
+                "Party": "IND",
+                "Name": "BILLI LIM PENG SOON",
+                "Votes": 132
+            }
+        ]
+    }
+}

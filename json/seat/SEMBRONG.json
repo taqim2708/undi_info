@@ -1,0 +1,187 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P153",
+        "SeatName": "SEMBRONG",
+        "info": {
+            "EligibleVoters": "54982",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "HISHAMMUDDIN HUSSEIN",
+                "Votes": 22572,
+                "NameBallot": "HISHAMMUDDIN HUSSEIN",
+                "majority": 10880
+            },
+            {
+                "Party": "PH",
+                "Name": "HASNI ABAS",
+                "Votes": 11692,
+                "NameBallot": "HASNI ABAS"
+            },
+            {
+                "Party": "PN",
+                "Name": "JOE AZIZ",
+                "Votes": 6666,
+                "NameBallot": "JOE AZIZ"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P153",
+        "SeatName": "SEMBRONG",
+        "info": {
+            "EligibleVoters": "44137",
+            "MalayVoters": "61",
+            "ChineseVoters": "29",
+            "IndianVoters": "9",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "51",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HISHAMMUDDIN BIN HUSSEIN ONN",
+                "Votes": 21353,
+                "NameBallot": "DATO' SERI HISHAMMUDDIN TUN HUSSEIN",
+                "majority": 6662
+            },
+            {
+                "Party": "PKR",
+                "Name": "ONN BIN ABU BAKAR",
+                "Votes": 14691,
+                "NameBallot": "ONN BIN ABU BAKAR"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P153",
+        "SeatName": "SEMBRONG",
+        "info": {
+            "EligibleVoters": "41588",
+            "MalayVoters": "58",
+            "ChineseVoters": "31",
+            "IndianVoters": "9",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "809",
+            "Turnout": "35860",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HISHAMMUDDIN BIN DATUK HUSSEIN",
+                "Votes": 22841,
+                "majority": 10631
+            },
+            {
+                "Party": "PKR",
+                "Name": "ONN BIN ABU BAKAR",
+                "Votes": 12210
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P153",
+        "SeatName": "SEMBRONG",
+        "info": {
+            "EligibleVoters": "33181",
+            "MalayVoters": "54",
+            "ChineseVoters": "36",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "739",
+            "Turnout": "25211",
+            "Unreturned": "66"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI HISHAMMUDDIN TUN HUSSEIN",
+                "Votes": 17988,
+                "majority": 11570
+            },
+            {
+                "Party": "PKR",
+                "Name": "LEE SANG",
+                "Votes": 6418
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P153",
+        "SeatName": "SEMBRONG",
+        "info": {
+            "EligibleVoters": "30767",
+            "MalayVoters": "50",
+            "ChineseVoters": "39",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "760",
+            "Turnout": "22956",
+            "Unreturned": "24"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK HISHAMUDDIN TUN HUSSEIN",
+                "Votes": 19575,
+                "majority": 16978
+            },
+            {
+                "Party": "PAS",
+                "Name": "ONN JAAFAR",
+                "Votes": 2597
+            }
+        ]
+    }
+}

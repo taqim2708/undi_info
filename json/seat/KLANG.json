@@ -1,0 +1,223 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P110",
+        "SeatName": "KLANG",
+        "info": {
+            "EligibleVoters": "208913",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "GANABATIRAU A/L VERAMAN",
+                "Votes": 115539,
+                "NameBallot": "GANABATIRAU A/L VERAMAN",
+                "majority": 91801
+            },
+            {
+                "Party": "PN",
+                "Name": "DR JAYA",
+                "Votes": 23738,
+                "NameBallot": "DR JAYA"
+            },
+            {
+                "Party": "BN",
+                "Name": "TEE HOOI LING",
+                "Votes": 19762,
+                "NameBallot": "TEE HOOI LING"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HEDRHIN RAMLI @ AWIN",
+                "Votes": 3016,
+                "NameBallot": "HEDRHIN RAMLI @ AWIN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "DR. LOO CHENG WEE",
+                "Votes": 1140,
+                "NameBallot": "DR. LOO CHENG WEE"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DEEPAK JAIKISHAN",
+                "Votes": 439,
+                "NameBallot": "DEEPAK JAIKISHAN"
+            },
+            {
+                "Party": "PRM",
+                "Name": "CHANDRASEGAR",
+                "Votes": 271,
+                "NameBallot": "CHANDRASEGAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P110",
+        "SeatName": "KLANG",
+        "info": {
+            "EligibleVoters": "149348",
+            "MalayVoters": "27",
+            "ChineseVoters": "55",
+            "IndianVoters": "17",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1283",
+            "Postal": "43",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHARLES ANTHONY A/L R SANTIAGO",
+                "Votes": 98279,
+                "NameBallot": "CHARLES SANTIAGO",
+                "majority": 78773
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHING EU BOON",
+                "Votes": 19506,
+                "NameBallot": "DATO' CHING EU BOON"
+            },
+            {
+                "Party": "PAS",
+                "Name": "KHAIRUL SHAH BIN ABDULLAH",
+                "Votes": 9169,
+                "NameBallot": "KHAIRUL SHAH KOTTAPPAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "PUVANANDERAN A/L GANASAMOORTHY",
+                "Votes": 120,
+                "NameBallot": "PUVANANDERAN A/L GANASAMOORTHY"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P110",
+        "SeatName": "KLANG",
+        "info": {
+            "EligibleVoters": "97073",
+            "MalayVoters": "32",
+            "ChineseVoters": "46",
+            "IndianVoters": "20",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1343",
+            "Turnout": "84096",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHARLES ANTHONY A/L R SANTIAGO",
+                "Votes": 53719,
+                "majority": 24685
+            },
+            {
+                "Party": "MCA",
+                "Name": "TEH KIM POO",
+                "Votes": 29034
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P110",
+        "SeatName": "KLANG",
+        "info": {
+            "EligibleVoters": "77816",
+            "MalayVoters": "34",
+            "ChineseVoters": "47",
+            "IndianVoters": "19",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1036",
+            "Turnout": "59323",
+            "Unreturned": "8"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHARLES SANTIAGO",
+                "Votes": 37990,
+                "majority": 17701
+            },
+            {
+                "Party": "MCA",
+                "Name": "CH'NG TOH ENG",
+                "Votes": 20289
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P110",
+        "SeatName": "KLANG",
+        "info": {
+            "EligibleVoters": "74062",
+            "MalayVoters": "33",
+            "ChineseVoters": "47",
+            "IndianVoters": "19",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1215",
+            "Turnout": "52210",
+            "Unreturned": "55"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATIN PADUKA DR TAN YEE KEW",
+                "Votes": 32138,
+                "majority": 13281
+            },
+            {
+                "Party": "DAP",
+                "Name": "DR WONG ANG PENG",
+                "Votes": 18857
+            }
+        ]
+    }
+}

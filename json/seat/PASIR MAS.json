@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P22",
+        "SeatName": "PASIR MAS",
+        "info": {
+            "EligibleVoters": "94544",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "USTAZ FADHLI SHAARI",
+                "Votes": 44444,
+                "NameBallot": "USTAZ FADHLI SHAARI",
+                "majority": 30717
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO GHANI",
+                "Votes": 13727,
+                "NameBallot": "DATO GHANI"
+            },
+            {
+                "Party": "PH",
+                "Name": "DATUK HUSAM",
+                "Votes": 6439,
+                "NameBallot": "DATUK HUSAM"
+            },
+            {
+                "Party": "PUTRA",
+                "Name": "NASRUL ALI HASAN",
+                "Votes": 543,
+                "NameBallot": "NASRUL ALI HASAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P22",
+        "SeatName": "PASIR MAS",
+        "info": {
+            "EligibleVoters": "71222",
+            "MalayVoters": "98",
+            "ChineseVoters": "2",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "445",
+            "Postal": "6",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "AHMAD FADHLI BIN SHAARI",
+                "Votes": 28080,
+                "NameBallot": "USTAZ FADHLI SHAARI",
+                "majority": 13075
+            },
+            {
+                "Party": "UMNO",
+                "Name": "NOR AZMAWI BIN AB RAHMAN",
+                "Votes": 15005,
+                "NameBallot": "NOR AZMAWI @ BAWI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "IBRAHIM BIN ALI",
+                "Votes": 5373,
+                "NameBallot": "DATO' DR IBRAHIM BIN ALI"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "CHE UJANG BIN CHE DAUD",
+                "Votes": 5093,
+                "NameBallot": "CHE UJANG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P22",
+        "SeatName": "PASIR MAS",
+        "info": {
+            "EligibleVoters": "71965",
+            "MalayVoters": "97",
+            "ChineseVoters": "3",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1115",
+            "Turnout": "59930",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "NIK MOHAMAD ABDUH BIN NIK ABDUL AZIZ",
+                "Votes": 33431,
+                "majority": 8047
+            },
+            {
+                "Party": "IND",
+                "Name": "IBRAHIM BIN ALI",
+                "Votes": 25384
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P22",
+        "SeatName": "PASIR MAS",
+        "info": {
+            "EligibleVoters": "59640",
+            "MalayVoters": "96",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "864",
+            "Turnout": "49344",
+            "Unreturned": "125"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "DATUK IBRAHIM ALI",
+                "Votes": 28673,
+                "majority": 8991
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AHMED RASDI MAHMED",
+                "Votes": 19682
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P22",
+        "SeatName": "PASIR MAS",
+        "info": {
+            "EligibleVoters": "52771",
+            "MalayVoters": "96",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1396",
+            "Turnout": "41395",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "ISMAIL NOH",
+                "Votes": 17526,
+                "majority": 1251
+            },
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABD RAHIM AB RAHMAN",
+                "Votes": 16275
+            },
+            {
+                "Party": "IND",
+                "Name": "DATUK IBRAHIM ALI",
+                "Votes": 6198
+            }
+        ]
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P122",
+        "SeatName": "SEPUTEH",
+        "info": {
+            "EligibleVoters": "124805",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "TERESA KOK",
+                "Votes": 73234,
+                "NameBallot": "TERESA KOK",
+                "majority": 67187
+            },
+            {
+                "Party": "PN",
+                "Name": "WONG YEE YENG",
+                "Votes": 6047,
+                "NameBallot": "WONG YEE YENG"
+            },
+            {
+                "Party": "BN",
+                "Name": "LEE KAH HING",
+                "Votes": 6032,
+                "NameBallot": "LEE KAH HING"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "LEE WAI HONG",
+                "Votes": 1276,
+                "NameBallot": "LEE WAI HONG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "CHOY SAN YEH",
+                "Votes": 865,
+                "NameBallot": "CHOY SAN YEH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P122",
+        "SeatName": "SEPUTEH",
+        "info": {
+            "EligibleVoters": "86256",
+            "MalayVoters": "9",
+            "ChineseVoters": "82",
+            "IndianVoters": "8",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "79",
+            "Postal": "53",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TERESA KOK SUH SIM",
+                "Votes": 63094,
+                "NameBallot": "TERESA KOK",
+                "majority": 56059
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHAN QUIN ER",
+                "Votes": 7035,
+                "NameBallot": "CHAN QUIN ER"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P122",
+        "SeatName": "SEPUTEH",
+        "info": {
+            "EligibleVoters": "85976",
+            "MalayVoters": "5",
+            "ChineseVoters": "88",
+            "IndianVoters": "6",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "302",
+            "Turnout": "71750",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TERESA KOK SUH SIM",
+                "Votes": 61500,
+                "majority": 51552
+            },
+            {
+                "Party": "MCA",
+                "Name": "WONG SIAW TING",
+                "Votes": 9948
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P122",
+        "SeatName": "SEPUTEH",
+        "info": {
+            "EligibleVoters": "76891",
+            "MalayVoters": "6",
+            "ChineseVoters": "87",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "174",
+            "Turnout": "58207",
+            "Unreturned": "65"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TERESA KOK SUH SIM",
+                "Votes": 47230,
+                "majority": 36492
+            },
+            {
+                "Party": "MCA",
+                "Name": "CAROL CHEW CHEE LIN",
+                "Votes": 10738
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P122",
+        "SeatName": "SEPUTEH",
+        "info": {
+            "EligibleVoters": "74702",
+            "MalayVoters": "5",
+            "ChineseVoters": "89",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "164",
+            "Turnout": "46503",
+            "Unreturned": "29"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TERESA KOK SUH SIM",
+                "Votes": 33197,
+                "majority": 12895
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHIN YEN FOO",
+                "Votes": 20302
+            }
+        ]
+    }
+}

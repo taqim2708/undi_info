@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P61",
+        "SeatName": "PADANG RENGAS",
+        "info": {
+            "EligibleVoters": "38686",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "KAPTEN AZAHARI",
+                "Votes": 12931,
+                "NameBallot": "KAPTEN AZAHARI",
+                "majority": 3046
+            },
+            {
+                "Party": "BN",
+                "Name": "MOHD ARRIF BIN ABDUL MAJID",
+                "Votes": 9885,
+                "NameBallot": "MOHD ARRIF BIN ABDUL MAJID"
+            },
+            {
+                "Party": "PH",
+                "Name": "KAMIL MUNIM",
+                "Votes": 7062,
+                "NameBallot": "KAMIL MUNIM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P61",
+        "SeatName": "PADANG RENGAS",
+        "info": {
+            "EligibleVoters": "30996",
+            "MalayVoters": "78",
+            "ChineseVoters": "15",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "40",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHAMED NAZRI BIN ABDUL AZIZ",
+                "Votes": 10491,
+                "NameBallot": "DATO SERI MOHAMED NAZRI BIN TAN SRI ABDUL AZIZ",
+                "majority": 2548
+            },
+            {
+                "Party": "PKR",
+                "Name": "EJAZI BIN YAHAYA",
+                "Votes": 7943,
+                "NameBallot": "EJAZI YAHAYA"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD AZALAN BIN MOHAMAD RADZI",
+                "Votes": 6847,
+                "NameBallot": "MOHAMAD AZALAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P61",
+        "SeatName": "PADANG RENGAS",
+        "info": {
+            "EligibleVoters": "28518",
+            "MalayVoters": "76",
+            "ChineseVoters": "17",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "410",
+            "Turnout": "24190",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHAMED NAZRI BIN ABDUL AZIZ",
+                "Votes": 13005,
+                "majority": 2230
+            },
+            {
+                "Party": "PKR",
+                "Name": "MEOR AHMAD ISHARRA BIN ISHAK",
+                "Votes": 10775
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P61",
+        "SeatName": "PADANG RENGAS",
+        "info": {
+            "EligibleVoters": "24397",
+            "MalayVoters": "74",
+            "ChineseVoters": "19",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "362",
+            "Turnout": "18350",
+            "Unreturned": "77"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI MOHD NAZRI AZIZ",
+                "Votes": 9830,
+                "majority": 1749
+            },
+            {
+                "Party": "PKR",
+                "Name": "ALIAS ZENON",
+                "Votes": 8081
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P61",
+        "SeatName": "PADANG RENGAS",
+        "info": {
+            "EligibleVoters": "24863",
+            "MalayVoters": "73",
+            "ChineseVoters": "20",
+            "IndianVoters": "7",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "323",
+            "Turnout": "13979",
+            "Unreturned": "46"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI MOHAMED NAZRI ABD AZIZ",
+                "Votes": 9214,
+                "majority": 4772
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD ZOLKAFLI YAHAYA",
+                "Votes": 4442
+            }
+        ]
+    }
+}

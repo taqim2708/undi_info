@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P147",
+        "SeatName": "PARIT SULONG",
+        "info": {
+            "EligibleVoters": "79484",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "NORAINI AHMAD",
+                "Votes": 25740,
+                "NameBallot": "NORAINI AHMAD",
+                "majority": 2021
+            },
+            {
+                "Party": "PN",
+                "Name": "DR KARIM",
+                "Votes": 23719,
+                "NameBallot": "DR KARIM"
+            },
+            {
+                "Party": "PH",
+                "Name": "MOHD FAIZAL DOLAH",
+                "Votes": 13495,
+                "NameBallot": "MOHD FAIZAL DOLAH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P147",
+        "SeatName": "PARIT SULONG",
+        "info": {
+            "EligibleVoters": "59609",
+            "MalayVoters": "79",
+            "ChineseVoters": "21",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "41",
+            "Postal": "7",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NORAINI BINTI AHMAD",
+                "Votes": 24481,
+                "NameBallot": "DATO' DR NORAINI AHMAD",
+                "majority": 6341
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "ANIS AFIDA BINTI MOHD AZLI",
+                "Votes": 18140,
+                "NameBallot": "ANIS AFIDA"
+            },
+            {
+                "Party": "PAS",
+                "Name": "AHMAD ROSDI BIN BAHARI",
+                "Votes": 7148,
+                "NameBallot": "AHMAD ROSDI BIN BAHARI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P147",
+        "SeatName": "PARIT SULONG",
+        "info": {
+            "EligibleVoters": "56896",
+            "MalayVoters": "72",
+            "ChineseVoters": "23",
+            "IndianVoters": "0",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "952",
+            "Turnout": "49715",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NORAINI BINTI AHMAD",
+                "Votes": 30258,
+                "majority": 11753
+            },
+            {
+                "Party": "PAS",
+                "Name": "KHAIRUDDIN BIN A RAHIM",
+                "Votes": 18505
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P147",
+        "SeatName": "PARIT SULONG",
+        "info": {
+            "EligibleVoters": "50234",
+            "MalayVoters": "73",
+            "ChineseVoters": "26",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1033",
+            "Turnout": "39637",
+            "Unreturned": "71"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK NORAINI AHMAD",
+                "Votes": 26066,
+                "majority": 13599
+            },
+            {
+                "Party": "PAS",
+                "Name": "FAISAL ALI",
+                "Votes": 12467
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P147",
+        "SeatName": "PARIT SULONG",
+        "info": {
+            "EligibleVoters": "50134",
+            "MalayVoters": "72",
+            "ChineseVoters": "27",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1244",
+            "Turnout": "38116",
+            "Unreturned": "110"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SYED HOOD SYED EDROS",
+                "Votes": 26974,
+                "majority": 17186
+            },
+            {
+                "Party": "PAS",
+                "Name": "SUHAIZAN KAIAT",
+                "Votes": 9788
+            }
+        ]
+    }
+}

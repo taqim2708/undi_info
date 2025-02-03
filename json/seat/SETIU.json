@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P34",
+        "SeatName": "SETIU",
+        "info": {
+            "EligibleVoters": "107294",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "USTAZ ZUKIRNAIN ABD KADIR",
+                "Votes": 50768,
+                "NameBallot": "USTAZ ZUKIRNAIN ABD KADIR",
+                "majority": 19032
+            },
+            {
+                "Party": "BN",
+                "Name": "ABDUL RAHMAN BIN MAT YASIN",
+                "Votes": 31736,
+                "NameBallot": "ABDUL RAHMAN BIN MAT YASIN"
+            },
+            {
+                "Party": "PH",
+                "Name": "MOHAMAD BIN NGAH",
+                "Votes": 2125,
+                "NameBallot": "MOHAMAD BIN NGAH"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "WAN ADNAN",
+                "Votes": 203,
+                "NameBallot": "WAN ADNAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P34",
+        "SeatName": "SETIU",
+        "info": {
+            "EligibleVoters": "86247",
+            "MalayVoters": "100",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "334",
+            "Postal": "6",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "SHAHARIZUKIRNAIN BIN ABD KADIR",
+                "Votes": 35020,
+                "NameBallot": "USTAZ ZUKIRNAIN AB KADIR",
+                "majority": 2802
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD JIDIN BIN SHAFEE",
+                "Votes": 32218,
+                "NameBallot": "DATO' HAJI MOHD JIDIN BIN SHAFEE"
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "MOHD FAUDZI BIN MUSA",
+                "Votes": 4740,
+                "NameBallot": "DATO' DR MOHD FAUDZI BIN MUSA"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P34",
+        "SeatName": "SETIU",
+        "info": {
+            "EligibleVoters": "67280",
+            "MalayVoters": "100",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "686",
+            "Turnout": "59139",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "CHE MOHAMAD ZULKIFLY BIN JUSOH",
+                "Votes": 33198,
+                "majority": 7943
+            },
+            {
+                "Party": "PAS",
+                "Name": "OMAR BIN SIDEK",
+                "Votes": 25255
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P34",
+        "SeatName": "SETIU",
+        "info": {
+            "EligibleVoters": "54520",
+            "MalayVoters": "99",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "833",
+            "Turnout": "46821",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD JIDIN SHAFEE",
+                "Votes": 26610,
+                "majority": 7232
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD PAUZI MUDA",
+                "Votes": 19378
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "TR",
+        "ParliamentCode": "P34",
+        "SeatName": "SETIU",
+        "info": {
+            "EligibleVoters": "48161",
+            "MalayVoters": "99",
+            "ChineseVoters": "1",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "714",
+            "Turnout": "40176",
+            "Unreturned": "236"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD YUSOF MAJID",
+                "Votes": 23079,
+                "majority": 6696
+            },
+            {
+                "Party": "PAS",
+                "Name": "CHE GHANI CHE AMBAK",
+                "Votes": 16383
+            }
+        ]
+    }
+}

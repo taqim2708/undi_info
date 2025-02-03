@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P43",
+        "SeatName": "BAGAN",
+        "info": {
+            "EligibleVoters": "89447",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "LIM GUAN ENG",
+                "Votes": 55797,
+                "NameBallot": "LIM GUAN ENG",
+                "majority": 49648
+            },
+            {
+                "Party": "PN",
+                "Name": "ALAN OH",
+                "Votes": 6149,
+                "NameBallot": "ALAN OH"
+            },
+            {
+                "Party": "BN",
+                "Name": "TAN CHUAN HONG",
+                "Votes": 5385,
+                "NameBallot": "TAN CHUAN HONG"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HAFIZ",
+                "Votes": 1323,
+                "NameBallot": "HAFIZ"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P43",
+        "SeatName": "BAGAN",
+        "info": {
+            "EligibleVoters": "71583",
+            "MalayVoters": "13",
+            "ChineseVoters": "71",
+            "IndianVoters": "15",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "184",
+            "Postal": "6",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM GUAN ENG",
+                "Votes": 51653,
+                "NameBallot": "LIM GUAN ENG",
+                "majority": 43902
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEE BENG SENG",
+                "Votes": 7751,
+                "NameBallot": "LEE BENG SENG"
+            },
+            {
+                "Party": "PCM",
+                "Name": "HUAN CHENG GUAN",
+                "Votes": 502,
+                "NameBallot": "HUAN CHENG GUAN @ MEJAR HUAN"
+            },
+            {
+                "Party": "MU",
+                "Name": "KOAY XING BOON",
+                "Votes": 181,
+                "NameBallot": "KOAY XING BOON"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P43",
+        "SeatName": "BAGAN",
+        "info": {
+            "EligibleVoters": "68503",
+            "MalayVoters": "15",
+            "ChineseVoters": "70",
+            "IndianVoters": "15",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "634",
+            "Turnout": "59735",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM GUAN ENG",
+                "Votes": 46466,
+                "majority": 34159
+            },
+            {
+                "Party": "MCA",
+                "Name": "CHUA TEIK SIANG",
+                "Votes": 12307
+            },
+            {
+                "Party": "PCM",
+                "Name": "LIM KIM CHU",
+                "Votes": 328
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P43",
+        "SeatName": "BAGAN",
+        "info": {
+            "EligibleVoters": "59385",
+            "MalayVoters": "15",
+            "ChineseVoters": "71",
+            "IndianVoters": "14",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "766",
+            "Turnout": "46227",
+            "Unreturned": "35"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM GUAN ENG",
+                "Votes": 33748,
+                "majority": 22070
+            },
+            {
+                "Party": "MCA",
+                "Name": "SONG CHOY LENG",
+                "Votes": 11678
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P43",
+        "SeatName": "BAGAN",
+        "info": {
+            "EligibleVoters": "57322",
+            "MalayVoters": "15",
+            "ChineseVoters": "71",
+            "IndianVoters": "14",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "961",
+            "Turnout": "43542",
+            "Unreturned": "13"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "LIM HOCK SENG",
+                "Votes": 23095,
+                "majority": 3622
+            },
+            {
+                "Party": "MCA",
+                "Name": "LIM CHIEN AUN",
+                "Votes": 19473
+            }
+        ]
+    }
+}

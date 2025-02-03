@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P5",
+        "SeatName": "JERLUN",
+        "info": {
+            "EligibleVoters": "67601",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "DR. ABD GHANI AHMAD",
+                "Votes": 31685,
+                "NameBallot": "DR. ABD GHANI AHMAD",
+                "majority": 20456
+            },
+            {
+                "Party": "BN",
+                "Name": "OTHMAN BIN AZIZ",
+                "Votes": 11229,
+                "NameBallot": "OTHMAN BIN AZIZ"
+            },
+            {
+                "Party": "PH",
+                "Name": "DR. MOHAMED FADZIL MOHD ALI",
+                "Votes": 6149,
+                "NameBallot": "DR. MOHAMED FADZIL MOHD ALI"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DATO' SERI UTAMA MUKHRIZ MAHATHIR",
+                "Votes": 3144,
+                "NameBallot": "DATO' SERI UTAMA MUKHRIZ MAHATHIR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P5",
+        "SeatName": "JERLUN",
+        "info": {
+            "EligibleVoters": "54132",
+            "MalayVoters": "91",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "55",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BERSATU",
+                "Name": "MUKHRIZ MAHATHIR",
+                "Votes": 18695,
+                "NameBallot": "MUKHRIZ MAHATHIR",
+                "majority": 5866
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABD GHANI BIN AHMAD",
+                "Votes": 12829,
+                "NameBallot": "ABD GHANI BIN AHMAD"
+            },
+            {
+                "Party": "UMNO",
+                "Name": "OTHMAN BIN AZIZ",
+                "Votes": 12413,
+                "NameBallot": "OTHMAN BIN AZIZ"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P5",
+        "SeatName": "JERLUN",
+        "info": {
+            "EligibleVoters": "52383",
+            "MalayVoters": "91",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "730",
+            "Turnout": "45782",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "OTHMAN BIN AZIZ",
+                "Votes": 24161,
+                "majority": 3270
+            },
+            {
+                "Party": "PAS",
+                "Name": "ISMAIL BIN SALLEH",
+                "Votes": 20891
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P5",
+        "SeatName": "JERLUN",
+        "info": {
+            "EligibleVoters": "45513",
+            "MalayVoters": "90",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "599",
+            "Turnout": "37242",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATO MUKHRIZ MAHATHIR",
+                "Votes": 19424,
+                "majority": 2205
+            },
+            {
+                "Party": "PAS",
+                "Name": "IDRIS AHMAD",
+                "Votes": 17219
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P5",
+        "SeatName": "JERLUN",
+        "info": {
+            "EligibleVoters": "44148",
+            "MalayVoters": "90",
+            "ChineseVoters": "9",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "718",
+            "Turnout": "36822",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ABDUL RAHMAN ARIFFIN",
+                "Votes": 19123,
+                "majority": 2142
+            },
+            {
+                "Party": "PAS",
+                "Name": "IDRIS AHMAD",
+                "Votes": 16981
+            }
+        ]
+    }
+}

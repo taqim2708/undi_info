@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P83",
+        "SeatName": "KUANTAN",
+        "info": {
+            "EligibleVoters": "87597",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "WAN RAZALI WAN NOR",
+                "Votes": 25514,
+                "NameBallot": "WAN RAZALI WAN NOR",
+                "majority": 2866
+            },
+            {
+                "Party": "PH",
+                "Name": "FUZIAH SALLEH",
+                "Votes": 22648,
+                "NameBallot": "FUZIAH SALLEH"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' SRI AB HAMID BIN MOHD NAZAHAR",
+                "Votes": 19114,
+                "NameBallot": "DATO' SRI AB HAMID BIN MOHD NAZAHAR"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MEJAR ANUAR TAJUDDIN (B)",
+                "Votes": 486,
+                "NameBallot": "MEJAR ANUAR TAJUDDIN (B)"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P83",
+        "SeatName": "KUANTAN",
+        "info": {
+            "EligibleVoters": "62696",
+            "MalayVoters": "67",
+            "ChineseVoters": "30",
+            "IndianVoters": "3",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1881",
+            "Postal": "15",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "FUZIAH BINTI SALLEH",
+                "Votes": 22807,
+                "NameBallot": "FUZIAH SALLEH",
+                "majority": 8111
+            },
+            {
+                "Party": "PAS",
+                "Name": "SULAIMAN BIN MD DERUS",
+                "Votes": 14696,
+                "NameBallot": "CIKGU SULAIMAN MD DERUS"
+            },
+            {
+                "Party": "MCA",
+                "Name": "WONG KEAN HWEE",
+                "Votes": 13667,
+                "NameBallot": "DATO' WONG KEAN HWEE"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P83",
+        "SeatName": "KUANTAN",
+        "info": {
+            "EligibleVoters": "56280",
+            "MalayVoters": "63",
+            "ChineseVoters": "33",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "570",
+            "Turnout": "47723",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "FUZIAH BINTI SALLEH",
+                "Votes": 25834,
+                "majority": 4515
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHAMED SUFFIAN BIN AWANG",
+                "Votes": 21319
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P83",
+        "SeatName": "KUANTAN",
+        "info": {
+            "EligibleVoters": "47745",
+            "MalayVoters": "60",
+            "ChineseVoters": "36",
+            "IndianVoters": "4",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "623",
+            "Turnout": "35771",
+            "Unreturned": "178"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "FUZIAH BINTI SALLEH",
+                "Votes": 18398,
+                "majority": 1826
+            },
+            {
+                "Party": "MCA",
+                "Name": "FU AH KIOW",
+                "Votes": 16572
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P83",
+        "SeatName": "KUANTAN",
+        "info": {
+            "EligibleVoters": "45935",
+            "MalayVoters": "58",
+            "ChineseVoters": "37",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "543",
+            "Turnout": "34290",
+            "Unreturned": "246"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK FU AH KIOW",
+                "Votes": 21324,
+                "majority": 9147
+            },
+            {
+                "Party": "PKR",
+                "Name": "FUZIAH SALLEH",
+                "Votes": 12177
+            }
+        ]
+    }
+}

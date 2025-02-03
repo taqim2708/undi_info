@@ -1,0 +1,215 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P186",
+        "SeatName": "SANDAKAN",
+        "info": {
+            "EligibleVoters": "55542",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "VIVIAN WONG SHIR YEE",
+                "Votes": 16673,
+                "NameBallot": "VIVIAN WONG SHIR YEE",
+                "majority": 11031
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "ALEX THIEN",
+                "Votes": 5642,
+                "NameBallot": "ALEX THIEN"
+            },
+            {
+                "Party": "GRS",
+                "Name": "LAU CHI KEONG @ THOMAS LAU",
+                "Votes": 5054,
+                "NameBallot": "LAU CHI KEONG @ THOMAS LAU"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "PETER HII",
+                "Votes": 2342,
+                "NameBallot": "PETER HII"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SYEIKH LOKEMAN",
+                "Votes": 962,
+                "NameBallot": "SYEIKH LOKEMAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "HAJJAH LITA TAN BINTI ABDULLAH",
+                "Votes": 246,
+                "NameBallot": "HAJJAH LITA TAN BINTI ABDULLAH"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P186",
+        "SeatName": "SANDAKAN",
+        "info": {
+            "EligibleVoters": "39777",
+            "MalayVoters": "16",
+            "ChineseVoters": "51",
+            "IndianVoters": "0",
+            "OtherVoters": "7",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "26",
+            "Early": "39494",
+            "Postal": "279",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "WONG TIEN FATT @ WONG NYUK FOH",
+                "Votes": 19094,
+                "NameBallot": "STEPHEN WONG TIEN FATT",
+                "majority": 10098
+            },
+            {
+                "Party": "LDP",
+                "Name": "LIM MING HO",
+                "Votes": 8996,
+                "NameBallot": "LIM MING HOO"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P186",
+        "SeatName": "SANDAKAN",
+        "info": {
+            "EligibleVoters": "37058",
+            "MalayVoters": "0",
+            "ChineseVoters": "53",
+            "IndianVoters": "0",
+            "OtherVoters": "4",
+            "BumiMuslimVoters": "34",
+            "BumiNonmuslimVoters": "8",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "525",
+            "Turnout": "27889",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "WONG TIEN FATT @ WONG NYUK FOH",
+                "Votes": 14226,
+                "majority": 1088
+            },
+            {
+                "Party": "LDP",
+                "Name": "LIEW VUI KEONG",
+                "Votes": 13138
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P186",
+        "SeatName": "SANDAKAN",
+        "info": {
+            "EligibleVoters": "32847",
+            "MalayVoters": "0",
+            "ChineseVoters": "61",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "644",
+            "Turnout": "20048",
+            "Unreturned": "57"
+        },
+        "candidates": [
+            {
+                "Party": "LDP",
+                "Name": "DATUK V K LIEW",
+                "Votes": 8297,
+                "majority": 176
+            },
+            {
+                "Party": "DAP",
+                "Name": "CHONG CHU LIN @ SHANTY",
+                "Votes": 8121
+            },
+            {
+                "Party": "IND",
+                "Name": "FONG VUN FUI",
+                "Votes": 2929
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P186",
+        "SeatName": "SANDAKAN",
+        "info": {
+            "EligibleVoters": "33208",
+            "MalayVoters": "0",
+            "ChineseVoters": "61",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "35",
+            "BumiNonmuslimVoters": "4",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "385",
+            "Turnout": "18798",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "IND",
+                "Name": "Chong Hon Min",
+                "Votes": 9538,
+                "majority": 1330
+            },
+            {
+                "Party": "LDP",
+                "Name": "Liew Vui Keong",
+                "Votes": 8208
+            },
+            {
+                "Party": "PASOK",
+                "Name": "Liew Teck Khen",
+                "Votes": 543
+            }
+        ]
+    }
+}

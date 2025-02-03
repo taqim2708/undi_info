@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P71",
+        "SeatName": "GOPENG",
+        "info": {
+            "EligibleVoters": "143657",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "TAN KAR HING",
+                "Votes": 55880,
+                "NameBallot": "TAN KAR HING",
+                "majority": 27148
+            },
+            {
+                "Party": "PN",
+                "Name": "MUHAMMAD FARHAN BIN ABDUL RAHIM",
+                "Votes": 28732,
+                "NameBallot": "MUHAMMAD FARHAN BIN ABDUL RAHIM"
+            },
+            {
+                "Party": "BN",
+                "Name": "CALLY TING",
+                "Votes": 18393,
+                "NameBallot": "CALLY TING"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "BALACHANDRAN A/L GOPAL",
+                "Votes": 633,
+                "NameBallot": "BALACHANDRAN A/L GOPAL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P71",
+        "SeatName": "GOPENG",
+        "info": {
+            "EligibleVoters": "99167",
+            "MalayVoters": "43",
+            "ChineseVoters": "46",
+            "IndianVoters": "9",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "978",
+            "Postal": "53",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "LEE BOON CHYE",
+                "Votes": 48923,
+                "NameBallot": "DR LEE BOON CHYE",
+                "majority": 29778
+            },
+            {
+                "Party": "MCA",
+                "Name": "HENG SEAI KIE",
+                "Votes": 19145,
+                "NameBallot": "HENG SEAI KIE"
+            },
+            {
+                "Party": "PAS",
+                "Name": "ISMAIL BIN ARIFFIN",
+                "Votes": 11165,
+                "NameBallot": "ISMAIL BIN ARIFFIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P71",
+        "SeatName": "GOPENG",
+        "info": {
+            "EligibleVoters": "97092",
+            "MalayVoters": "43",
+            "ChineseVoters": "46",
+            "IndianVoters": "9",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1429",
+            "Turnout": "81236",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "LEE BOON CHYE",
+                "Votes": 47558,
+                "majority": 15309
+            },
+            {
+                "Party": "MCA",
+                "Name": "TAN CHIN MENG",
+                "Votes": 32249
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P71",
+        "SeatName": "GOPENG",
+        "info": {
+            "EligibleVoters": "74344",
+            "MalayVoters": "43",
+            "ChineseVoters": "47",
+            "IndianVoters": "10",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1279",
+            "Turnout": "53303",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "LEE BOON CHYE",
+                "Votes": 29696,
+                "majority": 7368
+            },
+            {
+                "Party": "MCA",
+                "Name": "LING HEE LEONG",
+                "Votes": 22328
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P71",
+        "SeatName": "GOPENG",
+        "info": {
+            "EligibleVoters": "68466",
+            "MalayVoters": "42",
+            "ChineseVoters": "48",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1323",
+            "Turnout": "46383",
+            "Unreturned": "831"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "TAN SRI DR TING CHEW PEH",
+                "Votes": 29660,
+                "majority": 14260
+            },
+            {
+                "Party": "PKR",
+                "Name": "DR LEE BOON CHYE",
+                "Votes": 15400
+            }
+        ]
+    }
+}

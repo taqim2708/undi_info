@@ -1,0 +1,51 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KD",
+        "ParliamentCode": "P18",
+        "SeatName": "KULIM-BANDAR BAHARU",
+        "info": {
+            "EligibleVoters": "90141",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "CIKGU ROSLAN HASHIM",
+                "Votes": 34469,
+                "NameBallot": "CIKGU ROSLAN HASHIM",
+                "majority": 13061
+            },
+            {
+                "Party": "PH",
+                "Name": "DATUK SERI SAIFUDDIN NASUTION ISMAIL",
+                "Votes": 21408,
+                "NameBallot": "DATUK SERI SAIFUDDIN NASUTION ISMAIL"
+            },
+            {
+                "Party": "BN",
+                "Name": "DATUK MUHAR BIN HUSSAIN",
+                "Votes": 13872,
+                "NameBallot": "DATUK MUHAR BIN HUSSAIN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "RIZAL",
+                "Votes": 591,
+                "NameBallot": "RIZAL"
+            }
+        ]
+    }
+}

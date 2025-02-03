@@ -1,0 +1,211 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P116",
+        "SeatName": "WANGSA MAJU",
+        "info": {
+            "EligibleVoters": "120323",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "ZAHIR HASSAN",
+                "Votes": 46031,
+                "NameBallot": "ZAHIR HASSAN",
+                "majority": 20696
+            },
+            {
+                "Party": "PN",
+                "Name": "USTAZAH NURIDAH",
+                "Votes": 25335,
+                "NameBallot": "USTAZAH NURIDAH"
+            },
+            {
+                "Party": "BN",
+                "Name": "SHAFEI ABDULLAH",
+                "Votes": 19595,
+                "NameBallot": "SHAFEI ABDULLAH"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NORZAILA",
+                "Votes": 987,
+                "NameBallot": "NORZAILA"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "WEE CHOO KEONG",
+                "Votes": 576,
+                "NameBallot": "WEE CHOO KEONG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "RAVEE SUNTHERALINGAM",
+                "Votes": 216,
+                "NameBallot": "RAVEE SUNTHERALINGAM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P116",
+        "SeatName": "WANGSA MAJU",
+        "info": {
+            "EligibleVoters": "88482",
+            "MalayVoters": "61",
+            "ChineseVoters": "30",
+            "IndianVoters": "8",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "3599",
+            "Postal": "47",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "TAN YEE KEW",
+                "Votes": 42178,
+                "NameBallot": "DR TAN YEE KEW",
+                "majority": 24238
+            },
+            {
+                "Party": "MCA",
+                "Name": "YEW TEONG LOOK",
+                "Votes": 17940,
+                "NameBallot": "YEW TEONG LOOK"
+            },
+            {
+                "Party": "PAS",
+                "Name": "RAZALI BIN TUMIRIN",
+                "Votes": 13490,
+                "NameBallot": "HAJI RAZALI BIN TUMIRIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P116",
+        "SeatName": "WANGSA MAJU",
+        "info": {
+            "EligibleVoters": "67775",
+            "MalayVoters": "53",
+            "ChineseVoters": "36",
+            "IndianVoters": "9",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "375",
+            "Turnout": "58146",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "TAN KEE KWONG",
+                "Votes": 31641,
+                "majority": 5511
+            },
+            {
+                "Party": "UMNO",
+                "Name": "MOHD SHAFEI BIN ABDULLAH",
+                "Votes": 26130
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P116",
+        "SeatName": "WANGSA MAJU",
+        "info": {
+            "EligibleVoters": "54509",
+            "MalayVoters": "52",
+            "ChineseVoters": "40",
+            "IndianVoters": "7",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "357",
+            "Turnout": "39798",
+            "Unreturned": "317"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "WEE CHOO KEONG",
+                "Votes": 19637,
+                "majority": 150
+            },
+            {
+                "Party": "MCA",
+                "Name": "YEW TEONG LOOK",
+                "Votes": 19487
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "WP",
+        "ParliamentCode": "P116",
+        "SeatName": "WANGSA MAJU",
+        "info": {
+            "EligibleVoters": "50682",
+            "MalayVoters": "53",
+            "ChineseVoters": "38",
+            "IndianVoters": "8",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "340",
+            "Turnout": "36425",
+            "Unreturned": "829"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "YEW TEONG LOOK",
+                "Votes": 23135,
+                "majority": 10185
+            },
+            {
+                "Party": "PKR",
+                "Name": "SAHRI BAHARI",
+                "Votes": 12950
+            }
+        ]
+    }
+}

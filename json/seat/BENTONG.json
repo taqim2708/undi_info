@@ -1,0 +1,205 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P89",
+        "SeatName": "BENTONG",
+        "info": {
+            "EligibleVoters": "87058",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "YOUNG SYEFURA BINTI OTHMAN",
+                "Votes": 25075,
+                "NameBallot": "YOUNG SYEFURA BINTI OTHMAN",
+                "majority": 692
+            },
+            {
+                "Party": "BN",
+                "Name": "TAN SRI LIOW TIONG LAI",
+                "Votes": 24383,
+                "NameBallot": "TAN SRI LIOW TIONG LAI"
+            },
+            {
+                "Party": "PN",
+                "Name": "DATUK ROSLAN HASSAN",
+                "Votes": 16233,
+                "NameBallot": "DATUK ROSLAN HASSAN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "WONG TACK",
+                "Votes": 798,
+                "NameBallot": "WONG TACK"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ACHIK KHALIL",
+                "Votes": 168,
+                "NameBallot": "ACHIK KHALIL"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P89",
+        "SeatName": "BENTONG",
+        "info": {
+            "EligibleVoters": "67359",
+            "MalayVoters": "47",
+            "ChineseVoters": "42",
+            "IndianVoters": "9",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1660",
+            "Postal": "17",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "WONG TACK",
+                "Votes": 25716,
+                "NameBallot": "WONG TACK",
+                "majority": 2032
+            },
+            {
+                "Party": "MCA",
+                "Name": "LIOW TIONG LAI",
+                "Votes": 23684,
+                "NameBallot": "DATO' SRI LIOW TIONG LAI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "BALASUBRAMANIAM A/L NACHIAPPAN",
+                "Votes": 5706,
+                "NameBallot": "BALASUBRAMANIAM A/L NACHIAPPAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P89",
+        "SeatName": "BENTONG",
+        "info": {
+            "EligibleVoters": "62266",
+            "MalayVoters": "45",
+            "ChineseVoters": "44",
+            "IndianVoters": "9",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "988",
+            "Turnout": "52503",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "LIOW TIONG LAI",
+                "Votes": 25947,
+                "majority": 379
+            },
+            {
+                "Party": "DAP",
+                "Name": "WONG TACK",
+                "Votes": 25568
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P89",
+        "SeatName": "BENTONG",
+        "info": {
+            "EligibleVoters": "53651",
+            "MalayVoters": "43",
+            "ChineseVoters": "47",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1285",
+            "Turnout": "39168",
+            "Unreturned": "164"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "LIOW TIONG LAI",
+                "Votes": 25134,
+                "majority": 12549
+            },
+            {
+                "Party": "PKR",
+                "Name": "G PONUSAMY",
+                "Votes": 12585
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P89",
+        "SeatName": "BENTONG",
+        "info": {
+            "EligibleVoters": "52665",
+            "MalayVoters": "41",
+            "ChineseVoters": "49",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1000",
+            "Turnout": "38449",
+            "Unreturned": "240"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "LIOW TIONG LAI",
+                "Votes": 27144,
+                "majority": 16839
+            },
+            {
+                "Party": "DAP",
+                "Name": "ABUB BAKAR LEBAI SUDIN",
+                "Votes": 10305
+            }
+        ]
+    }
+}

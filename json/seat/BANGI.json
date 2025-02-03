@@ -1,0 +1,229 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P102",
+        "SeatName": "BANGI",
+        "info": {
+            "EligibleVoters": "303430",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "SYAHREDZAN BIN JOHAN",
+                "Votes": 141568,
+                "NameBallot": "SYAHREDZAN BIN JOHAN",
+                "majority": 69701
+            },
+            {
+                "Party": "PN",
+                "Name": "NAZRUL NAZIR",
+                "Votes": 71867,
+                "NameBallot": "NAZRUL NAZIR"
+            },
+            {
+                "Party": "BN",
+                "Name": "HOH HEE LEE",
+                "Votes": 25685,
+                "NameBallot": "HOH HEE LEE"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "USTAZ ANNUAR BIN SALLEH",
+                "Votes": 3148,
+                "NameBallot": "USTAZ ANNUAR BIN SALLEH"
+            },
+            {
+                "Party": "PRM",
+                "Name": "CHEE CHEE MENG",
+                "Votes": 752,
+                "NameBallot": "CHEE CHEE MENG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "DR. JAMAL",
+                "Votes": 676,
+                "NameBallot": "DR. JAMAL"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "FAUZI HASIM",
+                "Votes": 401,
+                "NameBallot": "FAUZI HASIM"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "ASSOCIATE PROF. SUTHAN  M",
+                "Votes": 194,
+                "NameBallot": "ASSOCIATE PROF. SUTHAN  M"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P102",
+        "SeatName": "BANGI",
+        "info": {
+            "EligibleVoters": "178790",
+            "MalayVoters": "49",
+            "ChineseVoters": "39",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1462",
+            "Postal": "119",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "ONG KIAN MING",
+                "Votes": 102557,
+                "NameBallot": "DR ONG KIAN MING",
+                "majority": 68768
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHD SHAFIE BIN NGAH",
+                "Votes": 33789,
+                "NameBallot": "USTAZ SHAFIE NGAH"
+            },
+            {
+                "Party": "MCA",
+                "Name": "LIEW YUEN KEONG",
+                "Votes": 19766,
+                "NameBallot": "LIEW YUEN KEONG"
+            },
+            {
+                "Party": "PRM",
+                "Name": "WAN JINN WOEI",
+                "Votes": 215,
+                "NameBallot": "DENNIS WAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P102",
+        "SeatName": "SERDANG",
+        "info": {
+            "EligibleVoters": "133139",
+            "MalayVoters": "39",
+            "ChineseVoters": "49",
+            "IndianVoters": "11",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1761",
+            "Turnout": "118031",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "ONG KIAN MING",
+                "Votes": 79238,
+                "majority": 42206
+            },
+            {
+                "Party": "MCA",
+                "Name": "YAP PIAN HON",
+                "Votes": 37032
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P102",
+        "SeatName": "SERDANG",
+        "info": {
+            "EligibleVoters": "94877",
+            "MalayVoters": "37",
+            "ChineseVoters": "52",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "2072",
+            "Turnout": "76236",
+            "Unreturned": "301"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "TEO NIE CHING",
+                "Votes": 47444,
+                "majority": 21025
+            },
+            {
+                "Party": "MCA",
+                "Name": "DATO' HOH HEE LEE",
+                "Votes": 26419
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P102",
+        "SeatName": "SERDANG",
+        "info": {
+            "EligibleVoters": "78837",
+            "MalayVoters": "34",
+            "ChineseVoters": "54",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "2038",
+            "Turnout": "59748",
+            "Unreturned": "102"
+        },
+        "candidates": [
+            {
+                "Party": "MCA",
+                "Name": "DATUK YAP PIAN HON",
+                "Votes": 34495,
+                "majority": 11280
+            },
+            {
+                "Party": "DAP",
+                "Name": "WONG KOK YEW",
+                "Votes": 23215
+            }
+        ]
+    }
+}

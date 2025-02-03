@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P69",
+        "SeatName": "PARIT",
+        "info": {
+            "EligibleVoters": "47915",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "USTAZ ISMI",
+                "Votes": 17181,
+                "NameBallot": "USTAZ ISMI",
+                "majority": 2155
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' NIZAR",
+                "Votes": 15026,
+                "NameBallot": "DATO' NIZAR"
+            },
+            {
+                "Party": "PH",
+                "Name": "NURTHAQAFFAH NORDIN",
+                "Votes": 5063,
+                "NameBallot": "NURTHAQAFFAH NORDIN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR. FAIZOL FADZLI",
+                "Votes": 275,
+                "NameBallot": "DR. FAIZOL FADZLI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P69",
+        "SeatName": "PARIT",
+        "info": {
+            "EligibleVoters": "35910",
+            "MalayVoters": "93",
+            "ChineseVoters": "2",
+            "IndianVoters": "3",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "481",
+            "Postal": "5",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD NIZAR BIN ZAKARIA",
+                "Votes": 14035,
+                "NameBallot": "USTAZ NIZAR",
+                "majority": 6320
+            },
+            {
+                "Party": "PAS",
+                "Name": "NAJIHATUSSALEHAH BINTI AHMAD",
+                "Votes": 7715,
+                "NameBallot": "DR NAJIHA AHMAD"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "AHMAD TARMIZI BIN MOHD JAM",
+                "Votes": 7240,
+                "NameBallot": "TARMIZI MOHD JAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P69",
+        "SeatName": "PARIT",
+        "info": {
+            "EligibleVoters": "33503",
+            "MalayVoters": "93",
+            "ChineseVoters": "3",
+            "IndianVoters": "3",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "532",
+            "Turnout": "28541",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD ZAIM BIN ABU HASAN",
+                "Votes": 16253,
+                "majority": 4497
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMMAD ISMI BIN MAT TAIB",
+                "Votes": 11756
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P69",
+        "SeatName": "PARIT",
+        "info": {
+            "EligibleVoters": "28859",
+            "MalayVoters": "92",
+            "ChineseVoters": "3",
+            "IndianVoters": "3",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "628",
+            "Turnout": "22598",
+            "Unreturned": "45"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHD NIZAR ZAKARIA",
+                "Votes": 12399,
+                "majority": 2873
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR NAJIHATUSSALEHAH AHMAD",
+                "Votes": 9526
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P69",
+        "SeatName": "PARIT",
+        "info": {
+            "EligibleVoters": "28916",
+            "MalayVoters": "91",
+            "ChineseVoters": "4",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "483",
+            "Turnout": "21403",
+            "Unreturned": "129"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NASARUDDIN HASHIM",
+                "Votes": 12808,
+                "majority": 4696
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUHAMMAD ISMI MAT TAIB",
+                "Votes": 8112
+            }
+        ]
+    }
+}

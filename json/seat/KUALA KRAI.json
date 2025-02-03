@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P31",
+        "SeatName": "KUALA KRAI",
+        "info": {
+            "EligibleVoters": "92335",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "USTAZ LATIFF",
+                "Votes": 42740,
+                "NameBallot": "USTAZ LATIFF",
+                "majority": 25188
+            },
+            {
+                "Party": "BN",
+                "Name": "ZUKI",
+                "Votes": 17552,
+                "NameBallot": "ZUKI"
+            },
+            {
+                "Party": "PH",
+                "Name": "SYAM GHAZ",
+                "Votes": 4148,
+                "NameBallot": "SYAM GHAZ"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "NORASHIKIN",
+                "Votes": 241,
+                "NameBallot": "NORASHIKIN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P31",
+        "SeatName": "KUALA KRAI",
+        "info": {
+            "EligibleVoters": "70348",
+            "MalayVoters": "95",
+            "ChineseVoters": "4",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "263",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "ABDUL LATIFF BIN ABDUL RAHMAN",
+                "Votes": 28903,
+                "NameBallot": "USTAZ LATIFF",
+                "majority": 7992
+            },
+            {
+                "Party": "UMNO",
+                "Name": "RAMZI BIN AB RAHMAN",
+                "Votes": 20911,
+                "NameBallot": "DATO RAMZI"
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "MOHD YAZID BIN ABDULLAH",
+                "Votes": 5173,
+                "NameBallot": "DR IR YAZID"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P31",
+        "SeatName": "KUALA KRAI",
+        "info": {
+            "EligibleVoters": "63101",
+            "MalayVoters": "94",
+            "ChineseVoters": "4",
+            "IndianVoters": "1",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "720",
+            "Turnout": "54515",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MOHD HATTA BIN MD RAMLI",
+                "Votes": 27919,
+                "majority": 2043
+            },
+            {
+                "Party": "UMNO",
+                "Name": "TUAN AZIZ BIN TUAN HAMAT @ TUAN MAT",
+                "Votes": 25876
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P31",
+        "SeatName": "KUALA KRAI",
+        "info": {
+            "EligibleVoters": "52250",
+            "MalayVoters": "93",
+            "ChineseVoters": "5",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "756",
+            "Turnout": "43013",
+            "Unreturned": "117"
+        },
+        "candidates": [
+            {
+                "Party": "PAS",
+                "Name": "MOHD HATTA MD RAMLI",
+                "Votes": 23562,
+                "majority": 4984
+            },
+            {
+                "Party": "UMNO",
+                "Name": "PROF DATUK DR CHE MUSA CHE OMAR",
+                "Votes": 18578
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "KE",
+        "ParliamentCode": "P31",
+        "SeatName": "KUALA KRAI",
+        "info": {
+            "EligibleVoters": "45259",
+            "MalayVoters": "92",
+            "ChineseVoters": "6",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "785",
+            "Turnout": "36665",
+            "Unreturned": "2"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "MOHAMMAD RAZALI CHE MAMAT",
+                "Votes": 19148,
+                "majority": 2416
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL RAHIM WAN ABDULLAH",
+                "Votes": 16732
+            }
+        ]
+    }
+}

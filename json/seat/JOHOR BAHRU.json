@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P160",
+        "SeatName": "JOHOR BAHRU",
+        "info": {
+            "EligibleVoters": "136368",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "AKMAL NASIR",
+                "Votes": 43252,
+                "NameBallot": "AKMAL NASIR",
+                "majority": 16041
+            },
+            {
+                "Party": "BN",
+                "Name": "JOHAN ROPI",
+                "Votes": 27211,
+                "NameBallot": "JOHAN ROPI"
+            },
+            {
+                "Party": "PN",
+                "Name": "MOHTAJ",
+                "Votes": 22075,
+                "NameBallot": "MOHTAJ"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "HAIRY MAHMOOD",
+                "Votes": 1855,
+                "NameBallot": "HAIRY MAHMOOD"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P160",
+        "SeatName": "JOHOR BAHRU",
+        "info": {
+            "EligibleVoters": "101409",
+            "MalayVoters": "53",
+            "ChineseVoters": "41",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1546",
+            "Postal": "46",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "AKMAL NASRULLAH BIN MOHD NASIR",
+                "Votes": 50052,
+                "NameBallot": "AKMAL NASIR",
+                "majority": 19782
+            },
+            {
+                "Party": "UMNO",
+                "Name": "SHAHRIR BIN ABD SAMAD",
+                "Votes": 30270,
+                "NameBallot": "TAN SRI SHAHRIR ABDUL SAMAD"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P160",
+        "SeatName": "JOHOR BAHRU",
+        "info": {
+            "EligibleVoters": "96321",
+            "MalayVoters": "51",
+            "ChineseVoters": "43",
+            "IndianVoters": "5",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1287",
+            "Turnout": "79723",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "SHARIL @ SHAHRIR BIN AB SAMAD",
+                "Votes": 44285,
+                "majority": 10134
+            },
+            {
+                "Party": "PKR",
+                "Name": "MD HASHIM BIN HUSSEIN",
+                "Votes": 34151
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P160",
+        "SeatName": "JOHOR BAHRU",
+        "info": {
+            "EligibleVoters": "89725",
+            "MalayVoters": "51",
+            "ChineseVoters": "44",
+            "IndianVoters": "5",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1391",
+            "Turnout": "62440",
+            "Unreturned": "112"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SHAHRIR ABDUL SAMAD",
+                "Votes": 43143,
+                "majority": 25349
+            },
+            {
+                "Party": "PRM",
+                "Name": "HASSAN KARIM",
+                "Votes": 17794
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P160",
+        "SeatName": "JOHOR BAHRU",
+        "info": {
+            "EligibleVoters": "91108",
+            "MalayVoters": "50",
+            "ChineseVoters": "44",
+            "IndianVoters": "5",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1100",
+            "Turnout": "62455",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SHAHRIR ABDUL SAMAD",
+                "Votes": 54073,
+                "majority": 46792
+            },
+            {
+                "Party": "PAS",
+                "Name": "ATAN AHMAD",
+                "Votes": 7281
+            }
+        ]
+    }
+}

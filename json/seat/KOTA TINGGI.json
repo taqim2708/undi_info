@@ -1,0 +1,181 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P156",
+        "SeatName": "KOTA TINGGI",
+        "info": {
+            "EligibleVoters": "61291",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "KHALED NORDIN ",
+                "Votes": 25410,
+                "NameBallot": "KHALED NORDIN ",
+                "majority": 8390
+            },
+            {
+                "Party": "PN",
+                "Name": "RIDHWAN RASMAN",
+                "Votes": 17020,
+                "NameBallot": "RIDHWAN RASMAN"
+            },
+            {
+                "Party": "PH",
+                "Name": "ONN JAAFAR",
+                "Votes": 4903,
+                "NameBallot": "ONN JAAFAR"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P156",
+        "SeatName": "KOTA TINGGI",
+        "info": {
+            "EligibleVoters": "46677",
+            "MalayVoters": "89",
+            "ChineseVoters": "9",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "351",
+            "Postal": "2",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "HALIMAH BINTI MOHD SADIQUE",
+                "Votes": 26407,
+                "NameBallot": "DATUK HALIMAH BINTI MOHAMED SADIQUE",
+                "majority": 14621
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "AZLINDA BINTI ABDUL LATIF",
+                "Votes": 11786,
+                "NameBallot": "HJH AZLINDA LATIF"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P156",
+        "SeatName": "KOTA TINGGI",
+        "info": {
+            "EligibleVoters": "41894",
+            "MalayVoters": "86",
+            "ChineseVoters": "11",
+            "IndianVoters": "2",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "696",
+            "Turnout": "36868",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NOOR EHSANUDDIN BIN MOHD HARUN NARRASHID",
+                "Votes": 30373,
+                "majority": 24574
+            },
+            {
+                "Party": "PAS",
+                "Name": "ONN BIN JAAFAR",
+                "Votes": 5799
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P156",
+        "SeatName": "KOTA TINGGI",
+        "info": {
+            "EligibleVoters": "34190",
+            "MalayVoters": "84",
+            "ChineseVoters": "13",
+            "IndianVoters": "2",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "653",
+            "Turnout": "27109",
+            "Unreturned": "53"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI SYED HAMID ALBAR",
+                "Votes": 22682,
+                "majority": 18961
+            },
+            {
+                "Party": "PAS",
+                "Name": "ONN JAAFAR",
+                "Votes": 3721
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "JH",
+        "ParliamentCode": "P156",
+        "SeatName": "KOTA TINGGI",
+        "info": {
+            "EligibleVoters": "33262",
+            "MalayVoters": "83",
+            "ChineseVoters": "14",
+            "IndianVoters": "3",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SYED HAMID ALBAR",
+                "Votes": 0
+            }
+        ]
+    }
+}

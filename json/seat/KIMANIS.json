@@ -1,0 +1,225 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P176",
+        "SeatName": "KIMANIS",
+        "info": {
+            "EligibleVoters": "40763",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "MOHAMAD BIN ALAMIN",
+                "Votes": 13004,
+                "NameBallot": "MOHAMAD BIN ALAMIN",
+                "majority": 3037
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "DAUD BIN YUSOF",
+                "Votes": 9967,
+                "NameBallot": "DAUD BIN YUSOF"
+            },
+            {
+                "Party": "KDM",
+                "Name": "AMAT BIN MD YUSOF",
+                "Votes": 4013,
+                "NameBallot": "AMAT BIN MD YUSOF"
+            },
+            {
+                "Party": "PH",
+                "Name": "ROWINDY LAWRENCE ODONG",
+                "Votes": 3931,
+                "NameBallot": "ROWINDY LAWRENCE ODONG"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "YUSOP BIN OSMAN",
+                "Votes": 153,
+                "NameBallot": "YUSOP BIN OSMAN"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P176",
+        "SeatName": "KIMANIS",
+        "info": {
+            "EligibleVoters": "29618",
+            "MalayVoters": "12",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "79",
+            "Early": "29607",
+            "Postal": "9",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ANIFAH AMAN",
+                "Votes": 11942,
+                "NameBallot": "ANIFAH AMAN",
+                "majority": 156
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "KARIM BIN BUJANG",
+                "Votes": 11786,
+                "NameBallot": "KARIM BIN BUJANG"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "JAAFAR BIN ISMAIL",
+                "Votes": 1300,
+                "NameBallot": "JAAFAR BIN ISMAIL"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P176",
+        "SeatName": "KIMANIS",
+        "info": {
+            "EligibleVoters": "26628",
+            "MalayVoters": "0",
+            "ChineseVoters": "4",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "60",
+            "BumiNonmuslimVoters": "34",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "453",
+            "Turnout": "23128",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ANIFAH BIN AMAN @ HANIFF AMMAN",
+                "Votes": 13754,
+                "majority": 5723
+            },
+            {
+                "Party": "PKR",
+                "Name": "JAAFAR BIN ISMAIL",
+                "Votes": 8031
+            },
+            {
+                "Party": "SAPP",
+                "Name": "JAMIL BIN WILLIAM CORE",
+                "Votes": 650
+            },
+            {
+                "Party": "STAR",
+                "Name": "LUSIN BIN BALANGON",
+                "Votes": 240
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P176",
+        "SeatName": "KIMANIS",
+        "info": {
+            "EligibleVoters": "22239",
+            "MalayVoters": "0",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "500",
+            "Turnout": "17367",
+            "Unreturned": "16"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ANIFAH AMAN",
+                "Votes": 10242,
+                "majority": 5453
+            },
+            {
+                "Party": "IND",
+                "Name": "JAAFAR ISMAIL",
+                "Votes": 4789
+            },
+            {
+                "Party": "PKR",
+                "Name": "ISMAIL BONGSU",
+                "Votes": 1615
+            },
+            {
+                "Party": "IND",
+                "Name": "BENJAMIN BASINTA",
+                "Votes": 205
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P176",
+        "SeatName": "KIMANIS",
+        "info": {
+            "EligibleVoters": "21576",
+            "MalayVoters": "0",
+            "ChineseVoters": "7",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "68",
+            "BumiNonmuslimVoters": "25",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "500",
+            "Turnout": "15126",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "Anifah Aman",
+                "Votes": 9655,
+                "majority": 5108
+            },
+            {
+                "Party": "PKR",
+                "Name": "Awang Tengah Awang Amin",
+                "Votes": 4547
+            }
+        ]
+    }
+}

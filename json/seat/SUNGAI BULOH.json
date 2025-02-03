@@ -1,0 +1,238 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P107",
+        "SeatName": "SUNGAI BULOH",
+        "info": {
+            "EligibleVoters": "158090",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "RAMANAN RAMAKRISHNAN",
+                "Votes": 50943,
+                "NameBallot": "RAMANAN RAMAKRISHNAN",
+                "majority": 2693
+            },
+            {
+                "Party": "BN",
+                "Name": "KHAIRY JAMALUDDIN",
+                "Votes": 48250,
+                "NameBallot": "KHAIRY JAMALUDDIN"
+            },
+            {
+                "Party": "PN",
+                "Name": "HJ  MOHD GHAZALI BIN MD HAMIN",
+                "Votes": 29060,
+                "NameBallot": "HJ  MOHD GHAZALI BIN MD HAMIN"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AKMAL YUSOFF",
+                "Votes": 829,
+                "NameBallot": "AKMAL YUSOFF"
+            },
+            {
+                "Party": "PRM",
+                "Name": "AHMAD JUFLIZ",
+                "Votes": 279,
+                "NameBallot": "AHMAD JUFLIZ"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SYED RAZAK ALSAGOFF",
+                "Votes": 165,
+                "NameBallot": "SYED RAZAK ALSAGOFF"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "SIFU LINDA",
+                "Votes": 113,
+                "NameBallot": "SIFU LINDA"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P107",
+        "SeatName": "SUNGAI BULOH",
+        "info": {
+            "EligibleVoters": "90707",
+            "MalayVoters": "66",
+            "ChineseVoters": "22",
+            "IndianVoters": "11",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "3232",
+            "Postal": "47",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SIVARASA A/L RASIAH",
+                "Votes": 43631,
+                "NameBallot": "SIVARASA RASIAH",
+                "majority": 26634
+            },
+            {
+                "Party": "PAS",
+                "Name": "NURIDAH BINTI MOHD SALLEH",
+                "Votes": 16997,
+                "NameBallot": "USTAZAH NURIDAH"
+            },
+            {
+                "Party": "MIC",
+                "Name": "PAKAS RAO A/L APPLANAIDOO",
+                "Votes": 16681,
+                "NameBallot": "A PRAKASH RAO"
+            },
+            {
+                "Party": "PSM",
+                "Name": "ZAINURIZZAMAN BIN MOHARAM",
+                "Votes": 642,
+                "NameBallot": "ZAINURIZZAMAN BIN MOHARAM"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P107",
+        "SeatName": "SUBANG",
+        "info": {
+            "EligibleVoters": "128543",
+            "MalayVoters": "48",
+            "ChineseVoters": "38",
+            "IndianVoters": "13",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1669",
+            "Turnout": "112618",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "SIVARASA A/L K RASIAH",
+                "Votes": 66268,
+                "majority": 26719
+            },
+            {
+                "Party": "MIC",
+                "Name": "PAKAS RAO A/L APPLANAIDOO",
+                "Votes": 39549
+            },
+            {
+                "Party": "BERJASA",
+                "Name": "MOHAMAD BIN ISMAIL",
+                "Votes": 4454
+            },
+            {
+                "Party": "IND",
+                "Name": "NAZARUDDIN BIN MOHAMED FERDOOS",
+                "Votes": 460
+            },
+            {
+                "Party": "IND",
+                "Name": "EDROS BIN ABDULLAH",
+                "Votes": 218
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P107",
+        "SeatName": "SUBANG",
+        "info": {
+            "EligibleVoters": "84414",
+            "MalayVoters": "50",
+            "ChineseVoters": "36",
+            "IndianVoters": "14",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "2079",
+            "Turnout": "65861",
+            "Unreturned": "443"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "R SIVARASA",
+                "Votes": 35024,
+                "majority": 6709
+            },
+            {
+                "Party": "MIC",
+                "Name": "S MURUGESAN",
+                "Votes": 28315
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P107",
+        "SeatName": "SUBANG",
+        "info": {
+            "EligibleVoters": "68739",
+            "MalayVoters": "49",
+            "ChineseVoters": "34",
+            "IndianVoters": "16",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1063",
+            "Turnout": "51485",
+            "Unreturned": "532"
+        },
+        "candidates": [
+            {
+                "Party": "MIC",
+                "Name": "TAN SRI KS NIJHAR",
+                "Votes": 32941,
+                "majority": 15460
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOHD NASIR HASHIM",
+                "Votes": 17481
+            }
+        ]
+    }
+}

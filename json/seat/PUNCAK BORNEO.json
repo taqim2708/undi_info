@@ -1,0 +1,198 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P198",
+        "SeatName": "PUNCAK BORNEO",
+        "info": {
+            "EligibleVoters": "79969",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "WILLIE ANAK MONGIN",
+                "Votes": 29457,
+                "NameBallot": "WILLIE ANAK MONGIN",
+                "majority": 13338
+            },
+            {
+                "Party": "PH",
+                "Name": "DIOG ANAK DIOS",
+                "Votes": 16119,
+                "NameBallot": "DIOG ANAK DIOS"
+            },
+            {
+                "Party": "PSB",
+                "Name": "IANA ANAK AKAM",
+                "Votes": 5578,
+                "NameBallot": "IANA ANAK AKAM"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P198",
+        "SeatName": "PUNCAK BORNEO",
+        "info": {
+            "EligibleVoters": "46180",
+            "MalayVoters": "0",
+            "ChineseVoters": "26",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "5",
+            "BumiNonmuslimVoters": "68",
+            "SabahBumiVoters": "0",
+            "Early": "1065",
+            "Postal": "2",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "WILLIE ANAK MONGIN",
+                "Votes": 18865,
+                "NameBallot": "WILLIE MONGIN",
+                "majority": 4005
+            },
+            {
+                "Party": "PBB",
+                "Name": "GENOT ANAK SINEL @JEANNOTH SINEL",
+                "Votes": 14860,
+                "NameBallot": "JEANNOTH SINEL"
+            },
+            {
+                "Party": "STAR",
+                "Name": "BULN ANAK PATRICK RIBOS",
+                "Votes": 795,
+                "NameBallot": "BULN RIBOS"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P198",
+        "SeatName": "MAMBONG",
+        "info": {
+            "EligibleVoters": "42344",
+            "MalayVoters": "0",
+            "ChineseVoters": "27",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "12",
+            "BumiNonmuslimVoters": "61",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "674",
+            "Turnout": "32579",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "JAMES DAWOS MAMIT",
+                "Votes": 20461,
+                "majority": 9721
+            },
+            {
+                "Party": "PKR",
+                "Name": "WILLIE ANAK MONGIN",
+                "Votes": 10740
+            },
+            {
+                "Party": "STAR",
+                "Name": "DRIPIN ANAK SAKOI",
+                "Votes": 704
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P198",
+        "SeatName": "MAMBONG",
+        "info": {
+            "EligibleVoters": "36147",
+            "MalayVoters": "0",
+            "ChineseVoters": "25",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "473",
+            "Turnout": "22306",
+            "Unreturned": "126"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "DATUK JAMES DAWOS MAMIT",
+                "Votes": 14182,
+                "majority": 6657
+            },
+            {
+                "Party": "PKR",
+                "Name": "MAJEN AK PANYOG",
+                "Votes": 7525
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P198",
+        "SeatName": "MAMBONG",
+        "info": {
+            "EligibleVoters": "35652",
+            "MalayVoters": "3",
+            "ChineseVoters": "30",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "451",
+            "Turnout": "22089",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBB",
+                "Name": "James Dawos Mamit",
+                "Votes": 15368,
+                "majority": 9098
+            },
+            {
+                "Party": "STAR",
+                "Name": "Mangan Ngandok",
+                "Votes": 6270
+            }
+        ]
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P202",
+        "SeatName": "SRI AMAN",
+        "info": {
+            "EligibleVoters": "50164",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "GPS",
+                "Name": "DORIS SOPHIA ANAK BRODI",
+                "Votes": 14131,
+                "NameBallot": "DORIS SOPHIA ANAK BRODI",
+                "majority": 4039
+            },
+            {
+                "Party": "PSB",
+                "Name": "WILSON ANAK ENTABANG",
+                "Votes": 10092,
+                "NameBallot": "WILSON ANAK ENTABANG"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MASIR ANAK KUJAT",
+                "Votes": 5673,
+                "NameBallot": "MASIR ANAK KUJAT"
+            },
+            {
+                "Party": "PH",
+                "Name": "NAGA LIBAU @ TAY",
+                "Votes": 2021,
+                "NameBallot": "NAGA LIBAU @ TAY"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P202",
+        "SeatName": "SRI AMAN",
+        "info": {
+            "EligibleVoters": "33016",
+            "MalayVoters": "0",
+            "ChineseVoters": "17",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "10",
+            "BumiNonmuslimVoters": "72",
+            "SabahBumiVoters": "0",
+            "Early": "1248",
+            "Postal": "1",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "MASIR ANAK KUJAT",
+                "Votes": 14141,
+                "NameBallot": "MASIR KUJAT",
+                "majority": 5820
+            },
+            {
+                "Party": "PKR",
+                "Name": "NORINA UMOI ANAK UTOT",
+                "Votes": 8321,
+                "NameBallot": "NORINA UMOI ANAK UTOT"
+            },
+            {
+                "Party": "PBDSB",
+                "Name": "COBBOLD ANAK LUSOI",
+                "Votes": 538,
+                "NameBallot": "COBBOLD ANAK LUSOI"
+            }
+        ]
+    },
+    "2016-GE": {
+        "year": "2016",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P202",
+        "SeatName": "SRI AMAN",
+        "info": {
+            "EligibleVoters": "29789",
+            "MalayVoters": "0",
+            "ChineseVoters": "17",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "20",
+            "BumiNonmuslimVoters": "63",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "224",
+            "Turnout": "22353",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "MASIR ANAK KUJAT",
+                "Votes": 12168,
+                "majority": 6550
+            },
+            {
+                "Party": "PKR",
+                "Name": "NICHOLAS MUJAH ANAK ASON",
+                "Votes": 5618
+            },
+            {
+                "Party": "IND",
+                "Name": "DONALD LAWAN",
+                "Votes": 3867
+            },
+            {
+                "Party": "SWP",
+                "Name": "WILFRED STEPHEN",
+                "Votes": 476
+            }
+        ]
+    },
+    "2011-GE": {
+        "year": "2011",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P202",
+        "SeatName": "SRI AMAN",
+        "info": {
+            "EligibleVoters": "25724",
+            "MalayVoters": "0",
+            "ChineseVoters": "16",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "211",
+            "Turnout": "15513",
+            "Unreturned": "154"
+        },
+        "candidates": [
+            {
+                "Party": "PRS",
+                "Name": "MASIR KUJAT",
+                "Votes": 9700,
+                "majority": 4252
+            },
+            {
+                "Party": "IND",
+                "Name": "COBBOLD LUSOI",
+                "Votes": 5448
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SW",
+        "ParliamentCode": "P202",
+        "SeatName": "SRI AMAN",
+        "info": {
+            "EligibleVoters": "28015",
+            "MalayVoters": "8",
+            "ChineseVoters": "16",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "316",
+            "Turnout": "15500",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PBDS",
+                "Name": "Jimmy Donald Lim",
+                "Votes": 9679,
+                "majority": 4368
+            },
+            {
+                "Party": "IND",
+                "Name": "Cobbold Lusoi",
+                "Votes": 5311
+            }
+        ]
+    }
+}

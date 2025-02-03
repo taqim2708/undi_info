@@ -1,0 +1,198 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P90",
+        "SeatName": "BERA",
+        "info": {
+            "EligibleVoters": "77669",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "ISMAIL SABRI BIN YAAKOB",
+                "Votes": 31762,
+                "NameBallot": "ISMAIL SABRI BIN YAAKOB",
+                "majority": 16695
+            },
+            {
+                "Party": "PH",
+                "Name": "HAJI ABAS BIN AWANG",
+                "Votes": 15067,
+                "NameBallot": "HAJI ABAS BIN AWANG"
+            },
+            {
+                "Party": "PN",
+                "Name": "DATO ASMAWI",
+                "Votes": 12719,
+                "NameBallot": "DATO ASMAWI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P90",
+        "SeatName": "BERA",
+        "info": {
+            "EligibleVoters": "58711",
+            "MalayVoters": "62",
+            "ChineseVoters": "29",
+            "IndianVoters": "4",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1615",
+            "Postal": "8",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL SABRI BIN YAAKOB",
+                "Votes": 20760,
+                "NameBallot": "ISMAIL SABRI YAAKOB",
+                "majority": 2311
+            },
+            {
+                "Party": "PKR",
+                "Name": "ZAKARIA BIN ABDUL HAMID",
+                "Votes": 18449,
+                "NameBallot": "ZAKARIA ABDUL HAMID"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MUSANIFF BIN AB RAHMAN",
+                "Votes": 8096,
+                "NameBallot": "MUSANIFF BIN AB RAHMAN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P90",
+        "SeatName": "BERA",
+        "info": {
+            "EligibleVoters": "50997",
+            "MalayVoters": "59",
+            "ChineseVoters": "32",
+            "IndianVoters": "4",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "965",
+            "Turnout": "42830",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL SABRI BIN YAAKOB",
+                "Votes": 21669,
+                "majority": 2143
+            },
+            {
+                "Party": "PKR",
+                "Name": "ZAKARIA BIN ABDUL HAMID",
+                "Votes": 19526
+            },
+            {
+                "Party": "IND",
+                "Name": "MOHD WALI BIN ALANG AHAMAD",
+                "Votes": 670
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P90",
+        "SeatName": "BERA",
+        "info": {
+            "EligibleVoters": "42993",
+            "MalayVoters": "61",
+            "ChineseVoters": "34",
+            "IndianVoters": "4",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "783",
+            "Turnout": "33064",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK ISMAIL SABRI YAAKOB",
+                "Votes": 18051,
+                "majority": 3821
+            },
+            {
+                "Party": "PAS",
+                "Name": "MAZLAN ALIMAN",
+                "Votes": 14230
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PH",
+        "ParliamentCode": "P90",
+        "SeatName": "BERA",
+        "info": {
+            "EligibleVoters": "40631",
+            "MalayVoters": "58",
+            "ChineseVoters": "35",
+            "IndianVoters": "5",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "889",
+            "Turnout": "29847",
+            "Unreturned": "889"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ISMAIL SABRI YAAKOB",
+                "Votes": 16714,
+                "majority": 4470
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR ABDUL WAHAB ISMAIL",
+                "Votes": 12244
+            }
+        ]
+    }
+}

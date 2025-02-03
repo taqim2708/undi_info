@@ -1,0 +1,187 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P49",
+        "SeatName": "TANJONG",
+        "info": {
+            "EligibleVoters": "52803",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "LIM HUI YING",
+                "Votes": 31968,
+                "NameBallot": "LIM HUI YING",
+                "majority": 28754
+            },
+            {
+                "Party": "BN",
+                "Name": "TAN KIM NEE",
+                "Votes": 3214,
+                "NameBallot": "TAN KIM NEE"
+            },
+            {
+                "Party": "PN",
+                "Name": "AH LENG",
+                "Votes": 2501,
+                "NameBallot": "AH LENG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P49",
+        "SeatName": "TANJONG",
+        "info": {
+            "EligibleVoters": "49586",
+            "MalayVoters": "6",
+            "ChineseVoters": "84",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "876",
+            "Postal": "3",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHOW KON YEOW",
+                "Votes": 34663,
+                "NameBallot": "CHOW KON YEOW",
+                "majority": 29599
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "NG SIEW LAI",
+                "Votes": 5064,
+                "NameBallot": "NG SIEW LAI"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P49",
+        "SeatName": "TANJONG",
+        "info": {
+            "EligibleVoters": "51487",
+            "MalayVoters": "5",
+            "ChineseVoters": "86",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "495",
+            "Turnout": "42870",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "NG WEI AIK",
+                "Votes": 35510,
+                "majority": 28645
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "NG SONG KHENG",
+                "Votes": 6865
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P49",
+        "SeatName": "TANJONG",
+        "info": {
+            "EligibleVoters": "53188",
+            "MalayVoters": "8",
+            "ChineseVoters": "86",
+            "IndianVoters": "6",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "631",
+            "Turnout": "38734",
+            "Unreturned": "96"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHOW KON YEOW",
+                "Votes": 28248,
+                "majority": 18489
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "KHAW VEON SZU",
+                "Votes": 9759
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PN",
+        "ParliamentCode": "P49",
+        "SeatName": "TANJONG",
+        "info": {
+            "EligibleVoters": "57902",
+            "MalayVoters": "5",
+            "ChineseVoters": "86",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "717",
+            "Turnout": "39793",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "CHOW KON YEOW",
+                "Votes": 21652,
+                "majority": 4228
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "OOI SWEE HING",
+                "Votes": 17424
+            }
+        ]
+    }
+}

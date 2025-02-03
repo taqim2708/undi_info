@@ -1,0 +1,1107 @@
+[
+    {
+        "pcode": "P4",
+        "seat_name": "LANGKAWI",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P5",
+        "seat_name": "JERLUN",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P6",
+        "seat_name": "KUBANG PASU",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P7",
+        "seat_name": "PADANG TERAP",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P8",
+        "seat_name": "POKOK SENA",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P9",
+        "seat_name": "ALOR SETAR",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P10",
+        "seat_name": "KUALA KEDAH",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P11",
+        "seat_name": "PENDANG",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P12",
+        "seat_name": "JERAI",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P13",
+        "seat_name": "SIK",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P14",
+        "seat_name": "MERBOK",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P15",
+        "seat_name": "SUNGAI PETANI",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P16",
+        "seat_name": "BALING",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P17",
+        "seat_name": "PADANG SERAI",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P18",
+        "seat_name": "KULIM-BANDAR BAHARU",
+        "state_code": "kd"
+    },
+    {
+        "pcode": "P41",
+        "seat_name": "KEPALA BATAS",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P42",
+        "seat_name": "TASEK GELUGOR",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P43",
+        "seat_name": "BAGAN",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P44",
+        "seat_name": "PERMATANG PAUH",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P45",
+        "seat_name": "BUKIT MERTAJAM",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P46",
+        "seat_name": "BATU KAWAN",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P47",
+        "seat_name": "NIBONG TEBAL",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P48",
+        "seat_name": "BUKIT BENDERA",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P49",
+        "seat_name": "TANJONG",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P50",
+        "seat_name": "JELUTONG",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P51",
+        "seat_name": "BUKIT GELUGOR",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P52",
+        "seat_name": "BAYAN BARU",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P53",
+        "seat_name": "BALIK PULAU",
+        "state_code": "pn"
+    },
+    {
+        "pcode": "P19",
+        "seat_name": "TUMPAT",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P20",
+        "seat_name": "PENGKALAN CHEPA",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P21",
+        "seat_name": "KOTA BHARU",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P22",
+        "seat_name": "PASIR MAS",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P23",
+        "seat_name": "RANTAU PANJANG",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P24",
+        "seat_name": "KUBANG KERIAN",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P25",
+        "seat_name": "BACHOK",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P26",
+        "seat_name": "KETEREH",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P27",
+        "seat_name": "TANAH MERAH",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P28",
+        "seat_name": "PASIR PUTEH",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P29",
+        "seat_name": "MACHANG",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P30",
+        "seat_name": "JELI",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P31",
+        "seat_name": "KUALA KRAI",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P32",
+        "seat_name": "GUA MUSANG",
+        "state_code": "ke"
+    },
+    {
+        "pcode": "P33",
+        "seat_name": "BESUT",
+        "state_code": "tr"
+    },
+    {
+        "pcode": "P34",
+        "seat_name": "SETIU",
+        "state_code": "tr"
+    },
+    {
+        "pcode": "P35",
+        "seat_name": "KUALA NERUS",
+        "state_code": "tr"
+    },
+    {
+        "pcode": "P36",
+        "seat_name": "KUALA TERENGGANU",
+        "state_code": "tr"
+    },
+    {
+        "pcode": "P37",
+        "seat_name": "MARANG",
+        "state_code": "tr"
+    },
+    {
+        "pcode": "P38",
+        "seat_name": "HULU TERENGGANU",
+        "state_code": "tr"
+    },
+    {
+        "pcode": "P39",
+        "seat_name": "DUNGUN",
+        "state_code": "tr"
+    },
+    {
+        "pcode": "P40",
+        "seat_name": "KEMAMAN",
+        "state_code": "tr"
+    },
+    {
+        "pcode": "P92",
+        "seat_name": "SABAK BERNAM",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P93",
+        "seat_name": "SUNGAI BESAR",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P94",
+        "seat_name": "HULU SELANGOR",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P95",
+        "seat_name": "TANJONG KARANG",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P96",
+        "seat_name": "KUALA SELANGOR",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P97",
+        "seat_name": "SELAYANG",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P98",
+        "seat_name": "GOMBAK",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P99",
+        "seat_name": "AMPANG",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P100",
+        "seat_name": "PANDAN",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P101",
+        "seat_name": "HULU LANGAT",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P102",
+        "seat_name": "BANGI",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P103",
+        "seat_name": "PUCHONG",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P104",
+        "seat_name": "SUBANG",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P105",
+        "seat_name": "PETALING JAYA",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P106",
+        "seat_name": "DAMANSARA",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P107",
+        "seat_name": "SUNGAI BULOH",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P108",
+        "seat_name": "SHAH ALAM",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P109",
+        "seat_name": "KAPAR",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P110",
+        "seat_name": "KLANG",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P111",
+        "seat_name": "KOTA RAJA",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P112",
+        "seat_name": "KUALA LANGAT",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P113",
+        "seat_name": "SEPANG",
+        "state_code": "sl"
+    },
+    {
+        "pcode": "P126",
+        "seat_name": "JELEBU",
+        "state_code": "ns"
+    },
+    {
+        "pcode": "P127",
+        "seat_name": "JEMPOL",
+        "state_code": "ns"
+    },
+    {
+        "pcode": "P128",
+        "seat_name": "SEREMBAN",
+        "state_code": "ns"
+    },
+    {
+        "pcode": "P129",
+        "seat_name": "KUALA PILAH",
+        "state_code": "ns"
+    },
+    {
+        "pcode": "P130",
+        "seat_name": "RASAH",
+        "state_code": "ns"
+    },
+    {
+        "pcode": "P131",
+        "seat_name": "REMBAU",
+        "state_code": "ns"
+    },
+    {
+        "pcode": "P132",
+        "seat_name": "PORT DICKSON",
+        "state_code": "ns"
+    },
+    {
+        "pcode": "P133",
+        "seat_name": "TAMPIN",
+        "state_code": "ns"
+    },
+    {
+        "pcode": "P192",
+        "seat_name": "MAS GADING",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P193",
+        "seat_name": "SANTUBONG",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P194",
+        "seat_name": "PETRA JAYA",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P195",
+        "seat_name": "BANDAR KUCHING",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P196",
+        "seat_name": "STAMPIN",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P197",
+        "seat_name": "KOTA SAMARAHAN",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P198",
+        "seat_name": "PUNCAK BORNEO",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P199",
+        "seat_name": "SERIAN",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P200",
+        "seat_name": "BATANG SADONG",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P201",
+        "seat_name": "BATANG LUPAR",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P202",
+        "seat_name": "SRI AMAN",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P203",
+        "seat_name": "LUBOK ANTU",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P204",
+        "seat_name": "BETONG",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P205",
+        "seat_name": "SARATOK",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P206",
+        "seat_name": "TANJONG MANIS",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P207",
+        "seat_name": "IGAN",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P208",
+        "seat_name": "SARIKEI",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P209",
+        "seat_name": "JULAU",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P210",
+        "seat_name": "KANOWIT",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P211",
+        "seat_name": "LANANG",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P212",
+        "seat_name": "SIBU",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P213",
+        "seat_name": "MUKAH",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P214",
+        "seat_name": "SELANGAU",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P215",
+        "seat_name": "KAPIT",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P216",
+        "seat_name": "HULU RAJANG",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P217",
+        "seat_name": "BINTULU",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P218",
+        "seat_name": "SIBUTI",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P219",
+        "seat_name": "MIRI",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P220",
+        "seat_name": "BARAM",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P221",
+        "seat_name": "LIMBANG",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P222",
+        "seat_name": "LAWAS",
+        "state_code": "sw"
+    },
+    {
+        "pcode": "P134",
+        "seat_name": "MASJID TANAH",
+        "state_code": "mk"
+    },
+    {
+        "pcode": "P135",
+        "seat_name": "ALOR GAJAH",
+        "state_code": "mk"
+    },
+    {
+        "pcode": "P136",
+        "seat_name": "TANGGA BATU",
+        "state_code": "mk"
+    },
+    {
+        "pcode": "P137",
+        "seat_name": "HANG TUAH JAYA",
+        "state_code": "mk"
+    },
+    {
+        "pcode": "P138",
+        "seat_name": "KOTA MELAKA",
+        "state_code": "mk"
+    },
+    {
+        "pcode": "P139",
+        "seat_name": "JASIN",
+        "state_code": "mk"
+    },
+    {
+        "pcode": "P166",
+        "seat_name": "LABUAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P167",
+        "seat_name": "KUDAT",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P168",
+        "seat_name": "KOTA MARUDU",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P169",
+        "seat_name": "KOTA BELUD",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P170",
+        "seat_name": "TUARAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P171",
+        "seat_name": "SEPANGGAR",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P172",
+        "seat_name": "KOTA KINABALU",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P173",
+        "seat_name": "PUTATAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P174",
+        "seat_name": "PENAMPANG",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P175",
+        "seat_name": "PAPAR",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P176",
+        "seat_name": "KIMANIS",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P177",
+        "seat_name": "BEAUFORT",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P178",
+        "seat_name": "SIPITANG",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P179",
+        "seat_name": "RANAU",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P180",
+        "seat_name": "KENINGAU",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P181",
+        "seat_name": "TENOM",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P182",
+        "seat_name": "PENSIANGAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P183",
+        "seat_name": "BELURAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P184",
+        "seat_name": "LIBARAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P185",
+        "seat_name": "BATU SAPI",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P186",
+        "seat_name": "SANDAKAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P187",
+        "seat_name": "KINABATANGAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P188",
+        "seat_name": "LAHAD DATU",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P189",
+        "seat_name": "SEMPORNA",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P190",
+        "seat_name": "TAWAU",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P191",
+        "seat_name": "KALABAKAN",
+        "state_code": "sb"
+    },
+    {
+        "pcode": "P1",
+        "seat_name": "PADANG BESAR",
+        "state_code": "pl"
+    },
+    {
+        "pcode": "P2",
+        "seat_name": "KANGAR",
+        "state_code": "pl"
+    },
+    {
+        "pcode": "P3",
+        "seat_name": "ARAU",
+        "state_code": "pl"
+    },
+    {
+        "pcode": "P54",
+        "seat_name": "GERIK",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P55",
+        "seat_name": "LENGGONG",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P56",
+        "seat_name": "LARUT",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P57",
+        "seat_name": "PARIT BUNTAR",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P58",
+        "seat_name": "BAGAN SERAI",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P59",
+        "seat_name": "BUKIT GANTANG",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P60",
+        "seat_name": "TAIPING",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P61",
+        "seat_name": "PADANG RENGAS",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P62",
+        "seat_name": "SUNGAI SIPUT",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P63",
+        "seat_name": "TAMBUN",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P64",
+        "seat_name": "IPOH TIMOR",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P65",
+        "seat_name": "IPOH BARAT",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P66",
+        "seat_name": "BATU GAJAH",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P67",
+        "seat_name": "KUALA KANGSAR",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P68",
+        "seat_name": "BERUAS",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P69",
+        "seat_name": "PARIT",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P70",
+        "seat_name": "KAMPAR",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P71",
+        "seat_name": "GOPENG",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P72",
+        "seat_name": "TAPAH",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P73",
+        "seat_name": "PASIR SALAK",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P74",
+        "seat_name": "LUMUT",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P75",
+        "seat_name": "BAGAN DATUK",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P76",
+        "seat_name": "TELUK INTAN",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P77",
+        "seat_name": "TANJONG MALIM",
+        "state_code": "pr"
+    },
+    {
+        "pcode": "P78",
+        "seat_name": "CAMERON HIGHLANDS",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P79",
+        "seat_name": "LIPIS",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P80",
+        "seat_name": "RAUB",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P81",
+        "seat_name": "JERANTUT",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P82",
+        "seat_name": "INDERA MAHKOTA",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P83",
+        "seat_name": "KUANTAN",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P84",
+        "seat_name": "PAYA BESAR",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P85",
+        "seat_name": "PEKAN",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P86",
+        "seat_name": "MARAN",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P87",
+        "seat_name": "KUALA KRAU",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P88",
+        "seat_name": "TEMERLOH",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P89",
+        "seat_name": "BENTONG",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P90",
+        "seat_name": "BERA",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P91",
+        "seat_name": "ROMPIN",
+        "state_code": "ph"
+    },
+    {
+        "pcode": "P114",
+        "seat_name": "KEPONG",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P115",
+        "seat_name": "BATU",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P116",
+        "seat_name": "WANGSA MAJU",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P117",
+        "seat_name": "SEGAMBUT",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P118",
+        "seat_name": "SETIAWANGSA",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P119",
+        "seat_name": "TITIWANGSA",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P120",
+        "seat_name": "BUKIT BINTANG",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P121",
+        "seat_name": "LEMBAH PANTAI",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P122",
+        "seat_name": "SEPUTEH",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P123",
+        "seat_name": "CHERAS",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P124",
+        "seat_name": "BANDAR TUN RAZAK",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P125",
+        "seat_name": "PUTRAJAYA",
+        "state_code": "wp"
+    },
+    {
+        "pcode": "P140",
+        "seat_name": "SEGAMAT",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P141",
+        "seat_name": "SEKIJANG",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P142",
+        "seat_name": "LABIS",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P143",
+        "seat_name": "PAGOH",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P144",
+        "seat_name": "LEDANG",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P145",
+        "seat_name": "BAKRI",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P146",
+        "seat_name": "MUAR",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P147",
+        "seat_name": "PARIT SULONG",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P148",
+        "seat_name": "AYER HITAM",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P149",
+        "seat_name": "SRI GADING",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P150",
+        "seat_name": "BATU PAHAT",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P151",
+        "seat_name": "SIMPANG RENGGAM",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P152",
+        "seat_name": "KLUANG",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P153",
+        "seat_name": "SEMBRONG",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P154",
+        "seat_name": "MERSING",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P155",
+        "seat_name": "TENGGARA",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P156",
+        "seat_name": "KOTA TINGGI",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P157",
+        "seat_name": "PENGERANG",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P158",
+        "seat_name": "TEBRAU",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P159",
+        "seat_name": "PASIR GUDANG",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P160",
+        "seat_name": "JOHOR BAHRU",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P162",
+        "seat_name": "ISKANDAR PUTERI",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P163",
+        "seat_name": "KULAI",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P164",
+        "seat_name": "PONTIAN",
+        "state_code": "jh"
+    },
+    {
+        "pcode": "P165",
+        "seat_name": "TANJUNG PIAI",
+        "state_code": "jh"
+    }
+]

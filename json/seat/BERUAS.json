@@ -1,0 +1,193 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P68",
+        "SeatName": "BERUAS",
+        "info": {
+            "EligibleVoters": "108249",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "DATO' NGEH KOO HAM",
+                "Votes": 46710,
+                "NameBallot": "DATO' NGEH KOO HAM",
+                "majority": 33971
+            },
+            {
+                "Party": "PN",
+                "Name": "Ir. ONG KEAN SING",
+                "Votes": 12739,
+                "NameBallot": "Ir. ONG KEAN SING"
+            },
+            {
+                "Party": "BN",
+                "Name": "DING SIEW CHEE",
+                "Votes": 12724,
+                "NameBallot": "DING SIEW CHEE"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P68",
+        "SeatName": "BERUAS",
+        "info": {
+            "EligibleVoters": "79794",
+            "MalayVoters": "26",
+            "ChineseVoters": "59",
+            "IndianVoters": "14",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "194",
+            "Postal": "18",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "NGEH KOO HAM",
+                "Votes": 41231,
+                "NameBallot": "DATO' NGEH KOO HAM",
+                "majority": 27954
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "PANG CHOK KING",
+                "Votes": 13277,
+                "NameBallot": "PANG CHOK KING"
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD NAZEER BIN M K M HAMEED",
+                "Votes": 5759,
+                "NameBallot": "HJ MOHAMAD NAZEER HAMEED"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P68",
+        "SeatName": "BERUAS",
+        "info": {
+            "EligibleVoters": "49205",
+            "MalayVoters": "33",
+            "ChineseVoters": "52",
+            "IndianVoters": "15",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "687",
+            "Turnout": "39508",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "NGEH KOO HAM",
+                "Votes": 21939,
+                "majority": 5057
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "CHANG KO YOUN",
+                "Votes": 16882
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P68",
+        "SeatName": "BERUAS",
+        "info": {
+            "EligibleVoters": "43273",
+            "MalayVoters": "31",
+            "ChineseVoters": "55",
+            "IndianVoters": "14",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "889",
+            "Turnout": "30821",
+            "Unreturned": "98"
+        },
+        "candidates": [
+            {
+                "Party": "DAP",
+                "Name": "NGEH KOO HAM",
+                "Votes": 15831,
+                "majority": 1828
+            },
+            {
+                "Party": "GERAKAN",
+                "Name": "DATUK CHANG KO YOUN",
+                "Votes": 14003
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "PR",
+        "ParliamentCode": "P68",
+        "SeatName": "BERUAS",
+        "info": {
+            "EligibleVoters": "42173",
+            "MalayVoters": "32",
+            "ChineseVoters": "55",
+            "IndianVoters": "13",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "1102",
+            "Turnout": "28272",
+            "Unreturned": "1"
+        },
+        "candidates": [
+            {
+                "Party": "GERAKAN",
+                "Name": "DATUK SERI LIM KENG YAIK",
+                "Votes": 15867,
+                "majority": 4564
+            },
+            {
+                "Party": "DAP",
+                "Name": "NGA HOCK CHEH",
+                "Votes": 11303
+            }
+        ]
+    }
+}

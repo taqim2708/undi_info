@@ -1,0 +1,210 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P95",
+        "SeatName": "TANJONG KARANG",
+        "info": {
+            "EligibleVoters": "62194",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PN",
+                "Name": "KAPT (B) DATO DR ZULKAFPERI",
+                "Votes": 18054,
+                "NameBallot": "KAPT (B) DATO DR ZULKAFPERI",
+                "majority": 2180
+            },
+            {
+                "Party": "BN",
+                "Name": "DATO' HJH. HABIBAH",
+                "Votes": 15874,
+                "NameBallot": "DATO' HJH. HABIBAH"
+            },
+            {
+                "Party": "MUDA",
+                "Name": "CIKGU RAHAYU",
+                "Votes": 12314,
+                "NameBallot": "CIKGU RAHAYU"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "LANDO BROTHERHOOD",
+                "Votes": 3557,
+                "NameBallot": "LANDO BROTHERHOOD"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MOHD ROSNI",
+                "Votes": 1406,
+                "NameBallot": "MOHD ROSNI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P95",
+        "SeatName": "TANJONG KARANG",
+        "info": {
+            "EligibleVoters": "47198",
+            "MalayVoters": "75",
+            "ChineseVoters": "16",
+            "IndianVoters": "9",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "26",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NOH BIN OMAR",
+                "Votes": 17596,
+                "NameBallot": "TAN SRI NOH BIN HAJI OMAR",
+                "majority": 1970
+            },
+            {
+                "Party": "BERSATU",
+                "Name": "ZULKAFPERI BIN HANAPI",
+                "Votes": 15626,
+                "NameBallot": "KAPT(B) DATO DR ZULKAFPERI"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NOR AZ AZLAN BIN AHMAD",
+                "Votes": 7276,
+                "NameBallot": "NOR AZ AZLAN BIN AHMAD"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P95",
+        "SeatName": "TANJONG KARANG",
+        "info": {
+            "EligibleVoters": "42333",
+            "MalayVoters": "72",
+            "ChineseVoters": "17",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "634",
+            "Turnout": "37676",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "NOH BIN OMAR",
+                "Votes": 20548,
+                "majority": 4394
+            },
+            {
+                "Party": "PAS",
+                "Name": "MOHAMAD RASHDI BIN DERAMAN",
+                "Votes": 16154
+            },
+            {
+                "Party": "IND",
+                "Name": "MASRUN BIN TAMSI",
+                "Votes": 340
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P95",
+        "SeatName": "TANJONG KARANG",
+        "info": {
+            "EligibleVoters": "36391",
+            "MalayVoters": "72",
+            "ChineseVoters": "17",
+            "IndianVoters": "11",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "674",
+            "Turnout": "29052",
+            "Unreturned": "52"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK NOH OMAR",
+                "Votes": 16073,
+                "majority": 3820
+            },
+            {
+                "Party": "PAS",
+                "Name": "HANIPA MAIDIN",
+                "Votes": 12253
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P95",
+        "SeatName": "TANJONG KARANG",
+        "info": {
+            "EligibleVoters": "35816",
+            "MalayVoters": "70",
+            "ChineseVoters": "18",
+            "IndianVoters": "13",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "704",
+            "Turnout": "27196",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK NOH OMAR",
+                "Votes": 17750,
+                "majority": 9008
+            },
+            {
+                "Party": "PAS",
+                "Name": "ABDUL GHANI SAMSUDIN",
+                "Votes": 8742
+            }
+        ]
+    }
+}

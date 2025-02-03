@@ -1,0 +1,238 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P170",
+        "SeatName": "TUARAN",
+        "info": {
+            "EligibleVoters": "83419",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "MADIUS TANGAU",
+                "Votes": 24943,
+                "NameBallot": "MADIUS TANGAU",
+                "majority": 233
+            },
+            {
+                "Party": "GRS",
+                "Name": "JONISTON BANGKUAI",
+                "Votes": 24710,
+                "NameBallot": "JONISTON BANGKUAI"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "JO-ANNA SUE HENLEY RAMPAS",
+                "Votes": 5728,
+                "NameBallot": "JO-ANNA SUE HENLEY RAMPAS"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "NOORTAIP BIN SUHAILI @ SUALEE",
+                "Votes": 2008,
+                "NameBallot": "NOORTAIP BIN SUHAILI @ SUALEE"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "MUMININ B. NORBINSHA",
+                "Votes": 445,
+                "NameBallot": "MUMININ B. NORBINSHA"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "BOBY BIN LEWAT",
+                "Votes": 393,
+                "NameBallot": "BOBY BIN LEWAT"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P170",
+        "SeatName": "TUARAN",
+        "info": {
+            "EligibleVoters": "54400",
+            "MalayVoters": "6",
+            "ChineseVoters": "6",
+            "IndianVoters": "0",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "87",
+            "Early": "54206",
+            "Postal": "192",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "WILFRED MADIUS TANGAU",
+                "Votes": 22494,
+                "NameBallot": "DATUK SERI PANGLIMA WILFRED MADIUS TANGAU",
+                "majority": 7624
+            },
+            {
+                "Party": "PKR",
+                "Name": "CHRINADIA SINAM",
+                "Votes": 14870,
+                "NameBallot": "CHRISNADIA  SINAM"
+            },
+            {
+                "Party": "PCS",
+                "Name": "KALAKAU @ KALAKAN BIN UNTOL @ ENTOL",
+                "Votes": 2611,
+                "NameBallot": "KALAKAU @ KALAKAN BIN UNTOL @ ENTOL"
+            },
+            {
+                "Party": "HARAPAN RAKYAT",
+                "Name": "SYRA PETER @ P GOM",
+                "Votes": 2311,
+                "NameBallot": "SYRA PETER @ P GOM"
+            },
+            {
+                "Party": "PAS",
+                "Name": "PAUMIN @ MOHD AMINUDDIN BIN ALING",
+                "Votes": 1357,
+                "NameBallot": "PAUMIN @ MOHD AMINUDDIN BIN ALING"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P170",
+        "SeatName": "TUARAN",
+        "info": {
+            "EligibleVoters": "48276",
+            "MalayVoters": "0",
+            "ChineseVoters": "6",
+            "IndianVoters": "0",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "44",
+            "BumiNonmuslimVoters": "50",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "795",
+            "Turnout": "40748",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "MADIUS BIN TANGAU",
+                "Votes": 20685,
+                "majority": 5190
+            },
+            {
+                "Party": "PKR",
+                "Name": "MOJILIP BIN BUMBURING @ WILFRED",
+                "Votes": 15495
+            },
+            {
+                "Party": "IND",
+                "Name": "ERVEANA ANSARI ALI",
+                "Votes": 2264
+            },
+            {
+                "Party": "STAR",
+                "Name": "SAMIN @ JASMIN BIN DULIN",
+                "Votes": 1509
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P170",
+        "SeatName": "TUARAN",
+        "info": {
+            "EligibleVoters": "40761",
+            "MalayVoters": "0",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "979",
+            "Turnout": "30563",
+            "Unreturned": "37"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "DATUK WILFRED BUMBURING",
+                "Votes": 17645,
+                "majority": 6622
+            },
+            {
+                "Party": "PKR",
+                "Name": "ANSARI ABDULLAH",
+                "Votes": 11023
+            },
+            {
+                "Party": "IND",
+                "Name": "AJIN @ HAZIN GAGAH",
+                "Votes": 879
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SB",
+        "ParliamentCode": "P170",
+        "SeatName": "TUARAN",
+        "info": {
+            "EligibleVoters": "39338",
+            "MalayVoters": "0",
+            "ChineseVoters": "8",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "44",
+            "BumiNonmuslimVoters": "49",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "981",
+            "Turnout": "27258",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UPKO",
+                "Name": "Wilfred Madius Tangau",
+                "Votes": 17722,
+                "majority": 9167
+            },
+            {
+                "Party": "PKR",
+                "Name": "Ansari Abdullah",
+                "Votes": 8555
+            }
+        ]
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P99",
+        "SeatName": "AMPANG",
+        "info": {
+            "EligibleVoters": "133494",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PH",
+                "Name": "RODZIAH ISMAIL",
+                "Votes": 56754,
+                "NameBallot": "RODZIAH ISMAIL",
+                "majority": 29681
+            },
+            {
+                "Party": "PN",
+                "Name": "SASHA LYNA",
+                "Votes": 27073,
+                "NameBallot": "SASHA LYNA"
+            },
+            {
+                "Party": "BN",
+                "Name": "IVONE LOW YI WEN",
+                "Votes": 11509,
+                "NameBallot": "IVONE LOW YI WEN"
+            },
+            {
+                "Party": "PBM",
+                "Name": "ZURAIDA BINTI KAMARUDDIN ",
+                "Votes": 4589,
+                "NameBallot": "ZURAIDA BINTI KAMARUDDIN "
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "DR. NURUL ASHIKIN",
+                "Votes": 2653,
+                "NameBallot": "DR. NURUL ASHIKIN"
+            },
+            {
+                "Party": "WARISAN",
+                "Name": "BRYAN LAI",
+                "Votes": 1423,
+                "NameBallot": "BRYAN LAI"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "MUHAMMAD SHAFIQ IZWAN BIN MOHD YUNOS",
+                "Votes": 188,
+                "NameBallot": "MUHAMMAD SHAFIQ IZWAN BIN MOHD YUNOS"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "M.RAVEEN",
+                "Votes": 148,
+                "NameBallot": "M.RAVEEN"
+            },
+            {
+                "Party": "BEBAS",
+                "Name": "TAN HUA MENG",
+                "Votes": 93,
+                "NameBallot": "TAN HUA MENG"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P99",
+        "SeatName": "AMPANG",
+        "info": {
+            "EligibleVoters": "91737",
+            "MalayVoters": "56",
+            "ChineseVoters": "35",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "22",
+            "Postal": "46",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ZURAIDAH BINTI KAMARUDDIN",
+                "Votes": 54307,
+                "NameBallot": "ZURAIDA KAMARUDDIN",
+                "majority": 41956
+            },
+            {
+                "Party": "MCA",
+                "Name": "LEONG KIM SOON",
+                "Votes": 12351,
+                "NameBallot": "LEONG KIM SOON"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NURUL ISLAM MOHAMED YUSOFF",
+                "Votes": 9598,
+                "NameBallot": "NURUL ISLAM BIN MOHAMED YUSOFF"
+            },
+            {
+                "Party": "PRM",
+                "Name": "TAN HUA MENG",
+                "Votes": 294,
+                "NameBallot": "TAN HUA MENG"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P99",
+        "SeatName": "AMPANG",
+        "info": {
+            "EligibleVoters": "83135",
+            "MalayVoters": "55",
+            "ChineseVoters": "34",
+            "IndianVoters": "10",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "738",
+            "Turnout": "71398",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ZURAIDA BINTI KAMARUDDIN",
+                "Votes": 41969,
+                "majority": 13278
+            },
+            {
+                "Party": "UMNO",
+                "Name": "ROZAIDAH BINTI TALIB",
+                "Votes": 28691
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P99",
+        "SeatName": "AMPANG",
+        "info": {
+            "EligibleVoters": "69132",
+            "MalayVoters": "56",
+            "ChineseVoters": "34",
+            "IndianVoters": "9",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "636",
+            "Turnout": "51097",
+            "Unreturned": "147"
+        },
+        "candidates": [
+            {
+                "Party": "PKR",
+                "Name": "ZURAIDA KAMARUDDIN",
+                "Votes": 26995,
+                "majority": 3676
+            },
+            {
+                "Party": "UMNO",
+                "Name": "AZMAN B WAHID",
+                "Votes": 23319
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "SL",
+        "ParliamentCode": "P99",
+        "SeatName": "AMPANG",
+        "info": {
+            "EligibleVoters": "66626",
+            "MalayVoters": "55",
+            "ChineseVoters": "35",
+            "IndianVoters": "10",
+            "OtherVoters": "1",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "710",
+            "Turnout": "47406",
+            "Unreturned": "73"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DR ROZAIDAH TALIB",
+                "Votes": 33214,
+                "majority": 19732
+            },
+            {
+                "Party": "PKR",
+                "Name": "DR A XAVIER JAYAKUMAR",
+                "Votes": 13482
+            }
+        ]
+    }
+}

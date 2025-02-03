@@ -1,0 +1,199 @@
+{
+    "2022-GE": {
+        "year": "2022",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P126",
+        "SeatName": "JELEBU",
+        "info": {
+            "EligibleVoters": "59561",
+            "MalayVoters": "0",
+            "ChineseVoters": "0",
+            "IndianVoters": "0",
+            "OtherVoters": "0",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "BN",
+                "Name": "JALALUDDIN BIN ALIAS",
+                "Votes": 21805,
+                "NameBallot": "JALALUDDIN BIN ALIAS",
+                "majority": 8125
+            },
+            {
+                "Party": "PH",
+                "Name": "DATO' ZULKEFLY OMAR",
+                "Votes": 13680,
+                "NameBallot": "DATO' ZULKEFLY OMAR"
+            },
+            {
+                "Party": "PN",
+                "Name": "ZAHARUDDIN BABA SAMION",
+                "Votes": 9596,
+                "NameBallot": "ZAHARUDDIN BABA SAMION"
+            },
+            {
+                "Party": "PEJUANG",
+                "Name": "AHMAD FAKHRI",
+                "Votes": 253,
+                "NameBallot": "AHMAD FAKHRI"
+            }
+        ]
+    },
+    "2018-GE": {
+        "year": "2018",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P126",
+        "SeatName": "JELEBU",
+        "info": {
+            "EligibleVoters": "48522",
+            "MalayVoters": "65",
+            "ChineseVoters": "24",
+            "IndianVoters": "6",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "1720",
+            "Postal": "4",
+            "Spoilt": "0",
+            "Turnout": "0",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "JALALUDDIN BIN ALIAS",
+                "Votes": 19062,
+                "NameBallot": "JALALUDDIN BIN ALIAS",
+                "majority": 2045
+            },
+            {
+                "Party": "AMANAH",
+                "Name": "MUSTAFAR BIN AB KADIR",
+                "Votes": 17017,
+                "NameBallot": "IR MUSTAFAR KADIR"
+            },
+            {
+                "Party": "PAS",
+                "Name": "NORMAN BIN IPIN",
+                "Votes": 2878,
+                "NameBallot": "NORMAN IPIN"
+            }
+        ]
+    },
+    "2013-GE": {
+        "year": "2013",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P126",
+        "SeatName": "JELEBU",
+        "info": {
+            "EligibleVoters": "44937",
+            "MalayVoters": "63",
+            "ChineseVoters": "26",
+            "IndianVoters": "6",
+            "OtherVoters": "5",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "756",
+            "Turnout": "37883",
+            "Unreturned": "0"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "ZAINUDIN BIN ISMAIL",
+                "Votes": 22114,
+                "majority": 7101
+            },
+            {
+                "Party": "PAS",
+                "Name": "RAJ MUNNI BINTI SABU",
+                "Votes": 15013
+            }
+        ]
+    },
+    "2008-GE": {
+        "year": "2008",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P126",
+        "SeatName": "JELEBU",
+        "info": {
+            "EligibleVoters": "38682",
+            "MalayVoters": "62",
+            "ChineseVoters": "28",
+            "IndianVoters": "7",
+            "OtherVoters": "3",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "769",
+            "Turnout": "29029",
+            "Unreturned": "396"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI DR RAIS YATIM",
+                "Votes": 19737,
+                "majority": 11610
+            },
+            {
+                "Party": "PAS",
+                "Name": "NORMAN IPIN",
+                "Votes": 8127
+            }
+        ]
+    },
+    "2004-GE": {
+        "year": "2004",
+        "type": "GE",
+        "State": "NS",
+        "ParliamentCode": "P126",
+        "SeatName": "JELEBU",
+        "info": {
+            "EligibleVoters": "37716",
+            "MalayVoters": "61",
+            "ChineseVoters": "30",
+            "IndianVoters": "7",
+            "OtherVoters": "2",
+            "BumiMuslimVoters": "0",
+            "BumiNonmuslimVoters": "0",
+            "SabahBumiVoters": "0",
+            "Early": "0",
+            "Postal": "0",
+            "Spoilt": "860",
+            "Turnout": "27380",
+            "Unreturned": "90"
+        },
+        "candidates": [
+            {
+                "Party": "UMNO",
+                "Name": "DATUK SERI DR RAIS YATIM",
+                "Votes": 20650,
+                "majority": 14780
+            },
+            {
+                "Party": "PAS",
+                "Name": "DR ROSLI YAAKOP",
+                "Votes": 5870
+            }
+        ]
+    }
+}
