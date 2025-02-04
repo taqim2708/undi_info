@@ -1,5 +1,7 @@
 import json
 import os
+from termcolor import colored
+from termcolor._types import Color
 
 """
 SPlit between East Malaysia and Peninsular Malaysia
@@ -63,7 +65,7 @@ def split_dict(d: dict[str, dict], arr1: list, arr2: list) -> tuple[dict, dict]:
     return d1, d2
 
 
-def get_total_voters_and_seats(directory: str) -> dict:
+def get_total_voters_and_seats(directory: str, ge: str = "2022-GE") -> dict:
     total_voters_and_seats = {}
 
     for filename in os.listdir(directory):
@@ -71,9 +73,9 @@ def get_total_voters_and_seats(directory: str) -> dict:
             file_path = os.path.join(directory, filename)
             with open(file_path, "r") as file:
                 data = json.load(file)
-                if "2022-GE" in data:
-                    state_code = data["2022-GE"]["State"]
-                    eligible_voters = int(data["2022-GE"]["info"]["EligibleVoters"])
+                if ge in data:
+                    state_code = data[ge]["State"]
+                    eligible_voters = int(data[ge]["info"]["EligibleVoters"])
                     if state_code not in total_voters_and_seats:
                         total_voters_and_seats[state_code] = {
                             "eligible_voters": 0,
@@ -155,8 +157,22 @@ print(f"Average Eligible Voters in East Malaysia: {avg_east_voters}")
 print(f"Average Eligible Voters in Peninsular Malaysia: {avg_peninsular_voters}")
 print("Highest and Lowest Voters:")
 print(get_highest_and_lowest_voters(directory))
-east, peninsular = split_dict(get_total_voters_and_seats(directory), EAST_MY, PENINSULAR_MY)
-print("East Malaysia:")
-print(adjust_seats(east))
-print("Peninsular Malaysia:")
-print(adjust_seats(peninsular))
+GEs = ["2004-GE", "2008-GE", "2013-GE", "2018-GE", "2022-GE"]
+for ge in GEs:
+    def print_adjusted_seats(adjusted_seats: dict[str, int]) -> None:
+        for state, adjustment in adjusted_seats.items():
+            color: Color = "yellow"
+            if adjustment > 2:
+                color = "green"
+            elif adjustment < -2:
+                color = "red"
+            elif adjustment <= 1 or adjustment >= -1:
+                color = "white"
+            print(f"{state}: {colored(adjustment, color)}")
+
+    print(f"GE: {ge}")
+    east, peninsular = split_dict(get_total_voters_and_seats(directory, ge), EAST_MY, PENINSULAR_MY)
+    print("East Malaysia:")
+    print_adjusted_seats(adjust_seats(east))
+    print("Peninsular Malaysia:")
+    print_adjusted_seats(adjust_seats(peninsular))
